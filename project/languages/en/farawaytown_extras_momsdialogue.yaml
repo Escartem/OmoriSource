@@ -1,0 +1,150 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MOM'S VOICEMAIL
+
+                  #Examine phone
+message_0:
+      text: \"Hey \n[8], it's MOMMY.\! I'm still in the city setting things up for our new home.\! Did you finish packing yet?\"\n<MOM'S VOICEMAIL>
+
+message_1:
+      text: \"The movers are going to be at our house in a few days, so I left a list of things for you to do before they arrive.\"\n<MOM'S VOICEMAIL>
+
+message_2:
+      text: \"Also, sorry!\! MOMMY messed up!\"\n<MOM'S VOICEMAIL>
+
+message_3:
+      text: \"I forgot to tell the electric company that we need a few extra days before we're ready to move, so the lights might cut out sometime tonight.\"\n<MOM'S VOICEMAIL>
+
+message_4:
+      text: \"Anyway...\! I know moving to a new place can be a little nerve-wracking right now, but I think a change of scenery will be positive for both of us!\"\n<MOM'S VOICEMAIL>
+
+message_5:
+      text: \"I know you haven't talked to anyone in a while, but you might want to say goodbye to your old friends before we leave.\"\n<MOM'S VOICEMAIL>
+
+message_6:
+      text: \"KEL has been trying really hard to get a hold of you ever since we put our house up for sale.\! He's been calling us every week for the past few months!\"\n<MOM'S VOICEMAIL>
+
+message_7:
+      text: \"He seems a little lonely...\! Maybe you should pay him a visit.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\! \quake[1]\}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: You are hungry.
+
+message_9:
+      text: You suddenly feel very AFRAID.
+
+#Examine Fridge
+
+message_10:
+      text: You look in the fridge...\! and find \c[4]COLD STEAK\c[0].\! Take it?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: You got \c[4]COLD STEAK\c[0].\!<br>You should probably heat it up before you eat it.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: You put the \c[4]COLD STEAK\c[0] in the microwave.
+
+                #Examine Steak Knife
+message_13:
+      text: You pick up the \c[13]STEAK KNIFE\c[0].
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: The \c[4]MICROWAVED STEAK\c[0] is ready.
+
+                # Examine BED
+
+message_15:
+      text: A very, very comfortable bed.\!<br>Would you like to go to sleep?
+
+
+# =========================================================================================
+# MOM'S STICKY NOTEs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: There is a sticky note on the mirror.
+
+message_21:
+      text: There is a sticky note on the wall.
+
+#First line always
+
+message_22:
+      text: \"Hi, \n[8]! This is a note from MOMMY.\"\n<MOM'S STICKY NOTE>
+
+#Bathroom mirror
+
+message_23:
+      text: \"Remember to brush your teeth every day!\"\n<MOM'S STICKY NOTE>
+
+#Living Room
+
+message_24:
+      text: \"If you leave the house, remember to look both ways before crossing the street!\"\n<MOM'S STICKY NOTE>
+
+#Bedroom
+
+message_25:
+      text: \"I left some food in the fridge for you downstairs.<br>It's \c[4]STEAK\c[0]... your favorite!\"\n<MOM'S STICKY NOTE>
+
+#last Line always
+
+message_29:
+      text: \"Love you, XOXO.\"\n<MOM'S STICKY NOTE>
+
+
+#Day 1:
+
+message_50:
+      text: \"Hey \n[8], it's MOMMY.\!<br>How are you doing?\! Are you eating well?\"\n<MOM'S VOICEMAIL>
+
+message_51:
+      text: \"I was hoping that I could make it back to see you today, but it's the last day of a big furniture sale and I just can't resist a good bargain!\"<br>\"You can take care of yourself for a few days, right?\!<br>After all, you're a big boy now!\"\n<MOM'S VOICEMAIL>
+
+message_52:
+      text: \"Remember to finish your chores before I get back.\! I left a list on the table next to your door.\! Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 2:
+
+message_55:
+      text: \"Hey \n[8], it's MOMMY.\! Are you doing okay?\! You haven't been answering my calls or responding to my voicemails!\! If you keep ignoring me, I'll start to get worried again!\"\n<MOM'S VOICEMAIL>
+
+message_56:
+      text: \"I hope you're pacing your chores...\! I don't think even I could finish everything in one day!\"\n<MOM'S VOICEMAIL>
+
+message_57:
+      text: \"Did you end up visiting KEL?\! If not, it's alright... I understand.\! Just take things at your own pace...\"\n<MOM'S VOICEMAIL>
+
+message_58:
+      text: \"By the way, can you check the closet downstairs and see if there's anything you want to keep?\! We'll probably just throw away whatever you don't want anymore.\"\n<MOM'S VOICEMAIL>
+
+message_59:
+      text: \"There's only two days left before I come pick you up.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 3:
+
+message_60:
+      text: \"Hey \n[8], it's MOMMY.\! Tomorrow is the big day!\!<br>The movers will be here first thing tomorrow morning.\! I gave them the keys so don't freak out if you see them."\n<MOM'S VOICEMAIL>
+
+message_61:
+      text: \"Remember to finish organizing your things today.\! I'll be picking you up in my car out front.\! Just come outside when you're ready.\"\n<MOM'S VOICEMAIL>
+
+message_62:
+      text: \"Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 4:
+message_66:
+      text: \"Hey \n[8], it's MOMMY.\! I'm waiting for you outside, so just come out when you're ready.\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>

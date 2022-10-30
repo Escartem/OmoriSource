@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Sidequest: Missing Shears
+# =========================================================================================
+
+#Talk to Kim's Mom: Optional
+message_1:
+      text: \n<RED-GLASSES LADY>Let me tell you a story...\! I was walking back from \c[11]FIX-IT\c[0] after making a purchase with my hard-earned money...
+
+message_2:
+      text: \n<RED-GLASSES LADY>When I look down...\! and lo and behold...
+
+message_3:
+      text: \n<RED-GLASSES LADY>My brand new \c[4]GARDEN SHEARS\c[0] are missing!\! Yes, it's true...\!<br>My new \c[4]GARDEN SHEARS\c[0] tore a hole open in my plastic bag!
+
+message_4:
+      text: \n<RED-GLASSES LADY>\Com[2]Oh, how silly I felt just then!
+
+message_5:
+      text: \n<RED-GLASSES LADY>Do you think you could help me find them?\!<br>They should be somewhere around here.
+
+#Examine Gardening Shears
+
+message_6:
+      text: You found \c[4]GARDEN SHEARS\c[0].
+
+#Talk to Kim's Mom with Gardening SHEARS
+
+message_7:
+      text: \n<RED-GLASSES LADY>Ah, thank you, boys!\! I'll be sure to never make such a silly mistake ever again.\! It's rare to see young boys willing to help a stranger these days.
+
+message_8:
+      text: \n<RED-GLASSES LADY>Please feel free to come to my house any time!\!<br>You will always be welcome.
+
+#Examine KIM's House Door at Sunset/Cutscene: Get out of here!
+
+message_9:
+      text: \n<RED-GLASSES LADY>Oh, hello! Now there's two faces I'll never forget.\! You two are the kids who helped me find my \c[4]GARDEN SHEARS\c[0]!
+
+message_10:
+      text: \n<RED-GLASSES LADY>I'm having dinner with my children right now.\!<br>Would you care to join us?
+
+message_11:
+      text: \kim\Com[2]W-What the heck!?\! \Com[2]Is that KEL and \n[8] at the door!?\! \Com[2]Why are you two standing in front of my house!?!?
+
+message_12:
+      text: \kim\{\Com[2]GET OUT OF HERE, NERDS!!
+
+message_13:
+      text: \n<RED-GLASSES LADY>KIM! What has gotten into you, sweetie-pie?
+
+message_14:
+      text: \n<RED-GLASSES LADY>Sorry, boys.\!<br>Perhaps you can join us for dinner at another time.
+
+#Door slams
+
+message_20:
+      text: You gave \c[4]GARDEN SHEARS\c[0] to RED-GLASSES LADY.

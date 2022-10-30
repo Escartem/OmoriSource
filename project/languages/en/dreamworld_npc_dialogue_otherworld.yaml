@@ -1,0 +1,529 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============OTHERWORLD========================================
+
+                        #====NIGHT 1-2====
+
+#Colony Mole 1
+#Location: Sprout mole Colony
+message_0:
+      text: \n<COLONY MOLE>Many SPROUT MOLES used to inhabit this place...\! but a lot of them moved away to merge with a bigger colony somewhere in a big forest.
+
+message_1:
+      text: \n<COLONY MOLE>It was a risky move, so some of us stayed behind...
+
+message_2:
+      text: \n<COLONY MOLE>My brother left with the rest of the SPROUT MOLES...\!<br>Do you think he still remembers me?
+
+#Colony Mole 2
+#Location: Sprout mole Colony
+message_3:
+      text: \n<COLONY MOLE>Greetings, traveler. Welcome to my home! \!<br>It is humble and small but it is mine.
+
+#Colony Mole 3
+#Location: Sprout mole Colony
+message_4:
+      text: \n<COLONY MOLE>We SPROUT MOLES are highly intelligent creatures!
+
+#CREEPY CAT
+#Location: Old Barn
+message_5:
+      text: \n<CREEPY CAT>Meow... \!\SINV[2]Meow?\SINV[0] \!\SINV[1]Meow...\SINV[0]\! \QUAKE[1]Meeeeeeeeowwwwww...\QUAKE[0]
+
+#DUCKIE JR
+#Location: Outskirts
+#Ref: sidequests_dreamworld_duckjr
+
+#Ferris
+message_6:
+      text: \n<FERRIS>This place used to be a pristine wildlife preserve, but due to a recent boom in tourism it's starting to accumulate a lot of trash...
+
+message_7:
+      text: \n<FERRIS>Pick up your trash, people! It's not that hard!
+
+#Laramie
+message_8:
+      text: \n<LARAMIE>A band of SPACE PIRATES has been camping out here for a long time now...
+
+message_9:
+      text: \n<LARAMIE>I hear that the CAPTAIN suddenly decided he wasn't going to travel anymore, so half of the crew took his ship and left!
+
+#LONE Mole
+message_10:
+      text: \n<LONE MOLE>\Com[2]\{HEY, WHAT'S THE BIG IDEA!?!?\}
+
+message_11:
+      text: \n<LONE MOLE>I went through all this trouble to isolate myself from society, and then you show up and ruin everything!
+
+message_12:
+      text: \n<LONE MOLE>\Com[2]\{YOU BETTER FIX THIS RIGHT NOW!!\}
+
+message_13:
+      text: You helped the SPROUT MOLE reassemble all the traffic cones.
+
+#Mr DUCKIE
+#Mrs DUCKIE
+#Ref: sidequests_dreamworld_duckjr
+
+#PO
+message_14:
+      text: \n<PO>Watching the stars at night makes everything else in the world seem so small.
+
+#Talk with Kel as leader
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWow, Miss. You sure are tall...
+
+message_16:
+      text: \n<PO>Thank you, young one!\! It's more of a hassle most of the time, but at least I get a better view of the stars.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWhat!? Being tall isn't a hassle!\!<br>Everything is better when you're tall.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelOne day, I'm going to be as tall as you!
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubYeah sure, \n[3]. Keep dreaming...
+
+#Recycline Machine
+#sidequest_dreamworld_recycle
+
+#Scarecrow
+#Scarecrow friend 1,2,3
+#sidequest_dreamworld_crowfriends
+
+#JJ
+message_20:
+      text: Turn on the boombox?
+
+message_21:
+      text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
+
+message_22:
+      text: Turn off the boombox?
+
+message_23:
+      text: \n<JOCK JAMS>...
+
+#SMOL
+
+message_24:
+      text: \smoI'm SMOL, the world's smallest centaur. \!<br>Look at all of my awards!
+
+message_25:
+      text: There's a bunch of sticks scattered all around the house.
+
+message_26:
+      text: A horse-shaped trophy.\!<br>\"MOST HORSE - 2ND PLACE\".
+
+message_27:
+      text: A certificate.\!<br>\"TINIEST CENTAUR - 1ST PLACE\".
+
+message_28:
+      text: A long trophy.\!<br>\"SMALLEST CENTAUR - 1ST PLACE\".
+
+message_29:
+      text: A short trophy.\!<br>\"LITTLEST CENTAUR - 1ST PLACE\".
+
+#PESSI
+
+message_31:
+      text: \pesHi! I'm PESSI, and as you probably noticed...\!<br>\Com[2]\{I LOVE SWEETHEART!\}
+
+message_32:
+      text: \pesI got every piece of merchandise she's ever released...\!<br>I got SWEETHEART posters, figures, stickers, shirts, her entire discography, and anything else you can think of!
+
+message_33:
+      text: \pesI am certain you won't find a more thorough collection anywhere else in the world!
+
+message_34:
+      text: \pesCalling me a super fan is an understatement...\!<br>I am the \QUAKE[1]ultimate\QUAKE[0] fan.
+
+message_35:
+      text: \pesLet me tell you about the time I almost met SWEETHEART.\!<br>We just happened to be eating at the same restaurant...\!<br>It was fate, I think.
+
+message_36:
+      text: \pesWe ordered the same meal too!\! Not like I totally saw what she ordered and copied her or anything.
+
+message_37:
+      text: \pesI even tried to pay for her meal, but I had just bought a newly released SWEETHEART life-size statue the day earlier and couldn't afford to...
+
+message_38:
+      text: \pesWhich I guess ended up being a good thing since that girl turned out to be some regular girl wearing a costume that kind of looked like SWEETHEART's anyway!
+
+message_39:
+      text: \pesNot like I couldn't tell in the first place.\! Only a poser fan would ever mistake a regular person for SWEETHEART!
+
+message_40:
+      text: \pesHey, watch it!\! that's my home-grown PINK STAR flower...\! SWEETHEART's favorite, of course!
+
+message_41:
+      text: \pesWhen not grown in a controlled area, it spreads like wildfire and is impossible to stop since they can grow on top of almost any surface.
+
+message_42:
+      text: At first glance, this seems like a really obnoxious person...\!<br>But it's just a statue.
+
+#SNAKE
+message_43:
+      text: \n<SNAKE>\SINV[1]Ssssssssssssssss!\SINV[0]\! (What a thrill!)
+
+#SNALEY
+message_44:
+      text: \n<SNALEY>Oh, goodness! \!Am I in your way?\!<br>I'm so sorry.\! I'll move over.
+
+message_45:
+      text: \n<SNALEY>Oh, whoops!\! I seem to be in your way.\!<br>Goodness, I'm so sorry.\! I'll move over.
+
+#TV Girl
+#Coffee Machine quest
+
+#Veggie Kid (Eggplant)
+#Outskirts
+
+message_50:
+      text: \n<VEGGIE KID>We're on an adventure!
+
+#Veggie Kid (Onion)
+#Outskirts
+
+message_51:
+      text: \n<VEGGIE KID>We're adventurers!
+
+#Veggie Kid (Potato)
+#Outskirts
+
+message_52:
+      text: \n<VEGGIE KID>We're gonna explore!
+
+#Veggie Kid (Tomato)
+#Outskirts
+
+message_53:
+      text: \n<VEGGIE KID>We're explorers!
+
+#Space Pirate ACE
+#Location: Space boyfriends House
+
+message_54:
+      text: \n<SPACE PIRATE ACE>CAPT. SPACEB-\! I mean, SPACE BOYFRIEND hasn't left his bed since...\! \QUAKE[1]she...\QUAKE[0] \!stopped coming around...
+#Location: Frozen Lake
+
+message_55:
+      text: \n<SPACE PIRATE ACE>What you did back there was really brave.\! I would never challenge the CAPTAIN like that... \!You would all make seriously awesome SPACE PIRATES.
+
+#Space Pirate AMIGO
+#Location: Space boyfriends House
+
+message_56:
+      text: \n<SPACE PIRATE AMIGO>\SINV[1]Zzzzzzzzz...\SINV[0]
+
+#Space Pirate BRO
+#Location: Space boyfriends House
+
+message_57:
+      text: \n<SPACE PIRATE BRO>SPACE BOYFRIEND...\!<br>What can we do for you, bro?<br>\!Why won't you leave your bed?
+
+#Location: Frozen Lake
+
+message_58:
+      text: \n<SPACE PIRATE BRO>Bro...\! These \c[3]SNO-CONES\c[0]...\! are really good.
+
+#Space Pirate BUDDY
+#Location: Space boyfriends backyard
+
+message_59:
+      text: \n<SPACE PIRATE BUDDY>Buddy...\! It sucks that you had to come at a time like this...
+
+#Location: Frozen Lake
+
+message_60:
+      text: \n<SPACE PIRATE BUDDY>It's so nice to have the CAPTAIN back!\! Yeah, buddy!
+
+
+#Space Pirate CHIEF
+#Location: Campsite
+
+message_61:
+      text: \n<SPACE PIRATE CHIEF>Squak!\! Things have been so boring around here ever since CAPT. SPACEB- I mean, SPACE BOYFRIEND, took charge of the SPACE PIRATES...
+
+message_62:
+      text: \n<SPACE PIRATE CHIEF>I mean...\! look at what SPACE BOYFRIEND's done with the old CAPTAIN's ship!\! CAPT. PINKBEARD would never approve of this!
+
+#Location: Campsite
+
+message_64:
+      text: \n<SPACE PIRATE CHIEF>Squak!\! CAPT. SPACEBOY is back to normal!?\!<br>I gotta let CAPT. PINKBEARD know right away!
+#SPACE PIRATE CHIEF flies away and becomes N/A
+
+#Space Pirate DUDE
+#Location: Space boyfriends backyard (Solar System)
+
+message_65:
+      text: \n<SPACE PIRATE DUDE>Ahoy, dude!\! This is where SPACE BOYFRIEND had his prized planet PLUTO... but it is missing!
+
+#Location: Frozen Lake
+
+message_66:
+      text: \n<SPACE PIRATE DUDE>Dude... I can't believe the CAPTAIN paid for all of our \c[3]SNO-CONES\c[0]... \!Sniff...\! I'm so emotional right now.
+
+#Space Pirate GUY
+#Location: Campsite
+
+message_67:
+      text: \n<SPACE PIRATE GUY>Ahoy, my guy!\! We work for SPACE BOYFRIEND.\! I miss the good ol' pirate times!
+
+#Location: Frozen Lake
+
+message_68:
+      text: \n<SPACE PIRATE GUY>Ahoy, my guy!\! Here to have \c[3]SNO-CONES\c[0] with us?
+
+#CHIEF AFTER SBF IS BACK HOME WITH dad
+
+message_69:
+      text: \n<SPACE PIRATE CHIEF>So the prodigal son has returned...\! Hmph!\! We'll see how long this lasts...
+
+#Space Pirate MATE
+#Location: Space Boyfriend's House
+
+message_80:
+      text: \n<SPACE PIRATE MATE>All I hear lately are the rest of the crew complaining about being bored.\! Am I the only one who kind of enjoys cleaning around here?
+
+#Location: Space Boyfriend's House
+
+message_81:
+      text: \n<SPACE PIRATE MATE>CAPT. SPACEBOY is feeling like himself again?\! That's great news, mate!\! When the crew goes off to travel again, I'll stay here and man the fort.\! Someone has to do it, right?
+
+#Space Pirate PAL
+#Location: Space Boyfriend's House
+
+message_82:
+      text: \n<SPACE PIRATE PAL>Things are a little tough now, but I don't care what anyone says, pal...\! I believe in the CAPTAIN!
+#Location: Frozen Lake
+
+message_83:
+      text: \n<SPACE PIRATE PAL>My \c[3]SNO-CONE\c[0] tastes like nothing!
+
+                        #====NIGHT 2====
+
+#Colony Mole 1 same as night 1-2
+#Colony Mole 2 same as night 1-2
+#Colony Mole 3 same as night 1-2
+#Creepy Cat same as night 1-2
+#Duckie Jr same as night 1-2
+#Ferris same as night 1-2
+#JJ same as night 1-2
+#LARAMIE
+message_88:
+      text: \n<LARAMIE>I heard the SPACE PIRATES are traveling again! <br>Good for them!\! Hmm...\! I wonder...\! what makes them pirates anyway?\! Do they even steal anything?
+#Lone Mole N/A
+#Duckies same as night 1-2
+#Pessi same as night 1-2
+#Pluto N/A
+#PO same as night 1-2
+#Recycle Machine same as night 1-2
+#Scarecrow same as night 1-2
+#Scarecrow Friend 1,2,3 same as night 1-2
+#SMOL same as night 1-2
+#SNAKE same as night 1-2
+#SNALEY N/A
+#SPACE BOYFRIEND N/A
+#TVGIRL
+message_89:
+      text: \n<TV GIRL>Dang...\! All they've been showing lately is re-runs...\!<br>When is something new going to show up?
+
+#VEGGIE KIDS N/A
+#Space Pirate ACE N/A
+#Space Pirate AMIGO N/A
+#Space Pirate BRO N/A
+#Space Pirate BUDDY
+message_90:
+      text: \n<SPACE PIRATE BUDDY>\SINV[1]PLUTO...\! Come out, come out, wherever you are!\SINV[0]
+
+#Space Pirate CHIEF N/A
+#Space Pirate DUDE
+message_91:
+      text: \n<SPACE PIRATE DUDE>CAPT. SPACEBOY and some of the pirates went off somewhere with great urgency...
+
+message_92:
+      text: \n<SPACE PIRATE DUDE>But me and my dude here decided to look for CAPT. SPACEBOY's lost planet, PLUTO...\!<br>Hmm...\! Where could he be?
+
+#Space Pirate GUY
+#Space Pirate MATE
+message_93:
+      text: \n<SPACE PIRATE MATE>You just missed it, mate! Everyone just left on CAPT. SPACEBOY's brand new ship!\! I'm happy to say that CAPT. SPACEBOY and the SPACE PIRATES are back in full force!
+
+message_94:
+      text: \n<SPACE PIRATE MATE>I hope everyone's having a blast!
+
+#Space Pirate PAL
+message_95:
+      text: \n<SPACE PIRATE PAL>The CAPTAIN asked me to stay behind to watch his old ship.\! He's so cool when he's giving me orders!
+
+
+                        #====NIGHT 3====
+
+#Colony Mole 1: Same as Night 1-2
+#Colony Mole 2: Same as Night 1-2
+#Colony Mole 3: Same as Night 1-2
+#Creepy Cat: Show Creepy Cat Picture
+#Duckies: Same as Night 1-2
+#Ferris: Same as Night 1-2
+#JJ: Same as Night 1-2
+#LARAMIE
+message_100:
+      text: \n<LARAMIE>I heard that the CAPTAIN of the SPACE PIRATES dropped off the face of \c[11]OTHERWORLD\c[0]...
+
+message_101:
+      text: \n<LARAMIE>The SPACE PIRATES must be in a panic again!\! There's always something new with them, isn't there?
+
+#LONE Mole
+#Location: Forgotten Pier
+message_102:
+      text: \n<LONE MOLE>I'm all alone!\! I love it here!
+
+#PESSI: Sprout Mole Village - Stolen quest (Incomplete)
+#Pluto: N/A
+#PO: Same as Night 1-2
+#Recycle: Same as Night 1-2
+#Scarecrow: Same as Night 1-2
+#Scarecrow Friend 1,2,3 same as Night 1-2
+#Smol: Same as Night 1-2
+#Snake: Same as Night 1-2
+#Snaley: Location: N/A
+#Space BF: Frozen Forest quest
+#TV Girl: Same as Night 2
+#Veggie kids: N/A
+#Space pirate ACE
+#Space Pirate Amigo: Last Resort: Same as Night 1-2
+#Space Pirate Bro: Location Last Resort
+message_105:
+      text: \n<SPACE PIRATE BRO>After SWEETHEART left, CAPT. SPACEB-, I mean...\! SPACE HUSBAND ran off and disappeared...
+
+message_106:
+      text: \n<SPACE PIRATE BRO>We have a search party out there looking for him, but there's no signs of him anywhere!\! Where could he have gone?
+
+#Space pirate BUDDY
+#Location: Orange Oasis
+message_107:
+      text: \n<SPACE PIRATE BUDDY>\SINV[1]Oh, PLUTO...\! PLUTO...\! Where are you?\!\SINV[0]<br>Sigh...\! This place is so big.\!<br>How are we ever supposed to find him?
+
+#Space Pirate CHIEF
+#Location: Last Resort
+message_108:
+      text: \n<SPACE PIRATE CHIEF>Bwark!\! This place is the dumps!
+
+#Space pirate DUDE
+#Location: Orange Oasis
+message_109:
+      text: \n<SPACE PIRATE DUDE>Sigh...\! I'm starting to miss the crew, dude...
+
+message_110:
+      text: \n<SPACE PIRATE GUY>Huff...\! Huff...\! CAPTAIN...\! my guy...\!<br>Even after everything...\! I still believe in you!
+
+message_111:
+      text: \n<SPACE PIRATE MATE>Ahoy, matey!\! I'm happy to say that CAPT. SPACEBOY and the SPACE PIRATES are back in full force!\! I hope everyone's having a blast!
+
+#SPACE PIRATE PAL: Same as Night 2
+
+                        #====NIGHT 4====
+
+message_130:
+      text: \n<LARAMIE>I heard that CAPT. SPACEBOY's father, PINKBEARD came back after he heard that CAPT. SPACEBOY disappeared!\!<br>Oh, the drama!\! Could it get any more juicy?
+
+#Lone Mole: N/A
+#ESSI: Slime Girl's Lair
+
+message_140:
+      text: \n<SPACE PIRATE ACE>Yay!\! The CAPTAIN's back...\! again...\! but for how long?
+
+message_141:
+      text: \n<SPACE PIRATE AMIGO>If you can get through feeling your pain...\! you can get through healing your pain.
+
+#Location: Lost Forest
+message_142:
+      text: \n<SPACE PIRATE BUDDY>Hey, buddy...\!<br>I don't think PLUTO would be somewhere like this.
+
+message_143:
+      text: \n<SPACE PIRATE DUDE>I think we're lost, dude...\!<br>We must be a long way from home.
+
+message_144:
+      text: \n<SPACE PIRATE BRO>Sniff...\! I knew the CAPTAIN would come back...\! Welcome home, CAPTAIN.
+
+message_145:
+      text: \n<SPACE PIRATE ACE>Sniff...\! The CAPTAIN ran away...\! again...
+
+#========================== Message in a bottle ========================
+
+message_160:
+      text: It's a message in a bottle!
+
+message_161:
+      text: It reads...<br>"Fill in the blank."
+
+message_162:
+      text: "When the Moon hits your eye like a big pizza pie,<br>that's ________."
+
+message_163:
+      text: How would you like to respond?
+
+message_164:
+      text: You write your answer and throw the bottle into the lake.
+
+message_165:
+      text: OMORI
+
+message_166:
+      text: AUBREY
+
+message_167:
+      text: KEL
+
+message_168:
+      text: HERO
+
+
+#-----
+
+message_170:
+      text: The SPACE PIRATES are ahoying away.
+
+
+#----
+
+message_200:
+      text: \n<CONSTRUCTION MOLE>After SWEETHEART aired her final episode, some SPROUT MOLES are starting to move back to the colonies.
+
+message_201:
+      text: \n<CONSTRUCTION MOLE>This is prime real estate!
+
+message_202:
+      text: \n<NEW COLONY MOLE>Many were lost in the second great move...\! but sacrifices must be made for progress!
+
+message_203:
+      text: \n<NEW COLONY MOLE>It's much roomier here than back in \c[11]SPROUT MOLE VILLAGE\c[0].\! Maybe even \sinv[1]too\sinv[0] roomy.
+
+message_204:
+      text: \n<BIG MOLIO>Bless you.
+
+message_205:
+      text: \n<NEW COLONY MOLE>I don't know how I feel about having a roommate...\!<br>I hope they will wash my dishes for me.
+
+message_206:
+      text: \n<CONSTRUCTION MOLE>Building towards a brighter future...\! That's the SPROUT MOLE way!
+
+message_207:
+      text: \n<NEW COLONY MOLE>I don't know how I feel about having a roommate...\!<br>I hope they will fold the laundry for me.
+
+message_208:
+      text: \n<NEW COLONY MOLE>I don't know how I feel about having a roommate...\!<br>I hope they will buy my groceries for me.

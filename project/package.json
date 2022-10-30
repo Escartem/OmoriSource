@@ -1,0 +1,14 @@
+{
+    "name": "OMORI",
+    "main": "index.html",
+    "js-flags": "--expose-gc ",
+    "chromium-args": "--limit-fps=60 --in-process-gpu --disable-direct-composition --enable-gpu-rasterization --enable-gpu-memory-buffer-video-frames --enable-native-gpu-memory-buffers --enable-zero-copy --enable-gpu-async-worker-context",
+    "window": {
+        "title": "OMORI",
+        "toolbar": false,
+        "width": 640,
+        "height": 480,
+        "icon": "icon/icon.png",
+        "resizable": true
+    }
+}

@@ -1,0 +1,79 @@
+
+
+# =========================================================================================
+# Sidequest: Anniversary Pizza
+# =========================================================================================
+
+#Talk to Sarahs mom in anniversary day
+
+message_1:
+      text: \n<PONYTAIL LADY>Today is the wedding anniversary for my husband and me, but he hasn't mentioned it all day...\! I wonder if he'd forgotten...
+
+message_2:
+      text: \n<PONYTAIL LADY>Sigh...\! Maybe I've been too tough on him lately.\! He has been gaining some weight recently, and I've been really nagging him about that.
+
+message_3:
+      text: \n<PONYTAIL LADY>I've been trying to put him on a diet, but I'm afraid that he's taking it too personally...\! I just want him to take care of himself better!
+
+message_4:
+      text: \n<PONYTAIL LADY>You understand, don't you?
+
+# [yes / no]
+
+# [if yes]
+message_5:
+      text: \n<PONYTAIL LADY>Thanks...\! You know, maybe tonight can be an exception!\!<br>We're celebrating 15 years of our marriage, after all!
+
+message_6:
+      text: \n<PONYTAIL LADY>He's always raving about \c[11]GINO'S PIZZA\c[0] and how good it is...\! I'm thinking about buying a \c[3]WHOLE PIZZA\c[0] for us to share as a family.\! What do you think?
+
+#[yes / no]
+
+#if yes a 2nd time
+
+message_7:
+      text: \n<PONYTAIL LADY>\com[2]Yes! It's okay to eat oily foods once in a while!\!<br>Everything in moderation!
+
+#SARAH'S MOM walks to PIZZA MAN at Ginos
+
+message_8:
+      text: \n<PONYTAIL LADY>I'll have one \c[3]WHOLE PIZZA\c[0], please!
+
+message_20:
+      text: \n<PIZZA MAN>Coming right up!
+
+message_21:
+      text: \n<PIZZA MAN>Here you go! Please enjoy this delicious \c[3]WHOLE PIZZA\c[0]!\! Mmm...
+
+message_25:
+      text: \n<PONYTAIL LADY>Thank you!
+
+message_26:
+      text: \n<PONYTAIL LADY>And thank you for your suggestion!\! I'm sure my husband will love this!
+
+# [if no choice is picked]
+
+message_9:
+      text: \n<PONYTAIL LADY>Oh, I see...
+
+# =========================================================================================
+#Talk to Sarah's Dad after annivery PIZZA
+# =========================================================================================
+
+message_10:
+      text: \n<CLUMSY GUY>Phew... It looks like everything worked out somehow...
+
+message_11:
+      text: \n<CLUMSY GUY>Sniff... My wife is so thoughtful...\!<br>I'm so lucky to have her.
+
+message_12:
+      text: \n<CLUMSY GUY>She even got me my favorite thing ever...\!<br>I mean...\! other than her, of course...
+
+message_13:
+      text: \n<CLUMSY GUY>\Com[2]It's a \c[3]WHOLE PIZZA\c[0] from \c[11]GINO'S PIZZA\c[0]!
+
+message_14:
+      text: \n<CLUMSY GUY>You know what?\! I'm so happy with how this day turned out...\! Have a \c[3]PIZZA SLICE\c[0]!
+
+message_15:
+      text: \n<CLUMSY GUY>You really helped me out back there.\!<br>Call me if you ever need help with anything. I owe you one!

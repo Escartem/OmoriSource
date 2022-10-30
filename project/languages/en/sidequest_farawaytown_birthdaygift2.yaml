@@ -1,0 +1,241 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 2
+# =========================================================================================
+
+#Talking to Jesse
+message_0:
+      text: You can hear loud music blasting through <br>HEADPHONE KID's headphones.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelPoke...
+
+message_2:
+      text: \n<HEADPHONES KID>\Com[2]Gah!\! Who are you!?\! What do you want?
+
+message_3:
+      text: \n<HEADPHONES KID>...
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelOh...\! Hey!\! JESSE, was it?\!<br>We're...\! uh...\! We're friends of your dad...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelHe asked us to call you down to the living room for cake!
+
+message_6:
+      text: \n<HEADPHONES KID>Dad is friends with a bunch of teenagers?\! So weird...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelWhat's with the sour face? Isn't it your birthday today?\!<br>Why don't you come down to celebrate?\!<br>Your dad even got you a cool present!
+
+message_8:
+      text: \n<HEADPHONES KID>\quake[1]Grrrrrrrrrr...\quake[0]\!<br>\Com[2]I told Dad not to do anything for me!
+
+message_9:
+      text: \n<HEADPHONES KID>\Com[2]Just tell him to return everything and get out of my room!
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelHey! I don't think I like your attitude...\!<br>\Com[2]What do you have against your dad!?
+
+message_11:
+      text: \n<HEADPHONES KID>...
+
+message_12:
+      text: \n<HEADPHONES KID>Sigh...\! You see all this cool stuff I have here?
+
+message_13:
+      text: \n<HEADPHONES KID>I...\! I got all this stuff from Mom.
+
+message_14:
+      text: \n<HEADPHONES KID>Mom doesn't live here anymore, but she sends me stuff like this all the time...
+
+message_15:
+      text: \n<HEADPHONES KID>But Dad...\! Dad isn't up to date with the trends...\! <br>Whatever he gets won't be as good as what I already have.\! So...\! whatever he gets is just a waste of his money...
+
+message_16:
+      text: \n<HEADPHONES KID>So even if it's my birthday...\!<br>\Com[2]He doesn't need to get anything for me!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelBut... he's doing all this for you because he wants to!\!<br>You should go down and celebrate.\!<br>It'll mean more to him than you know!
+
+message_18:
+      text: \n<HEADPHONES KID>But...\! I...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 23 #insert number here
+      text: \kel\Com[2]Just go!
+
+#KEL SHAKES CHAIR
+
+message_20:
+      text: \n<HEADPHONES KID>\Com[2]Hey! What are you doing!?
+
+#JESSE gets off the chair
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelYou're being like this because you care about him, right!?\!<br>He's doing all this because he cares about you, too!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 22 #insert number here
+      text: \kelIf you're going to be leaving him hanging, then he at least deserves an explanation!
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelNow go to the living room and talk to him!\!<br>I won't let you sit in this chair until you do!
+
+message_24:
+      text: \n<HEADPHONES KID>...
+
+message_25:
+      text: \n<HEADPHONES KID>Hmph...\! You're so pushy...
+
+message_26:
+      text: \n<HEADPHONES KID>...\! But...\! I guess I'll go see Dad...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herWow, KEL...\! That was really mature of you...
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelYou think so?
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herYeah...\! I can tell you've really grown up.\! I guess this means you're not a kid anymore.
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelAwww... Why not?\! Adults are no fun...\! Kids have it way better!
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 41
+      text: \her...\| Nevermind...\! Forget I said anything...
+
+#JESSE leaves the room
+
+#=======================
+#Cutscene: Jesse's Birthday Gift:
+#=======================
+
+
+message_28:
+      text: \n<WRINKLY FOREHEAD>\{\{\Com[2]\SINV[1]HAPPY BIRTHDAY, SON!!!
+
+message_29:
+      text: \n<WRINKLY FOREHEAD>I know we don't have much, but...\!<br>I went and got you something that I thought you'd like...
+
+message_30:
+      text: \n<HEADPHONES KID>Dad...\! You didn't have to...
+
+message_31:
+      text: \n<WRINKLY FOREHEAD>Here you go!\! It's some new game called \c[4]SUPER ULTRA SPROUT MOLE EATER - \c[4]REVENGE OF THE MOLES III\c[0]!
+
+message_32:
+      text: \n<WRINKLY FOREHEAD>I don't really understand all these new gizmos, but I thought you might like it!
+
+message_33:
+      text: \n<HEADPHONES KID>Dad...\! I...\! I don't have the right game console for this...
+
+message_34:
+      text: \n<WRINKLY FOREHEAD>Game...\! console?\!<br>Ahh...\! Sorry, I don't understand...
+
+message_35:
+      text: \n<HEADPHONES KID>Dad...\! I...
+
+message_36:
+      text: \n<WRINKLY FOREHEAD>Son!\! I know things have been hard without your mother...\!<br>but I want you to know that I'm here for you too!
+
+message_37:
+      text: \n<HEADPHONES KID>\com[2]Dad! Stop worrying about me!\!<br>I'm doing fine!\! Just worry about yourself!
+
+message_38:
+      text: \n<WRINKLY FOREHEAD>Oh, JESSE... You can't ask me to do that.\!<br>You're my son, after all!\! I can't help but worry about you!
+
+message_39:
+      text: \n<WRINKLY FOREHEAD>Even if I can't get you things as nice as your mother...\!<br>you can't blame me for trying, right?
+
+message_40:
+      text: \n<WRINKLY FOREHEAD>Everytime I see you, I just think about how fast you're growing up...
+
+message_41:
+      text: \n<WRINKLY FOREHEAD>One day when you're older...\! you're probably not going to need me at all anymore...\! so just let me be a part of your life for now, okay?
+
+message_42:
+      text: \n<WRINKLY FOREHEAD>Now...\! I know it's your birthday...\! but I also know that you like to keep to yourself these days...\! so why don't you take this \c[3]SLICE OF CAKE\c[0] and eat it in your room?
+
+message_43:
+      text: \n<WRINKLY FOREHEAD>It's strawberry...\! your favorite...
+
+message_44:
+      text: \n<HEADPHONES KID>...
+
+message_45:
+      text: \n<HEADPHONES KID>It's...\! It's okay, Dad...\! I don't mind eating it here.
+
+message_46:
+      text: \n<WRINKLY FOREHEAD>Oh! Are you sure?\!<br>You usually take your food to your room...
+
+message_47:
+      text: \n<HEADPHONES KID>...
+
+message_48:
+      text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Dad...\! I...\! I'm sorry...
+
+message_49:
+      text: \n<WRINKLY FOREHEAD>\Com[2]W-What is it, son!?\! \Com[2]A-Are you okay?\!<br>Did I do something wrong!?
+
+message_50:
+      text: \n<HEADPHONES KID>\}N-No...\! I'm fine...\!<br>Thanks for the gift, Dad...\! I...\! sniff...\! I really like it...
+
+#Talk to Jesse/Jesse's DAD
+
+message_51:
+      text: \n<WRINKLY FOREHEAD>Thanks for convincing my son to come downstairs.\! You're all real pals!
+
+message_52:
+      text: \n<WRINKLY FOREHEAD>Please, have some cake with us!\! I got it off the bargain bin since it expires tomorrow...\! but it's still pretty tasty!
+
+message_53:
+      text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Dad...
+
+
+#intro text
+
+
+message_55:
+      text: \n<WRINKLY FOREHEAD>It's my son's 10th birthday today!\! ...\! But he won't even leave his room so we can celebrate!
+
+message_56:
+      text: \n<WRINKLY FOREHEAD>Sigh...\! I even bought him a cake...
+
+message_57:
+      text: You got a \c[3]SLICE OF CAKE\c[0]!
+
+message_58:
+      text: A sad \c[3]SLICE OF CAKE\c[0].
+
+message_59:
+      text: A bittersweet \c[3]SLICE OF CAKE\c[0].

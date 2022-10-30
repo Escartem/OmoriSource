@@ -1,0 +1,99 @@
+#==================================================================
+
+#KEL ERRANDS
+
+#==================================================================
+#PIZZA
+#==================================================================
+
+message_0:
+      text: \n<PIZZA MAN>Hello and welcome to \c[11]GINO'S PIZZA\c[0]!\!<br>What can I get for you?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHiya! I'm here to pick up an order!
+
+message_2:
+      text: \n<PIZZA MAN>I see!\! What would you like?\!<br>Oh... I know...\! Would you like...\! pizza?\! Nom nom...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelI think my mom phoned in an order for a \c[3]HERO SANDWICH\c[0] this morning!\! I'm just here to pick it up.
+
+message_4:
+      text: \n<PIZZA MAN>Oh...\! I see...\! You're the family that keeps ordering sandwiches...\! instead of pizza...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelBut...\! it's...\! on the menu, isn't it?
+
+message_6:
+      text: \n<PIZZA MAN>Hmm...\! yeah...\! you're right...\! I guess so...
+
+message_7:
+      text: \n<PIZZA MAN>Okay! I'll go get it!
+
+#KEL turns to PLAYER.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelYou know...\! I don't know if I ever told you this, but that's why my brother's nickname is HERO...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelYou'd think it's because of some really cool reason like he saved a puppy when he was a kid or something...\! but no...\!<br>He just really likes sandwiches!
+
+message_10:
+      text: \n<PIZZA MAN>Okay, here is your \c[3]HERO SANDWICH\c[0].\! Please enjoy!
+
+#KEL turns to PIZZA MAN.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelCool, thanks!
+
+#KEL turns to PLAYER.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelAlright, we're good to go now, \n[8]!\!<br>I'm ready when you are!
+
+#==================================================================
+#BAKERY
+#==================================================================
+
+message_20:
+      text: \n<MR. BAKER>Welcome to our family bakery! What would you like?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHiya! I'm here to pick up an order!
+
+message_22:
+      text: \n<MR. BAKER>Hmm...\! Ah, yes!\! Your mother said you'd be coming... though I expected you to be here a bit earlier.\! I'll go grab your order!
+
+#MR. BAKER walks into door and then walks back out.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelDid you know? This bakery belongs to MIKHAEL's family.\!<br>I guess you can't really tell, because he wears that horrible yellow wig all the time...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelSeems like he's making a pretty big effort to stand out and be different!
+
+message_25:
+      text: \n<MR. BAKER>Here's your order, sir!\! We hope to see you soon!\!<br>Please enjoy your baked goods.
+
+#message 11
+#message 12

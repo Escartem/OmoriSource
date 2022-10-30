@@ -1,0 +1,241 @@
+# =========================================================================================
+# Dino's Dig
+# =========================================================================================
+
+#-------------------------
+#Dino intro
+#-------------------------
+message_1:
+      text: \n<DINO>Hey there, little adventurers!\!<br>Welcome to DINO'S DIG! I'm DINO, the founder of DINO'S DIG!
+
+message_2:
+      text: \n<DINO>Ahem...\! Are you hungry for treasure?\! Are you ready to have a spoonful of adventure?\! If so, you've come to the right place!
+
+
+message_3:
+      text: \$\n<DINO>Here at DINO'S DIG we have created the ultimate treasure-hunting adventure... which you can experience for the low price of 100 CLAMS!
+
+message_4:
+      text: \$\n<DINO>Are you ready to enjoy the fun and excitement of digging for treasure?
+
+#[Nod/Shake]
+
+#[Nod]
+message_5:
+      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+#Skip to GAME TUTORIAL
+
+#[Shake]
+message_6:
+      text: \n<DINO>Aww... What's the matter?\!<br>I thought you were the adventurous type...
+
+#-------------------------
+#GAME TUTORIAL
+#-------------------------
+message_7:
+      text: \n<DINO>Alright kiddos, first things first.\! Here at DINO'S DIG, we dig with \c[4]SPOONS\c[0]!
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+message_106:
+      text: \n<DINO>Since you don't have a \c[4]SPOON\c[0], I'll give you a \c[4]POTATO SPOON\c[0] for free!
+
+message_8:
+      text: \n<DINO>Choose which \c[4]SPOON\c[0] you'd like to use.
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_100:
+      text: Do you want to equip the \c[4][VARIABLE] SPOON\c[0]?
+#[YES/NO]
+
+message_9:
+      text: \n<DINO>There you go! Right on, brother!\!<br>You're a quick learner, aren't you?
+
+message_10:
+      text: \n<DINO>In our special dig site, the \c[11]FOOD PYRAMID\c[0], you'll be able to uncover super rad treasure from all over the universe...\! and the best part is... you get to keep anything you find!
+
+message_11:
+      text: \n<DINO>\sinv[1]\com[2]\{THAT'S A DINO-GUARANTEE!
+
+message_12:
+      text: \n<DINO>Let me tell you about our dig site.\! The \c[11]FOOD PYRAMID\c[0] has four levels.\! You'll always start on the first level, but if you're lucky...
+
+message_13:
+      text: \n<DINO>You might just find a \c[4]PYRAMID KEY\c[0] that unlocks the PYRAMID GATE to the next level!\! The higher you go, the better the treasure will be!
+
+message_14:
+      text: \n<DINO>Now here's the catch!\! Each \c[4]SPOON\c[0] has a limited amount of uses before it breaks.\! For example, \c[4]POTATO SPOONS\c[0] will break after you dig 5 times!
+
+message_15:
+      text: \n<DINO>If your \c[4]SPOON\c[0] breaks, the treasure hunt ends, the PYRAMID GATES close, and we will call you back to the entrance.
+
+message_16:
+      text: \n<DINO>You understand everything I've said so far?
+#[YES/NO]
+
+#[YES]
+#message_5:
+#      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+
+#[NO]
+#message_10-16
+
+message_17:
+      text: \n<DINO>And now it's time for our DINO disclaimer...\! Treasure isn't the only thing that you'll find in the \c[11]FOOD PYRAMID\c[0].
+
+message_18:
+      text: \n<DINO>During your round, you might find some troublesome critters looking for a fight...\! We aren't liable for any damages to you or your property during your adventure, ya dig?
+
+
+message_19:
+      text: \n<DINO>If a critter knocks you out during battle, it'll be a real game over!
+
+message_20:
+      text: \n<DINO>Well, that's pretty much it!\! All that's left for you to do is go up these stairs, smell the sweet \c[11]FOOD PYRAMID\c[0] air, and start digging!
+
+message_21:
+      text: \n<DINO>\sinv[1]Have a DINO-TASTIC adventure!
+
+#-------------------------
+#GAME end
+#-------------------------
+message_23:
+      text: \n<DINO>\{\Com[2]\sinv[1]BIG SPOON DOWN!\! THAT'S GAME OVER!!\sinv[0]
+
+#[Transport to DINO'S DIG ENTRANCE]
+
+message_24:
+      text: \n<DINO>Did you find a lot of cool treasure?\.<br>I hope you enjoyed your DINO-TASTIC adventure!
+
+#-------------------------
+#DINO DEFAULT
+#-------------------------
+
+message_25:
+      text: \n<DINO>Hey there, little adventurers! Welcome to DINO'S DIG!
+
+message_26:
+      text: \$\n<DINO>Are you ready for another DINO-TASTIC adventure!?<br>It'll only cost you 100 CLAMS!
+
+#[Nod/Shake]
+#[Nod]
+message_27:
+      text: \n<DINO>I hope you're all ready to have another DINO-TASTIC adventure!
+
+#[Shake]
+message_28:
+      text: \n<DINO>Aww... What's the matter?\!<br>I thought you were the adventurous type...
+
+#DINO walks to inside of DINO'S DIG
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+#message_106:
+#      text: Since you don't have a SPOON, I'll give you a \c[4]POTATO SPOON\c[0] for free!
+
+message_111:
+      text: \n<DINO>Which SPOON will you equip this time?
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_110:
+      text: \n<DINO>You're all set!\!<br>So do ya'll remember the rules for DINO'S DIG?
+#[YES/NO]
+
+#[YES]
+#message 10-21 (same as intro)
+
+
+#[NO]
+message_112:
+      text: \n<DINO>Yeah, I figured you already got this down!
+
+#message_21 (EVERY TIME)
+
+
+#=====
+#IF YOU DONT HAVE ENOUGH CLAMS:
+
+message_113:
+      text: \n<DINO>Hey, man...\! I wanna offer you this DINO-TASTIC adventure for free, but we need the CLAMS too...\! Come back when you got 100 CLAMS, alright?
+
+#-------------------------
+#DINO 2- DINO shops
+#-------------------------
+
+#Default>
+message_29:
+      text: \n<BRETT>Welcome to DINO SHOP!\!<br>Accordin' to my log, it says you have a total of \v[1020] DINO DOLLARS!
+
+message_32:
+      text: \n<BRETT>If you want to buy a \c[4]SPOON\c[0], just point it out to me and I'll help ya out!
+
+#Purchase
+
+message_101:
+      text: \n<BRETT>You wanna buy a \c[4]PLASTIC SPOON\c[0] (10 DIGS) for 3 DINO DOLLARS?
+
+message_102:
+      text: \n<BRETT>You wanna buy a \c[4]WOODEN SPOON\c[0] (15 DIGS) for 6 DINO DOLLARS?
+
+message_103:
+      text: \n<BRETT>You wanna buy a \c[4]SILVER SPOON\c[0] (20 DIGS) for 10 DINO DOLLARS?
+
+#buy
+message_30:
+      text: \n<BRETT>Sick choice! I hope you find lots of treasure!
+
+#Insufficient funds
+message_31:
+      text: \n<BRETT>Sorry, dude. You don't have enough DINO DOLLARS for that...
+
+#Dino 3
+
+message_33:
+      text: \n<CHAD>The \c[11]FOOD PYRAMID\c[0] has a knack for finding lost things.\!<br>Ancient artifacts...\! Old relics lost in time...\! the possibilities are endless!
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_50:
+      text: You need a \c[4]SPOON\c[0] to dig.
+
+message_51:
+      text: You found \c[13]HECTOR\c[0]!
+
+message_52:
+      text: And another \c[4]SPOON\c[0] bites the dust...
+
+message_53:
+      text: !
+
+message_54:
+      text: Your \c[4]SPOON\c[0] broke!
+
+message_55:
+      text: You used the \c[4]PYRAMID KEY\c[0].
+
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_120:
+      text: \"DINO'S DIG... NOW WITH MORE EXP!\.<br>COME GET YOUR EXP NOW!\"
+
+message_121:
+      text: \n<DINO>\sinv[1]\{\{WHAT'S UP, ADVENTURERS?
+
+message_122:
+      text: \n<DINO>Did you hear?\! We've beefed up our critters to be bigger... and badder... than ever before!\! And you know what that means...
+
+message_123:
+      text: \n<DINO>\sinv[1]\{\{MORE EXP!!
+
+message_124:
+      text: \n<DINO>Come on, adventurers! What are you waiting for?
+
+message_125:
+      text: \n<DINO>Embark on you dino-tastic adventure today!

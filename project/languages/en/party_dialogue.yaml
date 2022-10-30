@@ -1,0 +1,2489 @@
+#NEW DIALOGUE 2/8/20
+
+#------------------------------------------------------------------------------------------
+
+#FIRST TIME CUTTING: (UNSURE IF NEEDED)
+#Kel inspires OMORI into using CUT for the first time.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelLook, OMORI! I bet you could cut down this root!\!<br>Go on, give it a try!
+
+#After cutting:
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelI knew you could do it!<br>Show that root who's boss!
+
+#------------------------------------------------------------------------------------------
+
+#BLACKLETTER GET:
+
+#*After going to sleep during Prologue - Fear of Heights segment:
+
+#*Laptop is flashing.
+
+#*Examine Laptop.
+
+#*Laptop glitches out
+
+#*Laptop spreads to corners of actual game
+
+#*Blackletter UI opens
+
+#*Player must scroll to bottom
+
+#*Blackletter UI can be closed with cancel after
+
+#*Laptop glitches
+
+#*Laptop shuts off/Screen goes black
+
+#Dialogue:
+message_10:
+      text: Press \DII[pageup] to open the HANGMAN MENU.
+    #  \c[4]  \c[0]
+message_11:
+      text: Press \DII[pagedown] to open the HEADSPACE MAP.
+
+message_12:
+      text: Nothing but static.
+
+#------------------------------------------------------------------------------------------
+
+#BASIL IS KIDNAPPED:
+
+#Change: As soon as you see the photo, the screen suddenly transports you to White Space.
+
+#------------------------------------------------------------------------------------------
+
+#EDIT - BASIL IS MISSING:
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubOMORI! Thank goodness you're here!
+
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelHave you seen BASIL?\! We can't find him anywhere...
+
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herWe should go tell MARI you're okay.\!<br>She's been worried sick!
+
+#------------------------------------------------------------------------------------------
+
+#BEFORE BLACKHOLE:
+#Map: Forest Playground
+#Activation: Exit Stump Entrance to Forest Playground
+
+message_30:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marOMORI! You're okay!
+
+#*MARI and OMORI hug*
+message_31:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDon't worry me like that.
+
+message_32:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marWhere's BASIL?\! He's not with you, OMORI?
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herNo...\! I'm afraid not.\! The last thing I remember was sorting photos with BASIL in his house...
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herAnd next thing I know...\! I'm waking up in \c[11]NEIGHBOR'S ROOM\c[0] with AUBREY and KEL.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubAt least we found you, OMORI...\! but I hope BASIL is okay.\! Who's going to protect him if we're not there?
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Don't be such a downer, AUBREY!\! We'll find BASIL for sure!\kel
+
+message_36:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marYou're absolutely right, KEL.\!<br>It's at times like these when we gotta stay positive!
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHmm...\! Why don't we go back to BASIL's house?\!<br>There might be something that we missed.
+
+message_38:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marThat's the spirit, HERO.\!<br>And as always, I'll be here if you need me!
+
+#------------------------------------------------------------------------------------------
+
+#When examining a flower patch on the way to Basil's house:
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubThese flowers...\! They're already dying...<br>\!We should do our best to take care of them until BASIL gets back.
+
+#------------------------------------------------------------------------------------------
+
+#FEATURE: WATERING BASIL'S FLOWERS
+#At the beginning it's manageable, but each day BASIL goes missing, it gets worse. On the last day - Deep Well, most flowers are dead and watering a flower causes another to die in another patch.
+
+#After you have collected all the Black letters, all the flowers should be dead.
+
+#When you examine a Water pail, the screen goes black and then you will get a message that says:
+
+message_41:
+      text: You equipped the \c[13]WATERING CAN\c[0].
+
+message_42:
+      text: AUBREY equipped the \c[13]WATERING CAN\c[0].
+
+message_43:
+      text: KEL equipped the \c[13]WATERING CAN\c[0].
+
+message_44:
+      text: HERO equipped the \c[13]WATERING CAN\c[0].
+
+#You will enter a mode where you can only water plants in the patch.
+#Menu should be locked.
+
+#To leave the mode, attempt to leave the garden patch.
+#You will get a message that says:
+
+message_45:
+      text: You left the \c[13]WATERING CAN\c[0] where you found it.
+
+#------------------------------------------------------------------------------------------
+
+#BLACKHOLE INTRO:
+#Map: Basil's House
+#Activation: Enter Basil's House
+
+#Something is hovering over the small hole in BASIL's floor.
+
+#Upon entering, the camera pans and it disappears.
+
+#Examine at least 3 things of these things around the house (will have unique flavor text for them):
+
+#Fireplace:
+message_51:
+      text: The fireplace is burning, just as BASIL left it.
+
+#Bed:
+message_52:
+      text: A comfortable-looking bed.
+
+#Bookcase:
+message_53:
+      text: A bookcase.\! It's a little dusty.
+
+message_66:
+      text: ...\! Ah...\! Ahhh...\! \sinv[1]Ahhhhhh...
+
+message_67:
+      text: \{\sinv[1]ACHOO\{\OOOO\{OOOOO!!\sinv[1]
+
+#Small plants:
+message_54:
+      text: Small plants.\! They look a little sad.
+
+#Note: The fireplace will change flavor text later to: “The fire has gone out.” when it appears so on the map.
+
+message_64:
+      text: The fire has gotten dimmer.
+
+message_65:
+      text: The fire has gone out.
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herWell... There doesn't seem to be anything out of the ordinary.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelDo you think BASIL just left somewhere without telling us?
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubI don't know... That doesn't sound like him.<br>\!He's usually so considerate about these things.
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aub...\! Guys, I'm really worried.\! Is there nothing we can do?
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 12
+      text: \aubWhat if we can't find him?\! What if he's in danger?
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: \herStay calm, AUBREY...\! I'm worried too, but that won't solve anything.\! Let's go look around the forest. Maybe he wandered off and got lost.
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelYeah! Cheer up, AUBREY! We'll find BASIL!
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubSniff...\! You guys are right...
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubOkay! We gotta keep our hopes up!<br>\!Let's go look for BASIL in the \c[11]VAST FOREST\c[0].
+
+#------------------------------------------------------------------------------------------
+
+#VAST FOREST INTRO:
+#Map: Vast Forest Maps (Have to do twice)
+#Activation: Enter East or West Forest Map
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\{\{\sinv[1]BAAAAAASIIIILLLLLLLLL!!
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\{\sinv[1]BASIL, WHERE ARE YOU?
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelI know!\! I bet my pet rock will know what to do!
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kel\c[13]HECTOR\c[0], be a good boy. Go find BASIL!
+
+#*KEL throws HECTOR*
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>...
+
+#KEL picks him back up*
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...\! You tried your best, buddy.
+
+#KEL equipped PET ROCK.
+
+#AUBREY hits KEL.
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubThis is no time to fool around, KEL!
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHey! Why you...\! \c[13]HECTOR\c[0] was just trying to help!
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herLet it go, you two...\! We need to keep ourselves focused.
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubThis is a pretty long ladder, huh?
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelEh... It's pretty tall...\! but not as tall as the one east of the stump!\! That one goes all the way up to space!
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubYou're really afraid of heights, aren't you OMORI?\! It's okay...\! We don't have to look up there.
+
+#------------------------------------------------------------------------------------------
+
+#BEFORE OTHERWORLD LADDER 1:
+#Map: Forest Playground
+#Activation: Walk in proximity of top of Playground near Picnic
+
+message_90:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marHello, everyone! How is it going?\! Have you found BASIL yet?
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herHey, MARI...\! No luck so far, I'm afraid...
+
+message_92:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh...\! I'm sorry, guys.\!<br>I wish there was a way I could help more.
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herWe're all doing our best...\! Maybe we should start looking outside this forest.
+
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelI know!\! Why don't we try climbing that really long ladder?\!<br>The one east of the stump!
+
+message_95:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubWe can't do that! OMORI is afraid of heights!
+
+message_96:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelBut what if BASIL is somewhere up there?<br>We gotta take our chances!
+
+message_97:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubI know...\! but...
+
+message_98:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOMORI!\! You're growing stronger and stronger every day.\!<br>You can handle climbing a ladder, can't you?\!<br>Come on, little brother. Face your fears!
+
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herIt's natural to be nervous at first, but you should know that we all believe in you.
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelCome on, OMORI! It's just one measly little ladder...\!<br>What's the worst that can happen?
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubI don't know about this...\!<br>Do you think you're going to be okay, OMORI?
+#[YES/NO]
+
+#[YES]
+message_102:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubOkay! If you're okay with it, then I'm okay with it too!\!<br>But if you get scared... you can always count on me to back you up.
+
+message_103:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herThanks, OMORI. You've got some real courage.
+
+message_104:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\{\Com[2]WOO-HOO!!\}\}<br><br>Let's go! Let's go! To the ladder east of the stump!
+
+message_105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubWe'll see you later, MARI!
+
+message_106:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marBye now! Stay safe!<br>\!Remember, OMORI! You're stronger than you think!
+
+#[NO]
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubThat's okay... You just take your time.
+
+message_108:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelAww... Come on, OMORI!<br>\!We can't just sit tight with BASIL missing!
+
+message_109:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOMORI, we have to do this.\! We're all here to support you...\! and if anything happens, we'll all be here to protect you too!\! Won't we, AUBREY?
+
+message_110:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubYeah... I guess you're right about that.
+
+message_111:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herYou have nothing to be afraid of as long as we're together.\! BASIL is probably all alone...\! He needs us right now!
+
+message_112:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOMORI, you need to face your fears for BASIL's sake...<br>\!I believe in you!
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWe can take it slow if you'd like!<br>\!As long as we get there eventually.
+
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\{\Com[2]WOO-HOO!!\}\}<br><br>Let's go! Let's go! To the ladder east of the stump!
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubWe'll see you later, MARI!
+
+message_116:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marBye now! Stay safe!<br>\!Remember, OMORI! You're stronger than you think!
+
+message_117:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWait, this is the wrong ladder, OMORI!\! I was talking about the ladder east of the stump.
+
+message_118:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelFirst you go up... I mean north, from the playground until you see our stump...\! Then you make a right turn from there and keep walking until you see it!
+
+message_119:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelAt least I'm pretty sure that's how you get there.\! Sorry, it's a pretty \sinv[1]vast\sinv[0] forest! Heh, heh...
+
+#------------------------------------------------------------------------------------------
+
+#BEFORE OTHERWORLD LADDER 2:
+#Map: Otherworld Ladder Entrance
+#Activation: Walk in proximity of ladder
+
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herRemember what MARI said, OMORI!<br>\!You're stronger than you think!
+
+message_126:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubDon't worry, we'll be right behind you!
+
+message_127:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelYeah... and if you fall, we'll be right here to catch you!
+
+message_128:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubKEL, don't scare him!\! You won't fall, OMORI...\! I promise!
+
+#*Examine Ladder*
+#*Dark border appears, then suddenly disappears/retracts*
+
+#short pause
+
+message_130:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herMan... I know there's a reason why we've never climbed this ladder, but I can't put my finger on it.
+
+message_131:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herIt's on the tip of my tongue...
+
+message_132:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOh, well...\! Here goes nothing!
+
+
+#------------------------------------------------------------------------------------------
+
+#JUNKYARD INTRO:
+#Map: Junkyard II
+#Activation: Walk in proximity of open crate
+#*Upon entering junkyard, kel tries digging in the first open crate he sees on the right path for cassette.*
+
+message_140:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelSo this is the \c[11]JUNKYARD\c[0], eh?
+
+message_141:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelTime to start digging!
+
+#*KEL starts digging in crate*
+
+message_143:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelWhat are we looking for again?
+
+message_144:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubSPACE BOYFRIEND's \c[4]SPECIAL MIXTAPE\c[0]...
+
+message_145:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelRight-o!
+
+#*pause*
+
+message_146:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelHey look, I found a \c[5]CAN\c[0]!
+
+message_147:
+      text: You got a \c[5]CAN\c[0].
+
+message_148:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubSigh...\! I guess that's a start.
+
+#------------------------------------------------------------------------------------------
+
+#LIFE JAM GUY (NOT MANDATORY):
+#Map: Junkyard III (Map 144)
+#Activation: Talk to LIFE JAM guy in front of crate below
+
+
+
+#Same dialogue as before in Hide and Seek starting with:
+#Hey! I'm the LIFE JAM guy! I sell LIFE JAM! It really works!
+
+#------------------------------------------------------------------------------------------
+
+#AFTER DEFEATING SPACE BF:
+#Map: Otherworld Town
+#Activation: Exit Space BF's House
+
+message_160:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHello, everyone!\! How's the search for BASIL going?
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herWell, MARI...\! It seems that we've taken a little detour.\!<br>Just trying to help those in need, you know?
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubLook, MARI! I got a \c[4]SNO-CONE TICKET\c[0]!
+
+message_163:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marWell, that's very nice, AUBREY!
+
+message_164:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubThanks!
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelMARI! Look what I can do!
+
+#*KEL flexes*
+
+message_166:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marThat's...\! very nice too, KEL!
+
+message_167:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelI know, isn't it!?
+
+message_168:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herIt's so strange.\! We've searched all over the place, but we haven't seen a hint of BASIL anywhere.
+
+message_169:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh, BASIL...\! I wonder where he could have gone.
+
+message_170:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marThere must be something we're missing...<br>\!Do you have any leads, OMORI?
+
+#------------------------------------------------------------------------------------------
+
+#PHOTO FRAME:
+
+#*At the end of the photo frame, there should be a sheet music stand.
+#When you examine the music stand, it will say:
+
+message_175:
+      text: Sheet music on a music stand.\!<br>All the notes have been scribbled out.
+
+message_176:
+      text: Sheet music on a piano.\!<br>All the notes have been scribbled out.
+
+#*When PLAYER walks to leave, Something should come out of the sheet music and start chasing OMORI.
+
+#*The teleport to the hallway shouldn't work. It can say:
+
+message_177:
+      text: The door is locked.
+
+#*When Something catches OMORI, he is ported to White Space.
+#(And when he stabs himself, he will be able to continue the story on Day 1)
+
+#------------------------------------------------------------------------------------------
+
+
+#BEFORE PYREFLY FOREST:
+#Map: Forest Playground
+#Activation: Forest Playground on Night 1 - Sweetheart
+
+message_180:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubHi, MARI! Look! OMORI is here!
+
+message_181:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOMORI!
+
+#*MARI hugs OMORI*
+
+message_182:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \mar\com[2]Stop disappearing like that!
+
+message_183:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marYou know my heart can't take it.
+
+message_500:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marHmm...\! So there's still no sign of BASIL?<br>\!Where could he be?
+
+message_185:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herWe're not sure...\!<br>We've been looking for him everywhere, and still... nothing.
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubSigh...\! I hope BASIL is okay...\!<br>I miss him so much.
+
+message_186:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelYeah! I miss hearing him talk about all the stuff he's into...\! like all the flower stuff...\! and the photo stuff...\! and the art stuff...\! and the reading stuff...
+
+message_187:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubMy hair is so tangly.\!<br>I miss when BASIL used to brush my hair.
+
+message_188:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubOMORI, will you brush it for me?
+
+message_189:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelWell, I miss when BASIL used to remind me to wash my hands.\!<br>Look! They're so dirty!
+
+message_190:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubEww! KEL!
+
+message_191:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herKEL... You should probably wash your hands anyway.
+
+message_502:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marEveryone... I know it's tough right now, but we have to stay positive!\! We should all try to be like BASIL!\! Even when BASIL is upset, he always manages to smile.
+
+message_192:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marSo... is there anywhere you haven't checked yet?
+
+#HERO ...
+
+message_193:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herWell...\! There is a forest west of the stump, but...
+
+message_194:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelIt's gross and full of spiders!
+
+#*HERO shudders*
+
+message_195:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herUgh...\! \quake[1]Spiders...\quake[0]
+
+message_196:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marWell... You know what that means.
+
+message_197:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marOnce again, it's time to face your fears, little brother!
+
+message_198:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marAnd that means you too, HERO!
+
+message_199:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \her...
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelCome on, big bro! You can't back out now.<br>\!It's just like how it is with OMORI.\!<br>We're here to support you all the way!
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herYeah, you're right...\! haha...\! I'm just being silly...
+
+message_202:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubDon't worry, guys!\! If anyone or anything tries to hurt you,<br>I'll smash it out of the way!\! You can count on it!
+
+message_203:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marAnd don't forget about me!\!<br>I'll always be there to help too.
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herYeah...\! Yeah!\! We can do this together!
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herL-Let's go to the forest west of the stump.\!<br>Lead the way, OMORI!
+
+
+#------------------------------------------------------------------------------------------
+
+#PYREFLY ENTRANCE SPIDER WEB
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: You ready to do this, OMORI?\kel
+
+message_207:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: We'll be right here if you need us...\! right, HERO?\aub
+
+message_208:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: H-Huh?\! Y-Yeah! Of course!\her
+
+message_209:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: OMORI...\! Thanks for taking one for the team.\her
+
+#*Examine Spider Web*
+#*Dark border appears, then suddenly disappears/retracts*
+#Player must use CUT to cut spider web
+
+
+#------------------------------------------------------------------------------------------
+
+#Move 4 Sprout Mole battle here
+
+#------------------------------------------------------------------------------------------
+
+#PYREFLY FOREST:
+#Map: Pyrefly Forest Boss Room
+#Activation: Enter Pyrefly Forest Boss Room for the first time
+
+message_210:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aubBASIL! Are you here!?
+
+message_211:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\Com[2]\sinv[1]\{BAAAAAASILLLL!! WHERE ARE YOU!?
+
+message_212:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herHmm... It doesn't look like BASIL is here either.
+
+message_213:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubHey, look it's MARI!
+
+message_214:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubMARI, MARI!
+
+message_215:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marOh hello, everyone!\! You all made it through the forest!\! I'm so proud of you!
+
+message_216:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 41
+      text: \herMARI...\! I...\! I was so scared!
+
+#*HERO hugs MARI*
+
+message_217:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHERO...\! This is kind of embarrassing...
+
+#KEL turns to Aubrey
+
+message_218:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelSigh...\! It's times like these I really wish BASIL was here.<br><br><br>He could tell HERO about how spiders are harmless and good for nature or something.\! Maybe then he wouldn't find them so creepy.
+
+#AUBREY turns to kel
+
+message_219:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubI'm not sure if that would help him right now.
+
+message_220:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh, HERO...\! You're going to have to deal with this eventually.\! These things will only get worse over time.
+
+message_221:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herMaybe...\! Or maybe I'll naturally outgrow it!\!<br>You never know what the future brings! Heh heh...
+
+#------------------------------------------------------------------------------------------
+
+#SPROUT MOLE TOWN INTRO:
+#Map: Sprout Mole Town
+#Activation: Reach bottom of ladder in Sprout Mole Town for first time
+
+message_230:
+      text: \n<SPROUT MOLE>Ah! Hello, strange-looking SPROUT MOLES.\! Are you here to see SWEETHEART'S QUEST FOR HEARTS?<br><br>If so, you've come to the right place!\! This sold-out extravaganza spectacular will be starting very shortly!
+
+message_231:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubWait a second! I know this show!<br>\!We have front row \c[4]SHOW TICKETS\c[0] for it!
+
+message_232:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 14
+      text: \aubAh... I can see it now!\! A dazzling, epic tale about the hardships of romance!
+
+message_233:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aub\sinv[1]Heartbreak...\! Betrayal...\! Desperation...\! Loneliness...\!<br>Oh, the drama!\sinv[0]
+
+message_234:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubThis is going to be so fun!\!<br>I can't wait to be swept off my feet!
+
+message_235:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herI don't know...\! I guess it looks... interesting?\!<br>But now doesn't seem like the right time.
+
+message_236:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubBut you promised we could earlier!\!<br>Please, HERO! We should at least check it out.
+
+message_237:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\sinv[2]Please, please, please, please, please!
+
+message_238:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herWell...\! Alright.\! Hopefully this won't take too long.
+
+#------------------------------------------------------------------------------------------
+
+#SWEETHEART'S CASTLE - DUNGEON WITH MARI
+#Map: Sweetheart's Castle Dungeon - B1
+#Activation: Enter Sweetheart's Castle Dungeon - B1 through ladder close to MARI's picnic
+
+message_240:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelHey, it's MARI!
+
+message_241:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelMARI! MARI! Help us, we're stuck in \c[11]THE DUNGEON\C[0]!
+
+message_242:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOh no!
+
+#*MARI presses a wall switch to let them through*
+
+message_243:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marThere you go!\!<br>Now come here and enjoy a nice picnic with me.\!<br>I promise you'll feel better right away!
+
+
+#------------------------------------------------------------------------------------------
+
+#MARI BEFORE ISLANDS:
+#Map: North Coast
+#Activation: Talk to MARI at North Coast
+
+#MARI is looking around the North Coast.
+
+message_250:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOMORI... You're here. \!I'm so glad you found me.
+
+message_251:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marKEL, AUBREY, HERO, and all the children are gone.
+
+message_252:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marThere's a thick fog enveloping the entire forest...\!<br>Everywhere, except here.\! Maybe our friends are somewhere across the water.
+
+message_253:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marLet's find them together.\! Do you want to join me?
+#[YES/NO]
+
+#[YES]
+message_254:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marThanks, little brother. I knew I could count on you.\!<br>I'll keep you company, so you're not alone.\!<br>I know you really hate that.
+
+#[NO]
+message_255:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marI know you're scared... but I also know you can do this.\! Take all the time you need to prepare.\! I'll be here when you're ready.
+
+#------------------------------------------------------------------------------------------
+
+message_256:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDon't be scared, OMORI.\! Nothing can hurt you, as long as you're with me.
+
+message_257:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSorry, OMORI. Can you slow down?\! You know my knees can't handle it.
+
+message_258:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marOMORI! What did I just tell you!?<br>\!Don't make me raise my voice now!
+
+#------------------------------------------------------------------------------------------
+
+#MARI DURING ISLANDS:
+#Activation: Enter Lighthouse + Island map
+
+#*Camera pans down to see ghosts walking around*
+
+message_260:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marStay close, little brother.\!<br>Don't worry.\! They can't hurt you as long as you're with me.
+
+#------------------------------------------------------------------------------------------
+
+#MARI BEFORE FORGOTTEN PIER:
+#Map: Forgotten Pier
+#Activation: Enter Forgotten Pier
+
+message_265:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marOMORI, I'm so proud of you.\!<br>You swam all the way here, even though you've always been terrified of water.
+
+#*pause*
+
+message_266:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBut there's still one big thing you're afraid of, isn't there?<br>\!Something...\! a little bit harder to overcome.
+
+#------------------------------------------------------------------------------------------
+
+#Examine photo in lighthouse:
+message_270:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marThis poor photo...\! It's barely holding itself together.
+
+#------------------------------------------------------------------------------------------
+
+#MARI BEFORE WHIRLPOOL:
+#Map: Forgotten Pier
+#Activation: Get to the curtain
+
+#*Camera pan to curtain*
+#*pause*
+
+message_275:
+      text: \mar...\! OMORI...
+
+message_276:
+      text: \marIt seems that you have forgotten something important.\!<br>Are you okay with that?
+
+#*pause*
+
+#NEUTRAL:
+message_277:
+      text: \marI guess so...
+
+#TRUE:
+message_278:
+      text: \marI'm not too sure...
+
+#*MARI walks on water and walks 2 steps*
+
+message_279:
+      text: \marYou've seen this curtain once before.<br>\!The last time we went to the lake.
+
+#*MARI turns to OMORI*
+message_280:
+      text: \marThis is my stop though.
+
+#*pause*
+message_281:
+      text: \marI know I shouldn't have come...<br>\!It just gets a little lonely without everyone.
+
+#*pause*
+message_282:
+      text: \marIt's not my place to say anymore, but..<br>\!I hope you're still there...\! \n[8]...\!<br>I really miss you.
+
+#*Window curtains open*
+#*As curtain opens screen turns white. DW MARI sprite replaced with white MARI*
+#*MARI turns to window*
+
+message_283:
+      faceset: MainCharacter_Mari
+      faceindex: 20
+      text: \marGoodbye...\| little brother.
+
+#*MARI walks into the window*
+
+#*A giant whirlpool appears in space of the window*
+
+#*After MARI leaves, the “Something” fear border starts appearing around the screen.*
+#*The ghosts teleport closer to you slowly as the screen gets darker. Player can either go into the whirlpool or wait until “something” covers the screen.
+
+#*If Player goes into whirlpool, he'll end up in Deep Well entrance.
+#*If Player waits for something to cover the screen, he'll “glitch” into inside of the DEEP WELL.
+
+#*Note: If you exit out of the DEEP WELL again after entering, Deep Well will transport you to the alternate version. You can swim back to Vast Forest, but there's still nothing to do there.*
+
+#------------------------------------------------------------------------------------------
+
+#LAST RESORT - MARI PICNIC:
+#Map: Last Resort Entrance
+#Activation: Reach proximity in Last Resort Entrance
+
+message_290:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelHey, MARI! Look who finally decided to show up!
+
+message_291:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marOMORI!\! It's so good to see you again!
+#*question mark*
+message_292:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marWhat is it, OMORI?\!<br>Aren't you happy to see your big sister?
+
+message_293:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelOh, that's just OMORI being OMORI.\!<br>You can't blame him for the way he looks!
+
+message_294:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelAnyway, as I was just saying...\! working pays the bills, but it's not very exciting.\! So me and OMORI are gonna go get AUBREY and HERO...\! and then...
+
+message_850:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \kelWe're gonna...
+
+message_295:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marFind...\! BASIL?
+
+message_851:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]Ohhh yeeeeaaaah!\!\sinv[0] That's what we were going to do!
+
+message_852:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHehe...\! Always happy to help.\! Let me know if you need anything else, okay?
+
+message_296:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelNah, don't worry about it, MARI.<br>\!The boss loves me! We'll be in and out of the \c[11]LAST RESORT\c[0] real quick, no problem!
+
+message_297:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOkay... If you say so, KEL.
+
+message_298:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelCome on, OMORI! I can't wait for you to meet the boss.<br>\!He's awesome!
+
+#------------------------------------------------------------------------------------------
+
+#PATH TO JAWSUM'S ROOM:
+#Map: Mr. Jawsum's Elevator
+#Activation: Enter Mr. Jawsum's Elevator for the first time
+
+#*\kelsfx whistling last resort song*
+#*AUBREY hits KEL*
+message_305:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubStop that.
+
+#------------------------------------------------------------------------------------------
+
+#AFTER YOU GET HERO BACK AND LEAVE LAST RESORT:
+#Map: Last Resort Entrance
+#Activation: Reach proximity in Last Resort Entrance
+
+message_310:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\sinv[1]\{WOO-HOO! THE GANG IS BACK!!
+
+message_311:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelHigh-five, everyone!
+
+#*KEL goes around bothering people.
+
+message_312:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubSo...\! Does anyone remember how we ended up here?
+
+message_313:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herYou know...\! I had the strangest dream.
+
+message_314:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herThere we were...\! All of us falling down an endless black hole.\! And then, next thing I know, I'm signing my life away through a contract!
+
+message_315:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelYou know what they say...<br>It sure is strange where life takes you!
+
+message_316:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelSo what were we doing again?<br>\!We were looking for BASIL or something, right?
+
+# message_316:
+#       faceset: MainCharacter_Mari
+#       faceindex: 2
+#       text: \marYou guys said you were looking for BASIL, right?
+
+
+#------------------------------------------------------------------------------------------
+
+#DEEPER WELL:
+
+message_330:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWow! Just look at this place!
+
+message_332:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelThere's so many cool plants around.<br>\!I bet BASIL would have really liked it here.
+
+#*pause*
+
+message_333:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelBASIL...\! He would have really liked it...\! right, guys?
+
+message_334:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herYeah...\! I'm sure he would have.
+
+message_335:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub...
+
+message_336:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelHuh?\! What is it?
+
+message_337:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herHey...\! I have a serious question.\!<br>Do any of you remember what BASIL looks like?
+
+message_338:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubWhy do you ask that, HERO?
+
+message_339:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herLet's see here...\! BASIL...\! BASIL loves taking care of flowers...\! and taking photos of his friends.<br><br>He's warm, calm, and gentle...\! and even when he's upset...\!<br>he'll always manage a smile.
+
+message_340:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herThe rest...\! is starting to get a little fuzzy.
+
+message_342:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelIt's okay...\! Me too, HERO.\! It's like I still miss him, but...\! it's kind of hard to remember why.
+
+message_341:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBut that doesn't change anything, right?\! Even if our memories aren't as strong as they used to be...\! we still have to save him.
+
+message_354:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubBASIL is our friend...\! and more importantly, he needs our help!
+
+message_352:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herYou're right, AUBREY.\! I think we've all been apart from BASIL for way too long.
+
+message_353:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herBut I'm sure we'll find him...\! as long as we have OMORI to keep us on track.
+
+message_344:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubAll this time, BASIL has been waiting for us.\! He could be lost...\! lonely...\! or scared...
+
+message_345:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubI bet he could use a big hug right now!
+
+message_346:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelThen when we're all together again...\! we should all give him a big ol' hug! Heh, heh...
+
+message_347:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herAww...\! It's nice to see you two getting along so well for a change.\! I could hug the both of you right now!
+
+#AUBREY and KEL are surprised and start sweating, and look away from each other.
+
+message_348:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \aubH-Huh!?\! Me and KEL...\! G-Get along?
+
+message_349:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelW-What are you talking about, HERO?\! Stop being weird!
+
+message_350:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herHaha...\! Relax you two. I'm just playing around.
+
+#HERO walks up 1 step.
+
+message_351:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herHold on, BASIL. We're almost there.\! We'll all be together soon.
+
+#------------------------------------------------------------------------------------------
+
+#BASIL PLANT:
+
+message_355:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelWow! Look at all these cool plants here!
+
+#KEL runs up and looks like all the plants.
+
+message_356:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \kelHmm...\! BASIL...
+
+message_357:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herBASIL?
+
+message_358:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelThat's the name of this plant here.
+
+message_359:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubAwww... It's so cute!\! It kind of reminds me of something...
+
+message_364:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBut...\! I can't remember what...
+
+message_361:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herSo...\! Does anyone remember what we're doing here?
+
+message_362:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBeats me...\! How about you, KEL?
+
+message_363:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelI have no idea!
+
+#------------------------------------------------------------------------------------------
+
+#BRUISED FLOWER CROWN:
+
+message_370:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubHey, look! It's a \c[4]FLOWER CROWN\c[0]!
+
+message_389:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aub...\! Oh no...\! All the flowers are bruised up...
+
+message_371:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubIt...\! It looks kind of familiar.\! I wonder who this belongs to.\!<br>Do you think we should try to return it to them?
+
+message_372:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herThis \c[4]FLOWER CROWN\c[0] is in pretty bad condition.\!<br>I don't think anyone would want something like that.
+
+message_373:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubYeah, maybe you're right...
+
+#*KEL throws the flower crown off the ledge.*
+
+message_374:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubKEL! What did you do that for?
+
+message_375:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelIt's fine!\! You heard what HERO said!<br>No one would want something as bruised-up as that!
+
+message_376:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubBut...\! it used to belong to someone!\!<br>Kicking it off a cliff is just mean.
+
+message_377:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelHuh? Why?\! Flowers grow back anyway, don't they?
+
+message_378:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: \herAlright, calm down, you two!\!<br>KEL!\! Apologize to AUBREY!
+
+message_379:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...\! Fine.\!<br>Sorry...\! AUBREY...
+
+message_380:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubApology not accepted!
+
+#*AUBREY turns away*
+
+message_381:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubHmph!
+
+#message_382:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herAUBREY... I understand how you feel.\! KEL shouldn't have done something so brash, but you have to let it go too, okay?
+
+#message_383:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herIt's just some flowers...
+
+#message_384:
+  #    faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: \aub...\! Yeah...\! I know...\!<br>I don't think he deserves it...\! but I'll forgive him...\!<br>for you, HERO.
+
+#message_385:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: \herThanks, AUBREY.\! You're the best.
+
+#message_386:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 9
+#      text: \aubAhem...\! Fine.\! I forgive you, KEL...
+
+#message_387:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelYour forgiveness...\! is accepted!
+
+#message_388:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 11
+#      text: \aub...
+
+#message_390:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 42
+#      text: \herSigh...
+
+#------------------------------------------------------------------------------------------
+
+#PHOTO OP:
+
+message_400:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelHey, look! This camera's taking live footage of us.<br>\!Say cheese!
+
+message_401:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubAwww... We look so cute!
+
+message_402:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herHeh...\! Almost makes you wish we had a camera.
+
+message_403:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelEh... Don't worry!\! We have loads of pictures of us, don't we?
+
+message_404:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubWe have pictures of us?\! Where?
+
+message_405:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelBut...\! only when we least expect it...
+
+message_406:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \herWhat are you talking about, KEL?
+
+message_407:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelSomething special...\! about everyone living their own lives...
+
+message_408:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubUmm...\! You're being kind of weird.
+
+message_409:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelHuh?\! Hmm...
+
+message_410:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelNah... nevermind.\! It's probably nothing!
+
+message_411:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelSee, this is why people shouldn't think too much!<br>It's just too confusing for everyone involved!
+
+message_412:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herLet's keep moving forward.\!<br>We gotta figure out the solution to these puzzles.\!<br>That bomb could blow any second!
+
+message_413:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubYeah, come on, KEL! Our lives are at stake here!
+
+
+#------------------------------------------------------------------------------------------
+
+#AFTER DEFEATING HUMPHREY:
+
+message_420:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Huff...\! That was... a close one.\her
+
+message_421:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Yeah...\! Never underestimate a hungry stomach.\kel
+
+#AUBREY walks one step away.
+
+message_422:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: That was really scary... \}Huff...\aub
+
+message_423:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: But you know what... \}Huff...\aub
+
+#AUBREY turns to party.
+
+message_424:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: At least we got through it together!\aub
+
+message_425:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelSo what do you guys wanna do now?
+
+message_426:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubHmm... I'm not sure!\! Weren't we looking for something?
+
+message_427:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelWait, didn't HERO mention this before too?
+
+message_428:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herYeah, we were just following SWEETHEART... but...
+
+#HERO turns to lake
+
+message_429:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herThat situation... seems to have resolved itself.
+
+message_430:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubNo... I'm pretty sure there was something else...
+
+message_431:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelAUBREY, you're always worrying about nothing!\! <br>Come on! You should learn to relax and just enjoy yourself sometimes.
+
+message_432:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubI guess that's true...\! I am a little tired of worrying so much.
+
+message_600:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubGuys...\! I can't help but shake the feeling that we're forgetting something important.
+
+message_433:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelAUBREY...\! Now you're startin' to get me all worked up too.
+
+
+message_601:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herHey, I have an idea!\! You know what we haven't done in a while?\! Play some card games!
+
+message_602:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelGood thinking, big bro!\! AUBREY, you're probably just tired from traveling around so much.
+
+message_603:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelI think what we all need is some rest and relaxation back in \c[11]NEIGHBOR'S ROOM\c[0]!
+
+message_604:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubYou know what... you're right.\!<br>It feels like we haven't been home in forever.
+
+message_605:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelDon't rest too easy though!\! Or else I'll whoop all your butts at cards again!\! You all make it way too easy for me!
+
+message_606:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\sinv[1]Oh... really?\sinv[0]\! Well...\! We'll see about that!
+
+message_607:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herC'mon, guys.\! Save your energy for the game!
+
+message_435:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herBefore we head back, was there something you wanted to do around here, OMORI?\! We'll follow your lead!
+
+#------------------------------------------------------------------------------------------
+
+#CARDS IN NEIGHBOR'S ROOM:
+
+#Select Playing cards breaktime
+
+#*KEL, AUBREY, HERO, and OMORI playing cards*
+
+message_440:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubMARI!
+
+message_441:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHi, everyone!\! Taking a break from wandering, I see.\! Are you enjoying yourselves?
+
+message_442:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelYeah, it's been a while.\!<br>But you know what...\! My legs just can't keep still!
+
+message_443:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOh, you're bored, KEL?\! Well then, I may know of something that will interest you.
+
+message_444:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: \marWord is there's an old, empty house past the large fog south of the playground.
+
+message_445:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \aubAn old, empty house?\! Sounds kind of spooky...
+
+message_446:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herMARI...\! You always like to do scary things like this.\!<br>How do you have the stomach for it?
+
+message_447:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marI don't know...\!<br>Sometimes it's fun to get a little scared, don't you think?
+
+message_448:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelI understand you completely, MARI.\!<br>Come on, guys! Where's your sense of adventure?\!<br>Don't tell me you're all too chicken!
+
+message_449:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubAlright, fine...\! I'm in.
+
+message_450:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herSigh... I guess I'll go too, since everyone else is going.
+
+message_451:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marThat's the spirit, everyone.\!<br>Don't be scared. We're all going together!
+
+#MARI joined your party.
+
+#(Note: After this cutscene, Silent Cat disappears)
+
+message_455:
+      text: An unfinished game of cards.
+
+#------------------------------------------------------------------------------------------
+
+#After this cutscene, if you try to go on another path:
+#Before climbing ladder
+#Before entering Pyrefly Forest
+#Before swimming on pier
+#Trying to enter Vast Forest (not path)
+#Trying to board pluto
+
+message_460:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marThis isn't the way to the empty house!<br>\!Did you guys want to go do something else instead?
+#[YES/NO]
+
+#[YES]
+message_461:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marNo problem!\! Just come visit me at the path south of the playground when you're ready!
+
+#[NO]
+message_462:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marLet's head back to the forest path then...<br>the one south of the playground!
+
+#------------------------------------------------------------------------------------------
+
+#Upon examining flower fields:
+message_465:
+      text: A dead flower.
+
+#------------------------------------------------------------------------------------------
+
+#Talking to MARI at the picnic (after leaving) or reaching the picnic here:
+
+message_470:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marNice! You're all here.\! The empty house is just at the end of this path.
+
+#*Or
+
+message_471:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marNice! We're all here!
+
+#*Then
+
+message_472:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marThe house is just at the end of this path.
+
+message_473:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marLet's go!
+
+#MARI joined the party. (If you reach picnic here after leaving)
+
+#Note: You cannot talk to MARI at the basil path picnic if you did not go into Neighbor's Room first because the fog will still be too thick to enter MARI's picnic map. Basil's flower path map will be foggy, but can be accessed.
+
+#------------------------------------------------------------------------------------------
+
+#Entering Basil's House Entrance:
+
+#Camera pans down with dead trees.
+
+
+#------------------------------------------------------------------------------------------
+
+#Entering Basil's House: (Void, giant black hole covering almost all of the floor)
+
+#*Upon entering, OMORI walks alone and his party members block the entrance. STAB becomes available as an option*
+
+#*A bunch of eyes open up in the darkness and close again*
+
+#Talk to HERO
+#message_490:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \herWhoa...\! What is this place?\! It's a mess...<br>\!Who do you think it belonged to?
+
+#Talk to AUBREY or KEL
+#message_491:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 10
+#      text: \aubWatch where you're stepping KEL!<br>There isn't a floor here...
+
+#message_492:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 26
+#      text: \kelIt doesn't look like there are any ghosts, either.\!<br>\Sinv[1]Maaaaaaannnnnnnnnnnnn...\Sinv[0] What a letdown!
+
+#message_493:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marI don't know why, but I can't help but feel a little depressed in this place...
+
+#Talk to MARI again:
+message_494:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSigh...\! I guess there really is nothing here after all.
+
+#Examine black hole:
+message_495:
+      text: It's a long way down...\| Do you want to jump?
+
+#[YES/NO]
+
+#[YES]
+
+#*Screen goes black, but then suddenly stops fading out.
+
+message_497:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOMORI! What are you doing?<br>\!You look like you were just about to fall in!
+
+message_498:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marStay with me, OMORI...\! I don't want to lose you again.
+
+#*OMORI must stab himself in front of his friends.
+#*While OMORI is stabbing, his frames switch between OMORI and PLAYER's.
+
+#*After he does so, PLAYER (not OMORI) wakes up in BASIL's house alone.
+#*His friends are frozen in time and it's glitchy.
+
+#*PLAYER can fall into the hole now that he's alone.
+
+message_499:
+      text: It's a long way down...
+
+#[YES/NO]
+
+#*PLAYER falls down the hole animation.
+#*PLAYER falls in MARI's coffin map in a pool and must “face his fears” by swimming up from the pool to a forest with spider webs, then climbing a staircase.
+#*One PLAYER reaches the top of the staircase, camera pans down from top to showcase MARI's coffin before centering on PLAYER.
+
+#*When PLAYER tries to reach the coffin, PLAYER jolts back and the screen glitches out. During the glitch, PLAYER's sprite turns into OMORI's while MARI's coffin also suddenly disappears. In place of MARI's coffin is a black door.
+
+#Examine Black Door:
+message_501:
+      text: A black door casts no shadow.\! What do you want to do?
+
+#STARE AT THE DOOR
+#OPEN THE DOOR
+
+#*Select OPEN THE DOOR to enter BLACK SPACE
+
+#------------------------------------------------------------------------------------------
+
+#NEUTRAL END REUNION:
+#TRIGGER: ENTER NEIGHBORS ROOM
+
+#upon seeing OMORI, AUBREY runs across the cards to greet him.
+message_520:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Hi OMORI! We were hoping that you'd come by soon.\!<br>Wanna play cards with us? We were just about to start another game!\aub
+
+#AUBREY looks behind her.
+message_521:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh!\! Whoops...\! Nevermind.\aub
+
+#KEL looks at AUBREY and jumps.
+message_522:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Aww, man... What the heck, AUBREY!?\!<br>You messed up all the cards!\!<br>I was winning, too...\kel
+
+message_523:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hey there, KEL. There's no need to get angry.\!<br>It's just a game, after all.\her
+
+#KEL looks at HERO
+message_524:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Don't give me that, HERO!<br>You only say that ‘cause you were losing.\kel
+
+message_525:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\her
+
+#Talk to HERO
+message_526:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herWhat's up, \n[1]! We've been waiting for you!
+
+message_527:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \her\n[3] and \n[2] have been fighting a lot again...\!<br>You would think they'd get tired of it after a while, but they're both just so full of energy.
+
+#Talk to HERO again:
+message_528:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herSo did you want to head out soon?\!<br>MARI and BASIL invited us for a picnic!
+#[YES/NO]
+
+#[YES]
+message_529:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herAlright, everyone...\! Let's go!
+
+#[NO]
+message_530:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herOkay, no worries! We'll be here if you need us.
+
+#Talk to KEL
+
+message_531:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelOMORI, I wanted to thank you for being my best friend.\!<br>In return, here's a present from me to you...
+
+#*KEL spits on his hand.*
+message_532:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel\Com[2]\sinv[2]Pweh!
+
+message_533:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelNow you spit in your hand, too.
+
+message_534:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelThis is a brother's handshake.\! If you shake my hand now, then I'll dub you my honorary brother!
+
+#Do you want to shake KEL's hand?
+#[YES/NO]
+
+#[YES]
+message_535:
+      text: You shook KEL's wet hand.\! Ew...
+
+message_536:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\sinv[1]\com[2]Woo-hoo!\sinv[0] That settles it!\! Now we're destined to be bros forever!\! And that makes HERO your honorary brother now too! Heh, heh...
+
+#[NO]
+message_537:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelAww...\! Well, that's okay.
+#*KEL pats your shoulder with his wet hand*
+
+message_538:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelI consider you my honorary brother anyway!<br>Heh heh...
+
+message_539:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubKEL is always picking on me...\! Doesn't he have anything better to do?\! One day, I'm going to pour \c[3]LIFE JAM\c[0] all over his hair and see how he likes it!
+
+#*If trying to not go to Playground:
+
+message_540:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: This isn't the way to MARI's picnic!\! It's at the playground just south of the stump.\! You remember the way, right?\her
+
+#------------------------------------------------------------------------------------------
+
+#EPILOGUE - MEETING MARI
+
+#Map: Forest Playground
+#Activation: Enter Forest Playground for first time in Epilogue
+
+message_550:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: MARI! BASIL!\aub
+
+message_551:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Oh, hello AUBREY! Hello, everyone!\!<br>How are you all doing today?\mar
+
+message_552:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\Com[2]KEL'S BEING MEAN TO ME AGAIN!!\aub
+
+message_553:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: Oh, no!\! Not again...\! How could he?\mar
+
+message_554:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: Pshh, I'm not being mean! AUBREY's just being all whiny.\kel
+
+message_555:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: Well, KEL!\! You've just made a very convincing point.\! <br>Now I don't know who to believe!\mar
+
+message_556:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \Com[2]\{BELIEVE ME!!\kel\}
+
+message_557:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]\{NO, BELIEVE ME!!\aub\}
+
+message_558:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Sigh...\! Settle down, you two...\!<br>\}Why does it always have to be like this?\her
+
+message_559:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Chin up, HERO! Look at you, being all responsible.\mar
+
+message_560:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: I really like that about you... hehe...\mar
+
+message_561:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Ahh, come on, MARI!\! Not now...\her
+
+message_562:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Oh HERO, you know I'm just teasing.<br>\!You're so cute when you get all flustered!\mar
+
+message_563:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: ...\her
+
+message_564:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Hehehe...\mar
+
+message_565:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Did you want to show us your \c[4]PHOTO ALBUM\c[0] now, BASIL?\mar
+
+message_566:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Ah, okay...\! but it's nothing amazing.\bas
+
+message_567:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Oh, BASIL! Stop doubting yourself!<br>I'm sure they'll be great.\aub
+
+message_568:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: You're right, AUBREY.\!<br>Sorry...\! I'll try to believe in myself more.\bas
+
+#Basil takes out PHOTO ALBUM.
+
+message_569:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Here!\! This way we can all see.\bas
+
+#View PHOTO ALBUM. It has all 12 pictures instead of 11.
+
+message_570:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: These photos are all so charming, BASIL.\!<br>You really know how to capture the moment!\her
+
+message_571:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Thanks...\! I didn't take all of them though.\!<br>MARI likes to steal my camera sometimes.\bas
+
+message_572:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Only sometimes!\mar
+
+message_573:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basWhen I look through these photos, I feel so lucky to have friends like you.
+
+message_574:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basBefore I met you all, I only knew what it was like to be alone.
+
+message_591:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basBut you've all taught me so much...\! how to care for others and how to care for myself too!
+
+message_575:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marAwww... BASIL! You're so sweet.\! We all feel the same way about you!
+
+message_576:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubYeah, we'd do anything for each other!
+
+message_577:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelNo matter what happens, we've got each other's backs!
+
+message_578:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herUh-oh...\! \sinv[1]I'm feeling a group hug coming.
+
+message_579:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marYou know what, HERO?\! You're right.\! I think I do too!
+
+message_580:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basH-Huh? A group hug? Right now?
+
+message_581:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\com[2]I'll start!
+
+#*KEL runs to BASIL*
+
+message_582:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHey! Don't leave me and MARI out of this!
+
+message_583:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubCome on! You too, OMORI!
+
+message_584:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marGet in close, everyone!
+
+#*DW Group Shot*
+
+message_585:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herNow that would've been a good photo.
+
+message_586:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marIt's okay... We don't always need a picture.
+
+message_587:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubIt's not just about the memories...\! It's about us!\! I know that we'll all be friends for a really long time.
+
+message_588:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelWe'll always be together...\! like one big, happy family.
+
+message_589:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAww...\! You guys really are the best.
+
+#BASIL looks around at everyone
+
+message_590:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI'll cherish you all forever.
+
+#*Player regains control with KEL, AUBREY, HERO in party.
+
+#------------
+
+#Talking to BASIL at picnics.
+
+message_595:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHi, everyone!\! Did you want to look through our \c[4]PHOTO ALBUM\c[0] together?
+
+#OPEN DW album
+
+#After closing DW ALBUM:
+#60 frame wait
+message_596:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI'm so grateful to have friends like you.\!<br>I'll cherish you all forever.
+
+#------------
+
+#After this cutscene: PLAYER can stab himself in White Space at any point to continue to the 4th Day Neutral Ending.
+
+#--------
+#After wandering through Vast Forest
+
+message_700:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelHmmm...\! I don't know, guys...\! I don't think BASIL is in this forest.
+
+message_701:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBut we haven't even searched the whole forest yet!\! We can't stop now!
+
+message_702:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herIf we don't find BASIL soon, maybe we should meet up with MARI at the playground and figure out what to do from there.
+
+message_708:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herCheer up, AUBREY.\! We'll keep searching until we find him.
+
+message_710:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herBASIL has got to be around here somewhere.
+
+#--------
+#After wandering through Vast Forest
+
+message_703:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelHey! Do you think BASIL could be somewhere in this part of the forest?
+
+#hero shakes
+message_704:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubIsn't this place filled with bugs and stuff?\! OMORI and HERO don't do well with spiders...
+
+#hero shakes
+
+message_705:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herUgh...\! \quake[1]Spiders...\quake[0]
+
+message_706:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Yo HERO, are you okay?\kel
+
+message_707:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Huh? O-Oh, I'm just fine!\! Let's uh...\! Let's go see what MARI thinks first!\her
+
+
+message_1000:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHey, OMORI...\! Thanks for always being there for me.\!<br>Here's something I made for you!
+
+message_1001:
+      text: You got a \c[13]FLOWER CROWN\c[0].
+
+message_1002:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI hope it fits okay.\! I can always adjust it if it doesn't.
+
+#JUNKYARD CONVEYOR
+
+message_1012:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: \herWhy thank you, kind sir!\! Your assistance is greatly appreciated.

@@ -1,0 +1,314 @@
+# =========================================================================================
+# Cutscene: Kel's MOM
+# =========================================================================================
+
+#Trigger: Enter KEL's House.
+
+message_0:
+      text: KEL!\! HERO!\! Where have you two been?\!<br>It's so late... I've been worried sick!\n<KEL'S MOM>
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Sorry, Mom... We got held up...\!<br>But the good news is we found BASIL and he's safe.\her
+
+message_2:
+      text: \Com[2]Hmph!\! I'll have you know... I spent all week preparing the chicken roast for tonight's dinner...\n<KEL'S MOM>
+
+#KEL'S MOM looks in direction of dining room.
+
+message_3:
+      text: And...\! sniff...\! It's gotten cold.\n<KEL'S MOM>
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Oh, Mom...\! Please don't cry...\her
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Don't worry, Mom. That's what microwaves are for!\kel
+
+message_6:
+      text: \com[2]\sinv[1]Ohhhh\{hhh!\! MY POOR DINNER!!\n<KEL'S MOM>
+
+#KEL'S DAD walks up to KEL'S MOM.
+
+message_7:
+      text: There, there, honey... Cheer up...\n<KEL'S DAD>
+
+message_8:
+      text: Today's a special day... There's no need to be sad.\n<KEL'S DAD>
+
+#KEL'S DAD looks at HERO.
+
+message_9:
+      text: Look! HERO's back from college!\n<KEL'S DAD>
+
+#KEL'S DAD walks up to HERO.
+
+message_10:
+      text: It's good to see you back, champ.\n<KEL's DAD>
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Thanks, Dad.\her
+
+message_12:
+      text: Sniff...\n<KEL's MOM>
+
+message_13:
+      text: Oh, your dad is right. This is no time for sniffles.\n<KEL'S MOM>
+
+#KEL'S MOM walks up to HERO.
+
+message_14:
+      text: It's good to see you back, HERO! <br>We've all missed you so much!\n<KEL'S MOM>
+
+#Screen shakes. Everyone is surprised.
+
+message_15:
+      text: \sinv[1]\Com[2]WEEE\{EEE\{EEEA\{AAH\{HHHHHH!!!\who
+
+message_16:
+      text: Ah, it sounds like SALLY is awake!\! I'll go get her.\n<KEL'S MOM>
+
+#KEL'S MOM walks toward the staircase entrance and walks O.S.
+#KEL'S DAD walks to Dining Room then turns back.
+
+message_17:
+      text: Come on, boys. You must be hungry.\! <br>Go on and help yourselves to dinner!\n<KEL'S DAD>
+
+#KEL'S DAD walks O.S.
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Cool! Let's go grab some food and heat it up!\kel
+
+# =========================================================================================
+# Cutscene: Sleepover at Player's
+# =========================================================================================
+
+#Trigger: Examine Microwave with food.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Phew...\! Now that everything's calmed down... <br>We can finally relax a bit.\her
+
+#HERO turns to PLAYER.
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: It's so good to see you again, \n[8]!\! <br>It really has been way too long!\her
+
+#HERO turns to KEL.
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Oh, and it's good to see you again too, KEL.\her
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: So \n[8], I heard from Mom that you're moving away soon! That sounds so exciting!\her
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Yeah, he is.\! Tomorrow's gonna be his last day with us.\kel
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Moving might seem kind of nerve-wracking now, but it really isn't so bad once you get used to it.\! <br>I think it would be good for you, \n[8].\her
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: You learn a lot moving to a new place, and it's nice to have<br>a fresh start!\! I'm a little sad to see you go, but it'll<br>be okay as long as we keep in touch.\her
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Sigh...\! We sure did have a lot of memories together.\! Sometimes I miss those days...\!<br>Lazing around...\! Eating food...\! Drinking juice...\kel
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Yeah, we did everything together.\!<br>We went to the park, the lake, the beach...\! But honestly, what I miss the most is hanging out at your place, \n[8]!\her
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: You guys had everything...\!<br>A big TV, all the newest toys, a grand piano...\!<br>and, of course, our very own treehouse!\her
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Oh yeah! The treehouse was awesome!\! <br>I wonder if it's still there.\! Is it, \n[8]?\kel
+
+#Microwaved food is done.
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Looks like the food's done!\! Let's eat in the living room.\!<br>We can continue chatting there!\her
+
+# =========================================================================================
+# Cutscene: Convincing Kel's MOM
+# =========================================================================================
+
+#Enter KEL'S Living Room.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: By the way, HERO...\!<br>BASIL gave \n[8] his \c[4]PHOTO ALBUM\c[0] yesterday!\!<br>Did you wanna see it? \kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: You have BASIL'S \c[4]PHOTO ALBUM\c[0] on you?\!<br>Sure, let's look through the album while we eat dinner!\her
+
+#Slide: Basil's PHOTO ALBUM (Faraway - Missing Photos)
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: It's too bad that some photos are missing...\! AUBREY stole the album from BASIL, but we got it back.\! Maybe she has the rest of the photos.\kel
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: ... ... ...\her
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: H-Hey, HERO, what's up? Are you okay?\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Yeah...\! I-It's just that...\! Well...\! <br>MARI isn't in any of these photos.\her
+
+#KEL is surprised.
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Oh, you're right... She isn't.\kel
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Sigh...\! Still, this album really brings back some good memories.\! Things were a lot simpler when we were all kids... Haha...\her
+
+#HERO turns to PLAYER.
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \n[8], I have a favor to ask.\her
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Do you think you could let us see your house one more time before you leave?\her
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Oh, that's a good idea!\!<br>But you gotta convince Mom first.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: She's probably gonna be kinda mad about you not spending <br>enough time with her and stuff.\! You know how she is...\kel
+
+#KEL'S MOM comes in with SALLY.
+
+message_82:
+      text: \Com[2]Phew! What a mess that was!\!<br>SALLY made a little doo-doo, but she's all clean now!\n<KEL'S MOM>
+
+message_83:
+      text: \sinv[1]Pwe\{ee!\!\} Ubuu\}uuu...?\n<SALLY>
+
+#KEL gets up and goes to SALLY.
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hey there, SALLY...\!<br>\{\sinv[1]PEEK-A-BOO!\kel
+
+message_85:
+      text: \sinv[1]\Com[2]WEEE\{EEE\{EEEA\{AAH\{HHH!!!\n<SALLY>
+
+message_86:
+      text: Stop it, KEL! You're scaring her!\n<KEL'S MOM>
+
+#HERO is sweating and looks at KEL'S MOM.
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Ahem...\! So...\! Uh...\! Hey...\! Mom...\! We were wondering if we could go hang out at \n[8]'s house today, since he's moving away soon.\her
+
+#KEL'S MOM is surprised.
+
+message_88:
+      text: Oh?\! But you just came back!\! And it's already so late.\! <br>What about spending time with your mom?\n<KEL'S MOM>
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: I'm going to be here for the rest of summer, and \n[8] is leaving the day after tomorrow!\!<br>We have plenty of time to catch up...\her
+
+#KEL'S DAD walks up to KEL'S MOM.
+
+message_90:
+      text: I think it's okay for HERO to spend some time with KEL and \n[8].\! I haven't seen \n[8] around for a long time now!\n<KEL'S DAD>
+
+message_91:
+      text: It's been a while since the boys have had the chance to hang out.\! I say we should let them.\n<KEL'S DAD>
+
+#KEL'S MOM turns around.
+
+message_92:
+      text: \sinv[1]Sigh...\sinv[0]\! Fine, then.\! You boys can have your fun...\n<KEL'S MOM>
+
+message_93:
+      text: But HERO has to wash the dishes with me for the next week!\n<KEL'S MOM>
+
+#HERO is surprised.
+
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: S-Sure...\! I guess... I can do that.\her
+
+message_95:
+      text: \Com[2]Hmph!\! Alright... You're free to go!\n<KEL'S MOM>
+
+#KEL'S MOM turns to the side.
+
+message_96:
+      text: Come on, SALLY. Let's leave your mean ol' brothers alone.\! <br>They don't want anything to do with us, do they, SALLY?\n<KEL'S MOM>
+
+#KEL'S MOM walks O.S.
+
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: Oh, Mom...\her
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelI have to get ready first!\! Let's go to my room before we leave!

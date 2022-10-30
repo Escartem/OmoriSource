@@ -1,0 +1,265 @@
+# =========================================================================================
+# Cutscene: Kel at the Door
+# =========================================================================================
+
+#Trigger: Defeating SPACE EX-BOYFRIEND
+
+message_0:
+      text: \who\Sinv[1]Helllooooo...\! Helllloooooooooooo?\!<br>\n[8]?\! Are you there?\who\sinv[0]
+
+message_1:
+      text: Do you remember me?\! It's your old friend, KEL!\who
+
+message_2:
+      text: So, I...\! uh...\! I noticed the “FOR SALE” sign in front of your house...\! and I...\! err...\! heard from my mom that you were moving away soon.\kel
+
+message_3:
+      text: I was wondering...\! if you wanted to hang out one more time before you go... or whatever...\! for old time's sake, y'know?\kel
+
+message_4:
+      text: ... ... ...\! <br>\sinv[1]Hellloooooooo?\! \n[8]?\! Are you there?\kel
+
+#Switch to PLAYER'S LIVING ROOM REVERSE (map780)
+#[OPEN THE DOOR / DO NOTHING]
+
+# =========================================================================================
+# Cutscene: First Day with Kel
+# =========================================================================================
+
+#Trigger: Choose [OPEN THE DOOR or DO NOTHING]
+
+message_5:
+      text: Are you sure?\!<br>You can't take back this decision.
+
+#YES/NO
+
+message_6:
+      text: Are you really sure?
+
+#YES/NO
+
+#Trigger: Choose [OPEN THE DOOR]
+#OMORI opens the door.
+#OMORI walks out
+#Screen flashes white
+#Kel intro animation
+
+#Switch to FARAWAY TOWN - PLAYER'S STREET
+#PLAYER is standing on his porch.
+
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \Com[2]Whoa, you actually came out!\kel
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Err...\! I-I mean...\kel
+
+#KEL puts his hand behind his head.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Okay, I'm going to be honest with you, \n[8].\! <br>I really didn't expect you to come out today, so I don't really have a game plan here.\kel
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Hey, I know! Let's go to \c[11]HOBBEEZ\c[0]!\!<br>It's the hobby shop in the \c[11]FARAWAY PLAZA\c[0].\kel
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: You remember the way, right?\!<br>We used to go there all the time when we were kids.\kel
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Well, what are we waiting for?\kel
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \Com[2]\{LET'S GO!!\}\kel
+
+#Trigger: Choose [DO NOTHING]
+#Switch to original living room map
+#Walk 3 steps any direction
+
+message_19:
+      text: Oh...\! Alright, then... I understand.\!<br>...\! Well, I guess I gave it a shot...\kel
+
+
+# =========================================================================================
+# Cutscene: Scooter Gang
+# =========================================================================================
+
+#Trigger: Enter proximity in Crossroads
+
+
+message_30:
+      text: \{\{\Com[2]OUT OF THE WAY, NERDS!!\who
+
+#The Scooter Gang passes through.
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Ugh, it's... them.\!<br>Let's hope we don't bump into those guys again.\kel
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Those guys are nothing but trouble,<br>and I want today to be a good day!\kel
+
+
+# =========================================================================================
+# Cutscene: This is Hobbeez
+# =========================================================================================
+
+#Trigger: Enter Hobby Shop
+
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Well...\! Here we are at \c[11]HOBBEEZ\c[0]!\kel
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: It's probably been a while since you were here...\! but it hasn't really changed all that much!\kel
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: It's all the same old stuff...\! <br>CAPT. SPACEBOY games, SWEETHEART movies, a few \c[13]PET ROCKS\c[0]...\! except now they're vintage!\kel
+
+#KEL has an idea.
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Actually...\! Since we're here, I should probably buy a gift for HERO.\! He's in college right now, but he should be coming back sometime tomorrow.\kel
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: He's studying to be a doctor, so maybe I should buy him...\!<br>some medicine?\kel
+
+#KEL puts his hand behind his head.
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: No, that's a horrible idea.\kel
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: You should help pick out the gift, \n[8].\!<br>Let's look around and see what there is!\kel
+
+# =========================================================================================
+# Cutscene: Buying Hero's Gift
+# =========================================================================================
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \{\Com[2]WAIT, HOLD UP, \n[8]!!\}\kel
+
+message_58:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: I know it's been a while since you've been over at my place, but now might not be a good time, heh heh...\!\kel
+
+
+#Trigger: Examine book in Hobby Shop.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: This...\! Yes!\! This is perfect!\!<br>PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Wow, that's a mouthful.\kel
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: HERO had a copy of this when we were kids, <br>but our dog, HECTOR, destroyed it.\kel
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: He's going to be so happy when he sees this...\kel
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: But before that...\!<br>We need to ask the most important question!\!<br>How much...\! does it cost?\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ... \kel
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \Com[2]$20.00!?\! This is extortion!\kel
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Shoot! I left my wallet at home...\!<br>Err...\! Can you spot me, \n[8]?\!<br>I'll pay you back, I promise.\kel
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Thanks, friend! I knew I could count on you!\kel
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hey, SHOPKEEP! We'd like to buy this cookbook, please!\kel
+
+message_80:
+      text: KEL! How've you been, buddy?\!<br>It's been a while since you've come around, hasn't it?\n<SHOPKEEP>
+
+#Pedro hair flip
+
+message_81:
+      text: Ah, that's PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\!<br>I see you have good taste!\n<SHOPKEEP>
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Yeah, my brother used to follow his recipes all the time!\!<br>His cookies were my favorite.\kel
+
+message_83:
+      text: It's rare that I see another fan of PAPA CHIP's work.\!<br>That'll be $20.00, please!\n<SHOPKEEP>
+
+#Currency noise
+message_84:
+      text: Thank you, kind sirs!\! Please enjoy!\n<SHOPKEEP>
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Thanks a lot, \n[8]! I bet HERO will love this!\kel
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelRated M for mature, huh?\! That's too violent for HERO!\! He definitely won't appreciate something like this.

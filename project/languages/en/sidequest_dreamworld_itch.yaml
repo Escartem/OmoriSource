@@ -1,0 +1,42 @@
+# =========================================================================================
+# Itch
+# ========================================================================================
+
+#Talk to Dino 4's Top Half
+
+message_1:
+      text: \n<SCOTT>\sinv[1]Howdy-ho, youngins'!\sinv[0]\!<br>Y'all mind doing me a favor?\!<br>I needja to scratch an itch for me...
+
+message_2:
+      text: \n<SCOTT>It's on my bottom, so I can't really get to it.\!<br>Ugh...\! It's just \sinv[1]absolutely killing\sinv[0] me!
+
+#Talk to Dino 4's Bottom Half
+
+message_3:
+      text: You scratched SCOTT's bottom.
+
+#Screen shakes
+
+message_4:
+      text: \n<SCOTT>\sinv[1]Ahhh...\! Much better...\sinv[0]
+
+#Talk to Dino 4's Top Half
+
+message_5:
+      text: \n<SCOTT>Hey! You must be the kids who scratched my itch.\!<br>What a \sinv[1]huge relief\sinv[0]...
+
+message_6:
+      text: \n<SCOTT>Here, take this.\!<br>We actually have too many of these things.\!<br>I'm sure it'll come in handy one way or another!
+
+message_7:
+      text: You got a \c[13]HARD HAT\c[0].
+
+message_10:
+      text: \n<SCOTT>Stay safe, kids!\! I really can't thank you enough!
+
+#Quest complete
+
+#After quest dialogue
+
+message_8:
+      text: \n<SCOTT>Hey!\! You're the kids who scratched my itch.\!<br>That was a \sinv[1]huge relief!\sinv[0]

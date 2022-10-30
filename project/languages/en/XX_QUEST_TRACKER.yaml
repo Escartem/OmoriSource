@@ -1,0 +1,410 @@
+# =========================================================================================
+# QUEST TRACKER - INTRO
+# =========================================================================================
+
+message_0:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marHello, \n[1]! Hello, everyone!<brl>\!How are you all doing today?
+
+message_1:
+    faceset: 02_AUBREY_OW
+    faceindex: 6
+    text: >
+        \aubHi, MARI!
+
+message_2:
+    faceset: 02_AUBREY_OW
+    faceindex: 3
+    text: >
+        \aub\Com[1000]\{\n[3]'s being mean to me again!\}
+
+message_3:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marOh, no! Not again!<brl>How could he!
+
+message_4:
+    faceset: 03_KEL_OW1
+    faceindex: 0
+    text: >
+        \kel\Com[1000]\{PSHHH, I'm not being mean!\}<brl>It's just AUBREY's being all whiny...
+
+message_5:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marHmmm... \!Well \n[3], you've made a very convincing point!<brl>Now I don't know who to believe!
+
+message_6:
+    faceset: 03_KEL_OW1
+    faceindex: 0
+    text: >
+        \kel\Com[1000]\{BELIEVE ME!\}
+
+message_7:
+    faceset: 02_AUBREY_OW
+    faceindex: 3
+    text: >
+        \aub\Com[1000]\{NO, BELIEVE ME!!\}
+
+message_8:
+    faceset: 04_HERO_OW
+    faceindex: 2
+    text: >
+        \herSigh...<brl>Come on, you two. Settle down...<brl>\}
+
+message_9:
+    faceset: 04_HERO_BATTLE
+    faceindex: 17
+    text: >
+        \her\}Why does it have to always be like this...\{
+
+message_10:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marAwwww, chin up, \n[4]! Look at you, being all responsible.
+
+message_11:
+    faceset: 05_MARI_OW
+    faceindex: 7
+    text: >
+      \marI really like that about you, hehe...
+
+message_12:
+    faceset: 04_HERO_OW
+    faceindex: 0
+    text: >
+      \herAhh, come on, MARI! Not now...
+
+message_13:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+      \marOh \n[4], you know I'm just teasing.<brl>You're so cute when you get all flustered!
+
+message_14:
+    faceset: 04_HERO_OW
+    faceindex: 2
+    text: >
+      \her. . .
+
+message_15:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marHehehe... It's really nice of you guys to drop by!
+
+message_17:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+      \marI'll be around whenever you need me.\!<brl>If you're ever stuck or don't know what to do, just talk to me, and I'll try my best to help!
+
+# =========================================================================================
+# QUEST TRACKER - OMORI IS LEADER
+# =========================================================================================
+
+message_18:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marHi, OMORI! Cliff-faced as usual, I see.\! You should totally smile more! I've always liked your smile.
+
+# =========================================================================================
+# QUEST TRACKER - KEL IS LEADER
+# =========================================================================================
+
+message_19:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+      \marYo \n[3], what's up!\! You look like you've grown just a bit taller! Maybe one day, you'll even be taller than \n[4]! Keep it up!
+
+# =========================================================================================
+# QUEST TRACKER - AUBREY IS LEADER
+# =========================================================================================
+
+message_20:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marWell, hello there, \n[2]! Looking cute today.\!<brl>You always take such good care of your hair!
+
+# =========================================================================================
+# QUEST TRACKER - HERO IS LEADER
+# =========================================================================================
+
+message_21:
+    faceset: 05_MARI_OW
+    faceindex: 7
+    text: >
+      \marHi there, handsome.
+
+# =========================================================================================
+# QUEST TRACKER - DEFAULT
+# =========================================================================================
+
+message_22:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marSo what do you need help with today?
+
+message_23:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marSo what do you need help with today?
+
+# =========================================================================================
+# LOST BALL
+# =========================================================================================
+
+message_24:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marYou're heading to \c[11]VAST FOREST\c[0] to find \c[4]BERLY'S BALL\c[0], <brl>aren't you?\! Better be careful! There are enemies afoot!
+
+message_25:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marIf you're not sure how to defend yourself, you should read this \c[4]ALL ABOUT BATTLES\c[0] book I found!\! It's right here next to me if you need it.
+
+message_26:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marNice, you got \c[4]BERLY'S BALL\c[0] back! She's so ecstatic, she even wants to give you something as a thank-you.\!<brl>How rare for her!
+
+# =========================================================================================
+# MISSING GRANDSON
+# =========================================================================================
+
+message_27:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+        \marOh, no! BASIL's gone missing? His GRANDMA said he was heading to the \c[11]TRAIN STATION\c[0], right?\! That's probably a good place to start.
+
+message_28:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marLooks like BASIL took the \c[4]TRAIN\c[0], so I guess that means you all need a \c[4]TRAIN PASS\c[0]!\! Time to wait in line! Patience is a virtue, you know.
+
+message_29:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marDarn... You can't really look for BASIL until you get that darn \c[4]TRAIN PASS\c[0] first, huh?
+
+message_30:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marSigh... You finally got your \c[4]TRAIN PASS\c[0], but it's too bad that the \c[4]TRAIN\c[0]'s already left.
+
+message_31:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+      \marGuess there's not much else to do here, huh?
+
+# =========================================================================================
+# KEVIN
+# =========================================================================================
+
+message_32:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+      \marSorry, KEL. I have no idea where \c[13]HECTOR\c[0] is.\! I'm sure he'll turn up eventually...
+
+# =========================================================================================
+# DAISY'S DILEMMA
+# =========================================================================================
+
+message_33:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marAwww, DAISY is trying to get her crush to notice her with a \c[4]FLOWER PUZZLE\c[0]! How cute!
+
+message_34:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \mar\c[4]FLOWER PUZZLES\c[0] are pretty hard to find, but wouldn't it be so worth it?
+
+
+# =========================================================================================
+# WEAK WINDS
+# =========================================================================================
+
+message_35:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+       \marKITE KID thinks one of the pinwheels is broken.\! If only someone could climb up one and find out what's wrong...
+
+# =========================================================================================
+# TRAIN PASS TROUBLES
+# =========================================================================================
+
+message_36:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marIt looks like someone left their \c[4]TRAIN PASS\c[0] in \c[11]OTHERWORLD\c[0]!\! You can get there by climbing up the ladder in \c[11]EAST FOREST\c[0].
+
+message_37:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marWhy don't you try talking to the SPACE PIRATES north of \c[11]OTHERWORLD CAMPSITE\c[0]? They might know a thing or two.
+
+
+message_38:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marOh no! It looks like SPACE BOYFRIEND's \c[4]SPECIAL MIXTAPE\c[0] was accidentally thrown away!\! It must be somewhere in the \c[11]JUNKYARD\c[0].
+
+message_39:
+    faceset: 05_MARI_OW
+    faceindex: 1
+    text: >
+        \marThere's a shortcut to the \c[11]JUNKYARD\c[0] from SPACE BOYFRIEND's backyard.\! Sounds like a good idea to start there.
+
+message_40:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+        \marOh no! ROSA has stolen the \c[4]SPECIAL MIXTAPE\c[0] and won't give it back...\! There must be a way to convince her.
+
+message_41:
+    faceset: 05_MARI_OW
+    faceindex: 5
+    text: >
+        \marBLACKMAIL? How could you??\! You should be ashamed, \n[1]!
+
+message_45:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marHehe, just kidding!
+
+message_46:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marAlright, you finally got the \c[4]SPECIAL MIXTAPE\c[0]!\! Now all you have to do is return it to SPACE BOYFRIEND!
+
+# =========================================================================================
+# STICK IN THE MUD
+# =========================================================================================
+
+message_47:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marMR. SCARECROW's friends have been scattered around the \c[11]CATTAIL FIELD\c[0].\!<br>You should reunite them soon.\! He seems a little lonely...
+
+
+# =========================================================================================
+# STRANGE REQUEST
+# =========================================================================================
+
+message_48:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marTVGIRL asked you to get some things from a \c[4]STRANGE LIST\c[0] with some strange things on it.\! How strange!
+
+# =========================================================================================
+# THE B.E.D.
+# =========================================================================================
+
+message_49:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marSHADY MOLE is looking for a \c[4]B.E.D.\c[0], right?\! MAYOR MOLE would know all about that! He works with his son in the basement under the school.
+
+message_50:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marMAYOR MOLE seems pretty preoccupied with worrying about his son.\! Maybe he'll help us if we find him first!
+
+message_51:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marAfter an odd set of events, you've gotten yourself a \c[4]B.E.D.\c[0]!\! Is it okay to give it to SHADY MOLE, though?
+
+
+# =========================================================================================
+# TOFU TIDBIT
+# =========================================================================================
+
+message_52:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marA very sweaty SPROUT MOLE is looking for some \c[3]TOFU\c[0].\! How do you not have any already? It's literally everywhere!
+
+
+# =========================================================================================
+# CONGRATULATIONS - SPACE EX-BOYFRIEND
+# =========================================================================================
+
+message_53:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marGreat job, you guys!\! Thanks to you, all is at peace with<brl>CAPT. SPACEBOY's crew, and you even got your \c[4]TRAIN PASS\c[0]!
+
+message_54:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marIf you hurry, maybe you can make it on the train in time!
+
+message_55:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+         It's too bad that the TRAIN's already left...
+
+# =========================================================================================
+# QUEST TRACKER - QUEST COMPLETE
+# =========================================================================================
+
+message_42:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marYou completed this quest already!<brl>Looks like you don't need my help after all, hehe.
+
+message_43:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+
+
+# =========================================================================================
+# QUEST TRACKER - END
+# =========================================================================================
+
+message_44:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marHope to have helped just a little.<brl>I'll be here if you need me!

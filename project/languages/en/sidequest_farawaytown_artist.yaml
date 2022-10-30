@@ -1,0 +1,68 @@
+# =========================================================================================
+# Sidequest: Agree with me!
+# =========================================================================================
+
+#TRIGGER: Talk to Artist
+#Note: Player must talk to ARTIST 3 times consecutively to complete the quest
+
+#          [[[First conversation:]]]
+message_0:
+      text: \artLook at this sketch for me.\!<br>What do you think?\! The drawing looks too stiff, doesn't it?
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_1:
+      text: \artThanks, I thought so too.
+#[Animation: ARTIST Painting]
+#message_20
+message_2:
+      text: \artAh... that looks so much better.
+# [Shake]
+message_3:
+      text: \artReally?\! Hmm...\! I don't know...\! It looks a little stiff.
+
+#         [[[Second conversation:]]]
+message_4:
+      text: \artHey, can I poke you for a minute?\!<br>I feel like this piece is missing something.\!<br>Maybe the character needs a little more detail?
+
+message_5:
+      text: \art...\! Oh, I know!\!<br>I can add some detail right here, here, here, and here!\!<br>That would work, wouldn't it?
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_6:
+      text: \artOf course... it's so obvious, don't you think?
+#[Animation: ARTIST Painting]
+#message_20
+message_7:
+      text: \artAh, beautiful.\!<br>The extra detail really does make a difference!
+# [Shake]
+message_8:
+      text: \artHmm...\! Are you sure?\!<br>I feel like it could really use a little more detail...
+
+#          [[[Third conversation:]]]
+message_9:
+      text: \artHey, could I get your opinion for a sec?\!<br>What do you think about the color here?\!<br>Should I make the background red or blue?
+
+message_10:
+      text: \art...\! Wait, don't answer.\!<br>It would definitely look better with a red background, right?
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_11:
+      text: \artI completely agree!\!<br>Red is undoubtedly the right choice here.\!<br>Red will bring this painting to the next level!
+#[Animation: ARTIST Painting]
+#message_20
+message_12:
+      text: \artThe piece is finally done!
+#looks at PLAYER
+message_13:
+      text: \artThanks.\! I couldn't have done this without you.
+
+# [Shake]
+message_14:
+      text: \artReally?\! I thought red would work really well...
+
+
+message_19:
+      text: \artYes... it's all coming to me now!\!<br>\sinv[1]\{INSPIRATION HAS STRIKETH!!
+#VOILA
+message_20:
+      text: \artAnd...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}

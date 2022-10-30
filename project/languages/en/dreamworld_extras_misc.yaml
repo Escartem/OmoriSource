@@ -1,0 +1,466 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Waking up in White Space on Night 1:
+
+message_0:
+      text: You checked your pocket for a BLACK KEY...\!<br>but it wasn't there.
+
+#After completing all 3 slime girls routes:
+
+message_1:
+      text: \swh\Com[2]\{CAN NO ONE HERE DO ANYTHING!?!?
+
+#Before putting together Basil's photo album:
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basHmm... darn...\!<br>I don't think I remember the order of all these photos...
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herDon't worry about a thing, BASIL.\! OMORI has really a good memory, so I'm sure we'll figure this out in no time!
+
+# Examining Mirror when Alone
+
+message_4:
+      text: You see that you are alone in the mirror.\!<br>You don't like it.
+
+# Picking up knife in white space:
+
+message_5:
+      text: You stare into the reflection of the knife.\!<br>It knows you well.
+
+#When checking out a telescope
+message_6:
+      text: A shiny telescope.\! Do you want to check out the view?
+
+# =========================================================================================
+# Rain town
+# =========================================================================================
+
+message_20:
+      text: The inhabitants of \c[11]RAIN TOWN\c[0] are in danger!\! There is too much rain spreading on their lands, and it's making them uncomfortable!
+
+message_21:
+      text: Find the nozzle on the top left of the map and examine it.
+
+message_22:
+      text: The rain drizzles, and the inhabitants of \c[11]RAIN TOWN\c[0] are comfortable again.
+
+# =========================================================================================
+# WEEPING WILLOW
+# =========================================================================================
+
+#WEEPING WILLOW rises from the lake.
+
+message_40:
+      text: \n<WEEPING WILLOW>Sigh...\! Hey, it's me, WEEPING WILLOW, the goddess of the lake.\!<br>Thanks for the CLAMS, I guess.
+
+message_41:
+      text: \n<WEEPING WILLOW>They say that money can buy happiness,<br>but apparently it's not working...
+
+message_42:
+      text: \n<WEEPING WILLOW>Can you do something funny for me?\!<br>Maybe tell a joke?
+
+#If Player does not have Joke Book or has no Jokes
+
+message_43:
+      text: \n<WEEPING WILLOW>...\! It doesn't look like you have any material on you.\!<br>Come back when you have a joke or two.
+
+#[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
+
+message_44:
+      text: \n<WEEPING WILLOW>Sigh...\! Okay, what is it?
+
+message_45:
+      text: Do you want to read WEEPING WILLOW a joke from the<br>\c[4]JOKE BOOK\c[0]?
+
+#yes/no
+
+#yes (if Hero)
+message_46:
+      text: Which joke would you like to read?
+
+#List of jokes appear
+
+#Badumtss! SFX plays. (Party member except HERO will face forward at the same time, or none of them face forward.)
+
+#Depending on the joke that is told, WEEPING WILLOW will cry with an intensity of 1, 2, or 3.
+
+
+
+#yes (if not Hero)
+message_47:
+      text: You open the \c[4]JOKE BOOK\c[0]...
+
+message_48:
+      text: The contents of this book are too embarrassing to read out loud.\! Maybe someone older would be able to do it.
+
+message_49:
+      text: \n<WEEPING WILLOW>Really?\! You called me out here for nothing?
+
+message_50:
+      text: \n<WEEPING WILLOW>Sigh...\! What a waste of time...
+
+#WEEPING WILLOW sinks back down into the lake.
+
+
+#================================ JOKES ==================================
+
+#Every time a PLAYER finds a joke on a poster, a badumtss! SFX will play and the party members will all face forward at the same time.
+
+#JOKE 1: Location: OTHERWORLD stuck on a storage unit
+
+message_60:
+      text: \"Did you hear about the restaurant on the Moon?\"
+
+message_61:
+      text: \"There's great food, but no atmosphere.\"
+
+#JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
+
+message_62:
+      text: \"Why did the scarecrow win an award?\"
+
+message_63:
+      text: \"Because he was outstanding in his field.\"
+
+
+#JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
+
+message_64:
+      text: \"Why couldn't the bicycle stand up by itself?\"
+
+message_65:
+      text: \"It was two tired.\"
+
+#JOKE 4: Location: FROZEN FOREST in an igloo.
+
+message_66:
+      text: \"How does a penguin build a house?\"
+
+message_67:
+      text: \"Igloos it together.\"
+
+#JOKE 5: Location: ORANGE OASIS on a cave wall.
+
+message_68:
+      text: \"What do you call cheese that isn't yours?\"
+
+message_69:
+      text: \"Nacho cheese.\"
+
+#JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
+
+message_70:
+      text: \"What lies at the bottom of the ocean and twitches?\"
+
+message_71:
+      text: \"A nervous wreck.\"
+
+#JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
+
+message_72:
+      text: \"Want to hear a joke about construction?\"
+
+message_73:
+      text: \"I'm still working on it.\"
+
+message_74:
+      text: You jotted the joke down in your \c[4]JOKE BOOK\c[0].
+
+message_75:
+      text: You got a \c[4]JOKE BOOK\c[0]!
+
+#================================ CRYING RESPONSES ==================================
+
+# Crying level 1
+
+message_90:
+      text: \n<WEEPING WILLOW>Sniff...\! That joke...\! That joke was so bad...\!<br>It just makes me want to...
+
+message_91:
+      text: \n<WEEPING WILLOW>Sniff...\! Sniff...\! \SINV[1]Wehhhhhhhhhh...\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 2
+
+message_92:
+      text: \n<WEEPING WILLOW>\SINV[1]Wehhhh...\SINV[0]\!\Com[2]\SINV[2]Weaa\{aaeeeeaahh\{hhhhhhhhhhhh!!\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 3
+
+message_93:
+      text: \n<WEEPING WILLOW>\Com[2]\Quake[1]WEE\{\Com[2]AHHHH\{\Com[2]HHHHHH\{HHHHH\{HHHH!!!\Quake[0]
+
+# Tolerable Joke:
+
+message_94:
+      text: \n<WEEPING WILLOW>Sniff... \!Sniff... \!Hehe...
+
+message_95:
+      text: \n<WEEPING WILLOW>H-Hey...\! That joke's pretty funny...
+
+message_96:
+      text: \n<WEEPING WILLOW>\sinv[1]Hehehehe...
+
+#WEEPING WILLOW transforms to happy WEEPING WILLOW
+
+message_97:
+      text: \n<WILLOW>Ah...\! I feel a little better now.
+
+#GOD RAYS appeared
+#A sword floats down in front of Party
+
+message_98:
+      text: \n<WILLOW>Thanks for cheering me up, travelers.
+
+message_99:
+      text: \n<WILLOW>Here is a reward for your valiant efforts.
+
+message_100:
+      text: \n<WILLOW>This is an ancient weapon of indescribable power.
+
+message_101:
+      text: \n<WILLOW>Only a true HERO is able to wield it.
+
+#God SFX
+
+message_102:
+      text: \n<WILLOW>Ah... The gods are calling for me.\!<br>I'm afraid it's time to take my leave.
+
+message_103:
+      text: \n<WILLOW>Our time together was short, but it has been a...\!<br>mostly...\! pleasurable experience.
+
+message_104:
+      text: \n<WILLOW>Perhaps we will meet again in another life.\!<br>So long, travelers! It's been fun!
+
+#God rays disappear
+
+#Examine sword
+
+message_110:
+      text: You got the \c[13]LOL SWORD\c[0].
+
+# =========================================================================================
+# Hide and Seek with yourself
+# =========================================================================================
+
+#Night 3, upon entering FOREST PLAYGROUND, no one will be there.
+#If PLAYER examines the tetherball pole, it will prompt the message:
+
+message_120:
+      text: Do you want to play hide-and-seek?
+
+#yes
+#Screen turns black.
+
+message_121:
+      text: 5...\! 4...\! 3...\! 2...\! 1...
+
+#The mirror will appear on a random location on the map.
+#If you examine the mirror, the mirror slide will show. (Only OMORI is in the mirror)
+
+message_122:
+      text: Found you!
+
+#Then the mirror slide will fade out.
+
+message_123:
+      text: Do you want to play again?
+
+#no
+#Mirror disappears
+
+# =========================================================================================
+# Deep Well
+# =========================================================================================
+
+#Taxi Ride-
+
+message_140:
+      text: \n<TAXI DRIVER>Hey, kid! You wanna go somewhere \SINV[1]cool\SINV[0]?\!<br>You should go to the \c[11]LAST RESORT\c[0]!<br>It's the hottest, trendiest place to be these days!
+
+message_141:
+      text: \n<TAXI DRIVER>I can take you there if you want, kid!\! It's all the rage.
+
+message_142:
+      text: \n<TAXI DRIVER>Come on...\! Don't be shy!\! I don't bite...\! much.
+
+message_143:
+      text: \n<TAXI DRIVER>Hey, kid! You wanna ride back to the \c[11]DEEP WELL\c[0]?\! I'll drive you as much as you want!\! It ain't a big deal to me... I get paid salary! Keh heh!
+
+message_144:
+      text: \n<TAXI DRIVER>Hmm...\! It seems like you're coming up a little short...\!<br>Well, that's fine.\! I'll just take everything you have-
+
+message_145:
+      text: \n<TAXI DRIVER>Hey, wait a minute! Ya got nothin'!\!<br>Must've gotten scammed real bad, kid... I pity you.
+
+#after Ride
+
+message_150:
+      text: \n<TAXI DRIVER>A lil' bumpy, but not all that bad.\! Come back anytime, kid.
+
+message_151:
+      text: \n<TAXI DRIVER>Come back anytime, kid.
+
+#If HERO is in party
+message_152:
+      text: \n<TAXI DRIVER>Need a lift back to \c[11]LAST RESORT\c[0]?\!<br>Anything for the boss's right hand man!
+
+#If HERO is manager
+message_153:
+      text: \n<TAXI DRIVER>Need a lift back to \c[11]LAST RESORT\c[0]?\!<br>Anything for you, boss!
+
+#If HERO is in party
+message_154:
+      text: \n<TAXI DRIVER>Need a lift back to the \c[11]DEEP WELL\c[0]?\!<br>Anything for the boss's right hand man!
+
+#If HERO is manager
+message_155:
+      text: \n<TAXI DRIVER>Need a lift back to the \c[11]DEEP WELL\c[0]?\!<br>Anything for you, boss!
+
+
+# =========================================================================================
+# First Time In OTHERWORLD
+# =========================================================================================
+
+
+message_200:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\Com[2]\{\{FIRST!!!\}\}
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herHuff... Huff...\! The ladder...
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herIt just...\! Huff... Huff...\! Never ends...
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]\{\{BAHAHAHAHA!!!\}
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]That's one small step for KEL...\.<br>and one large step for KELKIND!!
+
+message_205:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubThat's not how it goes!
+
+message_206:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelYou don't get to decide how it goes...<br>You weren't here first!
+
+message_207:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubWait, hold on...\!<br>\Com[2]\{IS THAT MY \c[4]BUTT CERTIFICATE\c[0]??\}\!
+
+message_208:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\{TAKE THAT THING DOWN RIGHT NOW!\}
+
+message_209:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubWhat if somebody sees it?
+
+message_210:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelNo way!<br>Look at this thing fluttering in the wind.
+
+message_211:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\sinv[1]So majestic...\| So beautiful...
+
+message_212:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aub\Com[2]\{HERO! DO SOMETHING!\}
+
+message_213:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\}Huff... Huff...\!\{ One... Sec... \!\}Huff... Huff...\!\{ Just... \}Huff... Huff...\!\{ Catching my breath... \}Huff... Huff...
+
+message_214:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herActually...\!\} Huff... Huff...\{\! Give me a minute...
+
+message_215:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub... ... ...\! Nevermind.
+
+message_216:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herMan, I know there's a reason why we've never climbed this thing, but I can't put my finger on it...
+
+message_217:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \her It's on the tip of my tongue...
+
+message_218:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herOh, well...\! Here goes nothing!
+
+message_219:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelHey OMORI, that's not the right way to BASIL's house!
+
+
+# =========================================================================================
+# MOONWALK
+# =========================================================================================
+
+message_250:
+      text: Would you like to moonwalk?
+
+#YES/NO
+
+#back of sign
+
+message_252:
+      text: There's message written on the back.
+
+message_253:
+      text: \"Please... don't make the same mistake I made...<br>\!-M\"
+
+# =========================================================================================
+# BATTLE: THE WORLD
+# =========================================================================================
+
+message_300:
+      text: The EARTH looks peaceful.\!<br>Would you like to disturb it?
+
+# =========================================================================================
+# PYREFLY IX WEB
+# =========================================================================================
+
+message_400:
+      text: This web is too strong to be cut.

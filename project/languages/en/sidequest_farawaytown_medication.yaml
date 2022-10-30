@@ -1,0 +1,67 @@
+
+# =========================================================================================
+# Sidequest: Medication
+# =========================================================================================
+
+message_1:
+      text: \n<YELLOW BUN GRANNY>Cough...\! cough...\! Excuse me...\! Sorry to impose, but you look like some trustworthy people.\! Do you think you can help me?
+
+message_2:
+      text: \n<YELLOW BUN GRANNY>I need to pick up this week's medication at the \c[11]PHARMACY\c[0], but I'm feeling a bit weak at the moment.\! I usually send my daughter CHARLENE, but she's not here right now.
+
+message_3:
+      text: \n<YELLOW BUN GRANNY>Would you be so kind as to pick it up for me?
+
+#yes/no
+
+#if yes
+
+message_6:
+      text: You got a \c[4]PRESCRIPTION\c[0] and \c[4]ID CARD\c[0].
+
+message_8:
+      text: \n<YELLOW BUN GRANNY>Thank you, children.\! Just talk to the man at the \c[11]PHARMACY\c[0].\! He'll understand.
+
+#Talk to PHARMACIST
+
+message_9:
+      text: \n<PHARMACIST>Hmm...\! Hello!\! How can I help you?
+
+message_10:
+      text: You gave the \c[4]PRESCRIPTION\c[0] and \c[4]ID CARD\c[0] to the pharmacist.
+
+message_11:
+      text: \n<PHARMACIST>Ah, you're here to pick up some medication!
+
+message_12:
+      text: \n<PHARMACIST>...\! Oh, I know who this is for! I'll bring it right out.
+
+message_13:
+      text: You got \c[4]GRANNY'S MEDICINE\c[0].
+
+message_14:
+      text: You got \c[4]ID CARD\c[0].
+
+message_15:
+      text: \n<PHARMACIST>You're picking up her medicine in place of her daughter today?
+
+message_16:
+      text: \n<PHARMACIST>I'm not actually supposed to give out medication like this...\! but I usually make an exception for her since she doesn't have a way to come here herself.
+
+message_17:
+      text: \n<PHARMACIST>Thanks for helping her out.\! You kids have a nice day!
+
+message_18:
+      text: \n<PHARMACIST>If you ever need \c[5]BANDAGES\c[0] or \c[5]FIRST AID KITS\c[0], I've got you covered here.
+
+message_20:
+      text: \n<YELLOW BUN GRANNY>Oh, you came back!
+
+message_21:
+      text: You gave \c[4]GRANNY'S MEDICINE\c[0] and \c[4]ID CARD\c[0] to YELLOW BUN GRANNY.
+
+message_22:
+      text: \n<YELLOW BUN GRANNY>Cough...\! cough...\! Excuse me...\!<br>Thank you so much.\! You have been a big help!\!<br>It's nice to see the youth helping us old folks.
+
+message_23:
+      text: \n<YELLOW BUN GRANNY>You are all welcome to my home any time.

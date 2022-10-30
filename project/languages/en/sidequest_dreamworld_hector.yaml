@@ -1,0 +1,82 @@
+
+# =========================================================================================
+# Pet Rock
+# ========================================================================================
+
+#Cutscene: KEL loses HECTOR in Otherworld Ladder II
+
+message_0:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 20
+    text: \kelW-wait... Hold up, guys!\! ...\! Shoot...\!<br>Where is he?\! I just had him!
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herWhere is who?
+
+message_2:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kel\c[13]HECTOR\c[0], my pet rock!\! I swear I just had him in my POCKET.
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\sinv[1]\Com[2]NOO\{OOOO\{OOOOOOO\{OOOOOOO!!!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\{\Com[2]\sinv[1]\c[13]HECTOOOO\{OOOOOO\{OOOOOOR\c[0]!!!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 21
+    text: \kelHe must have fallen out of my POCKET when I wasn't<br>paying attention...
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelI'm sorry, \c[13]HECTOR\c[0]... I should have been more careful...
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubWhat's the big deal? It's just a rock, right?
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelDon't you dare say that!\!<br>He's not just a rock...
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\Com[2]\{HE'S FAMILY!!!
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herDon't worry! I'm sure he'll turn up soon, KEL.
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \her\}Probably...
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 22
+    text: \kelI sure hope so...
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelWait for me, \c[13]HECTOR\c[0]!\!<br>I'll find you...\! I promise!
+
+message_15:
+    text: \n<HEATHER>We'll always be proud of you, son.
+
+message_16:
+    text: \n<HEATHER JR.>Follow your dreams, brother!

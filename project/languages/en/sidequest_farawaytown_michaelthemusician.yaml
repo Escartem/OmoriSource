@@ -1,0 +1,63 @@
+
+# =========================================================================================
+# Sidequest: Michael the Musician
+# =========================================================================================
+
+#Intro
+
+message_1:
+      text: \n<GUITAR GUY>Yo! I'm MICHAEL, a soon-to-be traveling musician!\! <br>I've been playing guitar here at the \c[11]TOWN PLAZA\c[0] for years now, but I think I'm finally ready to move on!
+
+message_24:
+      text: \n<GUITAR GUY>Hey, it's you guys again.\! I'm still working towards earning enough money to move to the city so I can become a big star.
+
+message_2:
+      text: \n<GUITAR GUY>Will you help me reach my goal?\! Anything will help!
+
+message_4:
+      text: How much will you give?\$
+
+message_5:
+      text: \n<GUITAR GUY>Thank you!\! In return, I'll play you an original song!
+
+#Default
+
+message_6:
+      text: \n<GUITAR GUY>I'm really excited to finally chase my dreams, <br>but that also means leaving my family behind...
+
+message_7:
+      text: \n<GUITAR GUY>My dad never really approved of me being a musician, but my little sister JOY kept insisting that I should go for it.<br><br>She would say things like "Dad will get over it eventually!” and whatnot...
+
+message_8:
+      text: \n<GUITAR GUY>Haha...\! Look at me...\! taking advice from my little sister.\! <br>Aren't I supposed to be the one giving her advice?
+
+#Cardboard Box
+
+message_9:
+      text: This is GUITAR GUY's donation box.
+
+#After reaching Donation goal:
+
+message_10:
+      text: \n<GUITAR GUY>Whoa!\! Thank you for everything!
+
+message_11:
+      text: \n<GUITAR GUY>With that last donation, it looks like I'll finally be able to leave town!\! I don't think I have much to pack so I'll probably be leaving pretty soon...
+
+message_12:
+      text: \n<GUITAR GUY>I should say goodbye to everyone...\! but...\! I don't even know how I'm going to break it to my dad...
+
+message_13:
+      text: \n<GUITAR GUY>I'll probably let my little sister JOY know first.
+
+message_20:
+      text: You have donated $\v[604].00 to GUITAR GUY.
+
+message_21:
+      text: \n<GUITAR GUY>Hmm...\! Looks like I still have quite a bit to go before I can afford to leave town...
+
+message_22:
+      text: \n<GUITAR GUY>Yes!\! I'm getting closer and closer to getting my ticket out of here!
+
+message_23:
+      text: \n<GUITAR GUY>I'm almost there...\! Just a little more and I can leave for the city!

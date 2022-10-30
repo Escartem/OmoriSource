@@ -1,0 +1,174 @@
+ # =========================================================================================
+# FARAWAY TOWN Mavericks
+# =========================================================================================
+
+#Intro: Enter Mavericks House between Day 2 and Day 3
+#Play: fat_church.ogg upon entering
+#once player enters Daphne and Bowens room, change song to goofy_times.ogg
+#there is a cardboard cutout of Daphne and Bowen inside
+
+#Examining either cardboard cutout
+message_1:
+      text: You find a note.
+
+message_2:
+       text: \"It seems we have gone missing...\!<br>We couldn't have gotten too far...\!<br>Find us, dear little brother.\"
+
+message_3:
+       text: Signed, <br>DAPHNE and BOWEN (Your loving older siblings)
+
+#upon exiting, song stays as goofy_times.ogg
+
+
+#HIDING SPOTS
+
+#There are now 2 lumps in the rug of the hallway.
+
+message_4:
+       text: You turn over the rug...\! and find two fluffy pillows.
+
+message_5:
+       text: \"This is the oldest trick in the book...\! <br>I can't believe you would actually fall for this...\"
+
+message_6:
+       text: You open the fridge... \! and find a note inside.
+
+message_7:
+       text: \"Ho hum...\! It looks like your trail has gone cold...\"\! <br>\"How unfortunate...\"
+
+#EXAMINE CURTAINS WITH SILHOUETTES
+
+message_8:
+       text: You open the curtains...\! and find some more cardboard cutouts.
+
+message_9:
+       text: \"Did you think we only bought one cardboard cutout of ourselves?\! That would be much less cost-effective.\"
+
+#Examine curtains with silhouettes:
+#Animation: A cat bolts out (You cannot find it after)
+
+#Examine Oven
+
+message_10:
+       text: You open the oven...\!<br>The smell of fresh bread fills the air.
+
+#Examine (General)
+
+message_11:
+       text: You opened the cabinet doors...
+
+message_12:
+       text: But you did not find anything of interest.
+
+message_13:
+       text: You checked under the table...
+
+message_14:
+       text: You looked under the bed...
+
+message_15:
+       text: You checked around the bathtub...
+
+message_16:
+       text: You checked behind the clock...
+
+message_17:
+       text: You checked behind the painting...
+
+message_18:
+       text: You found a hidden safe.\! <br>Probably better to pretend you didn't see anything.
+
+message_19:
+       text: You checked behind the bookcase...
+
+message_20:
+       text: You checked behind the statue...
+
+message_21:
+       text: You checked inside the fireplace...
+
+message_22:
+       text: You found a hidden switch.\! <br>Probably better to leave it alone.
+
+#ONE STATUE
+
+message_23:
+       text: You found a secret button.\! <br>Probably better to ignore it.
+
+#Examine under The Mavericks Bed (Correct answer)
+
+#Bed begins shaking.
+message_24:
+       text: \n<THE TWINS>\quake[1]\{\Com[2]BOO!!\}
+
+message_25:
+       text: \n<A TWIN>Haha!\! We got you good, didn't we!?
+
+message_26:
+       text: \n<THE OTHER TWIN>...
+
+message_27:
+       text: \n<A TWIN>Hey, wait a second...\! You're not our darling little brother...
+
+message_28:
+       text: \n<A TWIN>Hmm...\! Hmm...\! Our little brother is too cool for us now, isn't he, BOWEN?\! He doesn't even have time to play games with his loving older siblings anymore!
+
+message_29:
+       text: \n<THE OTHER TWIN>Yes, DAPHNE...\! It is very...\! regrettable...
+
+message_30:
+       text: \n<A TWIN>Sigh...\! We barely get any time off work...\! And when we do...\! Little MIKHAEL is never around to play with us anymore!\!<br>It's unfair, isn't it BOWEN?
+
+message_31:
+       text: \n<THE OTHER TWIN>Life is so cruel...
+
+message_32:
+       text: \n<A TWIN>Well, that's fine.\! Now we have some new friends...\! though...\!<br>I'm not exactly sure what they do.\! Entertain us, dear friends!
+
+message_33:
+       text: \n<THE OTHER TWIN>Yes, entertain us!
+
+#If PET ROCK is activated: CLASH OF Jash
+
+#else
+
+message_34:
+       text: \n<A TWIN>Ho hum...\! You've got nothing?
+
+message_35:
+       text: \n<THE OTHER TWIN>That's too bad...
+
+message_36:
+       text: \n<A TWIN>Well, this was all very fun, but we get bored quite easily.
+
+message_37:
+       text: \n<A TWIN>Come, brother.\! Let us think of more fun games to play.
+
+message_38:
+       text: \n<THE OTHER TWIN>Goodbye, new friends.\! This has been...\! pleasant.
+
+#DAPHNE and BOWEN walk out of THE MAVERICK'S ROOM into DAPHNE and BOWEN'S ROOM.
+
+message_39:
+       text: \n<A TWIN>Our family has owned a bakery for four generations...\! but our dear little brother has sworn off bread since he was only six years old...
+
+message_40:
+       text: \n<A TWIN>Though...\! I am sure he will come around eventually.
+
+message_41:
+       text: \n<THE OTHER TWIN>Mom and Dad want us to take over the bakery when we get out of school...\! so what's the point of going to school?
+
+#Cutouts
+
+message_42:
+       text: Cardboard cutouts of a pair of twins.\! There's something stuck on the back.
+
+#Locked
+
+message_43:
+       text: A comically large padlock has mysteriously appeared on the door.
+
+#Note
+
+message_44:
+       text: There's a note on the back.

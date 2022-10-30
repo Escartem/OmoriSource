@@ -1,0 +1,12 @@
+{ "columns":32,
+ "image":"..\/img\/tilesets\/FA_TreehouseInterior.png",
+ "imageheight":1028,
+ "imagewidth":1028,
+ "margin":0,
+ "name":"Treehouse",
+ "spacing":0,
+ "tilecount":1024,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

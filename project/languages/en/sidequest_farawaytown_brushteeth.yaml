@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Brush Teeth 1, 2, 3
+# =========================================================================================
+
+message_1:
+      text: Do you want to brush your teeth?
+#[Yes / No]
+# [Yes]
+message_2:
+      text: You brushed your teeth.\!<br>Your breath is now minty fresh.
+# [No]
+message_3:
+      text: You did not brush your teeth.
+
+message_4:
+      text: You brushed your teeth today.
+
+message_5:
+      text: You did not brush your teeth today.

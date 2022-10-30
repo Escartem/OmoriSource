@@ -1,0 +1,81 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 1
+# =========================================================================================
+
+#Talk to Jesses Dad at Hobbeez
+message_0:
+      text: \n<WRINKLY FOREHEAD>\sinv[1]Hmm...\! Hmmm...\! Hmmmmmmm...
+
+message_1:
+      text: \n<WRINKLY FOREHEAD>Confound it!\! I have no idea what I'm looking at here!
+
+message_2:
+      text: \n<WRINKLY FOREHEAD>Hey, you!\! You're young, right?\! Could a young guy like you help out an old guy like me?
+
+message_3:
+      text: \n<WRINKLY FOREHEAD>It's my son JESSE's 10th birthday tomorrow, and I'm hoping to get him something he'll actually like.
+
+message_4:
+      text: \n<WRINKLY FOREHEAD>Could you look around the store and pick something out for me?
+
+#Examine Videogame
+message_5:
+      text: A new video game called \c[4]SUPER ULTRA SPROUT MOLE EATER - REVENGE OF THE MOLES III\c[0].
+
+message_6:
+      text: It's rated M for MATURE.\! Take it?
+
+#Cutscene: Jesse's dad goes home
+
+message_7:
+      text: \n<WRINKLY FOREHEAD>So...\! this here is what the kids are into these days?
+
+message_8:
+      text: \n<WRINKLY FOREHEAD>\c[4]SUPER ULTRA SPROUT MOLE EATER - REVENGE OF THE MOLES III\c[0]?\! I can't say I understand the appeal, but okay!
+
+message_17:
+      text: \n<WRINKLY FOREHEAD>Here's a cool thing I found while I was sweeping earlier...\! <br>You can have it!
+
+message_18:
+      text: You got a \c[4]SEASHELL\c[0].
+
+message_9:
+      text: \n<WRINKLY FOREHEAD>\quake[1]Gah!\!\quake[0] This game's price tag is...\! Oof...\! My wallet...
+
+message_10:
+      text: \n<WRINKLY FOREHEAD>Sigh...\! Well...\! as long as my son likes this, it'll be worth it!
+
+message_11:
+      text: \n<WRINKLY FOREHEAD>Hey! Thanks for the help, pal.
+
+message_12:
+      text: \n<WRINKLY FOREHEAD>You know...\! I could use a consultant for things like this.
+
+message_13:
+      text: \n<WRINKLY FOREHEAD>My son doesn't like to talk about his hobbies with me, but I need to keep up with all this newfangled stuff somehow!
+
+message_14:
+      text: \n<WRINKLY FOREHEAD>I live in a small house on the street south from here!\! <br>It's the one with the brown roof.
+
+message_15:
+      text: \n<WRINKLY FOREHEAD>Please come visit sometime!
+
+#Talk to Jesse's DAD
+
+message_16:
+      text: \n<WRINKLY FOREHEAD>Hey, pals!
+
+message_19:
+      text: \n<WRINKLY FOREHEAD>Looks neat, huh?
+
+message_30:
+      text: \n<SHOPKEEP>Ah...\! \c[4]SUPER ULTRA SPROUT MOLE EATER\c[0] <br>\c[4]REVENGE OF THE MOLES III\c[0]...\! A good choice!\! Here you go!
+
+message_31:
+      text: \n<SHOPKEEP>Wait, you can't just leave without paying for that game!
+
+#home
+
+message_32:
+    text: \n<WRINKLY FOREHEAD>Hey! You're the kids from earlier!\! My son is upstairs in his room, but he doesn't like strangers much...

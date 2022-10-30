@@ -1,0 +1,48 @@
+# =========================================================================================
+# Endings
+# =========================================================================================
+
+#Save for later: messages 0 - 40
+
+
+# =========================================================================================
+# Balcony End
+# =========================================================================================
+
+#Before arriving at Balcony: (Black screen)
+
+message_41:
+      text: \aubHey, OMORI! Where've you been?<br>We've been waiting so long for you!
+
+message_42:
+      text: \kelYeah, come on OMORI! What's the holdup?<br>You shouldn't keep your friends waiting, y'know!
+
+message_43:
+      text: \herAUBREY, KEL! Be patient.<br>OMORI will come visit us soon!
+
+message_44:
+      text: \marTake your time, OMORI. We'll be right here.<br>You know where to find us!
+
+message_45:
+      text: \basAll of us can't wait to see you again...\!<br>Come on, OMORI! Let's all go on an adventure together!
+
+# =========================================================================================
+# Abandon End
+# =========================================================================================
+
+# Already implemented
+
+# =========================================================================================
+# Stab End
+# =========================================================================================
+
+# Already implemented
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+#Naming PLAYER
+
+message_60:
+      text: You see a boy sleeping in his room...\! What's his name?

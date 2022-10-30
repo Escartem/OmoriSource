@@ -1,0 +1,296 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>O-Oh...\! Hi...\! \n[8]...
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>It's nice to finally see you again...\! Haha...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \n<BASIL>W-Why... are you staring at me like that?
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 36
+      text: \n<BASIL>U-Um...\! \n[8]?\! Is...\! Is everything okay?
+
+#========================== ANGEL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_10:
+      text: \n<ANGEL>\Com[2]What are you looking at!?\! Just so you know, I happen to be a regular here! I gotta study up on the latest comics before school starts again!
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_20:
+      text: \n<CHARLIE>...
+
+#========================== THE MAVERICK================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_30:
+      text: \n<THE MAVERICK>\Com[2]Ah!\! If it isn't KEL and \n[8]!
+
+message_31:
+      text: \n<THE MAVERICK>You may have witnessed my humiliation earlier today...\! but now is the time that I, \Com[2]THE MAVERICK, redeem myself once again!
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHuh? What is this about now, MIKHAEL?
+
+message_33:
+      text: \n<THE MAVERICK>Grr...\! Curse you and your cheeky attitude!
+
+message_34:
+      text: \n<THE MAVERICK>\Com[2]\{KEL!\!\Com[2] I CHALLENGE THEE TO A RACE!\}
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kel...Really?\! A race?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelI don't know...\! I'm pretty fast...
+
+message_37:
+      text: \n<THE MAVERICK>\Com[2]Hah!\! That's what you say now!\!<br>But just wait until you see the results of my training!
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelI'm being serious, MIKHAEL.\! It's only fair to warn you...\!<br>I'm fast.\! Like \SINV[1]REALLY\SINV[0] fast.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHey, I know!\! To make things a bit more even, you can use your scooter if you want!
+
+message_40:
+      text: \n<THE MAVERICK>\{\Com[2]DON'T YOU PATRONIZE ME!!\}
+
+message_41:
+      text: \n<THE MAVERICK>Come on, KEL!\!<br>You've been talking the talk, but can you walk the walk!?\!<br>\Com[2]Why don't you show me a real challenge!?
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kelSigh...\! I'm going to have to do this, aren't I?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelSorry, \n[8].\! This'll be really quick.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and THE MAVERICK who are on the other side of the track.
+
+
+message_44:
+      text: \n<THE MAVERICK>\Com[2]\{\SINV[1]REEEEAAAADYYYYY!!\SINV[0]
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelSet...
+
+message_46:
+      text: \n<THE MAVERICK and KEL>\Com[2]\SINV[1]GO\{OO\{OOO\{OOO\{OOOOO!!\SINV[0]
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
+
+message_47:
+      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! Wait...\!<br>I...\! huff...\! I want a rematch...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelI don't think so, MIKHAEL...\!<br>I mean... It's getting kind of late, isn't it?
+
+message_49:
+      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...
+
+#THE MAVERICK's wig falls off and he picks it up and puts it back on.
+
+message_50:
+      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Please...
+
+message_51:
+      text: \n<THE MAVERICK>Huff...\! I...\! huff...\! must...\! huff...\! defend...\! my honor...\! huff...
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelMaybe another time...\! Me and \n[8] are gonna go now...\! See you later, MIKHAEL!
+
+#cutscene ends
+
+message_53:
+      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Curse you, KEL...\! Huff...
+
+message_54:
+      text: \n<THE MAVERICK>You haven't seen the last of...\! \Com[2]THE MAVERICK... huff...
+
+#========================== SHORT HAIR GIRL================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_60:
+      text: \n<SHORT HAIR GIRL>I think I found the true love of my life today...\!<br>I hope he notices me!
+
+#========================== FASHIONABLE MOM================================
+
+#Location: Candy Shop
+
+message_70:
+      text: \n<FASHIONABLE MOM>Chocolate is a girl's best friend!\!<br>Although...\! diamonds are also pretty high up there...
+
+#========================== STRANGE MAN================================
+
+#Location: FARAWAY PARK
+
+message_80:
+      text: \n<STRANGE MAN>The filth of the planet...\! It makes me sick...\!<br>How I wish I could just...\! wipe it all away.
+
+#========================== OLD BEARDY===============================
+
+#Location: Graveyard
+
+message_90:
+      text: \n<OLD BEARDY>This lot is pretty quiet, isn't it?\! You can't hear the hustle and bustle of the streets here at all...
+
+message_91:
+      text: \n<OLD BEARDY>Heh...\! The only things here are wandering spirits...\!<br>Oh, and me, of course!
+
+message_92:
+      text: \n<OLD BEARDY>What's with that look?\!<br>\{\Com[2]I AIN'T DEAD YET!
+
+message_93:
+      text: \n<OLD BEARDY>\SINV[2]\Com[2]GWA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0]
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_100:
+      text: \n<A TWIN>\SINV[1]Our family comes to \c[11]CHURCH\c[0] once a week...\SINV[0]
+
+message_101:
+      text: \n<THE OTHER TWIN>\SINV[1]Sometimes twice...\SINV[0]
+
+message_102:
+      text: \n<A TWIN>\SINV[1]Sometimes thrice...\SINV[0]
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_110:
+      text: \n<POLLY>Dinner will be ready soon.\!<br>Please feel free to make yourself at home!
+
+#After cutscene: Awkward Dinner
+message_111:
+      text: \n<POLLY>You're probably wondering who I am, right?\!<br>I'm nobody really... just a nurse who is taking care of BASIL's grandmother.
+
+message_112:
+      text: \n<POLLY>A few months ago, BASIL's parents hired me as BASIL's caretaker since they travel out of the country frequently.
+
+message_113:
+      text: \n<POLLY>I try to do as much as I can for BASIL while I'm here, but...
+
+message_114:
+      text: \n<POLLY>Ever since I've started staying here, I can't shake the feeling that BASIL is trying to avoid me...
+
+message_115:
+      text: \n<POLLY>I wonder if I'm doing something wrong...
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_120:
+      text: \n<PREACHER>Hmm...\! I usually wouldn't condone fighting in the middle of a sermon...\! but that seemed really important.
+
+message_121:
+      text: \n<PREACHER>That girl AUBREY has come here every week for the past few years, but she never talks to anyone.
+
+message_122:
+      text: \n<PREACHER>I've tried to approach her a few times...<br>but she keeps calling me...\! err...\! bad things...
+
+message_123:
+      text: \n<PREACHER>She seems very troubled.\! Perhaps she could use a friend.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_130:
+      text: \n<PONYTAIL GIRL>Oh, hi!\! I heard some commotion in the kitchen.\!<br>Did my dad's \c[4]WEDDING RING\c[0] fall down the sink again?<br>\!He always does that...
+
+message_131:
+      text: \n<PONYTAIL GIRL>He doesn't know that I know, though... Hehe...
+
+message_132:
+      text: \n<PONYTAIL GIRL>Anyways, hi! I'm SARAH!\! It's nice to meet you!
+
+#Talk to SARAH again
+
+message_133:
+      text: \n<PONYTAIL GIRL>Since my mom started going on her health rampage, we don't have any chips or snacks in our house anymore...\! but...
+
+message_134:
+      text: \n<PONYTAIL GIRL>I guess carrots and celery taste pretty good...\! if they're dipped in ranch sauce...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_140:
+      text: \n<CLUMSY GUY>Hmm...\! Hey kids, have you seen a big bag of potato chips lying around?\! I could've sworn I just bought a huge bag of chips the other day...
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_150:
+      text: \n<PONYTAIL LADY>My family and I are supposed to start eating healthy this week, but the smell of \c[11]GINO'S PIZZA\c[0] is so tempting...
+
+message_151:
+      text: \n<PONYTAIL LADY>Sigh...\! Maybe something greasy is okay once in a while...
+
+#==========================The Maverick's Dad===============================
+
+#Location: Church
+
+message_160:
+      text: \n<WELL-DRESSED LADY>Oh, dear...\! Sniff...\!<br>It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
+
+message_161:
+      text: \n<WELL-DRESSED MAN>Sigh...\! MIKHAEL...\! Where are you?\!<br>Why must you make your mother worry?

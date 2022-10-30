@@ -1,0 +1,92 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Brayden)
+# =========================================================================================
+
+#messages to be added here, reserved spaces 461 to 480
+
+message_1:
+      text: \n<ORANGE GUY>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Drink \c[3]ORANGE JUICE\c[0]!
+
+message_2:
+      text: \n<ORANGE GUY>Have you ever heard the phrase...<br>“Orange is the happiest color”?
+
+message_3:
+      text: \n<ORANGE GUY>...No?\! Well, that's fine!\!<br>Just know that the same concept applies to \c[3]ORANGE JUICE\c[0]!
+
+message_4:
+      text: \n<ORANGE GUY>\c[3]ORANGE JUICE\c[0] supports hydration!\! \c[3]ORANGE JUICE\c[0] strengthens your emotional body, encouraging a general feeling of joy, well-being, and cheerfulness!
+
+message_5:
+      text: \n<ORANGE GUY>It has vitamin C, which is essential for healthy immune system functions!
+
+message_6:
+      text: \n<ORANGE GUY>It's also an antioxidant that may have health benefits by protecting your cells from free radical damage!
+
+#If any APPLE JUICE is inventory:
+
+message_7:
+      text: \n<ORANGE GUY>Is that \c[3]APPLE JUICE\c[0] you have there?\!<br>\Com[2]That is garbage!\! Don't drink that stuff!
+
+#BRADYEN threw away your APPLE JUICE...
+
+message_8:
+      text: ORANGE GUY threw away your \c[3]APPLE JUICE\c[0]...
+
+message_9:
+      text: \n<ORANGE GUY>Ha! That'll show him!
+
+message_10:
+      text: \n<ORANGE GUY>So... Would you like to buy some \c[3]ORANGE JUICE\c[0] for $2.00?\$
+
+#[Yes/No]
+
+message_100:
+      text: You got \c[3]ORANGE JUICE\c[0]!
+
+message_11:
+      text: \n<ORANGE GUY>Yes! \Com[2]Drink \c[3]ORANGE JUICE\c[0]!\! You'll enjoy it!
+
+message_12:
+      text: \n<ORANGE GUY>Okay...\! That's fine...\!<br>As long as you're not buying any \c[3]APPLE JUICE\c[0]...
+
+#buy more fruit from brayden than ADRIAN
+
+message_13:
+      text: \n<ORANGE GUY>Huff...\! Huff...\! Ha!\! As I predicted...\! \c[3]ORANGE JUICE\c[0] is a much better alternative to \c[3]APPLE JUICE\c[0]!\! My brother will see the foolishness of his ways soon enough!
+
+
+#Buy more Fruit from Adrian than Brayden:
+
+message_14:
+      text: \n<ORANGE GUY>My brother won't stop gloating about the business at his \c[3]APPLE JUICE\c[0] stand...
+
+message_15:
+      text: \n<ORANGE GUY>Huff...\! No matter...\! Huff...\! I'll always be a firm believer of \c[3]ORANGE JUICE\c[0]!\! No one will ever take that away from me!
+
+#not enough money
+
+message_16:
+      text: \n<ORANGE GUY>Hmm...\! It looks like you don't have enough for a nutritious cup of \c[3]ORANGE JUICE\c[0]...
+
+message_21:
+      text: \n<ORANGE GUY>Wait... is that a...\! \c[13]RED HEADBAND\c[0]...\! you are wearing? I refuse to serve you any \c[3]ORANGE JUICE\c[0] until you take that off!
+
+#After buying 5 Orange juices
+
+message_101:
+      text: \n<ORANGE GUY>\{\{\sinv[1]HOOO-HAHHHHHHHHH!!
+
+message_17:
+      text: \n<ORANGE GUY>Take this gift for being such a good customer!\! It's an \c[13]ORANGE HEADBAND\c[0], the color of oranges!
+
+message_18:
+      text: \n<ORANGE GUY>Hmph! I see one of your friends is wearing a \c[13]RED HEADBAND\c[0]...\! I will forgive you for this, just this once!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHeh heh...\! Sorry about that...
+
+message_20:
+      text: You got an \c[13]ORANGE HEADBAND\c[0]!

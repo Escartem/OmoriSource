@@ -1,0 +1,38 @@
+
+# =========================================================================================
+# Hunt Squizzards
+# ========================================================================================
+
+#Talk to Seacow Farmer (Jim):
+
+message_0:
+      text: \n<SEACOW FARMER>Hey there, partner.\! Around these parts I'm known as the SEACOW FARMER, but you can just call me JIM.
+
+message_1:
+      text: \n<FARMER JIM>This farm's been a family business that's been goin' on fer generations,\. but the upkeep ain't so easy with the land being overrun by SQUIZZARDS and all!
+
+message_2:
+      text: \n<FARMER JIM>I tell ya what, with all those dang SQUIZZARDS runnin' around it's a miracle that this farm is still standin'.
+
+message_3:
+      text: \n<FARMER JIM>If only there were someone who could help me get rid of these darn SQUIZZARDS...\! I'd pay anything!
+
+message_4:
+      text: \n<FARMER JIM>Hey, y'know what! I just had a brilliant idea!
+
+message_5:
+      text: \n<FARMER JIM>If y'all don't mind gettin' rid of some slimy, stinky SQUIZZARDS, I'd happily employ yer services fer some CLAMS.\! I know it ain't much, but it's all I got!
+
+message_6:
+      text: \n<FARMER JIM>Can't have no peace here with all these darn SQUIZZARDS runnin' around!
+
+#Talk to Seacow Farmer (Jim) after defeating [X] Squizzards:
+
+message_7:
+      text: \n<FARMER JIM>Hey, y'all!\! I've noticed lately that there are less SQUIZZARDS causin' trouble 'round these parts.\! <br>You kids are really doin' yer fair share of work!
+
+message_8:
+      text: \n<FARMER JIM>Here's some CLAMS fer yer efforts...\!<br>Go on and get something nice fer yerself.<br>A-hyuk!
+
+#Talk to Seacow Farmer (Jim) after defeating no Squizzards:
+#repeat messages 5 and 6

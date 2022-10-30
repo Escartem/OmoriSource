@@ -1,0 +1,114 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FROZEN FOREST====================================
+
+
+                        #====NIGHT 1-2 and Night 2====
+
+#FISHING BEAR
+#Location: Frozen Lake
+message_0:
+      text: \n<FISHERBEAR>Just waiting for the next big catch!
+
+#SNOW CONE JASH
+#FROZEN Lake
+#DREAMWORLD Shop yaml
+
+                        #====NIGHT 3 and 4====
+#FISHING BEAR
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOW CONE JASH
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOWGLOBE 1
+#Location: Frozen Forest
+message_1:
+      text: You look into the SNOWGLOBE.\! You see a car stuck in the snow.\! Some kids are drawing on the fog on the backseat windows.
+
+#SNOWGLOBE 2
+#Location: Frozen Forest
+message_2:
+      text: You look into the SNOWGLOBE.\! You see a small house at the top of a snow-covered hill.\! It looks warm inside.
+
+#SNOWGLOBE 3
+#Location: Frozen Forest
+message_3:
+      text: You look into the SNOWGLOBE.\! You see some kids sledding down a steep hill.\! They look like they're having fun.
+
+#MOUNTAIN
+message_10:
+      text: You find yourself at the foot of a mountain.
+
+message_11:
+      text: You find yourself back where you started.
+
+#====
+
+#FISHING
+
+message_20:
+      text: You hooked up a SPROUT MOLE!<br>\!And then threw it back into the lake.
+
+message_21:
+      text: You hooked up an old boot...<br>\!And then threw it back into the lake.
+
+message_23:
+      text: You hooked up a crab!<br>\!And then threw it back into the lake.
+
+message_24:
+      text: You hooked up an octopus!<br>\!And then threw it back into the lake.
+
+message_25:
+      text: You hooked up nuclear waste...<br>\!And then threw it back into the lake.
+
+message_26:
+      text: You hooked up a vending machine!
+
+message_27:
+      text: You hooked up an \"O\".<br>\!And then threw it back into the lake.
+
+message_29:
+      text: You hooked up an orange.<br>\!And then threw it back into the lake.
+
+message_30:
+      text: You hooked up a MESSAGE IN A BOTTLE!
+
+message_31:
+      text: \n<MESSAGE IN A BOTTLE>\"When the Moon hits your eye like a big pizza pie, that's _____.\"
+
+#Show Choices OMORI, AUBREY, KEL, HERO
+
+message_32:
+      text: You hooked up a plastic fish...<br>\!And then threw it back into the lake.
+
+message_33:
+      text: You hooked up a real fish!<br>\!And then threw it back into the lake.
+
+message_34:
+      text: You hooked up \c[3]TOFU\c[0]!
+
+message_35:
+      text: You hooked up \c[3]LIFE JAM\c[0]!
+
+message_36:
+      text: No luck this time...
+
+message_40:
+      text: OMORI
+
+message_41:
+      text: AUBREY
+
+message_42:
+      text: KEL
+
+message_43:
+      text: HERO
+
+message_44:
+      text: You threw the bottle back into the lake.

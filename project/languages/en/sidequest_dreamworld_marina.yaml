@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Slimegirls: Marina's Body
+# ========================================================================================
+
+#Talk to Marina:
+
+message_0:
+      text: \n<MARINA>\Com[2]Dang it all!\!<br>I knew I shouldn't have trusted that SWEETHEART lady.\!<br>How am I going to capture my test subjects like this!?
+
+message_1:
+      text: \n<MARINA>Eh...\! Whatever...
+
+message_2:
+      text: \n<MARINA>At least SWEETHEART is getting her just desserts...\! \quake[1]Kikiki~\quake[0]
+
+message_3:
+      text: \n<MARINA>Oh, hey! I remember you guys!\! You still mad about that whole arms and legs thing earlier?\! Ehh...\! I wouldn't take it so personally.<br>It was just a spur of the moment kind of thing.
+
+message_4:
+      text: \n<MARINA>I need to find myself some good quality meat.<br>\!Some \c[4]RAT MEAT\c[0] would be perfect!
+
+message_5:
+      text: \n<MARINA>Maybe you can find some by hunting down some of those LAB RATS runnin' around...\! You can do that, can't you?
+
+#Talk to Marina with Rat meat: Cutscene: Marinas Body forms
+
+message_6:
+      text: \n<MARINA>\Com[2]Whoa! You really brought me some \c[4]RAT MEAT\c[0]?\!<br>You kids aren't half bad!\! I might even consider letting you leave this place alive!
+
+message_7:
+      text: \n<MARINA>With this, I'll finally be able to get my body back! \quake[1]Kikiki~\quake[0]
+
+#FADE IN FADE OUT WITH SFX
+
+message_8:
+      text: \n<MARINA>\sinv[1]Ahhhhhhhh...\! What a nice stretch...\!<br>Sure feels good to have all my arms and legs again~\sinv[1]
+
+message_9:
+      text: \n<MARINA>Huh?\! What are you guys looking at?\!<br>Oh, right.\! When people do you favors you're supposed to give something back, right?\! Okay then...
+
+#Marina burps
+
+message_10:
+      text: \n<MARINA>Hmm...\! Yeah, here. Take this. \quake[1]Kikiki~\quake[0]
+
+message_11:
+      text: You got a \c[13]FINGER\c[0]!
+
+message_12:
+      text: \n<MARINA>Now we're even!
+
+#Quest complete
+
+#After-Quest Dialogue:
+
+message_13:
+      text: \n<MARINA>Finally, I can get back to my experiments!\!<br>Now, where is my chainsaw~? \quake[1]Kikiki~\quake[0]

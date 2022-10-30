@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Adrian)
+# =========================================================================================
+
+#Quest intro
+
+message_1:
+      text: \n<APPLE GUY>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Drink \c[3]APPLE JUICE\c[0]!
+
+message_2:
+      text: \n<APPLE GUY>Have you ever heard the phrase...<br>“An apple a day keeps the doctor away?”
+
+message_3:
+      text: \n<APPLE GUY>The same concept applies to \c[3]APPLE JUICE\c[0]!
+
+message_4:
+      text: \n<APPLE GUY>\c[3]APPLE JUICE\c[0] supports hydration!\! It contains beneficial plant compounds and may support heart health...\! It may also protect your brain as you age!
+
+message_5:
+      text: \n<APPLE GUY>There are no downsides as far as I'm concerned!
+
+#If any ORANGE JUICE is inventory:
+message_6:
+      text: \n<APPLE GUY>Is that \c[3]ORANGE JUICE\c[0] you have there?\!<br>\Com[2]That is garbage!\! Don't drink that stuff!
+
+message_7:
+      text: APPLE GUY threw away your \c[3]ORANGE JUICE\c[0]...
+
+message_8:
+      text: \n<APPLE GUY>Ha! That'll show him!
+
+message_9:
+      text: \n<APPLE GUY>So... Would you like to buy some \c[3]APPLE JUICE\c[0] for $2.00?\$
+
+#[Yes/No]
+
+#if yes
+
+message_100:
+      text: You got \c[3]APPLE JUICE\c[0]!
+
+message_10:
+      text: \n<APPLE GUY>Yes! \Com[2]Drink \c[3]APPLE JUICE\c[0]!\! You'll enjoy it!
+
+
+#if no
+message_11:
+      text: \n<APPLE GUY>Okay...\! That's fine...\!<br>As long as you're not buying any \c[3]ORANGE JUICE\c[0]...
+
+#Buy more from Adrian than Brayden:
+
+message_12:
+      text: \n<APPLE GUY>Huff...\! Huff...\! Ha!\! As I predicted...\! \c[3]APPLE JUICE\c[0] is a much better alternative to \c[3]ORANGE JUICE\c[0]!\! My brother will see the foolishness of his ways soon enough!
+
+#Buy more from Brayden than Adrian:
+
+message_13:
+      text: \n<APPLE GUY>My brother won't stop gloating about the business at his \c[3]ORANGE JUICE\c[0] stand...
+
+message_14:
+      text: \n<APPLE GUY>Huff...\! No matter...\! Huff...\! I'll always be a firm believer of \c[3]APPLE JUICE\c[0]!\! No one will ever take that away from me!
+
+#Not enough dollars
+
+message_15:
+      text: \n<APPLE GUY>Hmm...\! It looks like you don't have enough for a delightful cup of \c[3]APPLE JUICE\c[0]...
+
+#While wearing an Orange Headband
+
+message_16:
+      text: \n<APPLE GUY>Wait, is that an...\! \c[13]ORANGE HEADBAND\c[0]...\! you are wearing?\! I refuse to serve you any \c[3]APPLE JUICE\c[0] until you take that off!
+
+#After buying 5 Apple juices
+
+message_101:
+      text: \n<APPLE GUY>\{\{\sinv[1]HOOO-HAHHHHHHHHH!!
+
+message_17:
+      text: \n<APPLE GUY>Take this gift for being such a good customer!\! <br>It's a \c[13]RED HEADBAND\c[0], the color of apples!
+
+message_18:
+      text: \n<APPLE GUY>Hmph! I see one of your friends is wearing an \c[13]ORANGE HEADBAND\c[0]...\! I will forgive you for this, just this once!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHeh heh...\! Sorry about that...
+
+message_20:
+      text: You got a \c[13]RED HEADBAND\c[0]!

@@ -1,0 +1,12 @@
+{ "columns":30,
+ "image":"..\/img\/tilesets\/FA_DownHouses_sunset.png",
+ "imageheight":864,
+ "imagewidth":960,
+ "margin":0,
+ "name":"FA_DownHouses_sunset",
+ "spacing":0,
+ "tilecount":810,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

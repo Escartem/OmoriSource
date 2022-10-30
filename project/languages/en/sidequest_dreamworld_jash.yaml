@@ -1,0 +1,20 @@
+# =========================================================================================
+# Sidequest: JASH
+# =========================================================================================
+
+#After purchasing any 1 item from ALL JASH (Sproutmole village, Ghost party, Frozen lake, Last Resort, Train station)
+
+message_0:
+      text: \n<JASH>Hey, bub! Hold on.\!<br>Before you go, I wanted to thank you for being a longtime patron of JASH!
+
+message_1:
+      text: \n<JASH>It's been awesome doing business with you!\!<br>Take this \c[13]SALES TAG\c[0], free of charge.
+
+message_2:
+      text: \n<JASH>You won't be getting any discounts with that thing, <br>but I'm sure you'll find some way to use it.
+
+message_3:
+      text: \n<LEMON JASH>Wait, Sir or Madam, you can't cut through!\!<br>You need a \c[4]TRAIN PASS\c[0] to board!
+
+message_4:
+      text: \n<LEMON JASH>Hey, bub. Do you have a \c[4]TRAIN PASS\c[0]?\!<br>...\! I see...\! Okay, you're good to go!

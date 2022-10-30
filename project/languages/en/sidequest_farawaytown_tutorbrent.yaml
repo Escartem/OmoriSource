@@ -1,0 +1,154 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Brent
+# =========================================================================================
+
+#Examine and take Math Tutor Flyer:
+
+message_0:
+      text: There is a job posting on the wall.\! Read it?
+
+#Yes/No
+
+#If Yes
+
+message_1:
+      text: “TUTOR HELP WANTED!\! Looking for a local math tutor for my son, BRENT!\! $20.00 a day!\! Please bring this flyer to my house for a quick interview!”
+
+message_3:
+      text: Take the \c[4]GREEN FLYER\c[0] off the wall?
+
+#yes/no
+
+#yes
+message_4:
+      text: There is a map to the house on the back.
+
+#show map
+
+#Examine Brent's House Door:
+message_5:
+      text: \n<SCHOOL PRINCIPAL>Well, hello! How can I help you?
+
+message_100:
+      text: You gave the SCHOOL PRINCIPAL the \c[4]GREEN FLYER\c[0].
+
+message_101:
+      text: \n<SCHOOL PRINCIPAL>Ah, I see! You're here to tutor my son, BRENT!
+
+message_6:
+      text: \n<SCHOOL PRINCIPAL>Hmm...\! There's more than one of you, but you guys look pretty trustworthy.
+
+message_7:
+      text: \n<SCHOOL PRINCIPAL>I guess it's possible that two tutors would be better than one...\! as long as you all split the payment! Haha!
+
+message_8:
+      text: \n<SCHOOL PRINCIPAL>Please come in.\! BRENT is waiting for you in his room upstairs.
+
+message_200:
+      text: \n<SCHOOL PRINCIPAL>Make yourselves at home!\! BRENT is waiting for you in his room upstairs.
+
+#Talk to BRENT
+
+message_9:
+      text: \n<SMART-LOOKING BOY>Hey, you must be my new tutors!\!<br>Nice to meet you. My name is BRENT.\!<br>Should we get started now?
+
+message_10:
+      text: \n<SMART-LOOKING BOY>Alright, so this is the worksheet that I'm struggling with.
+
+message_11:
+      text: \n<SMART-LOOKING BOY>Could you help me out?
+
+#MATH WORKSHEET
+
+message_12:
+      text: \n<SMART-LOOKING BOY>This equation is giving me trouble...
+
+message_13:
+      text: 4 x 51 =
+
+message_14:
+      text: A) 244
+
+message_15:
+      text: B) 204
+
+message_16:
+      text: C) 404
+
+message_17:
+      text: \n<SMART-LOOKING BOY>How about this one?
+
+message_18:
+      text: 5 x 3 + 15 - 1 + 6 / 2 =
+
+message_19:
+      text: A) 32
+
+message_20:
+      text: B) 33
+
+message_21:
+      text: C) 34
+
+message_22:
+      text: \n<SMART-LOOKING BOY>How about this one?
+
+message_23:
+      text: -3x + 4 = 7x + 24. What does ‘x' equal?
+
+message_24:
+      text: A) 2
+
+message_25:
+      text: B) 2.8
+
+message_26:
+      text: C) -2
+
+message_1000:
+      text: PICK RANDOMLY
+
+#Correct choice:
+
+message_27:
+      text: \n<SMART-LOOKING BOY>Oh...\! \sinv[1]I got it...\sinv[0]\! I understand now!
+
+#Incorrect choice:
+
+message_28:
+      text: \n<SMART-LOOKING BOY>Hmm...\! But isn't the correct answer 32?
+
+message_29:
+      text: \n<SMART-LOOKING BOY>Hmm...\! I was sure that it was 204?
+
+message_30:
+      text: \n<SMART-LOOKING BOY>Ohh...\! I was thinking it was -2?
+
+message_31:
+      text: \n<SMART-LOOKING BOY>Heh heh...\! You were just testing me, right?\!<br>This way, it challenges my critical thinking too!\!<br>Wow...\! Tutors are really smart...
+
+#After completing Math WORKSHEET
+
+message_32:
+      text: \n<SMART-LOOKING BOY>Phew...\! I think I got a much better hang of this than before...\! Thank you!
+
+#After completing Math WORKSHEET
+
+message_33:
+      text: \n<SCHOOL PRINCIPAL>Hey, BRENT! How are you doing?
+
+message_34:
+      text: \n<SCHOOL PRINCIPAL>Oh! I see you've completed your worksheet!
+
+message_35:
+      text: \n<SCHOOL PRINCIPAL>Well done, tutor...\! Here's the payment for your help!
+
+message_36:
+      text: \n<SCHOOL PRINCIPAL>Feel free to come back tomorrow!
+
+message_37:
+      text: \n<SCHOOL PRINCIPAL>Hello.\! Are you here because of the tutoring poster?\! No? I see...
+
+message_50:
+      text: Ugh...\! Math...

@@ -1,0 +1,766 @@
+
+# =========================================================================================
+# BASIL SHOE INTERIOR: 98
+# ========================================================================================
+
+#Door
+
+message_500:
+      text: Are you sure you want to go?
+
+# =========================================================================================
+# BLACKSPACE ENTRANCE: 264
+# ========================================================================================
+
+#Laptop
+
+message_50:
+      text: The screen stared back at you.
+#Door
+
+message_501:
+      text: "A black door casts a faint shadow.\\!<br>What would you like to do?"
+
+message_502:
+      text: "It's pure white inside."
+
+# =========================================================================================
+# MISC
+# ========================================================================================
+
+message_510:
+      text: You feel sick...
+
+message_511:
+      text: You can't go out right now.
+
+message_512:
+      text: You feel sick...\! A trip to the bathroom should help.
+
+# =========================================================================================
+# BLACKLETTERS
+# ========================================================================================
+
+message_550:
+      text: There is a hole here.
+
+message_551:
+      text: There is a hole here.
+
+message_552:
+      text: There is a hole here.\! Reach into the hole?
+
+message_553:
+      text: You felt a cold breeze.
+
+message_554:
+      text: You felt someone hold your hand.
+
+message_555:
+      text: There is a hole here.\! Look into the hole?
+
+message_556:
+      text: You don't see anything inside.
+
+message_557:
+      text: There is a hole here.\! Go into the hole?
+
+message_558:
+      text: Part of this shelf has been cleared out.\!<br>There is a hole here.\! Look into the hole?
+
+message_570:
+      text: You got a tape labeled "BIRTH".
+
+message_571:
+      text: Photos of your friends.\! All the faces are scribbled out.
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# POND
+
+message_0:
+      text: You see a boy dropping something shiny into a chest.
+
+message_1:
+      text: You see a boy crying in the corner of his room.
+
+message_2:
+      text: You see a boy scratching his knuckles.
+
+message_3:
+      text: You see a boy looking out his window.
+
+message_4:
+      text: You see two boys and their dog playing outside.
+
+message_5:
+      text: You see a boy locking a door.
+
+message_6:
+      text: You see a boy staring at a wall.
+
+message_7:
+      text: You see a boy digging a pencil into his desk.
+
+message_8:
+      text: You see a boy burying something in the grass.
+
+message_9:
+      text: You see a boy sitting in a dark room.\!<br>The boy lies and lies, over and over again.
+
+message_10:
+      text: You see a boy sitting at the piano.\!<br>The boy plays a few notes, and mumbles something to himself.
+
+message_11:
+      text: You see a boy flipping over his bedsheets.
+
+message_12:
+      text: You see a boy staring at his fingers.\! <br>He whimpers in pain.
+
+message_13:
+      text: You see a man shutting his car door and driving away.
+
+message_14:
+      text: You see a man desperately hacking down a tree in the backyard.
+
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# Cardboard Boxes
+
+message_20:
+      text: You scream into the box, but no one hears you.
+
+message_21:
+      text: You hear MOM crying softly.\!<br>\"There, there... \n[8]...\! We'll protect you...\!<br>Everything will be okay...\"
+
+message_22:
+      text: You hear MOM crying softly.\! <br>\"Where...\! Where is your violin?\"
+
+message_23:
+      text: You hear a voice mumbling from inside the box.
+
+message_24:
+      text: \fn<OMORI_GAME>It was an accident. It was an accident. It was an accident. <br>It was an accident. It was an accident. It was an accident. <br>It was an accident. It was an accident. \quake[1]It was an accident.\quake[0]
+
+message_25:
+      text: You find a notebook.\! The same sentence is <br>written over and over.
+
+message_26:
+      text: \fn<OMORI_GAME>\quake[1]It's all my fault. It's all my fault. It's all my fault. <br>It's all my fault. It's all my fault. It's all my fault. <br>It's all my fault. It's all my fault.\quake[0] It's all my fault.
+
+# ========================================================================================
+
+message_35:
+      text: You look into the box, but there is nothing inside.
+
+# =========================================================================================
+# Black Space Misc
+# ========================================================================================
+
+message_27:
+      text: A skinless snake.\! It has been cut neatly and placed in a perfectly straight line.
+
+message_28:
+      text: You ring the bell...\! but it doesn't make a sound.
+
+message_29:
+      text: A cake.\! Do you want to eat it?
+
+message_30:
+      text: As you chew, you begin to hear the crunching of bones.
+
+message_31:
+      text: You chew a little slower...\! and realize your molars are missing.
+
+message_32:
+      text: A white egret orchid.
+
+message_33:
+      text: Do you want to swim?
+
+message_34:
+      text: Do you want to stop swimming?
+
+message_36:
+      text: \n<LITTLE ONE>\}Help me...
+
+message_37:
+      text: \n<LITTLE ONE>\}OMORI... I'm sad...
+
+message_38:
+      text: Something used to be here.
+
+message_39:
+      text: You are afraid.
+
+#Behind the Waterfall: 285
+
+message_40:
+      text: A blank polaroid.
+
+message_41:
+      text: It's a picture of you.
+
+#Lil Basil Food
+
+message_42:
+      text: You found ☐☐☐!
+
+message_43:
+      text: You got ☐☐ ☐☐!
+
+message_44:
+      text: You ate something.
+
+message_47:
+      text: You got 'KEY' INGREDIENT!
+
+#Desks
+
+message_45:
+      text: There's a drawing of a SPROUT MOLE etched into this desk.
+
+#Doors
+
+message_46:
+      text: This door is locked by a 'KEY' INGREDIENT.
+
+message_48:
+      text: You unlocked the door.
+
+# ========================================================================================
+
+message_100:
+      text: \basAhh...\! You've finally come...\! I'm really sorry.\! It might be too late for me, but please try to save me ok?\! Promise you will, \n[8]?
+
+# =========================================================================================
+# LOST FOREST 1: 266
+# ========================================================================================
+
+#Fast KEL
+
+message_101:
+      text: \n<KEL>HI, OMORI!\^
+
+#Deer skull
+
+message_102:
+      text: \n<DEER HEAD>Do you still recognize your home?
+
+#Beach
+
+message_103:
+      text: Do you want to swim back to the mainland?
+
+message_104:
+      text: It's really hot.
+
+message_105:
+      text: \n<CRAB>I can't wait for my tan!
+
+message_106:
+      text: CRAB is dying.
+
+message_107:
+      text: It's a palm tree.
+
+# =========================================================================================
+# LOST FOREST 2: 267
+# ========================================================================================
+
+message_110:
+      text: The weathervane is pointing west.
+
+message_111:
+      text: The weathervane is pointing north.
+
+message_112:
+      text: The weathervane is pointing east.
+
+# =========================================================================================
+# Looping Forest: 270
+# ========================================================================================
+
+message_120:
+      text: You ate the STEAK.
+
+message_121:
+      text: A floating mirror.\! You are all alone.\!<br>Do you want to play hide-and-seek?
+
+message_122:
+      text: 5...\| 4...\| 3...\| 2...\| 1!
+
+message_123:
+      text: Found you!
+
+message_124:
+      text: Do you want to play again?
+
+message_125:
+      text: You saw something, but decided it wasn't for you.
+
+message_126:
+      text: You are too full to run.
+
+# message_127:
+#       text: You don't know why you did that.
+
+message_127:
+      text: \n<swethort>im pafect
+
+message_128:
+      text: \n<swothert>o hoho
+
+message_129:
+      text: \n<swumphart>eyes ap here
+
+# Mirror break
+
+message_115:
+      text: \n<SHATTERED OMORI>5...\| 4...\| 3...\| 2...\| 1!
+
+# =========================================================================================
+# Cloud Walkway: 284
+# ========================================================================================
+
+message_130:
+      text: \n<OMOLI>\}Hungry...
+
+message_131:
+      text: \n<OMOLI>\}Please money...
+
+message_132:
+      text: Give TWENTY DOLLARS to OMOLI?
+
+message_133:
+      text: You don't have TWENTY DOLLARS.
+
+message_134:
+      text: \n<OMOLI>\}Thabks...
+
+message_135:
+      text: \n<BIG POCKET>I'm gonna dance!
+
+message_136:
+      text: Do you want to dance?
+
+message_137:
+      text: You didn't know how to do the dance.
+
+message_138:
+      text: PLUTO doesn't look like himself.\!<br>You decided it's better to leave him alone.
+
+message_139:
+      text: \n<LOOMY>Oh! Well, if it isn't my old friend!\! I have the ability to move between places quickly by traveling through toilets!
+
+message_140:
+      text: \n<LOOMY>TAG me in and I'll show you, OMORI!
+
+message_141:
+      text: You don't know this person.
+
+message_142:
+      text: \n<LOOMY>TAG me in, OMORI!
+
+message_143:
+      text: \n<LOOMY>Hey, TAG me in!
+
+message_144:
+      text: You feel like seeing your friends.
+
+# =========================================================================================
+# Playground: 283
+# ========================================================================================
+
+message_145:
+      text: \n<PINATA GUY>\sinv[1]\{\{WOOOOOOOOOOOOOOOOOOOO!!
+
+# =========================================================================================
+# Kel Pool: 395
+# ========================================================================================
+
+message_150:
+      text: You got TWENTY DOLLARS!
+
+message_151:
+      text: Welcome to MONEY SPACE.\!<br>Only KEL is allowed in here.
+
+# =========================================================================================
+# Hideous Creature: 288
+# ========================================================================================
+
+message_155:
+      text: Brother...\! I'm so glad you're here...
+
+# =========================================================================================
+# Hell: 274
+# ========================================================================================
+
+#Mannequin MARI repeating dialogue
+
+message_160:
+      text: Look at what you've done.
+
+# =========================================================================================
+# Ladder Room: 275
+# ========================================================================================
+
+#Daddy longlegs
+
+message_165:
+      text: \n<DADDY LONGLEGS>Ah...\! you've come a long way down.\!<br>But you should turn back while you still can.
+
+# =========================================================================================
+# Player Room with Hell Mari: 296
+# ========================================================================================
+
+message_170:
+      text: \n<HERO>Hey, OMORI!\! Are you hungry?
+
+message_171:
+      text: \n<HERO>I was just about to cook something up but I'm missing some important ingredients.\! Why don't you find some and bring it back to me?
+
+message_172:
+      text: \n<HERO>Found something for me to cook?\!<br>I'll have it ready in a minute!
+
+message_173:
+      text: \n<HERO>Huh...\! this didn't turn out how I thought it would, but it'd be a waste not to give it, so...
+
+message_174:
+      text: \n<HERO>Enjoy!
+
+# =========================================================================================
+# Aubrey School: 374
+# ========================================================================================
+
+message_180:
+      text: There's a STUFFED TOY in the way.
+
+message_181:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: You accepted my love letter...<br>That means we're going on a date, right?\aub
+
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: I love you, OMORI! Please go out with me!\aub
+
+message_183:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: I'll follow you forever!\aub
+
+message_184:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: You said we'd hang out yesterday, so I'm borrowing you for the rest of this afternoon, okay?\aub
+
+message_185:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hehe... Did you wait long?\! It's rude to make a lady wait, y'know... Come on! Let's go!\aub
+
+message_186:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: That idiot KEL went and hid my STUFFED TOY again...\!<br>You'll help me find him, right?\aub
+
+message_187:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]You're late, OMORI!\! What took you so long?\aub
+
+message_188:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: OMORI...\! I-\aub
+
+message_189:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Wait a sec... Who are all those girls behind you?\aub
+
+message_190:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: I'm on a date with OMORI!\aub
+
+message_191:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]No, I'm on a date with OMORI!\aub
+
+message_192:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Well, we can't all date OMORI...\aub
+
+message_193:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Huh? What is it?\aub
+
+message_194:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: So... it's come to this.\aub
+
+message_195:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: Huff...\! huff...\! huff...\aub
+
+message_196:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Huff...\! huff...\! huff...\aub
+
+message_197:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: You...\! You're pretty strong...\aub
+
+message_198:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: You're not so bad...\! yourself...\aub
+
+message_199:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]But it's time for us to finish this!\aub
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Just give up!\aub
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \com[2]I'll never lose to you!\aub
+
+message_202:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: This...\! doesn't seem to be going anywhere...\aub
+
+message_203:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: I can't fight anymore...\! I'm so tired...\aub
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: There's only one way we can settle this for real...\aub
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]OMORI!\aub
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]Which one of us are you gonna go out with!?\aub
+
+message_207:
+      text: LEFT AUBREY
+
+message_208:
+      text: RIGHT AUBREY
+
+message_209:
+      text: ...\! You must've dozed off...
+
+# =========================================================================================
+# Behind the Waterfall: 285
+# ========================================================================================
+
+message_210:
+      text: \n<FACELESS>Even if you hide something, it will always be there.
+
+message_211:
+      text: \n<FACELESS>I'm sorry, but I don't remember who you are.
+
+message_212:
+      text: The FACELESS are speaking in hushed whispers amongst themselves.
+
+message_213:
+      text: \n<FACELESS>You look older, OMORI...\!<br>But not wiser.
+
+message_214:
+      text: \n<FACELESS>I thought you had left us for your other friends.\!<br>It is good to have you back.
+
+message_215:
+      text: \n<FACELESS>I hope you had fun without us.
+
+message_216:
+      text: \n<FACELESS>I saw someone waiting for you.\!<br>I think you should go see him.
+
+message_217:
+      text: \n<FACELESS>Careful about the railing.
+
+message_218:
+      text: \n<FACELESS>How long are you going to keep us locked in here?
+
+message_219:
+      text: \n<FACELESS>Don't leave.
+
+# =========================================================================================
+# Herosaurus: 397
+# ========================================================================================
+
+message_230:
+      text: \n<HEROSAURUS>Do you still accept me?
+
+# =========================================================================================
+# FEAR (Heights): 322
+# ========================================================================================
+
+message_300:
+      text:  An eerie red glow radiates from outside.\!<br>You feel strangely drawn to it.
+
+message_301:
+      text: The door is locked.
+
+# =========================================================================================
+# TOMBSTONES
+# ========================================================================================
+
+message_400:
+      text: OMOCAT
+
+message_401:
+      text: ARCHEIA
+
+message_402:
+        text: TDS
+
+message_403:
+        text: MELONKID
+
+message_404:
+        text: OCEAN
+
+message_405:
+        text: SLEEPYKUYA
+
+message_406:
+      text: YIN
+
+message_407:
+        text: EMS
+
+message_408:
+        text: MINCED
+
+message_409:
+        text: PEDRO
+
+message_410:
+        text: RAI
+
+message_411:
+      text: ROCHELLE
+
+message_412:
+        text: KIM
+
+# =========================================================================================
+# MARI IS HOME: 413
+# ========================================================================================
+
+message_310:
+      text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
+
+message_311:
+      text: \aubHey, OMORI...\! I think your sister is ignoring us.\! Maybe you should go talk to her.
+
+message_312:
+      text: \kelWe can't have a picnic without MARI!
+
+message_313:
+      text: \herMARI hasn't been home in a long time...\! She just needs some room to adjust.
+
+# =========================================================================================
+# DREAM: 504
+# ========================================================================================
+
+message_315:
+      text: \n<VEGGIE KID>My favorite PILLOW disappeared again!\!<br>I just can't sleep without it...
+
+message_316:
+      text: \n<VEGGIE KID>Did you find it yet?
+
+message_317:
+      text: You found a PILLOW.
+
+message_318:
+      text: \n<VEGGIE KID>This isn't my PILLOW...\! but thanks anyway!
+
+message_319:
+      text: \n<PILLOW HIDER>They call me PILLOW HIDER! I'm a master of hiding pillows.
+
+message_320:
+      text: \n<SPROUT MOLE>Oh, you found it.\! Forget about the PILLOW HIDER thing... I decided I'm better at hiding something else instead.
+
+message_321:
+      text: \n<SPROUT MOLE>OMORI.
+
+
+message_575:
+      text: A video tape labeled "OMORI".\! Do you want to pick it up?
+
+message_576:
+      text: A video tape labeled "BASIL".\! Do you want to pick it up?
+
+
+#SPIDER WEB HALLUCINATION
+
+message_233:
+      text: A giant spider web blocks the doorway.
+
+
+#BASIL Stuff
+
+message_250:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \who\fn<OMORI_GAME>...
+
+#INCUBATION
+
+message_251:
+      text: MARI is here.
+
+message_252:
+      text: HERO is here.
+
+message_253:
+      text: BASIL is here.
+
+message_254:
+      text: AUBREY is here.
+
+message_255:
+      text: KEL is here.
+
+
+#---- FEAR spiders
+
+message_260:
+      text: Whispers emanate from inside the box.
+
+message_261:
+      text: \}\n<???>\fn<OMORI_GAME>Do you still recognize your home?
+
+message_262:
+      text: \}\n<???>\fn<OMORI_GAME>MARI hasn't been home in a long time...

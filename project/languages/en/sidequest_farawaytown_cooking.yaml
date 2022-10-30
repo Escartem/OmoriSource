@@ -1,0 +1,151 @@
+# =========================================================================================
+# Cooking Help
+# =========================================================================================
+
+message_0:
+      text: \n<PIGTAILS LADY>Oh, hello!\! I remember you! You're the boy who chose the wallpaper for our house.\! I see you brought your friends!
+
+message_1:
+      text: \n<PIGTAILS LADY>If you're here for the party, I'm sorry. It's still a little bit early...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh shoot... That's our bad!\! We'll just come back later!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herHm?\! Sniff...\! Huh?\! Do you guys smell that?\!<br>It smells like something is burning...
+
+message_4:
+      text: \n<PIGTAILS LADY>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] SORRY, ONE SECOND!
+
+#KAREN slams the door, then reopens it
+
+message_5:
+      text: \n<PIGTAILS LADY>...
+
+message_6:
+      text: \n<PIGTAILS LADY>Actually...\! Um...\! You guys wouldn't happen to know how to cook, would you?\! I might need a little help with dinner...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelYou need help cooking?\! Well, today is your lucky day!<br>\!My brother HERO is an amazing cook!\! He'll definitely be able to cook something right up! Heh heh...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herH-Huh?\! I-I will?
+
+message_9:
+      text: \n<PIGTAILS LADY>Oh, thank you!\! Please... come inside!
+
+#Talk to KAREN inside
+
+message_10:
+      text: \n<PIGTAILS LADY>Sorry to trouble you like this...\! It's my first time cooking for so many people, so I'm a little nervous...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelNo worries.\! We'll help you out! Won't we, guys?\! \sinv[1]Won't we?\sinv[0]
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh... Alright, then... \!Come on, team.\!<br>I'm gonna put you all to work!
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubHuh? W-Wait a sec... Even me!?
+
+message_14:
+    faceset: MainCharacters_Faraway
+    faceindex: 38
+    text: \herYeah, of course!\! We used to cook together all the time when we were kids, didn't we?
+
+message_15:
+    text: \n<PIGTAILS LADY>Thank you so much! Feel free to use any ingredients!\! I don't have a lot, though...
+
+message_16:
+    faceset: MainCharacters_Faraway
+    faceindex: 30
+    text: \herDon't worry... I know we can make something delicious!\!<br>Let's get to work!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\Com[2]\{\SINV[1]AYE AYE, CAPTAIN!!\SINV[0]
+
+# ===============================================
+#Cutscene: Hero helps KAREN Cook
+# ===============================================
+
+#SEAN walks inside.
+
+message_18:
+      text: \n<CHECKERS GUY>Wow... What smells so delicious in here?
+
+message_19:
+      text: \n<PIGTAILS LADY>Oh, hello SEAN!\! Our new friends were just helping me prepare dinner for tonight's party!
+
+message_20:
+      text: \n<CHECKERS GUY>Well...\! It looks like you guys are doing a great job!\!<br>I'm done setting up outside so let me help, too!
+
+message_21:
+      text: \n<PIGTAILS LADY>\sinv[1]Yay!\! Now all of us can cook together!
+
+#Cooking montage: Everyone standing near the oven
+
+message_22:
+      text: \n<PIGTAILS LADY>\sinv[1]Phew...\sinv[0] All done!\! With your help, this party is going to be a great success!
+
+message_23:
+      text: \n<PIGTAILS LADY>Thank you for all your help again.<br>\!You're all such genuinely nice people!
+
+message_24:
+    faceset: MainCharacters_Faraway
+    faceindex: 29
+    text: \herAny time!\! Thanks for trusting us with your kitchen...<br>\!We really enjoyed cooking with you guys!
+
+message_25:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelYeah, this was really fun!\! Can't wait to eat everything at the party tonight!
+
+message_26:
+      text: \n<CHECKERS GUY>We'll be waiting for you!
+
+message_27:
+      text: \n<PIGTAILS LADY>Take care of yourselves!
+
+
+message_100:
+      text: \n<PIGTAILS LADY>Hi, everyone! Come on in!\! The party's already started!
+
+message_101:
+      text: Delicious \c[3]COOKIES\c[0]!
+
+message_102:
+      text: An old \c[3]PIE\c[0]!
+
+message_103:
+      text: A fresh \c[3]PIE\c[0]!
+
+message_104:
+      text: A big ol' chicken roast.
+
+message_105:
+      text: Salad...
+
+message_106:
+      text: \n<CHECKERS GUY>Yo! You excited for the party tonight?\! We'll see you there!
+
+message_107:
+      text: An unfinished plate of food.
+
+message_108:
+      text: A yummy \c[3]CAKE SLICE\c[0]!

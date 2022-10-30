@@ -1,0 +1,533 @@
+# =========================================================================================
+# ** BASIL ANGSTY TIME
+# =========================================================================================
+
+
+#===========================================================================================
+
+#LOOPING FIELD
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_25:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>...
+
+#===========================================================================================
+
+#SUSPENSE
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Lost in this confusion lies the root of everything.
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:  \n<STRANGER>\fn<OMORI_GAME>The truth that you've locked away...\! You must find it no matter what.
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>You have to...\! for the both of us.
+
+#===========================================================================================
+
+#SUBCONSCIOUS SPILL
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>These rooms...\! are full of broken things...\! but at least in here, I can see who you really are.
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>The world that you created above this one...\! Did you make it to protect this place or to hide it away?
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Either way...\! it's become more powerful than you.
+
+#===========================================================================================
+
+#NEIGHBORHOOD OF SHADOWS
+
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>When you hid the truth, you sealed a part of me away with it.
+
+message_5:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>He's been waiting for someone to save him all this time.
+
+message_6:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>On that day...\! When you became nothing...\! I was split in half.\! Which one do you think was more painful?
+
+#===========================================================================================
+
+#SAFE IN THE FOREST
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I miss you, \n[8].\! You were always someone I could depend on to listen.
+
+message_9:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>My problems... my hopes... my dreams...\! You knew them all.
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>So if you're still there...\! please let my words reach you one more time.
+
+message_46:
+      text: A single daisy.
+
+#===========================================================================================
+
+#SCRIBBLES
+
+message_11:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Our friends who have suffered because of us.\! Can we still call them friends?
+
+message_12:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>No matter how much I want it, things can't go back to the way they were before.
+
+message_13:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>But why does part of me still cling on?
+
+message_14:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Is there still hope left for us, \n[8]?
+
+#===========================================================================================
+
+# FISH OUT OF WATER
+
+message_15:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Back then...\! I wanted to save what was left.\!<br>But even after everything...\! you left me, \n[8]...
+
+message_16:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I waited so long for you to come back.
+
+message_17:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Even seeing you now...\! It's hard to think straight.\! I can feel my heart hurting and I want to cover my face and hide.
+
+message_67:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>There are so many things I want to say to you...\! but the words won't come out.
+
+message_66:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I just...\! I waited so long for you to come back, \n[8]...\! but...\! you never did.
+
+
+message_68:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I don't know if I should apologize...
+
+#===========================================================================================
+
+#TIME
+
+message_18:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>For so long, you kept the truth shut out.
+
+message_19:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>But something made it slip.
+
+
+message_27:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>And the hole that it made...\! It won't stop spreading until you find the root of it all.
+
+message_28:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>The one that has seen the truth...
+
+message_29:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Will you guide me to him, \n[8]?
+
+message_23:
+      text: An empty fish bowl.
+
+
+#PHONE
+message_26:
+      text: \n<MOM>\"\n[8]...\! We're moving away.\"
+
+#===========================================================================================
+#true
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>\n[8]...\! The truth is here.
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>You've been running from this for so long.
+
+message_33:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>But this time, we can face it together.
+
+#===========================================================================================
+#True upon talking to red eye basil
+
+message_34:
+      text: \n<BASIL>I'm...\| I'm so sorry.
+
+message_35:
+      text: \n<BASIL>Will you forgive me?\| My best friend...
+
+#===========================================================================================
+
+#Neutral
+
+message_36:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>\n[8]...\| You've been running away from the truth for so long...\| How long will you keep running?
+
+message_37:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I won't let this cycle repeat itself...
+
+message_38:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>I...\| I won't let you leave me, \n[8]...
+
+message_39:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Not again.
+
+#===========================================================================================
+
+#Neutral Fight
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>\n[8]...
+
+message_45:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>If you won't face the truth...\! then face me.
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Face the suffering you've caused for the people you love...
+
+message_42:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>The pain of knowing what you've lost...
+
+message_43:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>And the hatred of yourself for being too cowardly to change anything about it...
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Let those feelings devour you here...\! until your insides rot.
+
+#===========================================================================================
+
+#BATTLE TEXT
+#PLAYER STARTS AFRAID BUT CAN STILL "USE" SKILLS
+
+
+message_47:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_48:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_49:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_50:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_51:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_52:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>
+
+message_53:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>\n[8]...\! All those times that I reached out to you...\! Why didn't you answer?
+
+message_54:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>You promised me that we'd face this together...\! but you left me all alone.
+
+message_55:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>If we can't face it together...\! at least we can be together here.
+
+message_56:
+   text: >
+    \>STRANGER: \<\fn<OMORI_GAME>\n[8]...\! I'll trap you down here with me forever.
+
+#===========================================================================================
+#AFTER OMORI WINS
+
+#PLAY BASIL LOOP IN THIS MAP
+
+message_57:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>So you've chosen to live that way.\! I wonder...\! Can you really call that living?
+
+message_58:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<STRANGER>\fn<OMORI_GAME>Leave me here.\! There's no hope left for me.
+
+message_59:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+#BASILS MEMORIES
+
+message_60:
+      text: \n[8]...\! You're finally here.\bas
+
+message_61:
+      text: I've always dreamed that you would come back for me...\!<br>But maybe it's too late.\bas
+
+message_62:
+      text: \basThe truth of that day will be hard to accept.
+
+message_63:
+      text: \basWhen you see it...\! you have to stay strong.
+
+message_64:
+      text: \basAnd if you can...
+
+message_65:
+      text: \basPlease...\! forgive me...
+
+#====
+
+message_69:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_72:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_73:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_74:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_76:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_77:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_78:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_79:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_81:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_82:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_83:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_84:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_85:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_86:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_87:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_88:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_89:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_90:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_91:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_93:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_94:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_95:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_96:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_97:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_98:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_99:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_100:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text:

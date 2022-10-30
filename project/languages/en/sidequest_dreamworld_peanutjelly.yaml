@@ -1,0 +1,34 @@
+
+# =========================================================================================
+# PEANUT AND JELLY
+# ========================================================================================
+
+#Talk to Jelly
+
+message_0:
+      text: \n<JELLY>MISS PALMIE has been taking care of us forever...
+
+message_1:
+      text: \n<JELLY>\sinv[1]She's always been so loving and caring...\! <br>I wish I could give her something super special...
+
+message_2:
+      text: \n<JELLY>Wow!\! Is that a \c[4]THANK-YOU FOSSIL\c[0]?\! <br>I've never seen one of those before!\! <br>That would make the perfect gift for MISS PALMIE...
+
+message_3:
+      text: Give the \c[4]THANK-YOU FOSSIL\c[0] to JELLY?
+
+#yes/no
+
+#if yes
+message_4:
+      text: \n<JELLY>You're giving this to me!?\! Wow... Thank you!\!<br>I found this in the fireplace earlier!\! Maybe you can use it!
+
+message_5:
+      text: You got \c[4]SNO-CONE TICKET\c[0]!
+
+message_6:
+      text: \n<JELLY>Hehe...\! MISS PALMIE will be so surprised when I give her this \c[4]THANK-YOU FOSSIL\c[0]!
+
+#unused
+message_7:
+      text: \n<PEANUT>Mhmm!

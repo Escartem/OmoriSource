@@ -1,0 +1,243 @@
+# =========================================================================================
+# Cutscene: LOST BALL
+# =========================================================================================
+
+#TRIGGER: OMORI talks to VAN
+#BERLY is pacing back and forth in frustration.
+
+message_0:
+      text: Grumble, grumble...\! Grumble, grumble, grumble...\ber
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hey, VAN? Is something wrong with BERLY?\!<br>She seems a little...\! upset.\her
+
+message_2:
+      text: Oh...\! About that...\! Well, you see...\n<VAN>
+
+#BERLY walks up to party
+
+message_3:
+      text: Sigh...\! Let me explain. \ber
+
+#BERLY turns to the pole.
+
+message_4:
+      text: \{\Com[2]LOOK AT THIS POLE!!\}\!<br>\Com[2]Can you believe it!? \ber
+
+#Camera centers on POLE
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: What are we looking at? \kel
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Yeah, I don't see it. \aub
+
+#Camera centers on scene
+#BERLY turns to the party
+
+message_7:
+      text: Exactly!\! The tetherball is missing.\!<br>VAN here used his arms and swung too hard, and now the ball's gone far off somewhere...\ber
+
+#BERLY looks in the distance
+
+message_8:
+      text: Never to be seen again.\ber
+
+#BERLY turns to VAN.
+
+message_9:
+      text: I told you not to use your arms, VAN.\!<br>You gotta use your head...\! like this!\ber
+
+#BERLY headbutts VAN
+
+message_10:
+      text: Sorry, BERLY...\!<br>Using my head all the time gives me a headache.\n<VAN>
+
+message_11:
+      text: That's ‘cause you don't have a hard head like I do!\ber
+
+#VAN remembers something.
+
+message_12:
+      text: Oh! Something just hit me!\!<br>I'm sure I saw the ball flying off somewhere in that direction!\n<VAN>
+
+#Everyone turns their head to Vast Forest Entrance.
+#Camera pans to Vast Forest Entrance.
+
+message_13:
+      text: Into the \c[11]VAST FOREST\c[0]?\! Ugh...\! We'll never find it now.\! It might as well be lost forever!\ber
+
+#HERO turns to BERLY.
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Hey, don't sweat it, BERLY. We'll look for the ball for you!\her
+
+message_15:
+      text: Heh.\! You sure you want to do that?\!<br>\c[11]VAST FOREST\c[0] is a pretty dangerous place, y'know?\ber
+
+message_16:
+      text: One time, I even got into a super grizzly brawl with this ugly<br>plant creature with dead, empty eyes and a gaping mouth. \ber
+
+message_17:
+      text: I outwitted it, of course, being cool and smart and all.\!<br>There's no monster in all of the universe that can outrun me!\ber
+
+message_18:
+      text: \Com[2]\SINV[2]\{BAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
+
+#VAN turns to OMORI
+
+message_19:
+      text: Say OMORI, why don't you and your friends go with BERLY and keep her out of trouble.\! I'd go myself, but...\n<VAN>
+
+message_20:
+      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BROWS ran over BANGS again!\SINV[0]\hap
+
+#VAN looks toward the noise and is surprised.
+
+message_21:
+      text: Oh geez, there's my cue...\!<br>I'm coming, HAPPY!\n<VAN>
+
+#VAN turns towards party.
+
+message_22:
+      text: Be safe out there, you guys. I'll see you when you get back!\n<VAN>
+
+#VAN walks off screen
+#HERO turns to BERLY
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Come on, BERLY. Let's go find your \c[4]LOST BALL\c[0].\!<br>We don't have anything to worry about as long as we're together!\her
+
+message_24:
+      text: Heh, sure.\! Just don't get in my way when I show off my totally amazing \c[1]HEADBUTT\c[0] skills!\ber
+
+message_25:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Ugh...\! Let's just get this over with.\aub
+
+message_26:
+      text: BERLY joined your party.
+
+# =========================================================================================
+
+message_100:
+      text: You guys ready to find my \c[4]LOST BALL\c[0] yet!?\!<br>\}Not that I need your help or anything...\ber
+
+message_38:
+      text: About time!\! Let's go already.\! I'm bored out of my mind!\ber
+
+message_101:
+      text: \com[2]What? Why not!?\! I'm falling asleep here!\ber
+
+message_102:
+      text: A lonely tetherball pole.
+
+# =========================================================================================
+
+message_39:
+      text: Sniff sniff...\! sniff sniff...\ber
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 22
+      text: BERLY, please... I promise I took a shower today.\kel
+
+message_41:
+      text: I smell...\! ...\! ...\! my \c[4]LOST BALL\c[0]!<br>\!I think.\ber
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: You think?\kel
+
+message_43:
+      text: It's somewhere nearby, I can just feel it!\!<br>You know the drill, turn this place upside down!\ber
+
+# =========================================================================================
+# Cutscene: FOUND BALL
+# =========================================================================================
+
+message_27:
+      text: \{\com[2]SWEET! THERE'S MY \c[4]LOST BALL\c[0]!!\ber
+
+message_28:
+      text: \{\sinv[1]YOINK!\ber
+
+message_29:
+      text: Finally!\! Let's take this bad boy to the playground!\!<br>I'm itchin' to play some tetherball!\ber
+
+message_30:
+      text: Hey, this isn't how you get to the playground!\! You're going the wrong way!\ber
+
+message_31:
+      text: You found a \c[4]LOST BALL\c[0].
+
+message_32:
+      text: Well, that was fun...\! not!\!<br>I'm gonna go play some tetherball!\ber
+
+message_33:
+      text: See ya later, alligators! I'm outta here!\ber
+
+message_34:
+      text: BERLY left your party.
+
+message_35:
+      text: But seriously, come see me before you go.\!<br>I got something special for ya.\ber
+
+message_36:
+      text: Hey, this isn't where my \c[4]LOST BALL\c[0] went!\! You got somewhere else to be or somethin'?\ber
+
+message_37:
+      text: If you needed to be somewhere you could've just said so!\!<br>I'll wait for you guys back at the playground.\ber
+
+# =========================================================================================
+# Cutscene: OMORI's CUT TAG SKILL
+# =========================================================================================
+
+#Aubrey walks up to a root.
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: There's a root here, but it looks like it can be cut down.\!<br>This looks like a job for you, OMORI!\aub
+
+# =========================================================================================
+# Cutscene: MARI FINDS THE BALL
+# =========================================================================================
+
+#TRIGGER: Enter Mari's Picnic
+
+#MARI walks one step towards OMORI.
+
+message_78:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: Oh, hi again, everyone!\!<br>I bet you're all tired from exploring \c[11]VAST FOREST\c[0].\mar
+
+message_79:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Why don't you grab some food from my picnic?\!<br>That'll fix you right up!\mar
+
+#[OMORI examines Fruit Basket and heals.]
+
+message_80:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: There, all better.\! Let me know if you need anything else.\mar
+
+message_81:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Oh, and if you ever get lost or aren't sure what to do, <br>just talk to me.\! I can help you get right back on track!\mar

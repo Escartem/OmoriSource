@@ -1,0 +1,584 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============LAST RESORT / UNDERWATER HIGHWAY / ABYSS========================
+
+
+                        #====NIGHT 3====
+
+#ABBI
+#Location:Abyss
+#Abyss (Boss) - Tentacle Quest
+#Check sidequest_dreamworld_tentacle
+
+#DEALER JASH
+#Location: LAST RESORT
+#SHOP QUEST yaml
+
+#PINKBEARD
+#Location: Last Resort
+
+#ADD ARG!!!!!!!
+message_0:
+      text: \n<PINKBEARD>This joint just ain't cut out like these folks are making it out to be.\! \Com[2]I want my CLAMS back, ya hear!?
+
+#FISHBOY
+#Location: Last Resort
+message_1:
+      text: \n<FISHBOY>Catching and raising fish is a hobby of mine.\!<br>It passes time and is moderately rewarding.
+
+
+#GOYLE THE CRAB
+#Location: Last Resort
+#Faces up, faces down when talked to
+message_3:
+      text: \n<GOYLE THE CRAB>Don't look at me! I'm hideous!
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Check DREAM WORLD EXTRAS BLACKSPACE yaml
+
+#HOT DOG GUY
+#Location: Last Resort
+message_4:
+      text: \n<HOT DOG GUY>\SINV[1]\c[3]HOT DOGS\c[0]...\! Get'chur \c[3]HOT DOGS\c[0] here...\SINV[0]
+
+message_5:
+      text: \$\n<HOT DOG GUY>You want a \c[3]HOT DOG\c[0]? It'll only cost ya 100 CLAMS...\!<br>Come on... they're yummy.\$
+
+message_6:
+      text: You got a \c[3]HOT DOG\c[0].
+
+message_7:
+      text: \n<HOT DOG GUY>Alright...\! but they're yummy.
+
+message_36:
+      text: \n<HOT DOG GUY>You don't have enough CLAMS for this...
+
+#LAMB
+#Location: Last Resort
+message_8:
+      text: \n<LAMB>We decided to come here on our honeymoon because they offered a free room and luxury resort experience!
+
+message_9:
+      text: \n<LAMB>\Com[2]Luxury, my butt!\! This place is as shoddy as it gets.\!<br>I can already see the paint coming off the walls!
+
+#WOLF
+#Location: Last Resort
+message_10:
+      text: \n<WOLF>Honestly, I don't mind this place at all.\!<br>It's not bad at all for being free...\! even if the kiddie pool outside is haunted.
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_11:
+      text: \n<SADIE>Hi, I'm SADIE...\! My sisters and I started this cafe together...\! But since CLAMS have been tight, a lot of my sisters decided to start working at the \c[11]LAST RESORT\c[0].
+
+message_12:
+      text: \n<SADIE>It's just me and my sister ELEANOR left...
+
+message_13:
+      text: \n<SADIE>\sinv[1]Sigh...\sinv[0]\! I wish they would come back here.\!<br>I would do anything to hear them sing again!
+
+#JULIA
+#Location: Last Resort
+message_14:
+      text: \n<JULIA>I started working here because they offered me a good salary, but I haven't even gotten my first paycheck!
+
+#LUCY
+#Location: Last Resort
+message_15:
+      text: \n<LUCY>\}I miss my sisters back at the \c[11]MUSTARD SUB\c[0]...
+
+#PAM
+#Location: Last Resort
+message_16:
+      text: \n<PAM>Sorry, I can't serve \c[3]FRUIT JUICE\c[0] to minors.
+
+#RITA
+#Location: Last Resort
+message_17:
+      text: \n<RITA>My sisters and I own a small cafe on the highway east of here.\! You should check it out.\! The food is delicious!
+
+#SADIE
+#Location: MUSTARD SUBMERSIBLE
+#Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
+
+#SHARK PICKLE
+#Location: Last Resort
+message_18:
+      text: \n<SHARK PICKLE>Do you want to learn a fact about SHARKS and/or PICKLES?\!<br>If you give me a \c[3]COMBO MEAL\c[0], I'll tell you what I know!
+#yes/no (only if combo meal is in inventory)
+
+#yes
+message_19:
+      text: \n<SHARK PICKLE>Hey, thanks a lot! \!<br>Would you like to learn about SHARKS and/or PICKLES?
+
+message_20:
+      text: SHARKS
+
+message_21:
+      text: PICKLES
+
+message_22:
+      text: \n<SHARK PICKLE>Great!\! Here's what I know...
+
+
+#Shark
+
+message_23:
+      text: \n<SHARK PICKLE>Sharks can only swim forward.<br>\!Isn't that inspiring?\! I think so...
+
+message_100:
+      text: \n<SHARK PICKLE>Sharks have multiple layers of teeth...\! which probably come in handy when they're eating pickles!
+
+message_101:
+      text: \n<SHARK PICKLE>Sharks don't have bones!\! We are actually made from human ears and noses.
+
+message_102:
+      text: \n<SHARK PICKLE>Contrary to popular belief, most sharks don't like to eat people...\! except tiger sharks...\! Those guys will eat anything...
+
+
+#PICKLES
+message_24:
+      text: \n<SHARK PICKLE>November 14th is National Pickle Day.<br>\!Remember to eat your yearly pickle!
+
+message_104:
+      text: \n<SHARK PICKLE>Have too many pickles?\! You can bury them in the ground and come back for them later!\! Just remember where you buried them...
+
+message_105:
+      text: \n<SHARK PICKLE>Pickles are used for courting rituals in certain cultures.\! That's about all I'll say about that!
+
+message_106:
+      text: \n<SHARK PICKLE>Think it's possible that you have scurvy?\! Then maybe you should have eaten a pickle!
+
+
+
+
+
+#SEACOW
+#Location:Underwater Highway
+message_25:
+      text: \n<SEACOW>Uhh... \!moo?
+
+#SEACOW FARMER
+#Location:Underwater Highway- Hunt Squizzards Quest
+#Check Seacow farmer (Hunt Squizzards) yaml
+
+#GATOR GUY
+#Location: Last Resort - Break Room
+message_26:
+      text: \n<GATOR GUY>I got everyone pizza!
+
+#GATOR GUY
+#Location: Last Resort - Construction
+message_27:
+      text: \n<GATOR GUY>Huff... \!Huff... \!My back hurts... \!I'm too old for this.
+
+#GATOR GUY
+#Location: Last Resort - Break Room
+message_28:
+      text: \n<GATOR GUY>Our stocks are falling... \!I mean, rising, at an alarming rate!
+
+#GATOR GUY
+#Location: Last Resort - Casino
+#GATOR GUY is on his tiny phone.
+message_29:
+      text: \n<GATOR GUY>\}Nah... \!You serious?... \!Not again... \!<br>Don't worry about it... \! That won't be a problem...
+
+#GATOR GUY
+#Location: Last Resort- Bathroom (Looking at Mirror)
+message_30:
+      text: \n<GATOR GUY>Hey there, good lookin'...
+
+#GATOR GUY
+#Location: Last Resort Entrance
+#GATOR GUY is on his tiny phone.
+message_31:
+      text: \n<GATOR GUY>\}Uh huh... \!Yeah... \!Right... \!Who?... \!You got it.
+
+#GATOR GUY
+#Location: Last Resort Entrance
+#GATOR GUY is on his tiny phone.
+message_32:
+      text: \n<GATOR GUY>\}Yessir... \!Yessir... \!Yessir... \!Yessir... \!Affirmative... \!Roger that...
+
+#SLIME 1
+#Location:
+#[INCOMPLETE]
+
+#SLIME 2
+#Location:
+#[INCOMPLETE]
+
+#SLIME 3
+#Location:
+#[INCOMPLETE]
+
+#SLIME 4
+#Location:
+#[INCOMPLETE]
+
+#SLIME 5
+#Location:
+#[INCOMPLETE]
+
+                        #====NIGHT 4====
+
+#ABBI
+#Location: Abyss
+#Abyss (Boss) - Tentacle Quest
+#Same as NIGHT 3.
+
+#DEALER ASH
+#Location: Last Resort
+#Same as NIGHT 3.
+
+#PINKBEARD
+#Location: Space Captains House- Bring Boy Home Quest
+#Check DREAM WORLD SIDEQUEST PINKBEARD
+
+#FISHBOY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#GOYLE THE CRAB
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HOT DOG GUY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#LAMB
+#Location: ORANGE OASIS
+message_33:
+      text: \n<LAMB>We tried going to the \c[11]LAST RESORT\c[0] for our honeymoon...<br>but that didn't really work out, so we took a train here to the \c[11]ORANGE OASIS\c[0]!
+
+message_34:
+      text: \n<LAMB>I'm not sure what I was expecting...\! It's err...\!<br>It's quite orange.
+
+#WOLF
+#Location: ORANGE OASIS
+message_35:
+      text: \n<WOLF>Huff... huff... \! It's so hot.\! Is there even a hotel around here?
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_80:
+      text: \n<SADIE>Hi, I'm SADIE!\! My sisters and I started this cafe together!
+
+message_81:
+      text: \n<SADIE>ELEANOR handles the register, so please speak with her if you want to buy a delicious \c[3]COMBO MEAL\c[0]!
+
+message_82:
+      text: \n<SADIE>Also, those are my sisters singing!\!<br>Aren't their voices so pretty?
+
+
+#JULIA
+#Location: Mustard Submersible
+message_85:
+      text: \n<JULIA>I left the \c[11]LAST RESORT\c[0], and am back here!\! Just don't tell my sisters I missed them!\! \SINV[1]Ufufu!\SINV[0]
+
+#LUCY
+#Location: Mustard Submersible
+message_90:
+      text: \n<LUCY>\}Hi... I'm glad to be back...\! I hope you like it here!
+
+#PAM
+#Location: Mustard Submersible
+message_95:
+      text: \n<PAM>I left the \c[11]LAST RESORT\c[0], because I missed SADIE and ELEANOR...\! but it looks like everyone else beat me to it.
+
+message_96:
+      text: \n<PAM>I guess I should be worrying about CLAMS right now but...\!<br>I'm just happy that we're all together again.\! We'll get by somehow!
+
+#SADIE
+#Location: Mustard Submersible
+#[Incomplete]
+
+#SHARK PICKLE
+#Location:Underwater Highway
+#Same as NIGHT 3.
+
+#POKER FACE
+#Location: Last Resort
+#POKER FACE: I got a mean poker face...
+
+#SEACOW
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#SEACOW FARMER
+#Location: Underwater Highway - Hunt Squizzards Quest
+#Same as NIGHT 3.
+
+#MR. JAWSUM
+#Location: Last Resort
+#Check DREAM WORLD QUEST DIALOGUE.
+#After Cutscene: Feed Humphrey 1
+#Location: N/A
+
+#GATOR GUY
+#Location: Forest Playground
+message_60:
+      text: \n<GATOR GUY>\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
+
+#GATOR GUY
+#Location: Mustard Submersible
+#GATOR GUY is on his tiny phone.
+message_61:
+      text: \n<GATOR GUY>\}Uh huh...\! Three orders...\! Uh huh...\! Uh huh...\! I don't know...\! I can ask...\!<br>Okay, so you want four orders now...
+
+#GATOR GUY
+#Location: Last Resort
+message_62:
+      text: \n<GATOR GUY>The boss doesn't have his usual energy lately...\!<br>I wonder if something's up...
+#After Cutscene: Feed Humphrey 1
+message_63:
+      text: \n<GATOR GUY>\Com[2]Hello, HERO, sir!\! \Com[2]Have a good day, sir!
+
+#GATOR GUY
+#Location: Last Resort - Break Room Stock Guy
+#Same as DAY 3.
+#After Cutscene: Feed Humphrey 1
+message_64:
+      text: \n<GATOR GUY>In the short time that HERO has taken over as the new boss, our gross income has grown exponentially!
+
+message_65:
+      text: \n<GATOR GUY>At this rate...\! one day, we might even be cash-flow positive!
+
+#GATOR GUY
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_66:
+      text: \n<GATOR GUY>Thanks to HERO's incredible leadership, our business model is more efficient than ever!\! We're on our way to the top, baby!
+
+#GATOR GUY
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_67:
+      text: \n<GATOR GUY>Are you tired of walking, boss?\!<br>Do you want me to carry you?
+
+#GATOR GUY
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_68:
+      text: \n<GATOR GUY>\}So you were saying...\! Mhmm...\! No, you're missing the point...\! But that's not fiscally possible...\! I said fiscally, not physically!
+
+#GATOR GUY
+#Location: Last Resort
+message_69:
+      text: \n<GATOR GUY>How you doin', boss?\! You want a free \c[5]RUBBER BAND\c[0]?\!<br>Don't worry about it.\! It's on me!
+
+message_70:
+      text: \n<GATOR GUY>Hey, you want another \c[5]RUBBER BAND\c[0], don't you?\!<br>Go on, take it!\! Anything for you, boss.
+
+message_71:
+      text: \n<GATOR GUY>You and your friends sure like \c[5]RUBBER BANDS\c[0]...\!<br>not that it's a problem.\! I got all the \c[5]RUBBER BANDS\c[0] in the world!
+
+message_72:
+      text: \n<GATOR GUY>I know that look!\! That's the look of someone who wants another \c[5]RUBBER BAND\c[0]!\! Here ya go, boss!\! With everything you've done for us, it's the least I could do!
+
+message_73:
+      text: \n<GATOR GUY>Hey, boss!\! You liking those \c[5]RUBBER BANDS\c[0] I gave you?\!<br>Pretty neat, huh?\! I can get you more if you want...
+
+#Repeats infinitely:
+message_74:
+      text: \n<GATOR GUY>Here, boss!\! Take one more \c[5]RUBBER BAND\c[0]!\!<br>You go on and enjoy it!
+
+message_75:
+      text: You got a \c[5]RUBBER BAND\c[0]!
+
+#SLIME 1
+#Location:
+#extras_shop
+
+message_120:
+      text: Would you like to listen to this MUSICAL CLAM?
+
+message_121:
+      text: Close this MUSICAL CLAM?
+
+#BIKER gang
+
+message_125:
+      text: \n<CITY SLICKER>Respect your community!
+
+message_126:
+      text: \n<JET SETTER>Love yourself!
+
+message_127:
+      text: \n<SKULL CRUSHER>Be kind to others!
+
+message_128:
+      text: \n<BRICK>I donate to charity!
+
+message_130:
+      text: \n<FROG>\}\quake[1]Ribbit...\quake[0]\! (Waiting for something to happen?)
+
+#MUSCLE Sign
+
+#OMORI
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelLookin' good, OMORI!
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWhat a hunk!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOMORI, have you been working out?
+
+#AUBREY
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]Oooh, AUBREY... You're so dreamy...
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWould you like anything, sir?\! A \c[3]FRUIT JUICE\c[0]?\! A back \c[1]MASSAGE\c[0]?\! Some croutons?
+
+message_155:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWow!\! I could get used to this!
+
+#KEL
+message_156:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelIt is I, KEL of the future!\! I'm gonna have so much muscle, I'm gonna barely be able to walk!
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelStrike a pose! Hoo-hah!\! I'm gonna get all the girls. Just you wait.
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubNot like that, you won't.
+
+#HERO
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: Settle down, ladies...\! There's enough of me to go around.\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Stop it, HERO.\! Or else I'm telling MARI!
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herS-Sorry.
+
+#phone
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\com[2]\{HELLO? THIS IS KEL!
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: \kel\{\com[2]\{WHERE IS MY ROOM SERVICE?
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\{\com[2]\{IT'S BEEN 45 MINUTES!
+
+message_174:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kel\}...\! Yes...\! Uh huh...\! Uh huh...\! Oh, that's...\! M-My mistake.\! S-So sorry.\! Goodbye.
+
+message_175:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_176:
+      text: \n<SPROUT MOLE>Hello, who is this?
+
+message_177:
+      text: \n<SPROUT MOLE>Sorry, you have the wrong number.
+
+message_178:
+      text: \n<SPROUT MOLE>\com[2]Do you think this is funny, kid!?
+
+message_179:
+      text: \n<SPROUT MOLE>My mom warned me about people like you!
+
+message_180:
+      text: \n<NOSE>\}Nose goes!\! \quake[1]Bzzt...
+
+#HERO BOSS
+message_200:
+      text: Good day, boss. Love your hair!\n<GATOR GUY>
+
+message_201:
+      text: Hey, boss. Love the suit!\n<GATOR GUY>
+
+#POTHOLE GUYS
+message_220:
+      text: \n<GATOR GUY>Move along, move along... Nothing to see here.
+
+message_221:
+      text: \n<GATOR GUY>New potholes every day...\! I hope I'm getting paid overtime for this.
+
+message_233:
+      text: \n<GATOR GUY>I keep filling in the holes...\! but they just keep coming back!
+
+#HERO BOSS
+message_222:
+      text: \n<GATOR GUY>How's it going, boss?\! Hope you're not workin' too hard.
+
+message_223:
+      text: \n<GATOR GUY>Checking up on us all the way out here, boss?\! That's some real leadership.
+
+message_234:
+      text: \n<GATOR GUY>What's up, boss?\! Thanks for takin' over the business and everything.\! I hear you're killin' it up there!
+
+message_224:
+      text: \n<GATOR GUY>So... I bumped into Mom on the way up here and she won't stop nagging me...\! Wearing shades inside is bad for your eyes, she says.
+
+message_225:
+      text: \n<GATOR GUY>I can't take off these shades just like that.\! They're like a part of me!
+
+message_226:
+      text: \n<GATOR GUY>Man... Mom's visiting again?\! She must be empty-nesting hard.
+
+message_227:
+      text: \n<GATOR GUY>What? Mom's here?\! I gotta go say hi later!
+
+message_228:
+      text: \n<GATOR GUY>Yay! Mom's here!
+
+message_229:
+      text: \n<GATOR GUY>Ugh...\! Mom.
+
+message_230:
+      text: \n<GATOR GUY>Wearing shades inside is cool.
+
+message_231:
+      text: \n<GATOR GUY>Tourists are already showing up even though we're not done with construction yet.\! Don't know if that's a good thing or a bad thing...
+
+message_232:
+      text: \n<GATOR GUY>Fixing stuff is fun!

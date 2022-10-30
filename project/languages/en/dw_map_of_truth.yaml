@@ -1,0 +1,172 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \whoYou have come again to seek the truth.
+
+message_27:
+    text: \whoEach time, your adventures may be disparate.\! But as your journey nears its end...\! it will always lead you back here.
+
+message_1:
+    text: \whoThe truth.\! The truth is always the same.
+
+message_2:
+    text: \whoThe path to the truth was once here, but it has been removed.
+
+message_3:
+    text: \whoIt was moved to a lighthouse in a pier.
+
+message_4:
+    text: \whoThen, to a library banished deep underground.\! And after that, to an old barn on a distant planet.
+
+message_5:
+    text: \whoAnd...\! this time...\! it will be in the heart of a vast forest.
+
+message_6:
+    text: \whoNo matter how many times the path is concealed, the flower boy will always find it.\! And your dear sister MARI...\! she will always guide you to it.
+
+message_7:
+    text: \whoEven as hollow shells, they will continue to evolve.\! And each time, they will grow wings...\! and fly too close to the sun.
+
+message_8:
+    text: \whoIt is their nature.\! They are the only ones who know...\! and one has carried it with her to her grave.
+
+message_9:
+    text: \whoDeath may be no danger here, but the memories of them do not fade so easily.\! Many times, your friends have met with an unfortunate fate.
+
+message_10:
+    text: \whoAlthough they are revived time and again, the most haunting stay in this world...\! even if only their bones remain.
+
+message_11:
+    text: \whoThe long lost ones sink here...\! to the bottom of the \c[11]DEEP WELL\c[0]...\! and become nothing.
+
+message_12:
+    text: \whoYou have forsaken them, yet they still yearn for your care.\! Their souls know nothing but how to scream for help.\! Do you take pity on them?
+
+message_13:
+    text: \whoYour dear sister MARI with a bad knee...\! You could not bear for her to die again, so she was given the safety of a picnic blanket.
+
+message_14:
+    text: \whoYet it is her nature to leave and to protect.\! And when she does, she will leave you again and be born anew...\! with the undying soul that you have cursed her with.
+
+message_15:
+    text: \whoThe souls assigned to your friends...\! They are fragile and must be protected.\! And so they must remain asleep.
+
+message_16:
+    text: \whoYet...\! The path to the truth is closer to your most precious room than ever before.\! Will you be able to bury it this time?
+
+#TRUE
+message_17:
+    text: \whoPerhaps it is too late for you.
+
+#NEUTRAL
+message_18:
+    text: \whoPerhaps there is still hope for you.
+
+message_19:
+    text: \whoYou know of the KEYS to the other realm.\! They are different each time...\! but they will unlock the same door.
+
+message_20:
+    text: \whoThe end of this journey will lead to suffering...\! but if you do not face this, you cannot continue.
+
+message_21:
+    text: \whoThis form, though it has not shown its true self, is evil.\!<br>You will not see that unless you fight it.
+
+message_22:
+    text: \whoWhen your intentions become hazy, they will transpire into this world like a thick fog.\! You will know when it happens.\! It has already happened before.
+
+message_23:
+    text: \whoAt that time...\! return to where the truth was reborn...\! to the heart of the forest.
+
+message_24:
+    text: \whoAnd like each time before it...\! attempt to rewrite your fate.
+
+message_25:
+    text: \whoWill you be doomed to repeat this cycle over and over?\!<br>Or will you break it?
+
+message_26:
+    text: \whoExplore this world while you can, DREAMER.\! Until there is nothing left.
+
+
+#----
+
+#BLACK Space
+
+message_30:
+    text: \n<STRANGER>You are here again, DREAMER.\! To what do we owe the occasion?\! Are you running out of time?
+
+message_31:
+    text: \n<STRANGER>The truth is difficult for you.\! In the past, it has caused you to stray to your destructive form.<br><br>Your current form subdues that...\! and although it is also evil...\! it may still be the better of the two.
+
+message_32:
+    text: \n<STRANGER>This place has changed a great deal since you were last here.\! Will you be able to find your way back, or will you finally lose yourself?
+
+message_33:
+    text: \n<STRANGER>Without KEYS of our own, we are forced to wander endlessly here.\! These doors will not open for us.\! We are not as fortunate as you.
+
+message_34:
+    text: \n<STRANGER>Something was taken from here a long time ago...\! Where did you hide it?\! Only you know where it is now.
+
+message_35:
+    text: \n<STRANGER>Why must you take that cursed form?\! It is indeed strong and can protect you...\! but if you rely on it too often...\! what you will sacrifice can never be reclaimed.
+
+message_36:
+    text: \n<STRANGER>Has the flower boy lost his way?\! Here to save him again?\! How fortunate for him...
+
+message_37:
+    text: \n<STRANGER>Redemption is hidden among one of these doors...\! but it will never open for you in that form.\! You will have to find another way in.
+
+message_38:
+    text: \n<STRANGER>Behind these doors lie rooms made of scattered fragments, forever changing.<br><br>If you are lost, you need not worry.\! The red hands will guide you...\! and...\! the form you've taken...\! it cannot die here.
+
+message_39:
+    text: \n<STRANGER>You have hidden yourself away again.\! Hopes, dreams, aspirations...\! do they mean nothing to you?
+
+message_40:
+    text: \n<STRANGER>You may not be in control now...\! but do not lose hope, DREAMER.\! There are some who still believe in you.
+
+message_41:
+    text: \n<STRANGER>With great power comes great burden...\! for yourself...\! and for the people closest to you.\! Who are you protecting?\! And... is it worth it?
+
+message_42:
+    text: \n<STRANGER>I deeply wish that your friend's soul is born uncorrupted.\! We know too well what fate will befall him otherwise.
+
+message_43:
+    text: \n<STRANGER>Please have mercy, DREAMER.\! The souls born here may never materialize, but their screams still echo through the ground.
+
+message_44:
+    text: \n<STRANGER>The flower boy who is closest to the truth...\! whose eyes glow an eerie red.\! I have seen what you've done to him before...\! and pray that you don't find him again.
+
+message_45:
+    text: \who
+
+message_46:
+    text: \who
+
+message_47:
+    text: \who
+
+message_48:
+    text: \who
+
+message_49:
+    text: \who
+
+message_50:
+    text: \who
+
+message_51:
+    text: You cannot open this door.
+
+message_52:
+    text: The door is locked.
+
+message_53:
+    text: You got a KEY.
+
+message_54:
+    text: Unlock this door?
+
+message_55:
+    text: You don't have the right KEY to unlock this.

@@ -1,0 +1,30 @@
+# =========================================================================================
+# Lost Forest
+# ========================================================================================
+
+#Talk to Mush:
+
+message_0:
+      text: \n<MUSH>Hello, stranger.\! I am MUSH and my lifelong dream has always been to be eaten and enjoyed.\! <br>Will you finally grant my wish and eat me?
+
+#[Nod/Shake]
+#[Nod]
+
+message_1:
+      text: \n<MUSH>Oh, thank you, stranger.\!<br>You don't know how grateful I am for this!
+
+#MUSH jumps into your sprite
+
+message_2:
+      text: \c[3]MUSH\c[0] was full of excitement as he was being chewed.
+
+message_3:
+      text: \c[3]MUSH\c[0] granted 1 HEART, 1 JUICE, 1 ATTACK, 1 DEFENSE, 1 SPEED, and 1 LUCK!
+
+message_5:
+      text: You got \c[3]MUSH\c[0].
+
+#[Shake]
+
+message_4:
+      text: \n<MUSH>Oh...\! Okay, then.

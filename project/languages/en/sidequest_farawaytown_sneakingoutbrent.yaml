@@ -1,0 +1,103 @@
+
+# =========================================================================================
+# Sidequest: Sneaking Out Brent
+# =========================================================================================
+
+#Examine Brents house door
+
+message_1:
+      text: \n<SMART-LOOKING BOY>Oh, hey there, tutor!
+
+#Talk to Brent / Cutscene: Brent Leaves
+message_2:
+      text: \n<SMART-LOOKING BOY>Umm...\! Actually, I have a big favor to ask...
+
+message_3:
+      text: \n<SMART-LOOKING BOY>I've been cramped in this room all summer...\!<br>I keep hearing the other kids hanging out outside, while I'm at my desk with my nose stuck in these worksheets!
+
+message_4:
+      text: \n<SMART-LOOKING BOY>Sigh...\! I just want to go out to play at the park! <br>\!Even if it's just for a day...
+
+message_5:
+      text: \n<SMART-LOOKING BOY>My mom said she would be out running errands all day today, so this is probably the only chance I'll get!
+
+message_6:
+      text: \n<SMART-LOOKING BOY>Could you help me finish today's worksheet?\!<br>I just... want some fresh air!
+
+#Yes/No
+
+#Yes
+message_7:
+      text: \n<SMART-LOOKING BOY>R-Really!?\! Wow, you're the best tutor ever, mister!\!<br>Thank you, thank you, thank you!\! Finally...
+
+
+message_9:
+      text: \n<SMART-LOOKING BOY>\SINV[1]\{\{I'M FREEEEEEEEEEEEEEEEEEE!!\SINV[0]
+
+#BRENT runs out.
+
+message_10:
+      text: \n<SMART-LOOKING BOY>Oh...\! Okay...\! I understand...\! Sorry, I brought this up.\!<br>Please don't tell my mom...
+
+#If Yes, complete worksheet without prompts from Brent
+
+#If No, complete worksheet with prompts from Brent
+message_11:
+      text: BRENT's math worksheet.\! Finish it?
+
+message_12:
+      text: 7 + 2 x 9 =
+
+message_13:
+      text: A) 81
+
+message_14:
+      text: B) 25
+
+message_15:
+      text: C) 126
+
+message_16:
+      text: 5x^2 = 80.\! What does ‘x' equal?
+
+message_17:
+      text: A) 4, -4
+
+message_18:
+      text: B) 10, -10
+
+message_19:
+      text: C) 8, -8
+
+message_20:
+      text: And then for the last question on the sheet...
+
+message_21:
+      text: Compute the standard deviation of the following numbers...
+
+message_22:
+      text: 43, 47, 53, 39, 40, 60<br>\!Then, give the z-score for a value of 100, rounded to the nearest third decimal.
+
+message_23:
+      text: A) 7.000
+
+message_24:
+      text: B) 47.474
+
+message_25:
+      text: C) 7.103
+
+message_26:
+      text: You completed BRENT's math worksheet.
+
+message_27:
+      text: \n<SMART-LOOKING BOY>Oh... hello.\! Sorry, I should get back to studying...
+
+message_28:
+      text: You should complete the worksheet first.
+
+message_200:
+      text: \n<SMART-LOOKING BOY>Sigh...\! It would be nice to go outside and play for a change...
+
+message_1000:
+      text: PICK RANDOMLY

@@ -1,0 +1,707 @@
+quests:
+# -----------------------------------------------
+# STUFFED EGGPLANT
+# -----------------------------------------------
+  Aubergine:
+    world: 1
+    name:
+      en: STUFFED TOY
+      jp: STUFFED TOY
+    text:
+      0:
+        - 'XX_QUEST.message_26'
+# -----------------------------------------------
+# LOST BALL
+# -----------------------------------------------
+  LostBall:
+    world: 1
+    name:
+      en: BERLY'S LOST BALL
+      jp: BERLY'S LOST BALL
+    text:
+      0:
+        - 'XX_QUEST.message_175'
+      1:
+        - 'XX_QUEST.message_180'
+      2:
+        - 'XX_QUEST.message_181'
+# -----------------------------------------------
+# HECTOR
+# -----------------------------------------------
+  Hector:
+    world: 1
+    name:
+      en: HECTOR
+      jp: ケビン
+    text:
+      0:
+        - 'XX_QUEST.message_85'
+      1:
+        - 'XX_QUEST.message_86'
+# -----------------------------------------------
+#  DAISY’S DILEMMA
+# -----------------------------------------------
+  FlowerPuzzle:
+    world: 1
+    name:
+      en: DAISY’S DILEMMA
+      jp: DAISY’S DILEMMA
+    text:
+      0:
+        - 'XX_QUEST.message_90'
+      1:
+        - 'XX_QUEST.message_95'
+      2:
+        - 'XX_QUEST.message_96'
+
+# -----------------------------------------------
+# Weak minds
+# -----------------------------------------------
+  KiteKid:
+    world: 1
+    name:
+      en: WEAK MINDS
+      jp: WEAK MINDS
+    text:
+      0:
+        - 'XX_QUEST.message_245'
+      1:
+        - 'XX_QUEST.message_246'
+
+# -----------------------------------------------
+# Whereabouts of Duckie jr
+# -----------------------------------------------
+  Duckie:
+    world: 1
+    name:
+      en: WHEREABOUTS OF DUCKIE JR
+      jp: WHEREABOUTS OF DUCKIE JR
+    text:
+      0:
+        - 'XX_QUEST.message_200'
+      1:
+        - 'XX_QUEST.message_205'
+      2:
+        - 'XX_QUEST.message_206'
+# -----------------------------------------------
+# Stick in the mud (Scarecrow)
+# -----------------------------------------------
+  StickInTheMud:
+    world: 1
+    name:
+      en: STICK IN THE MUD
+      jp: STICK IN THE MUD
+    text:
+      0:
+        - 'XX_QUEST.message_100'
+      1:
+        - 'XX_QUEST.message_20'
+# -----------------------------------------------
+# Strange request (TV girl)
+# -----------------------------------------------
+  StrangeRequest:
+    world: 1
+    name:
+      en: STRANGE REQUEST
+      jp: STRANGE REQUEST
+    text:
+      0:
+        - 'XX_QUEST.message_105'
+      1:
+        - 'XX_QUEST.message_110'
+      2:
+        - 'XX_QUEST.message_111'
+# -----------------------------------------------
+# Itchy
+# -----------------------------------------------
+  Itchy:
+    world: 1
+    name:
+      en: ITCHY
+      jp: ITCHY
+    text:
+      0:
+        - 'XX_QUEST.message_170'
+      1:
+        - 'XX_QUEST.message_171'
+# -----------------------------------------------
+# Orange Joe
+# -----------------------------------------------
+  Orange:
+    world: 1
+    name:
+      en: THE CONVICTION OF ORANGE JOE
+      jp: THE CONVICTION OF ORANGE JOE
+    text:
+      0:
+        - 'XX_QUEST.message_185'
+      1:
+        - 'XX_QUEST.message_186'
+# -----------------------------------------------
+# Present for Palmie
+# -----------------------------------------------
+  PresentForPalmie:
+    world: 1
+    name:
+      en: PRESENT FOR PALMIE
+      jp: PRESENT FOR PALMIE
+    text:
+      0:
+        - 'XX_QUEST.message_241'
+      1:
+        - 'XX_QUEST.message_240'
+# -----------------------------------------------
+# Fascinating Literature (Demi)
+# -----------------------------------------------
+  FascinatingLiterature:
+    world: 1
+    name:
+      en: FASCINATING LITERATURE
+      jp: FASCINATING LITERATURE
+    text:
+      0:
+        - 'XX_QUEST.message_140'
+      1:
+        - 'XX_QUEST.message_146'
+      2:
+        - 'XX_QUEST.message_145'
+# -----------------------------------------------
+# A good listener (Candlie)
+# -----------------------------------------------
+  Candlie:
+    world: 1
+    name:
+      en: A GOOD LISTENER
+      jp: A GOOD LISTENER
+    text:
+      0:
+        - 'XX_QUEST.message_190'
+      1:
+        - 'XX_QUEST.message_195'
+      2:
+        - 'XX_QUEST.message_196'
+# -----------------------------------------------
+# Care package
+# -----------------------------------------------
+  CarePackage:
+    world: 1
+    name:
+      en: CARE PACKAGE
+      jp: CARE PACKAGE
+    text:
+      0:
+        - 'XX_QUEST.message_160'
+      1:
+        - 'XX_QUEST.message_161'
+# -----------------------------------------------
+# B.E.D.
+# -----------------------------------------------
+  BED:
+    world: 1
+    name:
+      en: B.E.D.
+      jp: B.E.D.
+    text:
+      0:
+        - 'XX_QUEST.message_115'
+      1:
+        - 'XX_QUEST.message_120'
+      2:
+        - 'XX_QUEST.message_125'
+      3:
+        - 'XX_QUEST.message_126'
+# -----------------------------------------------
+# Sweaty snack
+# -----------------------------------------------
+  Sweaty:
+    world: 1
+    name:
+      en: SWEATY SNACK
+      jp: SWEATY SNACK
+    text:
+      0:
+        - 'XX_QUEST.message_130'
+      1:
+        - 'XX_QUEST.message_131'
+# -----------------------------------------------
+# Pessi's thing
+# -----------------------------------------------
+  Pessi:
+    world: 1
+    name:
+      en: PESSI'S THING
+      jp: PESSI'S THING
+    text:
+      0:
+        - 'XX_QUEST.message_255'
+      1:
+        - 'XX_QUEST.message_261'
+      2:
+        - 'XX_QUEST.message_260'
+# -----------------------------------------------
+# Ghost party
+# -----------------------------------------------
+  GhostParty:
+    world: 1
+    name:
+      en: GHOST PARTY
+      jp: GHOST PARTY
+    text:
+      0:
+        - 'XX_QUEST.message_165'
+      1:
+        - 'XX_QUEST.message_166'
+      2:
+        - 'XX_QUEST.message_167'
+
+
+# -----------------------------------------------
+# Call of inspiration (Pool noodle)
+# -----------------------------------------------
+  PoolNoodle:
+    world: 1
+    name:
+      en: CALL OF INSPIRATION
+      jp: CALL OF INSPIRATION
+    text:
+      0:
+        - 'XX_QUEST.message_250'
+      1:
+        - 'XX_QUEST.message_251'
+# -----------------------------------------------
+# Weeping Willow
+# -----------------------------------------------
+  Willow:
+    world: 1
+    name:
+      en: WEEPING WILLOW
+      jp: WEEPING WILLOW
+    text:
+      0:
+        - 'XX_QUEST.message_265'
+      1:
+        - 'XX_QUEST.message_266'
+      2:
+        - 'XX_QUEST.message_267'
+# -----------------------------------------------
+# Son of a space pirate (Pinkbeard)
+# -----------------------------------------------
+  Pinkbeard:
+    world: 1
+    name:
+      en: SON OF A SPACE PIRATE
+      jp: SON OF A SPACE PIRATE
+    text:
+      0:
+        - 'XX_QUEST.message_150'
+      1:
+        - 'XX_QUEST.message_155'
+      2:
+        - 'XX_QUEST.message_156'
+
+# -----------------------------------------------
+# Feed humphrey
+# -----------------------------------------------
+  Humphrey:
+    world: 1
+    name:
+      en: FEED HUMPHREY
+      jp: FEED HUMPHREY
+    text:
+      0:
+        - 'XX_QUEST.message_406'
+      1:
+        - 'XX_QUEST.message_407'
+# -----------------------------------------------
+# Marina
+# -----------------------------------------------
+  Marina:
+    world: 1
+    name:
+      en: MARINA'S OPERATION
+      jp: MARINA'S OPERATION
+    text:
+      0:
+        - 'XX_QUEST.message_210'
+      1:
+        - 'XX_QUEST.message_215'
+      2:
+        - 'XX_QUEST.message_216'
+# -----------------------------------------------
+# Medusa
+# -----------------------------------------------
+  Medusa:
+    world: 1
+    name:
+      en: MEDUSA'S EXPERIMENT
+      jp: MEDUSA'S EXPERIMENT
+    text:
+      0:
+        - 'XX_QUEST.message_220'
+      1:
+        - 'XX_QUEST.message_225'
+      2:
+        - 'XX_QUEST.message_226'
+# -----------------------------------------------
+# Molly
+# -----------------------------------------------
+  Molly:
+    world: 1
+    name:
+      en: MOLLY'S ANALYSIS
+      jp: MOLLY'S ANALYSIS
+    text:
+      0:
+        - 'XX_QUEST.message_230'
+      1:
+        - 'XX_QUEST.message_235'
+      2:
+        - 'XX_QUEST.message_236'
+# -----------------------------------------------
+# Basil is missing
+# -----------------------------------------------
+  Missing:
+    world: 1
+    name:
+      en: BASIL
+      jp: BASIL
+    text:
+      0:
+        - 'XX_QUEST.message_270'
+      1:
+        - 'XX_QUEST.message_271'
+      2:
+        - 'XX_QUEST.message_272'
+      3:
+        - 'XX_QUEST.message_273'
+      4:
+        - 'XX_QUEST.message_274'
+      5:
+        - 'XX_QUEST.message_275'
+      6:
+        - 'XX_QUEST.message_276'
+      7:
+        - 'XX_QUEST.message_277'
+      8:
+        - 'XX_QUEST.message_278'
+      9:
+        - 'XX_QUEST.message_279'
+      10:
+        - 'XX_QUEST.message_280'
+      11:
+        - 'XX_QUEST.message_281'
+      12:
+        - 'XX_QUEST.message_282'
+      13:
+        - 'XX_QUEST.message_283'
+      14:
+        - 'XX_QUEST.message_284'
+      15:
+        - 'XX_QUEST.message_285'
+      16:
+        - 'XX_QUEST.message_286'
+      17:
+        - 'XX_QUEST.message_287'
+
+# -----------------------------------------------
+# SPACE PIRATE MIXTAPE
+# -----------------------------------------------
+  Mixtape:
+    world: 1
+    name:
+      en: CAPTAIN OF THE SPACE PIRATES
+      jp: CAPTAIN OF THE SPACE PIRATES
+    text:
+      0:
+        - 'XX_QUEST.message_40'
+      1:
+        - 'XX_QUEST.message_41'
+      2:
+        - 'XX_QUEST.message_42'
+      3:
+        - 'XX_QUEST.message_43'
+
+# -----------------------------------------------
+# FRONT ROW TICKETS
+# -----------------------------------------------
+  FrontRow:
+    world: 1
+    name:
+      en: FRONT-ROW TICKETS
+      jp: FRONT-ROW TICKETS
+    text:
+      0:
+        - 'XX_QUEST.message_45'
+      1:
+        - 'XX_QUEST.message_50'
+      2:
+        - 'XX_QUEST.message_55'
+      3:
+        - 'XX_QUEST.message_60'
+# -----------------------------------------------
+# Missing friends
+# -----------------------------------------------
+  Alone:
+    world: 1
+    name:
+      en: MISSING FRIENDS
+      jp: MISSING FRIENDS
+    text:
+      0:
+        - 'XX_QUEST.message_75'
+      1:
+        - 'XX_QUEST.message_80'
+
+# -----------------------------------------------
+# BASIlS HOUSE
+# -----------------------------------------------
+  BasilHouse:
+    world: 1
+    name:
+      en: BASIL
+      jp: BASIL
+    text:
+      0:
+        - 'XX_QUEST.message_30'
+      1:
+        - 'XX_QUEST.message_31'
+      2:
+        - 'XX_QUEST.message_32'
+      3:
+        - 'XX_QUEST.message_25'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest95:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_35'
+      1:
+        - 'XX_QUEST.message_36'
+      2:
+        - 'XX_QUEST.message_37'
+      3:
+        - 'XX_QUEST.message_25'
+
+# -----------------------------------------------
+# Leafie
+# -----------------------------------------------
+  Leafie:
+    world: 1
+    name:
+      en: RABBIT KILLER
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_400'
+      1:
+        - 'XX_QUEST.message_401'
+# -----------------------------------------------
+# Rain town
+# -----------------------------------------------
+  Raintown:
+    world: 1
+    name:
+      en: RAIN TOWN
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_402'
+      1:
+        - 'XX_QUEST.message_403'
+      2:
+        - 'XX_QUEST.message_408'
+# -----------------------------------------------
+# Squizzards
+# -----------------------------------------------
+  Squizzards:
+    world: 1
+    name:
+      en: SQUIZZARDS
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_404'
+      1:
+        - 'XX_QUEST.message_405'
+
+# -----------------------------------------------
+# Neighbors Room Resting
+# -----------------------------------------------
+  Rest:
+    world: 1
+    name:
+      en: RESTING IN NEIGHBORS ROOM
+      jp: RESTING IN NEIGHBORS ROOM
+    text:
+      0:
+        - 'XX_QUEST.message_410'
+      1:
+        - 'XX_QUEST.message_411'
+
+# -----------------------------------------------
+# Abandoned house
+# -----------------------------------------------
+  Abandoned:
+    world: 1
+    name:
+      en: EMPTY HOUSE
+      jp: EMPTY HOUSE
+    text:
+      0:
+        - 'XX_QUEST.message_420'
+
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest36:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest37:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest38:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest39:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest40:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest41:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest42:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest43:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest44:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest45:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest46:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest47:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest48:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest49:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'
+# -----------------------------------------------
+#
+# -----------------------------------------------
+  Quest50:
+    name:
+      en:
+      jp:
+    text:
+      0:
+        - 'XX_QUEST.message_0'

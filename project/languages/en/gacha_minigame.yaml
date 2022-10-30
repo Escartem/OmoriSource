@@ -1,0 +1,17 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Gacha Text
+
+message_0:
+      text: A toy capsule machine.\! Try your luck for $3.00? \$
+
+message_1:
+      text: \{\{\sinv[1]JACKPOT!!
+
+message_2:
+      text: You got a \c[13]\v[829]!\c[0]
+
+message_3:
+      text: You look in the machine and see that you already have each charm.

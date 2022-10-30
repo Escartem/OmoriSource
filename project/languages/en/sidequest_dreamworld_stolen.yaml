@@ -1,0 +1,112 @@
+
+# =========================================================================================
+# STOLEN
+# ========================================================================================
+
+#SAVE FOR IMPLEMENTATION:
+
+
+#IF STOLEN QUEST WAS COMPLETED:
+
+#Location: Last Resort entrance
+message_80:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herHey, it's you again!
+
+message_81:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelYou're the one who gave us the \c[4]BLACKMAIL\c[0] for ROSA!
+
+message_82:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubWhat do you want now...\! \Com[2]SHADY MOLE?\! Up to no good again, I presume?
+
+message_83:
+    text: \n<SHADY MOLE>\}Gasp!\! You misunderstand me, child!\!<br>If anything, I am more of a good Samaritan-type character!
+
+message_84:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubI don't know about that...
+
+message_85:
+    text: \n<SHADY MOLE>\}Here, I'll even prove it to you.\! Would a SHADY MOLE tell you incredibly helpful and vital information that could change your life?\! I think not!
+
+message_86:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelHmm...\! Okay, we're listening...
+
+message_87:
+    text: \n<SHADY MOLE>\}Glad I got your attention!\! Now...\! word around here is that CLAMS will soon be obsolete and replaced by a new and better currency called...\! CLEMS!
+
+message_88:
+    text: \n<SHADY MOLE>\}According to my trustworthy sources,\. this change can potentially happen at any time and will render all of your CLAMS completely worthless!\! You wouldn't want that to happen, would you?
+
+message_89:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWell, I...
+
+message_90:
+    text: \n<SHADY MOLE>\}Yeah! That would really suck, right?\! But here's the kicker...
+
+message_91:
+    text: \n<SHADY MOLE>\}Since I heard about this, I've been secretly stocking up on the new and valuable currency called CLEMS!
+
+message_92:
+    text: \n<SHADY MOLE>\}Being the good Samaritan that I am, I would gladly trade them all to you in exchange for your CLAMS!
+
+message_93:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelWow, really!?\! You'd do that for us?
+
+message_94:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubKEL! Don't listen to him.\!<br>This is...\! beyond shady...\! This is...\! criminal...
+
+message_95:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelBut AUBREY... didn't you hear!?\!<br>They're about to replace all CLAMS with CLEMS!\!<br>What are we going to do when we have no money!?
+
+message_96:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelWhat do you think, OMORI?\!<br>Should we exchange all our CLAMS for CLEMS?
+
+#yes/no
+
+message_97:
+    text: \n<SHADY MOLE>\}Excellent...\! You won't regret this.\!<br>Thank you for all your CLAMS...\!<br>Now...\! here are some CLEMS in exchange...
+
+message_98:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubOMORI! Why did you agree with KEL?\!<br>I'm pretty sure this isn't even real money...
+
+message_99:
+    text: \n<SHADY MOLE>\}Why would you want to keep your outdated CLAMS?\!<br>CLEMS are the way of the future!\! You must reconsider!
+
+message_100:
+    text: \n<SHADY MOLE>\}Please enjoy your CLEMS!\! <br>Now I must go aid others who are in need of CLEMS!\! Toodles!
+
+message_102:
+    text: You got \c[4]CLEMS\c[0]...\! the currency of the future...
+
+message_103:
+    text: You found your stolen CLAMS!
+
+#FOUND him
+
+
+message_105:
+    text: \n<MAYOR MOLE>\Com[2]Egad! Careful, child!\! You could have ruined an incredibly delicate concoction.
+
+message_106:
+    text: \n<MAYOR MOLE>If the measurements for this experiment are not 110% accurate...\! the chemical reaction may cause an explosion with enough force to destroy this entire village!

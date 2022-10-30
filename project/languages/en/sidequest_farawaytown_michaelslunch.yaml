@@ -1,0 +1,97 @@
+
+# =========================================================================================
+# Sidequest: Michael's Lunch
+# =========================================================================================
+
+#Talk to Joy's Dad
+
+message_1:
+      text: \n<THICK EYEBROWS>Hey, kids...\! I have a favor to ask.\!<br>Can you drop this \c[4]LUNCHBOX\c[0] off to the boy with the guitar in \c[11]TOWN PLAZA\c[0]?
+
+message_40:
+      text: \n<THICK EYEBROWS>Sigh...\! That kid dreams way too big...\! He must get it from his mother.
+#yes/no
+
+message_50:
+      text: \n<THICK EYEBROWS>Oh...\! Hmm...\! But it's so hard to say goodbye...
+
+#if yes
+message_2:
+      text: \n<THICK EYEBROWS>Thanks...\! I appreciate it.
+
+message_3:
+      text: You got a \c[4]LUNCHBOX\c[0].
+
+#Talk to Michael
+
+message_4:
+      text: \n<GUITAR GUY>Today's the day...\! I'm finally leaving town to become a musician...\! All those big words I said about making it as a star...
+
+message_5:
+      text: \n<GUITAR GUY>I'm going to follow through with that and try my best in the big city!\! Wish me luck!
+
+message_6:
+      text: You gave the \c[4]LUNCHBOX\c[0] to GUITAR GUY.
+
+message_7:
+      text: \n<GUITAR GUY>Huh? Wh-What's this?\! This...\! This is Dad's mac and cheese!\! <br>He hasn't made this for me since I was a kid...
+
+message_8:
+      text: \n<GUITAR GUY>Sniff...\! Sniff...\! Thanks, Dad...\! I'll come back one day and make you proud!\! I promise!
+
+message_9:
+      text: \n<GUITAR GUY>Ah!\! Sorry, it got a little dramatic there...\! Actually...\! I had written a letter for my dad, but I'm too chicken to give it to him myself.
+
+message_10:
+      text: \n<GUITAR GUY>Can you please deliver it for me?
+
+#Yes/No
+
+#if yes
+
+message_11:
+      text: \n<GUITAR GUY>Thanks...\! I appreciate it.
+
+message_12:
+      text: You got a \c[4]LETTER FOR DAD\c[0].
+
+message_13:
+      text: \n<GUITAR GUY>There's a \c[4]CD\c[0] of one of my songs in there...\! <br>Actually, you can have a copy too!
+
+message_14:
+      text: You got a \c[4]SECRET CD\c[0]!
+
+message_15:
+      text: \n<GUITAR GUY>Thanks again.\! Next time you see me, it'll be on the big screen!
+
+#if no
+
+message_16:
+      text: \n<GUITAR GUY>Oh...\! But it's so hard to say goodbye...
+
+#Talk to Joy's DAD
+
+message_42:
+      text: \n<THICK EYEBROWS>I see you gave the \c[4]LUNCHBOX\c[0] away.\! Well? Did he like it?
+
+message_41:
+      text: You gave \c[4]LETTER FOR DAD\c[0] to THICK EYEBROWS.
+
+message_17:
+      text: \n<THICK EYEBROWS>This...\! This writing is from my son...
+
+message_18:
+      text: \n<THICK EYEBROWS>Oh...\! I've been so hard on him these past few years...\! I...
+
+message_19:
+      text: \n<THICK EYEBROWS>Ahem...\! Thanks for delivering this for me.\! I...\! I hope to see him again one day...\! Maybe even on TV! Haha!
+
+
+message_30:
+      text: \n<THICK EYEBROWS>I wonder how my son is doing in the \c[11]TOWN PLAZA\c[0]...\! He's always playing that old guitar of his...
+
+message_31:
+      text: \n<GUITAR GUY>Thanks to all these donations, it looks like I'll finally be able to leave for the city tomorrow!
+
+message_32:
+      text: \n<GUITAR GUY>Thanks to all these donations, it looks like I'll finally be able to leave for the city the day after tomorrow!

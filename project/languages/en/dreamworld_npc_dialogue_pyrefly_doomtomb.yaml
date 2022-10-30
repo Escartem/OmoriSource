@@ -1,0 +1,52 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============PYREFLY FOREST / DOUGH DUNGEON========================================
+
+                        #====NIGHT 2====
+
+#BISCUIT & DOUGHIE
+#Location: Dough Dungeon (Boss): Dough Dungeon Misc  yaml
+
+#CANDLIE
+#Location: Pyrefly Forest- Lost Rarebear Quest
+
+#CHIP
+#Location: Dough DUngeon: Dough Dungeon MISC yaml
+
+#DADDY LONGLEGS
+#Location: Pyrefly Forest - Lost Forest. Quest
+
+#DEMONBOY / DEMI
+#Location: Pyrefly Forest: Book to read Quest
+
+#EVIL CHIP
+#Location: Dough DUngeon: Dough Dungeon MISC yaml
+
+#MUSH
+#Location: PYREFLY FOREST: SIDEQUEST : MUSH
+
+#WEEPING WILLOW
+#Location: PYREFLY FOREST: SIDEQUEST : JOKEBOOK
+
+                        #====NIGHT 3====
+
+#BISCUIT & DOUGHIE
+#Location: LAST RESORT (after beating Biscuit and Doughie)
+message_0:
+      text: \n<DOUGHIE>I'm afraid we have lost every single CLAM that we own...
+
+message_1:
+      text: \n<DOUGHIE>We are quite bad at this... \!aren't we BISCUIT?
+
+message_2:
+      text: \n<BISCUIT>\sinv[1]Ohooo...
+
+
+#Candle, Chip, Daddylonglegs, Demonboy, EvilChip, Mush, Weeping WILLOW same as night 2
+
+
+                        #====NIGHT 4====
+#Biscuit and Doughie same as Night 3
+#Candle, Chip, Daddylonglegs, Demonboy, EvilChip, Mush, Weeping WILLOW same as night 2

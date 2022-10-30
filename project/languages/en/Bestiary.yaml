@@ -1,0 +1,1531 @@
+
+# =========================================================================================
+# Bestiary
+# =========================================================================================
+EmptyEnemyName: 'FOE FACTS!'
+Information:
+
+  19:
+    name: FOREST BUNNY
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 0
+
+    text: |
+        Cute and fluffy creatures
+        that may or may not attack
+        people without warning...
+
+        - OMORI
+
+
+        I think it would probably make
+        for a cute pet!
+
+        - AUBREY
+
+  23:
+    name: FOREST BUNNY?
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 1
+
+    text: |
+        A regular FOREST BUNNY,
+        but upside-down... Why does
+        it do that? It seems
+        inconvenient...
+
+        - OMORI
+
+
+        Its ear muscles must be
+        really strong!!
+
+        - KEL
+
+  27:
+    name: LOST SPROUT MOLE
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 2
+
+    text: |
+        A dangerous and hostile ugly
+        plant creature. It says it is
+        smart, but do not believe it.
+        It is not. It smells like
+        dirty laundry.
+
+        - OMORI
+
+  863:
+    name: BIG STRONG TREE
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'DW_NPC_17', index: 2}
+    listIndex: 3
+
+    text: |
+        Wow! It's so big and strong!
+
+        - KEL
+
+  44:
+    name: DUST BUNNY
+    background: {name: 'battleback_bookshelf', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 1}
+    listIndex: 4
+
+    text: |
+        The sneeziest of all bunnies.
+        Likes to hide in bookshelves
+        and under the bed. Seems
+        a little shy...
+
+        - OMORI
+
+  37:
+    name: SPACE BUNNY
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 6}
+    listIndex: 5
+
+    text: |
+        A regular FOREST BUNNY
+        with a bubble on its head.
+        This allows it to breathe
+        in space.
+
+        -OMORI
+
+
+        I'm guessing it likes to space
+        out? Heh, heh. Get it?
+
+        -HERO
+
+  45:
+    name: U.F.O.
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 2}
+    listIndex: 6
+
+    text: |
+        A.K.A.
+        UNIDENTIFIED FLYING ORANGE
+        A highly advanced orange,
+        commonly seen aimlessly
+        floating through the
+        vastness of space.
+
+        -OMORI
+
+
+        It still tastes like an orange!
+
+        -KEL
+
+  49:
+    name: VENUS FLYTRAP
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 3}
+    listIndex: 7
+
+    text: |
+        The features of the VENUS
+        FLYTRAP resemble that of
+        a common watermelon. It is an
+        evolutionary trait that is used
+        to lure in unintelligent prey.
+
+        -OMORI
+
+
+        Man, I was so sure it
+        was a watermelon!
+
+        -KEL
+
+  53:
+    name: WORMHOLE
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 4}
+    listIndex: 8
+
+    text: |
+        It is said that WORMHOLES
+        are capable of connecting
+        widely separated regions of
+        space and time... but this
+        one's just a worm.
+
+        - OMORI
+
+
+        I don't like how it wiggles...
+
+        -AUBREY
+
+
+  57:
+    name: MIXTAPE
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 1}
+    listIndex: 9
+
+    text: |
+        A relic of the past...
+        It seems awfully cheerful
+        despite its impending
+        fall into obscurity.
+
+        - OMORI
+
+
+        I used to collect these a while
+        ago! So this is where they all
+        went...
+
+        - HERO
+
+  61:
+    name: DIAL-UP
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_1', index: 0}
+    listIndex: 10
+
+    text: |
+        An ancient form of accessing
+        communication networks.
+        Makes a horrible ear-piercing
+        noise when used.
+
+        - OMORI
+
+
+        Ah, this sound reminds me
+        of the good old days...
+
+        - HERO
+
+  65:
+    name: DOOMBOX
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_7', index: 1}
+    listIndex: 11
+
+    text: |
+        The revived spirit of a BOOM
+        BOX, a portable method of
+        transporting loud noises.
+
+        - OMORI
+
+
+  69:
+    name: SHARK PLANE
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 200, y: 300}
+    character: {name: 'DW_EN_9', index: 0}
+    listIndex: 12
+
+    text: |
+        An aerial predator capable of
+        swooping up unsuspecting
+        passengers at mach-speed.
+        You never know where you'll
+        end up once you board a
+        SHARK PLANE...
+
+        - OMORI
+
+  142:
+    name: BUG BUNNY
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 2}
+    listIndex: 13
+
+    text: |
+        Actually an arthropod.
+        It likes cold temperatures
+        and rolls down steep hills
+        for amusement. The hobby has
+        gained so much traction that
+        they now hold a yearly
+        hill-rolling competition.
+
+        - OMORI
+
+  146:
+    name: RARE BEAR
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_5', index: 0}
+    listIndex: 14
+
+    text: |
+        Warning: Do not provoke.
+        Do not show weakness.
+
+        - OMORI
+
+  150:
+    name: POTTED PLANT
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 1}
+    listIndex: 15
+
+    text: |
+        Warning: Do not provoke.
+        Explodes when cornered.
+        - OMORI
+
+        But why do they explode?
+        - KEL
+
+        Who planted this here
+        anyway?
+        - AUBREY
+
+  158:
+    name: SPROUT MOLE?
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 16
+
+    text: |
+        Is this SPROUT MOLE upside
+        down or are we the ones who
+        are upside down?
+
+        - OMORI
+
+  855:
+    name: GHOST BUNNY
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 0}
+    listIndex: 17
+
+    text: |
+        Hostile BUNNY spirits
+        yearning for revenge.
+
+        - OMORI
+
+
+        They're still kinda cute,
+        though...
+
+        - AUBREY
+
+  168:
+    name: HAROLD
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 2}
+    listIndex: 18
+
+    text: |
+        A master of the blade.
+        A SPROUT MOLE who has
+        studied the art of combat
+        for many years in order to
+        be granted the prestigious
+        title of HAROLD.
+
+        - OMORI
+
+  172:
+    name: MARSHA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 185, y: 450}
+    character: {name: 'DW_EN_5', index: 4}
+    listIndex: 19
+
+    text: |
+        A master of the axe.
+        A SPROUT MOLE who has
+        studied the art of combat
+        for many years in order to
+        be granted the prestigious
+        title of MARSHA.
+
+        - OMORI
+
+  176:
+    name: THERESE
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 180, y: 435}
+    character: {name: 'DW_EN_5', index: 3}
+    listIndex: 20
+
+    text: |
+        A master of the bow.
+        A SPROUT MOLE who has
+        studied the art of combat
+        for many years in order to
+        be granted the prestigious
+        title of THERESE.
+
+        - OMORI
+
+  180:
+    name: LUCIUS
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 5}
+    listIndex: 21
+
+    text: |
+        A master of the arcane.
+        A SPROUT MOLE who has
+        studied the art of combat
+        for many years in order to
+        be granted the prestigious
+        title of LUCIUS.
+
+        - OMORI
+
+  184:
+    name: HORSE HEAD
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_5', index: 6}
+    listIndex: 22
+
+    text: |
+        One part of a futile attempt to
+        look like a complete horse.
+
+        - OMORI
+
+
+        Well... At least they
+        tried their best...
+        - AUBREY
+
+  188:
+    name: HORSE BUTT
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_3', index: 3}
+    listIndex: 23
+
+    text: |
+        This costume is the butts.
+
+        - OMORI
+
+
+        Oh, now you're just being mean!
+        - AUBREY
+
+
+
+  97:
+    name: BUN BUNNY
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 2}
+    listIndex: 24
+
+    text: |
+        Kind of cute. Might be vegan.
+        - OMORI
+
+        Is this vegan?
+        - KEL
+
+        Not sure if vegan.
+        - HERO
+
+        Definitely not vegan...
+        - AUBREY
+
+  839:
+    name: CUPCAKE BUNNY
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 4}
+    listIndex: 25
+
+    text: |
+        An evil cupcake parasite
+        that has taken a poor
+        FOREST BUNNY as its host.
+
+        The FOREST BUNNY's eyes are
+        filled with silent screams.
+
+        - OMORI
+
+  843:
+    name: MILKSHAKE BUNNY
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 5}
+    listIndex: 26
+
+    text: |
+        A FOREST BUNNY with a
+        milkshake strapped on
+        its back.
+
+        - OMORI
+
+  847:
+    name: PANCAKE BUNNY
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 3}
+    listIndex: 27
+
+    text: |
+        A cute FOREST BUNNY that
+        sports its fallen brethren
+        as a fashionable hat.
+
+        - OMORI
+
+  851:
+    name: S.S. SNAKE
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 7}
+    listIndex: 28
+
+    text: |
+        A.K.A.
+        STRAWBERRY SHORT SNAKE,
+        a short snake with a long
+        name.
+
+        - OMORI
+
+  133:
+    name: PORCUPIE
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 1}
+    listIndex: 29
+
+    text: |
+        A rejected dessert sentenced
+        to wander the wasteland for an
+        eternity.
+
+        - OMORI
+
+
+        Was its flavor too sharp?
+
+        - HERO
+
+
+  797:
+    name: SPROUT BUNNY
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 1}
+    listIndex: 30
+
+    text: |
+        Kind of cute. Might be vegan.
+        - OMORI
+
+        I am 100% sure this is vegan.
+        - KEL
+
+        Pretty sure this is vegan.
+        - HERO
+
+        Definitely not vegan...
+        - AUBREY
+
+  789:
+    name: CILANTRO
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 2}
+    listIndex: 31
+
+    text: |
+        Scientific Name -
+        Coriandrum sativum
+        Stats, per 100 grams -
+        Energy- 22.71 Calories
+        Vitamin K - 310 mcg
+        Potassium - 521 mg
+        Iron - 1.77 mg
+
+        Are coriander and cilantro
+        the same thing?
+
+        - KEL
+
+  793:
+    name: GINGER
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 6}
+    listIndex: 32
+
+    text: |
+        Scientific Name -
+        Zingiber officinale
+
+        A flowering plant whose
+        rhizome is widely used as a
+        spice and a folk medicine.
+        It is an herbaceous perennial
+        which grows annual
+        pseudostems about a meter
+        tall, bearing narrow leaf
+        blades.
+
+        - OMORI
+
+  785:
+    name: CELERY
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 5}
+    listIndex: 33
+
+    text: |
+        Did you know that eating
+        CELERY burns more calories
+        than you get from it?
+        It's because you gotta
+        chew it!
+
+        - KEL
+
+
+        Everyone knows that, KEL...
+
+        - AUBREY
+
+  772:
+    name: RABBIT
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 0}
+    listIndex: 34
+
+    text: |
+        An abomination.
+
+        - OMORI
+
+
+        Truly appalling.
+
+        - AUBREY
+
+  776:
+    name: CHICKEN
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_4', index: 0}
+    listIndex: 35
+
+    text: |
+        Poultry in motion.
+
+        - HERO
+
+
+        Ain't nothing but a
+        chicken wing!
+
+        - KEL
+
+  198:
+    name: FISH BUNNY
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 3}
+    listIndex: 36
+
+    text: |
+        A FOREST BUNNY that has
+        aptly adapted to its
+        environment. They travel in
+        groups as they do not
+        like to be alone.
+
+        - OMORI
+
+  206:
+    name: MUSSEL
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 6}
+    listIndex: 37
+
+    text: |
+        A very muscular mussel.
+        It keeps an incredibly
+        strenuous workout regimen
+        in order to maintain its
+        rock solid physique.
+
+        - OMORI
+
+  210:
+    name: REVERSE MERMAID
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 5}
+    listIndex: 38
+
+    text: |
+        Fish a was I, wish I, wish I.
+
+        - OMORI
+
+  214:
+    name: SHARK FIN
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 4}
+    listIndex: 39
+
+    text: |
+        Exclusively the fin part of a
+        shark.
+
+        - OMORI
+
+  218:
+    name: SQUIZZARD
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_6', index: 0}
+    listIndex: 40
+
+    text: |
+        The most despicable creature
+        on the planet. Has no friends,
+        is never invited to parties,
+        and is terrible at jokes.
+
+        - OMORI
+
+  250:
+    name: SLIME BUNNY
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 4}
+    listIndex: 41
+
+    text: |
+      Too sticky to hug,
+      too sticky to love.
+
+      - OMORI
+
+
+      Made of slime...
+      tastes like lime!
+
+      - KEL
+
+  254:
+    name: WATERMIMIC
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_IMPORTANTOBJ', index: 3}
+    listIndex: 42
+
+    text: |
+        An obviously fake trap that
+        would only be able to fool the
+        most feeble-minded of
+        individuals.
+
+        - OMORI
+
+
+        Aw, nuts! I thought this was
+        a watermelon for sure!!
+
+        - KEL
+
+  262:
+    name: SNOT BUBBLE
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_6', index: 1}
+    listIndex: 43
+
+    text: |
+        A fragile being with a short
+        lifespan. It leads a life of
+        impermanence and smells
+        like a wet dog.
+
+        - OMORI
+
+  258:
+    name: WORM-BOT
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 420}
+    character: {name: 'DW_EN_7', index: 0}
+    listIndex: 44
+
+    text: |
+        A robotic worm with razor
+        sharp teeth. Its favorite
+        food is carrots.
+
+        - OMORI
+
+  266:
+    name: LAB RAT
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 7}
+    listIndex: 45
+
+    text: |
+        A self-proclaimed scientific
+        genius. Specializes in
+        theoretical chemistry, but its
+        true passion lies on the
+        silver screen.
+
+        - OMORI
+
+
+        I hope it gets its big break
+        one day!
+
+        - AUBREY
+
+  270:
+    name: SPROUT MOLE??
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_6', index: 2}
+    listIndex: 46
+
+    text: |
+        A monster made up of all the
+        strongest parts from all the
+        strongest SPROUT MOLES.
+
+        - OMORI
+
+
+  881:
+    name: SLICE, SESAME, & SOURDOUGH
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_17', index: 5}
+    listIndex: 47
+
+    text: |
+        The souls of bread children
+        brought back to life by
+        a mysterious power. They only
+        come as a group because
+        they are all good friends.
+
+        - OMORI
+
+  101:
+    name: CREEPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 48
+
+    text: |
+        Let me start off by saying
+        that everything you're about
+        to hear is 100% true. There
+        was a garage sale last
+        summer. I spotted a dusty
+        cartridge of a game I never
+        heard of before. I bought it,
+        but when I got home, it didn't
+        work. When I went back to
+        the garage sale, the house
+        was burnt down. :O
+
+
+  105:
+    name: COPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 49
+
+    text: |
+        A COPYPASTA is a pasta
+        that copies itself.
+        - OMORI
+
+        A COPYPASTA is a pasta
+        that copies itself.
+        - KEL
+
+        A COPYPASTA is a pasta
+        that copies itself.
+        - AUBREY
+
+  125:
+    name: LIVING BREAD
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 6}
+    listIndex: 50
+
+    text: |
+        A demon bread, baked to
+        perfection. Its only purpose
+        is to consume LIFE JAM.
+
+        - OMORI
+
+
+
+
+        Bleh!!
+
+        - KEL
+
+  129:
+    name: GINGERDEAD MAN
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 4}
+    listIndex: 51
+
+    text: |
+        Maybe a little sad...
+        But definitely not dead.
+
+        - OMORI
+
+        That doesn't even rhyme...
+
+        - AUBREY
+
+  859:
+    name: TOAST GHOST
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 7}
+    listIndex: 52
+
+    text: |
+        An unamused apparition
+        that spouts ominous phrases like
+        “When there is no more room
+        in Hell, the bread shall walk
+        the Earth.”
+
+        - OMORI
+
+
+        This one looks kind of like
+        you, OMORI!
+
+        - AUBREY
+
+  109:
+    name: HUSH PUPPY
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 3}
+    listIndex: 53
+
+    text: |
+        An erratic entity that was
+        born from the cries of lost
+        souls. It slowly screams
+        itself to death.
+
+        - OMORI
+
+  79:
+    name: SNOW BUNNY
+    background: {name: 'battleback_ff_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 7}
+    listIndex: 54
+
+    text: |
+        Kicks snow at you when it's
+        angry. Capable of creating
+        the world's smallest
+        snowstorm...
+
+        - OMORI
+
+
+        Do you think it will melt if
+        we put it in the sun?
+
+        - KEL
+
+  87:
+    name: SNOW PILE
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_4', index: 1}
+    listIndex: 55
+
+    text: |
+        An unintentionally cursed
+        patch of snow. It wonders
+        why it is alive.
+
+        - OMORI
+
+  83:
+    name: SNOW ANGEL
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_EN_8', index: 0}
+    listIndex: 56
+
+    text: |
+        Guardians of SNOWGLOBE
+        MOUNTAIN... Its eyes are
+        filled with stories.
+
+        SNOW ANGELS are known to
+        appear to lost travelers
+        and disappear with them
+        into the snowfall.
+
+        - OMORI
+
+
+  365:
+    name: BOSS
+    background: {name: 'battleback_reckut', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_BOSS', index: 0}
+    listIndex: 57
+
+    text: |
+        A little rough around the edges.
+        Can be a foe... or a friend.
+
+        - OMORI
+
+  336:
+    name: YE OLD SPROUT
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_NPC_15', index: 1}
+    listIndex: 58
+
+    text: |
+        The beloved grandfather
+        of all SPROUT MOLES. It is said
+        that he loves all life in the
+        forest and that all life in
+        the forest comes from him.
+
+        When he is not busy
+        maintaining the balance of
+        the forest, he enjoys sitting.
+
+        - OMORI
+
+  340:
+    name: KITE KID
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$sprite_vf_kite_kid', index: 0}
+    listIndex: 59
+
+    text: |
+        A mysterious boy obsessed
+        with wind conditions. He is
+        usually seen in the FLOATING
+        FOREST flying his kite and
+        mumbling something about the
+        weather.
+
+        - OMORI
+
+  344:
+    name: KID'S KITE
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$npc_kite', index: 0}
+    listIndex: 60
+
+    text: |
+        A strange kite. It seems to
+        possess a life of its own.
+
+        - OMORI
+
+  880:
+    name: '???'
+    conditionalNames:
+        - { name: PLUTO, switches: [[90, true]] }
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 61
+
+    text: |
+        A mysterious flexing rock.
+
+        - OMORI
+
+
+        I like his muscles!
+
+        - KEL
+    conditionalText:
+        -
+          switchIds: [15]
+          line: null
+          text: |
+
+            Turns out... He's a pretty
+            swell guy.
+
+            - OMORI
+
+            Love him!
+
+            - KEL
+
+  370:
+    name: EARTH
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 700}
+    character: {name: 'DW_EN_7', index: 2}
+    listIndex: 62
+
+    text: |
+        The third planet from the
+        Sun. Its surface is mostly
+        covered in water and people.
+
+        - OMORI
+
+  388:
+    name: DOWNLOAD WINDOW
+    background: {name: 'battleback_ow_download', x: 0, y: 0}
+    position: {x: 160, y: 325}
+    character: {name: 'DW_NPC_17', index: 4}
+    listIndex: 63
+
+    text: |
+        [ERROR]
+
+  379:
+    name: SPACE EX-BOYFRIEND
+    background: {name: 'battleback_ow_xsbf', x: 0, y: 0}
+    position: {x: 150, y: 500}
+    character: {name: 'DW_NPC_3', index: 5}
+    listIndex: 64
+
+    text: |
+        The fierce alter-ego of
+        CAPT. SPACEBOY, captain of
+        the SPACE PIRATES. He comes
+        out when CAPT. SPACEBOY is
+        angry. Commands the planets
+        of the solar system, but
+        the heart of no one...
+
+        - OMORI
+
+  424:
+    name: KING CRAWLER
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 190, y: 490}
+    character: {name: 'DW_EN_6', index: 3}
+    listIndex: 65
+
+    text: |
+        A mindless parasite that kills
+        SPROUT MOLES and harvests
+        their empty husks in order to
+        extend its own body.
+
+        - OMORI
+
+  451:
+    name: KING CARNIVORE
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_18', index: 5}
+    listIndex: 66
+
+    text: |
+        One of the SPROUT MOLE's
+        many predators. KING
+        CARNIVORE invades SPROUT
+        MOLE habitats by burrowing
+        underground. They prefer
+        their SPROUT MOLES warm
+        and chewy.
+
+        - OMORI
+
+  442:
+    name: SHADY MOLE
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_3', index: 3}
+    listIndex: 67
+
+    text: |
+        The most untrustworthy of
+        SPROUT MOLES. Do not
+        believe anything that he says.
+
+        - AUBREY
+
+
+  469:
+    name: SIR MAXIMUS
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 68
+
+    text: |
+        A true master of the blade.
+        A SPROUT MOLE who has
+        studied the art of combat
+        for hundreds of years in
+        order to surpass the title of
+        HAROLD and be granted the
+        ultimate title of MAXIMUS.
+
+        - OMORI
+
+
+  478:
+    name: SIR MAXIMUS II
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 69
+
+    text: |
+        A true master of the blade.
+        The son of a SPROUT MOLE
+        who has studied the art of
+        combat for hundreds of
+        years in order to surpass the
+        title of HAROLD and be
+        granted the ultimate title of
+        MAXIMUS.
+
+        - OMORI
+
+  487:
+    name: SIR MAXIMUS III
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 70
+
+    text: |
+        A true master of the blade.
+        The grandson of a SPROUT
+        MOLE who has studied the
+        art of combat for hundreds
+        of years in order to surpass
+        the title of HAROLD and be
+        granted the ultimate title of
+        MAXIMUS.
+
+        - OMORI
+
+  496:
+    name: SWEETHEART
+    background: {name: 'battleback_sw_sweetheart', x: 0, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_SH_1', index: 1}
+    listIndex: 71
+
+    text: |
+        The impulsive and beautiful
+        mad duchess who lives in a big
+        pink castle in PYREFLY FOREST.
+        Loved by SPROUT MOLES
+        everywhere. Has a soft spot
+        for HERO.
+
+        - OMORI
+
+
+        Hey... Let's not bring this up
+        again, okay?
+
+        - HERO
+
+  409:
+    name: NEFARIOUS CHIP
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_15', index: 6}
+    listIndex: 72
+
+    text: |
+      A creature from another realm,
+      summoned by a plate of
+      oatmeal cookies.
+      - OMORI
+
+      Truly evil!
+      - AUBREY
+
+      Dastardly!
+      - KEL
+
+      Nefarious, even!
+      - HERO
+
+
+  415:
+    name: UNBREAD TWINS
+    background: {name: 'battlebacks_dd_biscuit_doughie', x: 0, y: 0}
+    position: {x: 210, y: 500}
+    character: {name: 'DW_NPC_17', index: 3}
+    listIndex: 73
+
+    text: |
+         BISCUIT and DOUGHIE, the
+         unbread twins from another
+         realm who are forced to
+         bake and transport bread
+         eternally via summoning
+         circle. Ohoooooo...
+
+         - OMORI
+
+  402:
+    name: SPACE EX-HUSBAND
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 172, y: 550}
+    character: {name: 'DW_NPC_14', index: 6}
+    listIndex: 74
+
+    text: |
+        A recently-divorced CAPT.
+        SPACEBOY. His soul has
+        transcended beyond space
+        and time and has evolved
+        past useless human emotions.
+
+        - OMORI
+
+
+        Poor, CAPT. SPACEBOY...
+        Nobody deserves this...
+
+        - AUBREY
+
+
+  508:
+    name: MR. JAWSUM
+    background: {name: 'battlebacks_dw_jawsum', x: -90, y: 0}
+    position: {x: 160, y: 525}
+    character: {name: 'DW_jawsum', index: 1}
+    listIndex: 75
+
+    text: |
+        A venture capitalist /
+        entrepreneur / loan shark who
+        owns 51% of the DEEP WELL.
+        There is nothing he believes in
+        more than a signed contract.
+
+        - OMORI
+
+
+        Hey, it's the boss!
+        Love that guy!
+
+        -KEL
+
+  202:
+    name: GATOR GUY
+    background: {name: 'battleback_dw_lastresort_interior', x: -90, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_NPC_GATOR', index: 0}
+    listIndex: 76
+
+    text: |
+        The trusted and loyal
+        henchman of MR. JAWSUM.
+        It is highly likely that they
+        have all signed questionable
+        contracts with him.
+
+        They prefer to talk through
+        their walkie-talkies even
+        if they are all in the
+        same room.
+
+        - OMORI
+
+  514:
+    name: PLUTO (EXPANDED)
+    background: {name: 'battleback_dw_pluto', x: 0, y: 0}
+    position: {x: 162, y: 500}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 77
+
+    text: |
+        The astonishingly glorious
+        expanded version of PLUTO,
+        the strongest planet in all the
+        cosmos and the universe.
+
+        - OMORI
+
+  541:
+    name: ROBOHEART
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 0}
+    listIndex: 78
+
+    text: |
+        A dangerous killer robot bent
+        on destroying life as we know
+        it. We are lucky to have seen it
+        and still be alive.
+
+        - OMORI
+
+  550:
+    name: MUTANTHEART
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_10', index: 7}
+    listIndex: 79
+
+    text: |
+        The failed? experiment of the
+        SLIME SISTER, MARINA.
+        Makes strange noises in an
+        attempt to communicate.
+        Smells like strawberries.
+
+        - OMORI
+
+  559:
+    name: PERFECTHEART
+    background: {name: 'battleback_dw_perfectheart', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 1}
+    listIndex: 80
+
+    text: |
+        A goddess of immeasurable
+        power and poise. The light
+        that she emits is capable of
+        causing acute blindness, and
+        in some cases, death.
+
+        - OMORI
+
+  877:
+    name: MARINA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 180, y: 500}
+    character: {name: 'DW_NPC_10', index: 2}
+    listIndex: 81
+
+    text: |
+        The reckless and rash
+        middle-child of the SLIME
+        SISTERS. Has a short temper.
+        Enjoys taking living things
+        apart and putting them back
+        together, usually without
+        their permission...
+
+        - OMORI
+
+  878:
+    name: MOLLY
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 185, y: 500}
+    character: {name: 'DW_NPC_10', index: 1}
+    listIndex: 82
+
+    text: |
+        The devious and cunning
+        oldest SLIME SISTER. Knows
+        how to find enjoyment in
+        everything. She has mastered
+        all the sciences, but sticks
+        with programming as it
+        requires the least amount of
+        movement.
+
+        Is quite fond of
+        cheesy potato chips.
+
+        - OMORI
+
+  879:
+    name: MEDUSA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_10', index: 0}
+    listIndex: 83
+
+    text: |
+        The calm and practical youngest
+        SLIME SISTER. Mainly deals with
+        liquid elements in vials because
+        they are pretty.
+
+        She is an expert at diffusing
+        difficult situations since her
+        sisters like to argue quite
+        frequently.
+
+        - OMORI
+
+  577:
+    name: HUMPHREY
+    background: {name: 'battleback_dw_humphrey', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_SG_Humphrey', index: 0}
+    listIndex: 84
+
+    text: |
+        Absolute, raw terror.
+        - OMORI
+
+        And squishy too! Nyak, nyak!
+        - HUMPHREY

@@ -1,0 +1,158 @@
+
+# =========================================================================================
+# Sidequest: Gino's Jukebox
+# =========================================================================================
+
+#Examine the Jukebox
+
+message_1:
+      text: A JUKEBOX.\! Looks like it can play \c[4]CDs\c[0]!
+
+#If CD is in inventory
+message_2:
+      text: An old JUKEBOX.\! <br>Do you want to donate your \c[4]\v[829]\c[0] to the JUKEBOX?
+
+message_3:
+      text: You inserted the \c[4]\v[829]\c[0] into GINO's JUKEBOX.
+
+message_4:
+      text: Do you want to play a song from the JUKEBOX?
+
+message_5:
+      text: Do you want to play a song from the JUKEBOX?
+
+message_6:
+      text: What song do you want to play?
+
+message_7:
+      text: An old JUKEBOX.\! <br>Do you want to donate all of your \c[4]CDs\c[0] to the JUKEBOX?
+
+# Filenames
+message_20:
+      text: jb_slimegirls
+
+message_21:
+      text: jb_clover
+
+message_22:
+      text: jb_toby
+
+message_23:
+      text: jb_lumena
+
+message_24:
+      text: jb_samm
+
+message_25:
+      text: jb_tofie
+
+message_26:
+      text: jb_banshee
+
+message_27:
+      text: jb_madeleine
+
+message_28:
+      text: jb_shirpower
+
+message_29:
+      text: jb_james
+
+message_30:
+      text: jb_omniboi
+
+message_31:
+      text: jb_voia
+
+message_32:
+      text: jb_secret
+
+# Song names
+message_200:
+      text: NOSTALGIC CD
+
+message_201:
+      text: CELESTIAL CD
+
+message_202:
+      text: MERRY CD
+
+message_203:
+      text: DEVILISH CD
+
+message_204:
+      text: OTHERWORLDLY CD
+
+message_205:
+      text: LIVELY CD
+
+message_206:
+      text: BRUTAL CD
+
+message_207:
+      text: ETHEREAL CD
+
+message_208:
+      text: GHOULISH CD
+
+message_209:
+      text: TRANQUIL CD
+
+message_210:
+      text: CHILL CD
+
+message_211:
+      text: DYNAMIC CD
+
+message_212:
+      text: SECRET CD
+
+#[yes/no]
+
+#if yes
+#Changes BGM to CD
+
+#if no
+#Exit Jukebox
+
+# Jukebox NPC
+# Chatting about currently playing music/artist
+message_50:
+      text: \n<RAI>I know this song!\! This is a cover of \"HANGING WITH THE BOYS\" by SLIME GIRLS.
+
+message_60:
+      text: \n<RAI>I know this song!\! This is a cover of \"WHITE SPACE\" by CLOVER & SEALIFE.
+
+message_70:
+      text: \n<RAI>I know this song!\! This is an original song by TOBY FOX.
+
+message_80:
+      text: \n<RAI>I know this song!\! This is a cover of \"WORLD'S END VALENTINE\" by LUMENA_TAN.
+
+message_90:
+      text: \n<RAI>I know this song!\! This is a cover of \"STARDUST DIVING\" by SAMM NEILAND.
+
+message_100:
+      text: \n<RAI>I know this song!\! This is a cover of \"NOT-SO-EMPTY-HOUSE\" by TOFIE.
+
+message_110:
+      text: \n<RAI>I know this song!\! This is a cover of \"UNDERWATER PROM QUEENS\" by BANSHEEBEAT.
+
+message_120:
+      text: \n<RAI>I know this song!\! This is a cover of \"SNOW FOREST - A SINGLE FLOWER BLOOMS\" by MADELEINE GLENN.
+
+message_130:
+      text: \n<RAI>I know this song!\! This is a cover of \"NOT-SO-EMPTY-HOUSE\" by SHIRPOWER.
+
+message_140:
+      text: \n<RAI>I know this song!\! This is a cover of \"PYREFLY FOREST - CAT'S CRADLE\" by JAMES ROACH.
+
+message_150:
+      text: \n<RAI>I know this song!\! This is a cover of \"LOST AT A SLEEPOVER\" by OMNIBOI.
+
+message_160:
+      text: \n<RAI>I know this song!\! This is a cover of \"GOOD FOR HEALTH BAD FOR IMAGINATION\" by VOIA.
+
+#secret track
+message_170:
+      text: \n<RAI>Hmm...\! I don't know anything about this song.

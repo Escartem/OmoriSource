@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# RECYCLE
+# ========================================================================================
+
+#COPY FROM DEMO
+
+message_1:
+    text: A RECYCLING MACHINE.\!<br>Would you like to insert something?
+
+message_2:
+    text: The RECYCLING MACHINE dispensed [X] CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_3:
+    text: You don't have anything that is recyclable.
+
+message_4:
+    text: You put a [X] into the RECYCLING MACHINE.
+
+message_20:
+    text: CAN
+
+message_21:
+    text: GLASS BOTTLE
+
+message_22:
+    text: CARDBOARD
+
+message_23:
+    text: DEAD BATTERIES
+
+message_24:
+    text: COMPUTER PARTS
+
+message_25:
+    text: A RECYCLING MACHINE.\!<br>What would you like to recycle?
+
+#can
+
+message_5:
+    text: You put a \c[5]CAN\c[0] into the RECYCLING MACHINE.
+
+message_6:
+    text: The RECYCLING MACHINE dispensed 5 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_15:
+    text: You don't have a \c[5]CAN\c[0] to recycle.
+
+#glass bottle
+
+message_7:
+    text: You put a \c[5]GLASS BOTTLE\c[0] into the RECYCLING MACHINE.
+
+message_8:
+    text: The RECYCLING MACHINE dispensed 10 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_16:
+    text: You don't have a \c[5]GLASS BOTTLE\c[0] to recycle.
+
+#cardboard
+
+message_9:
+    text: You put \c[5]CARDBOARD\c[0] into the RECYCLING MACHINE.
+
+message_10:
+    text: The RECYCLING MACHINE dispensed 15 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_17:
+    text: You don't have \c[5]CARDBOARD\c[0] to recycle.
+
+#dead batteries
+
+message_11:
+    text: You put \c[5]DEAD BATTERIES\c[0] into the RECYCLING MACHINE.
+
+message_12:
+    text: The RECYCLING MACHINE dispensed 20 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_18:
+    text: You don't have \c[5]DEAD BATTERIES\c[0] to recycle.
+
+#computer parts
+
+message_13:
+    text: You put \c[5]COMPUTER PARTS\c[0] into the RECYCLING MACHINE.
+
+message_14:
+    text: The RECYCLING MACHINE dispensed 25 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+
+message_19:
+    text: You don't have \c[5]COMPUTER PARTS\c[0] to recycle.

@@ -1,0 +1,112 @@
+# =========================================================================================
+# Sidequest: Bring back Angel
+# =========================================================================================
+
+message_0:
+      text: \artHey, have you guys seen my idiot little brother, ANGEL?\!<br>I gave him some money and sent him out on some errands this morning, but he hasn't come back yet.
+
+message_1:
+      text: \artKnowing him... He probably just forgot...\!<br>If you find him, could you check up on him?
+
+message_2:
+      text: \artTell him...\! his sister...\! is growing impatient...
+
+#Talk to ANGEL
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey, ANGEL! Your sister is looking for you...\!<br>She said she sent you out on some errands earlier today!
+
+message_4:
+      text: \angHuh...\! Errands?\! What errands?
+
+message_5:
+      text: \ang\Com[2]Oh, crap!\! I forgot I was supposed to buy some art supplies for her this morning!
+
+message_6:
+      text: \angUh...\! Uh-oh...\! So that's why I had that money in my pocket...\!<br>...\! Oops...
+
+message_7:
+      text: \angHey, uh...\! When you were talking to my sister...\!<br>Did...\! Did she look angry?
+
+#[yes/no]
+
+#[if yes]
+
+message_8:
+      text: \angSh-She...\! did?
+
+message_9:
+      text: \angHmm...\! Should I bother going back home then?\!<br>Is it even worth it at this point?
+
+message_10:
+      text: \ang\Com[2]Gah!\! No, if I keep running away, it'll only make things worse!\!<br>Come on, ANGEL! You have to face your fears head on!
+
+message_11:
+      text: \ang\{\Com[2]ONWARD, ANGEL!\! \Com[2]YOU CAN DO THIS!!
+
+#ADD FWWAAAAAAAAA
+
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+#[if no]
+
+message_12:
+      text: \angHeh...\! Is that so...?\! Well, you can never be too sure, can you?
+
+message_13:
+      text: \angI should probably head back now...\! just to be safe...
+
+message_14:
+      text: \angI'll catch up with you guys later...
+
+message_15:
+      text: \angI...\! uh...\! I gotta go...
+
+#Fwaaaaa
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+# =========================================================================================
+# Cutscene: Angel's Punishment
+# =========================================================================================
+
+message_20:
+      text: \art\{\{\COM[2]\QUAKE[1]ANGEL, GET BACK HERE!!!!\QUAKE[0]
+
+message_21:
+      text: \ang\{\{\COM[2]\QUAKE[1]I'M SORRY, SIS!!!\QUAKE[0]
+
+message_22:
+      text: \ang\COM[2]\QUAKE[1]Please...\! I beg you...\!<br>\{\COM[2]NOT THAT!!!\! \COM[2]ANYTHING BUT THAT!!!!\QUAKE[0]
+
+#RIPPING NOISE
+
+message_23:
+      text: \ang\COM[2]\QUAKE[1]AHH\{HHHHH\{HHHH\{HHHHH\{HHHHHH!!!!\QUAKE[0]
+
+#TALK TO ARTIST
+
+
+message_24:
+      text: \artHuff...\! Oh, it's just you guys.\!<br>Thanks for fetching my baby brother...
+
+message_25:
+      text: \artHe's...\! He's in a better place now...
+
+message_26:
+      text: \artJust kidding...\! He's just standing in the corner there in time-out.\! Maybe next time he'll think twice before he uses all my money to buy trading cards!
+
+message_27:
+      text: \art\}Psst...\! Here.\! Take this.
+
+message_100:
+      text: You got a \c[4]RARE CARD\c[0].
+
+#You got a RARE TRADING CARD.
+
+message_28:
+      text: \art\}I pretended to rip one of his ultra rare cards earlier just to freak him out a little...\! but that's the real one right there.
+
+message_29:
+      text: \art\}Just...\! hold on to it for a few days or so before you give it back to him.\! Heh heh...\! That should teach him a lesson.

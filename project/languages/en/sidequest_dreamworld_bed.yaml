@@ -1,0 +1,169 @@
+# =========================================================================================
+# B.E.D. Trade Quest
+# ========================================================================================
+
+#B.E.D. Trade Quest 1
+
+message_0:
+    text: \mayBlast!\! Where in the world is my good-for-nothing son?
+
+message_1:
+    text: \mayLast night I asked him to analyze the effects of my latest invention, the \c[4]B.E.D.\c[0], and I'm longing to hear the results!
+
+message_2:
+    text: \mayI hope he's not doing what I think he's doing...
+
+message_3:
+    text: A SPROUT MOLE sleeping on a \c[4]B.E.D.\c[0].\!<br>If only you had something that could wake him up...
+
+#B.E.D. Trade Quest 2
+
+message_10:
+    text: \n<SPORT MOLE>Huff... huff, huff...
+
+message_11:
+    text: \n<SPORT MOLE>All this training's made me so hungry!\!<br>I really wish I had some \c[3]TOFU\c[0] right now...
+
+message_12:
+    text: Give a \c[3]TOFU\c[0] to the very sweaty SPORT MOLE?
+
+message_13:
+    text: \n<SPORT MOLE>Wow, thank you for the \c[3]TOFU\c[0]! I really needed that.\!<br>In return, here's my most prized possession.<br>Please take good care of it!
+
+#Bandito mole
+
+message_20:
+    text: \who\}Psst... hey, kids!\! I couldn't help but overhear...\! that guy PESSI dropped something valuable, right?\! Something... precious, perhaps?\! <br>I might be able to help you with that...
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10 #needs appropriate faceset
+    text: \aubHmm, this guy seems awfully shady...\!<br>What's the catch,\! \com[2]SHADY MOLE!?
+
+message_22:
+    text: \n<SHADY MOLE>\}A-Ahem!\! As you may already know,\! we SPROUT MOLES are very intelligent and high-functioning creatures.
+
+message_23:
+    text: \n<SHADY MOLE>\}The smartest of us all, the MAYOR, is creating a device that will help SPROUT MOLES do their work at a much higher capacity than what was previously possible.
+
+message_24:
+    text: \n<SHADY MOLE>\}A fabled device of legend that, when complete, will entirely revolutionize the modern world!\! He calls it...\! The \c[4]B.E.D.\c[0]!
+
+message_25:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11 #needs appropriate faceset
+    text: \aubThe \c[4]B.E.D.\c[0]?\! What do you want that for?
+
+message_26:
+    text: \n<SHADY MOLE>\}\Com[2]Hey, no questions!\! Get me a \c[4]B.E.D.\c[0] first and then we'll talk.
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17 #needs appropriate faceset
+    text: \kelA \c[4]B.E.D.\c[0], huh?\! That seems simple enough!
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4 #needs appropriate faceset
+    text: \aubWait, KEL! I don't know...\! He seems awfully...\! Untrustworthy...
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herMaybe we should just give him a \c[4]B.E.D.\c[0] and see what happens.
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubIf you think so, HERO...\!<br>but something about him really rubs me the wrong way...
+
+
+#B.E.D. Trade Quest 3
+
+message_40:
+    text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+
+message_41:
+    text: \sleWho are you!?
+
+message_42:
+    text: \sle\Com[2]Oh no, I'm late!\! Could it be that I...\! No...
+
+message_43:
+    text: \sleI must have overslept!\! ...\!<br>But...\! SPROUT MOLES don't oversleep!
+
+message_44:
+    text: \sleThis \c[4]B.E.D.\c[0]...\! It's...\! \quake[1]powerful.\quake[0]\! Maybe even\. \quake[1]too powerful.\quake[0]
+
+message_45:
+    text: \sleI'd better tell Dad about this!
+
+#B.E.D. Trade Quest 4
+
+message_50:
+    text: \sle\Com[2]Dad! Dad! I'm here!
+
+message_51:
+    text: \mayBy the gods, son! Where have you been?
+
+message_52:
+    text: \sleI...\! I'm afraid I have some terrible news...
+
+message_53:
+    text: \mayWhat is it, son?\! You know you can tell me anything!
+
+message_54:
+    text: \sleLast night, while I was testing the \c[4]B.E.D.\c[0]...\!<br>I...\! I...\! I...\! I \quake[1]overslept...\quake[0]
+
+message_55:
+    text: \mayNo, it can't be!\! If what you've said is true, then...
+
+message_56:
+    text: \mayAll my research...\! This invention...\! The \c[4]B.E.D.\c[0]...\!<br>It's all...\! \quake[1]too powerful.\quake[0]
+
+message_57:
+    text: \mayYou see, my theory was that a \c[4]B.E.D.\c[0] would help SPROUT MOLES gain a good night's rest and thus gain productivity throughout the day, but...
+
+message_58:
+    text: \mayWhat good is it if the very same invention causes SPROUT MOLES to lose productivity instead?
+
+message_59:
+    text: \mayThe \c[4]B.E.D.\c[0] has the potential for greatness, but the current risk is too high!
+
+message_60:
+    text: \may\Com[2]By the gods, what have I done?!
+
+message_61:
+    text: \mayI cannot unleash this dangerous technology upon the world, lest our humble village might never wake up again!
+
+message_62:
+    text: \may\Com[2]Hey, you there!\! Child!\! Take this \c[4]B.E.D.\c[0] away from us.\!<br>We have no need for such power!
+
+message_63:
+    text: \mayNow begone and speak not of what you saw here today!
+
+message_64:
+    text: \n<SPORT MOLE>Oh, well.\!<br>If you ever want to spare some \c[3]TOFU\c[0], I'll be happy to have some...
+
+message_65:
+    text: You got a \c[4]B.E.D.\c[0]!
+
+message_66:
+    text: \n<SHADY MOLE>\}\Com[2]D-Do my eyes deceive me?
+
+message_67:
+    text: \n<SHADY MOLE>\}I don't believe it...\! It's... a \c[4]B.E.D.\c[0]!\! A real, genuine, bonafide \c[4]B.E.D.\c[0]!\!<br>I'm gonna use it right this second!
+
+message_68:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubHey, what are you doing?\!<br>We helped you, so you should help us!
+
+message_69:
+    text: \n<SHADY MOLE>\}\Com[2]Whoa, whoa, whoa!\}\!<br>What's with all the attitude?\!<br>It may not seem like it, but I'm a mole of my word.
+
+message_70:
+    text: Use \c[4]BIG AIRHORN\c[0] on the SLEEPY MOLE?
+
+message_71:
+    text: \sleBut...\! I liked the \c[4]B.E.D.\c[0]...

@@ -1,0 +1,438 @@
+wrongPlacingMessage:
+    background: 0
+    position: 2
+    text: This photo doesn't feel right here.
+
+puzzleModeClosingMessage:
+    background: 0
+    position: 2
+    text: You are not finished sorting the photos.
+
+error_message:
+    background: 0
+    position: 2
+    text: ERROR - SEEK HELP!
+
+faraway_message1:
+    background: 0
+    position: 2
+    text: \n<12/25 - CHRISTMAS>My first photo!\!<br>It's my best friend, \n[8], trying out his new violin.<br><br>He's starting to take lessons again so he can play at recitals with his sister, MARI.\! So exciting!
+
+faraway_message2:
+    background: 0
+    position: 2
+    text: \n<2/18 - MY BIRTHDAY>It's my 12th birthday today!\!<br>I thought my friends forgot, but they all surprised me with a strawberry cake.<br>I feel so lucky...<br>\!This year is looking to be a good year!
+
+faraway_message3:
+    background: 0
+    position: 2
+    text: \n<2/18 - MY BIRTHDAY>Another group photo.<br>\!This was a little after I opened all my presents!<br><br>MARI bought me this photo album, and everyone else bought me film for my camera.\! I'll try my best to use it all.
+
+faraway_message4:
+    background: 0
+    position: 2
+    text: \n<2/18 - MY BIRTHDAY>Just KEL being KEL...\! So...\! many...\! party hats...
+
+faraway_message5:
+    background: 0
+    position: 2
+    text: \n<2/18 - MY BIRTHDAY>\n[8] playing a video game on the couch.<br>\!\n[8] is a little shy, but he's a really good listener.<br><br>I always end up venting to him when I get upset or stressed.\! Sometimes I feel like I'm bothering him, but he never seems to mind.
+
+faraway_message6:
+    background: 0
+    position: 2
+    text: \n<2/18 - MY BIRTHDAY>MARI and HERO fell asleep on the couch.<br>\!They look so cozy together... Hehe...<br><br>I hope they don't mind the photo.<br>\!MARI's dad might be kind of mad if he saw it...
+
+faraway_message7:
+    background: 0
+    position: 2
+    text: \n<3/9>HERO and MARI washing dishes from breakfast.<br>\!We're staying over with MARI and \n[8] this weekend.<br><br>It's getting warmer lately so we're about to go to the park.\! KEL says there's a secret lake area behind some bushes, so we're all going to check it out!
+
+faraway_message8:
+    background: 0
+    position: 2
+    text: \n<3/9>We're back from the park, but KEL is still full of energy.<br><br><br>He challenged HERO to an arm-wrestling match, but we all know who's going to win...\! Please go easy on him, HERO...
+
+faraway_message9:
+    background: 0
+    position: 2
+    text: \n<3/9>Oof... Sorry, KEL...\! Better luck next time.
+
+faraway_message10:
+    background: 0
+    position: 2
+    text: \n<3/10>KEL was still feeling a little sour about losing to HERO in arm-wrestling last night, so HERO decided to lean in for a smooch!<br>KEL looks so annoyed.<br>\!Ah, brotherly love...
+
+faraway_message11:
+    background: 0
+    position: 2
+    text: \n<3/10>Me showing \n[8] a book I've been reading.\! MARI stole my camera and took this when I wasn't paying attention.<br><br>I should really keep better track of my things.
+
+faraway_message12:
+    background: 0
+    position: 2
+    text: \n<3/10>It's all of us cuddling with \n[8]'s stuffed animals.\!<br>He has so many, and they're all so soft! \!I wish I could just lay here forever.
+
+faraway_message13:
+    background: 0
+    position: 2
+    text: \n<3/31>It's already the last day of March!\!<br>We're having a picnic with MARI at our secret lake spot.<br><br>MARI wanted to take a picture of everyone! \!Say cheese!
+
+faraway_message14:
+    background: 0
+    position: 2
+    text: \n<3/31>After eating all the food, everyone fell asleep, except me, HERO, and MARI.<br><br>Something unfortunate happened when I was taking the photo. \!Ahem... Thanks a lot, HECTOR.\! I'll have to cover it up with tape later.
+
+faraway_message15:
+    background: 0
+    position: 2
+    text: \n<4/9>I caught MARI carrying \n[8] on the way home from school today.\! He must have fallen asleep on the bus.<br><br>I thought it was so cute, so I got my camera out as quick as I could to snap this once-in-a-lifetime photo!\! Sigh...\! Sometimes I wish I had a sibling.
+
+faraway_message16:
+    background: 0
+    position: 2
+    text: \n<4/21>MARI is teaching everyone how to make flower crowns!<br><br><br>\n<4/21>Here's \n[8] and KEL holding MARI's example.\!<br>It looks perfect, doesn't it?\!<br>If only MARI thought so, too.
+
+faraway_message17:
+    background: 0
+    position: 2
+    text: \n<4/21>\n[8] and KEL gave up on making flower crowns and ran off, but AUBREY and I got the hang of it really fast!<br><br>Everyone thinks a flower crown really suits me.\!<br>Maybe just a flower is okay.
+
+faraway_message18:
+    background: 0
+    position: 2
+    text: \n<4/21>HERO's still making his flower crown.<br>\!It's taking him a little while, but he's getting there.\!<br>You have to admire his persistence!
+
+faraway_message19:
+    background: 0
+    position: 2
+    text: \n<4/29>It's raining super hard today!<br>\!The rain always seems to come out of nowhere during springtime.<br>AUBREY asked me to take a picture of her with her new raincoat.\! It's her favorite color, pink!
+
+faraway_message20:
+    background: 0
+    position: 2
+    text: \n<4/29>AUBREY won't let KEL under the umbrella, but KEL seems to be taking it just fine.\! He says he likes how the rain tastes.
+
+faraway_message21:
+    background: 0
+    position: 2
+    text: \n<4/29>Just KEL being KEL again...<br><br><br>We went to HOBBEEZ, but the shop owner told KEL to leave his jacket outside since KEL was getting all his comics wet.<br>\!Sorry, SHOPKEEP.
+
+faraway_message22:
+    background: 0
+    position: 2
+    text: \n<5/25>It's been pretty busy with school lately, but we finally made time to get together and go to the park today.<br><br>Here's KEL hanging by his legs off a tree.\!<br>He's such a good climber!\!<br>I wish I was as fearless as him.
+
+faraway_message23:
+    background: 0
+    position: 2
+    text: \n<5/25>MARI bought everyone popsicles, one of every flavor!<br>\!\n[8] got lemon, HERO got root beer, KEL got orange, AUBREY got watermelon, and MARI got grape!<br>Mine was banana...\! It tasted okay.
+
+faraway_message24:
+    background: 0
+    position: 2
+    text: \n<5/25>All of our shoes in a circle!\!<br>Can you guess whose shoes are whose?
+
+faraway_message25:
+    background: 0
+    position: 2
+    text: \n<6/22>It's the first day of summer vacation, so we all wanted to celebrate by going to the beach!<br>\!Watermelon is AUBREY's favorite.
+
+faraway_message26:
+    background: 0
+    position: 2
+    text: \n<6/22>KEL cooling off with some refreshing ORANGE JOE!<br><br><br>I shouldn't get too close or he might get my camera wet.\!<br>KEL is known to spill his drinks.
+
+faraway_message27:
+    background: 0
+    position: 2
+    text: \n<6/22>We buried \n[8] in the sand!\!<br>It took forever, but he looks like he's enjoying himself.<br><br>I wonder if he's going to need help getting out.\!<br>I guess I'll keep him company until then.
+
+faraway_message28:
+    background: 0
+    position: 2
+    text: \n<6/22>MARI says she wants to get a summer tan!<br>\!I'm scared to fall asleep in the sun, since I get sunburned really easily.<br>Hmm... I'm not sure what KEL is doing here, but he's probably having a good time.
+
+faraway_message29:
+    background: 0
+    position: 2
+    text: \n<6/22>HERO sleeping on MARI.\! He's all tired out from swimming.\! Well... It seems like MARI won't be able to get her summer tan after all.
+
+faraway_message30:
+    background: 0
+    position: 2
+    text: \n<6/22>We're about to head home, but I managed to catch one last photo with MARI and HERO!\! They look so happy.<br>A match made in heaven!
+
+faraway_message31:
+    background: 0
+    position: 2
+    text: \n<7/20 - \n[8]'S BIRTHDAY>Yay! \n[8] is turning 12 today!\! Even though me, \n[8], AUBREY, and KEL are in the same school year, \n[8] is younger than all of us.<br>He's the baby of the group, so we have to take care of him!
+
+faraway_message32:
+    background: 0
+    position: 2
+    text: \n<7/20 - \n[8]'S BIRTHDAY>\n[8] holding a super huge present, from MARI and HERO!<br>\!Hmm... I wonder what it is.
+
+faraway_message33:
+    background: 0
+    position: 2
+    text: \n<7/20 - \n[8]'S BIRTHDAY>You can't really tell from the photo, but MARI and HERO got \n[8] a giant building block set.<br><br>\n[8] seems much more interested in the box though.\!<br>He acts just like MARI's new kitten, MEWO!
+
+faraway_message34:
+    background: 0
+    position: 2
+    text: \n<7/20 - \n[8]'S BIRTHDAY>\n[8] won't leave the box, so KEL put a food bowl inside.\!<br>I guess this box will be \n[8] and MEWO's new home.
+
+faraway_message35:
+    background: 0
+    position: 2
+    text: \n<8/4>We're going beetle-catching today!\!<br>Here's KEL, ready to pounce on his next victim!<br>\!Oh, and \n[8] is there too.\! He looks kind of sleepy.
+
+faraway_message36:
+    background: 0
+    position: 2
+    text: \n<8/4>MARI says this beetle is a giant stag.<br>It suddenly fell from a tree and surprised everyone!\!<br>HERO is too grossed out to look.
+
+faraway_message37:
+    background: 0
+    position: 2
+    text: \n<8/14>Ta-da!\! All summer, we've been working on a treehouse in \n[8]'s backyard and today it's finally finished!<br><br>HERO and his dad did most of the work, but AUBREY and I made paper plants to put in the window sill!\! We all did a pretty good job, if I do say so myself!
+
+faraway_message38:
+    background: 0
+    position: 2
+    text: \n<8/14>I went to the bathroom, and came back to this photo...<br><br><br>KEL says he took a picture of himself on accident,<br>but I don't believe him...
+
+faraway_message39:
+    background: 0
+    position: 2
+    text: \n<8/16>All of us hanging out in our brand new treehouse!<br>Looks like \n[8] is finally reading the book I showed him!<br><br>I want to spend every day in here, but it's a shame that summer vacation is almost over.\! I hope we get to use this treehouse more next summer!
+
+faraway_message40:
+    background: 0
+    position: 2
+    text: \n<8/18>We went to HOBBEEZ to read the latest edition of CAPT. SPACEBOY!\! Everyone's so into it right now!\! I'm sure it's all anyone is going to be talking about once school starts.
+
+faraway_message41:
+    background: 0
+    position: 2
+    text: \n<9/6>I'm playing cards with KEL, HERO, and AUBREY.\! They're so easy to read. They can't hide anything on their faces!<br><br>MARI baked everyone cookies from scratch.<br>They were chocolate chip and super delicious, like always!
+
+faraway_message42:
+    background: 0
+    position: 2
+    text: \n<9/6>Looks like I have the winning hand, hehe...<br>But nobody knows that yet...
+
+faraway_message43:
+    background: 0
+    position: 2
+    text: \n<9/9>It's the first day of school today!\! Me, \n[8], KEL, and AUBREY are up bright and early.\! AUBREY is so photogenic!
+
+faraway_message44:
+    background: 0
+    position: 2
+    text: \n<9/9>Sigh... Goodbye, summer!\! Until next year...
+
+faraway_message45:
+    background: 0
+    position: 2
+    text: \n<9/9>\n[8] giving MARI a big hug!\! MARI doesn't come home until late now because she's taking extra classes to prepare for college.<br>Me and \n[8] have been hanging out a lot, but I'm sure he still misses her a lot.
+
+faraway_message46:
+    background: 0
+    position: 2
+    text: \n<9/22>MARI practicing her part for a big recital next month.<br>We're all going to go watch!<br><br>It's going to be MARI and \n[8]'s first performance together, but I know they'll do just fine!\! We will all be showing our support from the audience!
+
+faraway_message47:
+    background: 0
+    position: 2
+    text: \n<9/22>MARI getting a little camera shy, because she's made a small mistake.\! Don't worry, MARI! Just keep going!<br>No one will even notice!
+
+faraway_message48:
+    background: 0
+    position: 2
+    text: \n<9/22>After some begging, \n[8] came to join MARI for recital practice... Hehe...<br><br>They're still working out some stuff, but they already sound so amazing! I know they're going to be great.<br><br>Go, MARI! Go, \n[8]!\! You can do it!
+
+#DREAM WORLD
+
+dreamworld_message1:
+    background: 0
+    position: 2
+    text: \"MARI is teaching everyone how to make flower crowns!\!<br>OMORI and KEL are holding MARI's example.\! So pretty...\"
+
+dreamworld_message2:
+    background: 0
+    position: 2
+    text: \"OMORI and KEL gave up and ran off, but AUBREY and I got the hang of it really fast!\"
+
+dreamworld_message3:
+    background: 0
+    position: 2
+    text: \"HERO's still making his flower crown.<br>\!It's taking him a little while, but he's getting it.\!<br>You have to admire his persistence.\"
+
+dreamworld_message4:
+    background: 0
+    position: 2
+    text: \"Everyone's eating watermelons.\! So juicy!\!<br>AUBREY has some seeds on her face.\!<br>Maybe someone should tell her.\"
+
+dreamworld_message5:
+    background: 0
+    position: 2
+    text: \"KEL drinking a bottle of MILK, his favorite!<br>\!I shouldn't get too close or he might get my camera wet.\"
+
+dreamworld_message6:
+    background: 0
+    position: 2
+    text: \"MARI had HERO take a picture of us.\!<br>Everyone thinks a flower crown really suits me.\"
+
+dreamworld_message7:
+    background: 0
+    position: 2
+    text: \"HERO leaning in for a smooch!<br>\!KEL looks so annoyed.\! Ah, brotherly love...\"
+
+dreamworld_message8:
+    background: 0
+    position: 2
+    text: \"We're having a picnic today!\!<br>MARI wanted to take a picture of everyone.\! Say cheese!\"
+
+dreamworld_message9:
+    background: 0
+    position: 2
+    text: \"After eating, everyone fell asleep, except HERO and MARI.\!<br>I'm getting kind of sleepy myself.\"
+
+dreamworld_message10:
+    background: 0
+    position: 2
+    text: \"KEL said he took a picture of himself on accident,<br>but I don't believe him....\"
+
+dreamworld_message11:
+    background: 0
+    position: 2
+    text: \"All of our feet in a circle!\!<br>Can you guess whose feet are whose?\"
+
+dreamworld_message12:
+    background: 0
+    position: 2
+    text: ...
+
+#blackspace
+
+blackspace_message1:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message2:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message3:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message4:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message5:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message6:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message7:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message8:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message9:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message10:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message11:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message12:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message13:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message14:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message15:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message16:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message17:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message18:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message19:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message20:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message21:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message22:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message23:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message24:
+    background: 0
+    position: 2
+    text: ...

@@ -1,0 +1,82 @@
+
+# =========================================================================================
+# Lost Son
+# ========================================================================================
+
+#Talk to Mr DUCKIE
+
+message_0:
+      text: \n<MR. DUCKIE>Sorry to bother you, but have you seen my son anywhere?\! We looked away for less than a second, and he's gone and ran off again!
+
+message_1:
+      text: \n<MR. DUCKIE>Could you keep an eye out for me?\!<br>You'll know when you see him.\! He looks just like me! Haha!
+
+#Talk to DUCKIE Jr
+
+message_2:
+      text: \n<DUCKIE JR>The stars sure are pretty, huh?\!<br>I can really lose myself staring into the sky like this.
+
+message_3:
+      text: \n<DUCKIE JR>Back on my planet, you can hardly see any stars...
+
+message_4:
+      text: \n<DUCKIE JR>When I grow up, I wanna be a SPACE CAPTAIN!\!<br>Then I'll be able to have this view all the time!
+
+message_5:
+      text: \n<DUCKIE JR>Oh, shoot...\! How long have I been here?
+
+message_6:
+      text: \n<DUCKIE JR>Mom and Dad are probably super worried about me...\!<br>I'd better head home quick!
+
+#DUCKIE JR walks off
+
+message_7:
+      text: \n<MR. DUCKIE>Hey, it's you! Thank you for finding DUCKIE JR.
+
+message_8:
+      text: \n<MR. DUCKIE>Can you stop running off, you little rascal?<br>We're supposed to be on vacation!\!<br>Give your old man some time to relax...
+
+message_9:
+      text: \n<DUCKIE JR>Okay...\! Sorry, dad...
+
+message_10:
+      text: \n<MR. DUCKIE>Thank you, travelers.\! My son said he wanted to give you something as a token of our thanks.\! <br>Give them the gift, DUCKIE!
+
+message_11:
+      text: \n<DUCKIE JR>Here you go!
+
+message_12:
+      text: You got a \c[5]DANDELION\c[0].
+
+message_13:
+      text: \n<MR. DUCKIE>That's my boy!\! The next time you want to go outside you'd better let us know first, okay?
+
+message_14:
+      text: \n<MR. DUCKIE>You wouldn't want to make Mom worry again, would you?
+
+message_15:
+      text: \n<DUCKIE JR>No...
+
+message_16:
+      text: \n<MR. DUCKIE>Great! That means we can finally spend some quality family time together!\! Now, go to your mom.
+
+message_21:
+      text: \n<MR. DUCKIE>Finally, some quality family time!
+
+#DUCKIE JR walks to mom
+
+#QUEST complete
+
+#After-Quest Dialogue: Talk to Mrs. DUCKIE or DUCKIE JR.
+
+message_17:
+      text: \n<DUCKIE JR>Mom, can I look at the stars again later?
+
+message_18:
+      text: \n<MRS. DUCKIE>Of course you can, sweetie.\!<br>I'm sure your father and I would like to go with you, too.
+
+message_19:
+      text: \n<DUCKIE JR>Yay!
+
+message_20:
+      text: \n<MRS. DUCKIE>Junior just doesn't know how to stay put.\! All he wants to do is go outside!

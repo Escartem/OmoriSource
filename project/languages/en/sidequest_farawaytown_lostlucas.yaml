@@ -1,0 +1,35 @@
+# =========================================================================================
+# Sidequest: Lost Lucas
+# =========================================================================================
+
+message_1:
+      text: \art\com[2]Bah! My dog LUCAS ran out of the door again.\! He's always trying to get out of the house...\! Sometimes I wonder if he only lives here for the food.
+
+message_2:
+      text: \artSigh...\! Where'd he go this time?
+
+#Lucas is playing with some birds
+
+message_3:
+      text: \n<GOOD DOG>\com[2]Bark...\! \{Bark, bark!
+
+#Cutscene: Lucas leaves
+
+#Talk to artist after cutscene:
+
+message_4:
+      text: \artSigh...\! LUCAS...\! Don't worry me like that.
+
+message_5:
+      text: \artHey, did you send LUCAS back here?\! <br>I'm sorry for the trouble.\! Here, take this.
+
+message_6:
+      text: You got \c[13]PAINT BRUSH\c[0].
+
+#Talk to Lucas after Cutscene
+
+message_7:
+      text: \n<GOOD DOG>\{\com[2]Bark, bark!\! \{Bark!
+
+message_8:
+      text: You got \c[4]TRASH\c[0]...

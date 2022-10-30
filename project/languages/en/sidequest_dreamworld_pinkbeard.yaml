@@ -1,0 +1,175 @@
+
+# =========================================================================================
+# Bring boy Home
+# ========================================================================================
+
+#Talk to Pinkbeard
+
+message_0:
+      text: \n<PINKBEARD>\Com[2]Bah! Where has that boy run off to now?\!<br>I warned him that that SWEETHEART girl would bring nothing but trouble!
+
+message_1:
+      text: \n<PINKBEARD>Have you seen my son?\! His name is CAPT. SPACEBOY, but I'm not sure what he goes by nowadays...\! There's always something going on with that birdbrain...
+
+
+message_100:
+      text: \n<SPACE PIRATE CHIEF>Huff...\! Huff...\! Huff...
+
+message_101:
+      text: \n<PINKBEARD>SPACE PIRATE CHIEF! My most trusted advisor!\!<br>Well?\! Did you find him?
+
+message_102:
+      text: \n<SPACE PIRATE CHIEF>It's lookin a little grim, CAPTAIN...\! He may be gone for good this time...\! but...\! I did find these.
+
+message_103:
+      text: \n<PINKBEARD>Huh? What's this?
+
+message_104:
+      text: \n<PINKBEARD>\com[2]\c[4]BATTERIES\c[0]?\! I asked you to find my son...\!<br>\quake[1]and you brought me \c[4]BATTERIES\c[0]?!\quake[0]
+
+message_105:
+      text: \n<PINKBEARD>This won't help me find CAPT. SPACEBOY!
+
+message_106:
+      text: \n<PINKBEARD>Hmm...\! Or will it?
+
+message_107:
+      text: \n<SPACE PIRATE CHIEF>Huff...\! Sorry, CAPTAIN.\! I'll keep lookin'!<br>\!\}Even if he is a pain in the butt sometimes...
+
+message_108:
+      text: You got \c[4]BATTERIES\c[0]!
+
+#Talk to Space ex-husband
+
+message_2:
+      text: \spxhAh, what a surprise.\! It is you all.\!<br>Hello.\! What a pleasant evening this is.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #replace
+      text: \kelErr...\! Hey...\! It's...\! uh...\! CAPT. SPACE EX-HUSBAND now, right?\!<br>You don't...\! look so hot...
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubYeah...\! It's so chilly up here...\! Are you...\! like...\! okay?
+
+message_5:
+      text: \spxhOh, me?\! Worry not, children.\!<br>My heart is frozen.\! I am pure.\! I am cold, like ice.\!<br>I feel nothing.\! I will never feel anything ever again.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40 #replace
+      text: \herOh, no...\! He's even worse than last time...
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubCAPT. SPACEBOY...\! Come on... Let's bring you back home.
+
+message_8:
+      text: \spxhCAPT. SPACEBOY?\! Who's that?\!<br>I am nothing.\! I am pure.\! I am cold, like ice.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5 #replace
+      text: \aubSigh... He's never going to listen to us at this rate...\!<br>What do we do?
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelIsn't it obvious!?\!<br>We have to beat the snow out of him... just like last time!\!<br>Come on, guys! We can do this!
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5 #replace
+      text: \aub\Com[2]W-What!? Are you sure?\! There must be another way...
+
+message_12:
+      text: \spxhAhh...\! This cold...\! I can relate to it so well...\!<br>It...\! It is slowly taking over my soul...<br>\!I am becoming one...\! with the ice...
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40 #replace
+      text: \herHmm...\! Normally I wouldn't agree with KEL's methods, but <br>at this rate he's going to freeze all alone up here!\!<br>Sometimes you need a little tough love...
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #replace
+      text: \kel\Com[2]That's what I like to hear!\!<br>Don't worry, CAPT. SPACEBOY! We'll save you!
+
+# Defeat Space Ex-HUSBAND
+
+message_15:
+      text: \spxhSniff...\! Sniff...\! \sinv[1]Ohoooooo...
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubCAPT. SPACEBOY... How are you feeling?
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39 #replace
+      text: \herHey...\! I hope I'm not the first one to tell you this, but...\!<br>Maybe it's about time you let go of SWEETHEART and started to enjoy the finer things in life!
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19 #replace
+      text: \kelYeah!\! You got better things to worry about...\! like your crew!\! You're a SPACE PIRATE, for heaven's sake!
+
+message_19:
+      text: \spxhMy...\! crew?\! Ah...\! yes...\! my crew.\!<br>I nearly forgot...\! How horrible of me...\!<br>They must be so worried...\! I should go back to them...
+
+message_20:
+      text: \spxhHere, take this...\! I...\! sniff...\! won't be needing it anymore...
+
+message_21:
+      text: You got a \c[13]WEDDING RING\c[0].
+
+message_22:
+      text: \spxhI'll be off now.\!<br>Don't worry about me... I'll find my way home...\!<br>Sniff...\! I know the way back.
+
+#CUTSCENE: FATHER AND son
+
+message_23:
+      text: \n<PINKBEARD>\Com[2]Son!\! There you are!\!<br>Where have you been, boy!?<br>I've been looking everywhere for you!
+
+message_24:
+      text: \spxhOh...\! Hi, Dad...
+
+message_25:
+      text: \n<PINKBEARD>\Com[2]What did I tell you about that SWEETHEART girl?\!<br>I always said that you were too good for her...\!<br>You should learn to listen to your old man for once!
+
+message_26:
+      text: \spxh...\! Sniff...\! I'm feeling tired...\! Can I just go to bed?
+
+message_27:
+      text: \n<PINKBEARD>\Com[2]Bah!\! Enough with this nonsense!\!<br>Don't waste your feelings on someone like that, boy!\!<br>You will know true love when it happens.
+
+message_28:
+      text: \n<PINKBEARD>For now, you still have your crew... and you still have me!
+
+message_29:
+      text: \n<PINKBEARD>You have to promise me that you'll never change your name again, you hear me?\! It's CAPT. SPACEBOY from now... until forever!
+
+message_30:
+      text: \capOkay...\! Sniff...\! Sorry, Dad...
+
+#Quest complete
+
+
+message_32:
+      text: A plastic fish mounted on the wall.
+
+message_33:
+      text: Hmm...\! It needs \c[4]BATTERIES\c[3].
+
+message_34:
+      text: You inserted \c[4]BATTERIES\c[0] into the plastic fish.
+
+message_35:
+      text: This trap door is sealed shut.
+
+message_36:
+      text: You must let the plastic fish finish its song.

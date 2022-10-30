@@ -1,0 +1,160 @@
+# =========================================================================================
+# DADDY LONGLEGS
+# ========================================================================================
+
+#He always says this first. The rest, he says based on how many times you entered any map in the lost forest.
+
+message_0:
+    text: \n<DADDY LONGLEGS>Welcome to the \c[11]LOST FOREST\c[0], where you find things you never knew were lost in the first place...\! Or perhaps they're forgotten for a reason.
+
+#He always says this stuff, left as is so the player could know how hot or cold they are:
+
+message_1:
+    text:  \n<DADDY LONGLEGS>I suppose we all hold secrets...\! No matter how lost or how deep down we bury them, they find their way back to the other side..
+
+message_2:
+    text:  \n<DADDY LONGLEGS>Trying to lose yourself? Or have you accomplished that already?\! Either way, this is the right place for you.\! Perhaps that's why you've come here... to finish the job.
+
+#Alternate
+
+message_3:
+    text:  \n<DADDY LONGLEGS>Usually we tend to do things we want... as opposed to things we say we do.\! I've never been one for wants.\! I'm more of a "need" kind of person.
+
+message_4:
+    text:  \n<DADDY LONGLEGS>I suggest you look for the exit before your "needs" become more apparent.
+
+message_5:
+    text:  \n<DADDY LONGLEGS>You've wandered by me \v[109] times.
+
+#If：Lost Forest Entrances  8
+
+message_6:
+    text:  \n<DADDY LONGLEGS>You're still here?\! You must have either given up or you have fully embraced your fate.\! A confession perhaps, but I'm not the one to tell.
+
+message_7:
+    text:  \n<DADDY LONGLEGS>You have passed by me \v[109] times.
+
+#  If：Lost Forest Entrances = 9
+
+message_8:
+    text:  \n<DADDY LONGLEGS>There was a boy wandering around here before, very similar to you.\! He went into the darkness and never came out.
+
+message_9:
+    text:  \n<DADDY LONGLEGS>How regretful it must have been to never find what he was looking for.\! Be it regret, defeat, or confusion, no one will know.
+
+#  If：Lost Forest Entrances = 12
+
+message_10:
+    text:  \n<DADDY LONGLEGS>I've seen lost and I've seen blind, but the combination is unsettling.\! Perhaps you are hiding away from the right way.
+
+#  If：Lost Forest Entrances = 15
+
+message_11:
+    text:  \n<DADDY LONGLEGS>Morals are lost on the wicked.\! How does one define malice without intent?\! Why do you continue down this path when it's most certainly not the right way?
+
+#This stuff is unique to the map that you're on. He says it directly after the stuff above.
+
+#MAP 1
+message_12:
+    text:  \n<DADDY LONGLEGS>There is an old saying about wasting time when living a life that is not your own.\! Dreams can feel like that, like this forest.\! Lost...
+
+#MAP 2
+message_13:
+    text:  \n<DADDY LONGLEGS>Sometimes when we hide things from ourselves, we create different truths and eventually forget our way.\!<br>Have you found yours yet, or are you still lost?
+
+#MAP 5
+message_18:
+    text:  \n<DADDY LONGLEGS>Forget all you will, or try to.\! Darkness manifests whether you are aware or not.\! Hide the inhabitable behind ignorance and watch your lie fall.
+
+#Once you complete the forest, his page 2 is always:
+message_19:
+    text:  \n<DADDY LONGLEGS>The darkness surrounds you and it is a terrible thing, but your “truth” has guided you.\! How much longer can you keep it?
+
+#END
+
+message_21:
+    text:  \n<DADDY LONGLEGS>You have reached the end of the \c[11]LOST FOREST\c[0]...<br>but the beginning of the truth.
+
+message_22:
+    text:  \n<DADDY LONGLEGS>I will tell you a story that has been lost through time...\!<br>a story about the creation of this reality.
+
+message_23:
+    text:  \n<DADDY LONGLEGS>In the beginning, there only existed two...\!<br>the DREAMER and his room.
+
+message_24:
+    text:  \n<DADDY LONGLEGS>The DREAMER grew weary of his room and created a door that led to many different worlds.
+
+message_25:
+    text:  \n<DADDY LONGLEGS>Walking the path as a visitor to these worlds, the DREAMER would come and go as he pleased.
+
+message_26:
+    text:  \n<DADDY LONGLEGS>Slips and falls, tumbles and drops...\! the DREAMER's curiosity and clumsy exploration eventually led him to a certain world.
+
+message_27:
+    text:  \n<DADDY LONGLEGS>One not like the others...\!<br>one painted with chaos and bathed in darkness.
+
+message_28:
+    text:  \n<DADDY LONGLEGS>The DREAMER slowly became filled with dread. \!Quiet as they may have been, words of malice quietly crept into his mind.\! Whispering lies, secrets, and truths.
+
+message_29:
+    text:  \n<DADDY LONGLEGS>Powerless to silence the noise, the DREAMER manifested benevolent entities in his different worlds...
+
+message_30:
+    text: \n<DADDY LONGLEGS>Then he compounded his worlds above the dark realm...\! sealing it with their combined might.
+
+message_31:
+    text:  \n<DADDY LONGLEGS>Yet despite his valiant efforts, the darkness's presence never abated.\! Even with new allies, the darkness continued to scrape and scratch at the back of the DREAMER's mind.
+
+message_32:
+    text: \n<DADDY LONGLEGS>The noise might have subsided, but it never went away.
+
+message_33:
+    text: \n<DADDY LONGLEGS>The DREAMER could run and bury away his fears, but one still has to face his own reflection.
+
+message_34:
+    text:  \n<DADDY LONGLEGS>What the DREAMER had created was something he could not be a part of, something outside himself.
+
+message_35:
+    text:  \n<DADDY LONGLEGS>The DREAMER's own power was his greatest adversary.\!<br>Knowledge... or the absence of it, would become the DREAMER's greatest gift.
+
+message_36:
+    text:  \n<DADDY LONGLEGS>To truly escape the perils of his own faculty and ascend to a blissful state of ignorance...\! Only then would the noise cease to agitate the DREAMER's sanity.
+
+message_37:
+    text:  \n<DADDY LONGLEGS>So...\! the DREAMER took on another name...\!<br>and chose to forget himself.
+
+message_38:
+    text:  \n<DADDY LONGLEGS>From that time on, the DREAMER has lived amongst us...<br>\!simply as an inhabitant of this world...\!<br>Traveling along blissfully, ignorant of his own fabrication.
+
+#leave
+
+message_39:
+    text:  \n<DADDY LONGLEGS>This journey is too arduous for those faint of heart.\! Do you wish to leave, children?\! I will not blame you.
+
+#message_39:
+#    text:  \n<DADDY LONGLEGS>Do you understand, children?
+    #YES/NO
+
+#message_40:
+#    text: \n<DADDY LONGLEGS>Good.\! Now, I will leave you with a warning.
+
+#message_41:
+#    text: \n<DADDY LONGLEGS>I'm sorry. As conflicted as I am, this tale was not meant to be repeated.\! Now, I will leave you with a warning.
+
+message_41:
+    text: \n<DADDY LONGLEGS>Children, I must warn you...
+
+message_42:
+    text:  \n<DADDY LONGLEGS>As with all things that are born in and out of this world, an end will threaten this one too.\! Though the DREAMER may have subdued the inexorable, the darkness grows still.
+
+message_43:
+    text:  \n<DADDY LONGLEGS>No bandage can stifle an eternal wound...\! and there will be a time when its influence will bleed through.<br><br>Forgetful the DREAMER may be of this peril, a peril never forgets to be.
+
+message_44:
+    text:  \n<DADDY LONGLEGS>Yet, the end of this world may be an inevitability.\! The DREAMER is the only one with the ability that can truly set this world free.
+
+message_50:
+    text: This lamp was lit recently.
+
+message_51:
+    text: An old stump.

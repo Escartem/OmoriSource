@@ -1,0 +1,58 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Perfectheart and Sweetheart (Post-Game)
+
+#Sweetheart: sweeping with maid outfit
+message_0:
+      text: \swh\Com[2]What are you four looking at!?
+
+message_1:
+      text: \n<PERFECTHEART>I'm teaching SWEETHEART how to do household chores!\!<br>She's learning...\! at her own pace...\! but she makes for such a cute maid, don't you think? Hoho!
+
+message_2:
+      text: UNUSED MESSAGE
+
+message_3:
+      text: \n<PERFECTHEART>Yes, yes! Isn't she just the cutest?
+
+message_4:
+      text:  \n<PERFECTHEART>Isn't that right, SWEEPHEART??\! OHOHOHO!
+
+message_5:
+      text: \n<SWEEPHEART>\Com[2]Hmph!
+
+#Talk again
+
+message_6:
+      text: \n<PERFECTHEART>What's this?\! Are you challenging me to a fight?\!<br>Oh...\! You don't want to do that...\! Are you sure about this?
+
+#[Nod/Shake 1]
+
+#[nod 1]
+message_7:
+      text: \n<PERFECTHEART>Oh...\! I see...\! I think it's fair to warn you that you might regret this decision...\! So...\! I'll ask again...\!<br>Are you sure you want to challenge me?
+
+#[Nod/Shake 2]
+
+#[nod 2]
+message_8:
+      text: \n<PERFECTHEART>Are you really, really sure?
+
+#Nod/Shake 3]
+message_9:
+      text: \n<PERFECTHEART>... \!<br>Alright, then...\! If that is what you wish.\!<br>I won't be holding back.
+
+#Shake
+message_10:
+      text: \n<PERFECTHEART>Yes...\! That would be the smarter choice.
+
+#Defeating Perfectheart
+message_11:
+      text: \n<IMPERFECTHEART>Hmmm...\! Congratulations.\! You win.\! I suppose this means that I am no longer perfect. \!Such a shame, really.
+
+#Submersible Karaoke
+
+message_12:
+      text: \spxh\Com[2]To all those lost lovers out there...\!<br>This one...\! is for you.

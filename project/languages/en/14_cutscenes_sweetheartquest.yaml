@@ -1,0 +1,457 @@
+# =========================================================================================
+# Cutscene: Basil is Still Missing
+# =========================================================================================
+
+#Trigger: Examine bed and choose to sleep.
+#OMORI is on the floor, and gets up. He is surrounded by KEL, AUBREY, and HERO.
+
+#HERO jumps.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: OMORI! Welcome back!\aub
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: See, HERO? I told you not to worry.\!<br>OMORI always shows up when we need him!\kel
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Is everything okay, OMORI?<br>We were worried about you...\aub
+
+#KEL walks towards staircase.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Now that you're here, let's go out and look for BASIL!\!<br>He's counting on us!\kel
+
+#AUBREY jumps.
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Be patient, KEL! <br>We have to make sure that OMORI is okay first!\aub
+
+#AUBREY has an idea.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Or maybe... You and HERO can go yourselves.\aub
+
+#AUBREY looks at OMORI.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Come on, OMORI! Let's go exploring together...\aub
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Just the two of us!\aub
+
+#KEL jumps.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Hey, you can't leave us out of this!\kel
+
+#HERO looks at AUBREY.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: He's right, AUBREY. We have to do this together as a team.\her
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: You never know when you'll need someone's help.\! <br>We're stronger when we work together!\her
+
+#AUBREY looks away.
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Hmph! OMORI and I will be fine on our own.\aub
+
+#AUBREY looks at OMORI.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: You'll protect me, won't you, OMORI?\aub
+
+#KEL looks at AUBREY.
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Eww... Gross... Get a room.\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Come on, AUBREY. It's time to get serious now.\!<br>Let's go tell MARI that OMORI is okay.\!<br>You know how she's always worrying about him...\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Okay, okay... Fine...\!<br>I was just trying to have a little fun...\aub
+
+
+# =========================================================================================
+# Cutscene: Sweetheart's Quest for Hearts
+# =========================================================================================
+
+#Trigger: Walk to Stump Entrance
+#A line of four SPROUT MOLES are walking toward PYREFLY FOREST.
+
+message_30:
+      text: Oh boy, oh boy!\! I've been waiting so long for this event!\!<br>It is a delightful day indeed!\n<SPROUT MOLE>
+
+message_31:
+      text: Oh yes, oh yes!\! At last, our glorious princess SWEETHEART will finally make her appearance!\n<SPROUT MOLE>
+
+message_32:
+      text: Oh my, oh my!\! I can hardly contain my excitement.\!<br>This show is sure to be the most electrifying of them all!\n<SPROUT MOLE>
+
+message_33:
+      text: Oh dear, oh dear!\! We must hurry!\! <br>Our four front row \c[4]SHOW TICKETS\c[0] are right here!\!<br>We are in for the time of our lives, and must not be late!\n<SPROUT MOLE>
+
+message_34:
+      text: Now... which way do we go again?\n<SPROUT MOLE>
+
+#Before Cutscene block
+message_43:
+      text: \n<SPROUT MOLE>Oh boy, oh boy!
+
+message_44:
+      text: \n<SPROUT MOLE>Oh yes, oh yes!
+
+message_45:
+      text: \n<SPROUT MOLE>Oh my, oh my!
+
+message_46:
+      text: \n<SPROUT MOLE>Oh dear, oh dear!
+
+#KEL is surprised and walks forward.
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Ahh! It's a horde of LOST SPROUT MOLES!\! \Com[2]Let's get em!\kel
+
+#[4 LOST SPROUT MOLES BATTLE]
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Hey, cool! These SPROUT MOLES dropped some tickets!\kel
+
+#AUBREY jumps.
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Let me see!\!<br>Oh, they're front row tickets for some kind of show... \aub
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Featuring...\! SWEETHEART?\aub
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Wasn't that CAPT. SPACEBOY's ex-girlfriend?\her
+
+#AUBREY looks at HERO.
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Yeah! It looks like some sort of contest or something!\aub
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: If we happen to pass by, we should stop and watch!\! <br>We do have front-row \c[4]SHOW TICKETS\c[0] after all!\aub
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Well...\! alright.\!<br>Maybe we can drop by if we happen to come across it.\her
+
+# =========================================================================================
+# Cutscene: Pyreflies Intro
+# =========================================================================================
+
+#Trigger: Enter Pyrefly Forest
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ugh...\! On second thought... Let's look for BASIL somewhere else.\! This place gives me the heebie-jeebies.\kel
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Don't be such a baby, KEL.\!<br>There are just some spider webs here and there!\aub
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \{\quake[1]AAAAAAAHH!!\!<br>THERE'S A SPIDER IN YOUR HAIR!!\kel\quake[0]
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \{\Com[2]W-WHAT? \Com[2]WHERE? \Com[2]GET IT OFF!!\aub\quake[0]
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Haha! Just kidding!<br>Look who's the scared one now!\kel
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Hmph! That's not very funny, KEL...\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest
+# =========================================================================================
+
+#Trigger: Walk in proximity of SWEETHEART stage.
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Wow, look at this huge stage!<br>It's just as amazing as I imagined!\aub
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Let's take our seats.<br>It looks like the show is about to start!\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#Trigger: Examine Front Row Seats.
+
+#Camera pans to stage.
+#Spot light moves around.
+#SMM walks onto the stage.
+
+message_100:
+      text: Ladies and gentlemoles...\!<br>Welcome to a special episode of...\!<br>\"SWEETHEART'S QUEST FOR HEARTS!\"\smm
+
+#Applause
+
+message_101:
+      text: Before our show, we wanted to take a moment to honor the life of someone who has been an inspiration to us all. \!<br>Our beloved leader, YE OLD SPROUT.\smm
+
+#The curtain opens and a portrait of YE OLD SPROUT is shown.
+
+message_102:
+      text: He was truly the father that none of us deserved.\! <br>Let us have a moment of silence in memory of him.\smm
+
+message_103:
+      text: ...\| ...\| ...\| ...\| ...  \smm
+
+message_104:
+      text: May he rest in peace.\smm
+
+#Curtains close.
+
+message_105:
+      text: \sinv[1]\{AND NOW...\. ON TO THE SHOW!!\smm
+
+#Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
+
+message_106:
+      text: Last time on \"SWEETHEART'S QUEST FOR HEARTS\"...\!<br>Our favorite princess...\! once again...\! failed to fall in love with any of our eligible bachelors!\smm
+
+message_107:
+      text: This time...\! we've rounded up three new very attractive contestants!\! Will one of them be able to capture SWEETHEART'S heart?\! Let's reveal them now!\smm
+
+#Contestant #1 comes out and makes a circle around the stage.
+
+message_108:
+      text: CONTESTANT \#1 is a local of SPROUT MOLE VILLAGE!\smm
+
+message_109:
+      text: He's coming in at three-feet tall!\! His favorite food is \c[3]TOFU\c[0]. He has a huge collection of plastic flamingos... and enjoys long walks through narrow tunnels!\smm
+
+message_110:
+      text: \Com[2]\{GIVE IT UP FOR CONTESTANT \#1!\smm
+
+#Applause.
+#Contestant #2 comes out and makes a circle around the stage.
+
+message_111:
+      text: CONTESTANT \#2 is... Yup, you guessed it!\! <br>Also a local of SPROUT MOLE VILLAGE!\smm
+
+message_112:
+      text: Careful! He's coming in hot at three-feet-and-one-whole-inch!\!<br>His hobbies include walking, running, and crawling!\smm
+
+message_113:
+      text: His favorite color combination is brown and green, and he spends his weekends rolling around in dirty laundry!<br>\!Mmm... spicy.\smm
+
+message_114:
+      text: \Com[2]\{GIVE IT UP FOR CONTESTANT \#2!\smm
+
+#Applause.
+
+message_115:
+      text: And now for something completely different!\smm
+
+#Contestant #3 comes out and makes a circle around the stage.
+
+message_116:
+      text: CONTESTANT \#3 comes all the way from \c[11]OTHERWORLD\c[0]!\smm
+
+message_117:
+      text: It's like he just fell out of the sky... literally!\!<br>According to him and us, that makes him a catch.\! <br>Give it up for SNALEY!\smm
+
+#Scattered applause.
+
+message_118:
+      text: And now...\! it's the moment you've all been waiting for...\smm
+
+message_119:
+      text: \{\sinv[1]DIM THE LIGHTS, PLEASE!!\smm
+
+#Lights dim.
+
+message_120:
+      text: \sinv[1]She emits...\| beauty... \|She exudes...\| grace...\|<br>She truly has...\| the most pulchritudinous face...\smm
+
+message_121:
+      text: Yes!\! You know who we're talking about!<br>\!She's all that is amazing and wonderful, and she is just about to set foot on this very stage!\smm
+
+message_122:
+      text: Please...\! Give a big, warm welcome to...<br>\!the one... \!the only... \!the magnificent...\smm
+
+message_123:
+      text: \{\{\{\Com[2]SWEETHEA-\smm
+
+#Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
+#There is a blackout.
+
+#Screen goes black and re-centers around party.
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, no! There's a blackout!\!<br>Now what do we do? I have to know what happens next!\aub
+
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Let's wait it out... I'm sure the SPROUT MOLES will get the power back on in no time!\her
+
+#Camera pans to area side of stage..
+#SPROUT MOLE runs in.
+
+message_126:
+      text: Help! We don't know what to do!\n<SPROUT MOLE>
+
+#SPROUT MOLE runs in from the other side.
+
+message_127:
+      text: Help! We don't know what to do either!\n<SPROUT MOLE>
+
+#SPROUT MOLE jumps.
+
+message_128:
+      text: Help!\n<SPROUT MOLE>
+
+#Other SPROUT MOLE jumps.
+
+message_129:
+      text: \{Help!!\n<SPROUT MOLE>
+
+#SPROUT MOLE jumps.
+
+message_130:
+      text: \Com[2]\{\{HELP!!!\n<SPROUT MOLE>
+
+#Other SPROUT MOLE jumps.
+
+message_131:
+      text: \Com[2]\{\{\{HELP!!!!\n<SPROUT MOLE>
+
+#Both SPROUT MOLE jump.
+
+message_132:
+      text: \quake[1]\{HHEE\{\Com[2]LLLLPPPPP\Com[2]\{PPPPPP!!!!!\quake[0]\n<SPROUT MOLE>
+
+#Camera pans to party.
+
+message_133:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\! Well...\! Maybe we should look around just in case.\her
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#     - Upon exiting SW Stage:
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Wow... I guess the blackout affected all of \c[11]SPROUT MOLE VILLAGE\c[0] too!\her
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: HERO, what do we do now?\aub
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Don't worry, AUBREY. This is where my handyman expertise comes into play!\! In cases like this, we should probably be looking for...\! some kind of back-up generator!\her
+
+#    - There's a room full of treadmills in bottom floor. Map 166
+
+message_153:
+      text: \n<WARDEN MOLE>Pick, up the pace, boys! We must make haste!
+
+message_154:
+      text: \n<SPROUT MOLE>We're trying our best, warden!
+
+message_155:
+      text: \n<SPROUT MOLE>This is as fast as we can go!
+
+message_156:
+      text: \n<SPROUT MOLE>Why isn't this working!? I feel sick.
+
+message_157:
+      text: \n<SPROUT MOLE>Just keep running, moles!\! Nothing gets done without a little sweat!
+
+message_158:
+      text: This wire isn't plugged into the outlet.\! Plug it in?
+
+#YES/NO
+
+message_159:
+      text: \n<WARDEN MOLE>\Com[2]What'd I say, moles? Hard work pays off!<br>\!Now keep on running!
+
+message_160:
+      text: \n<SPROUT MOLE>Huff... huff... huff... huff...
+
+message_161:
+      text: \n<WARDEN MOLE>Faster, men!\! We must push ourselves to the limit and strive for a brighter tomorrow!
+
+message_162:
+      text: A very large, happy outlet.

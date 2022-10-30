@@ -1,0 +1,312 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 2 - SUNSET
+#=========================================================================================
+
+
+#=========================BASIL==============================
+
+#Location: BASIL'S ROOM IN BED
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 12
+      text: \n<BASIL>\}Oh, \n[8]...\! There's...\! no way out of this...\! is there?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelPoor BASIL's been through so much these past few days...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herBASIL... You must be tired.\! Please get some rest... <br>We'll come back for you tomorrow.
+
+#=========================ANGEL==============================
+
+#Location: Angel's Bedroom
+
+#ADD FWAAAAA
+message_10:
+      text: \n<ANGEL>\Com[2]\sinv[1]\{\{AHHHHH!! INTRUDERS!!
+
+message_11:
+      text: \n<ANGEL>Oh... It's just you guys.
+
+message_15:
+      text: \n<ANGEL>Hey, wait a sec!\! \SINV[2]Fufufu...\!\SINV[0]<br>Now is the perfect time to challenge you two to a rematch!\!<br>\Com[2]Ready or not, here I come!
+
+#[Battle: Angel]
+
+#player win
+message_12:
+      text: \n<ANGEL>Hmph...\! little did you know, I was using this fight to study your strengths and weaknesses...\! The next time we fight, victory won't come so easy!
+
+#player lose
+message_13:
+      text: \n<ANGEL>Hmph...\! I can tell you're going easy on me, ya know...\!<br>I may be a kid, but I'm not stupid!
+
+#=========================CHARLIE==============================
+
+#Location: Charlie's Bedroom
+
+#Charlie explanation mark
+
+message_20:
+      text: \n<CHARLENE>\}...\! Hello...\! My name is...\! CHARLENE...
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel\com[2]CHARLENE?\! I thought your name was CHARLIE this whole time!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHiya, CHARLENE!\! I'm KEL... and this is \n[8] and HERO!
+
+message_23:
+      text: \n<CHARLENE>\}...\! Hello...\! everyone...\! Hehe...
+
+
+#=========================KIM==============================
+
+#Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
+
+message_30:
+      text: \n<KIM>\}AUBREY...\! Why won't you tell me what's wrong?
+
+message_31:
+      text: \n<KIM>\Com[2]Ah!\! Grumble... grumble...\!<br>Ugh... It's just you two...\! What makes you think you can barge into people's rooms like this!?
+
+message_32:
+      text: \n<KIM>You must've made friends with my mom, huh?\!<br>She lets in anyone who listens to her talk...
+
+#====================THE MAVERICK==============================
+
+#Location: The Maverick's Bedroom
+
+message_40:
+      text: \n<THE MAVERICK>I am sensing an evil presence coming from inside my home...\! Maybe I'm overthinking it...\! But I can never be too careful...
+
+message_41:
+      text: \n<THE MAVERICK>Sigh...\! My brother and sister are a real drag, aren't they?\! Everyone here is the same!
+
+message_42:
+      text: \n<THE MAVERICK>Ah... So you have conquered the great evil.\!<br>What did it cost you?\! I can still see the pain in your eyes.
+
+
+#====================VANCE==============================
+
+#Location: Vance's Bedroom (Mom's House)
+
+message_50:
+      text: \n<VANCE>Munch...\! Munch...\! Munch...
+
+message_51:
+      text: \n<VANCE>Oh, hey.\! What's up?
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHuh? You're so calm...\! Aren't you going to challenge us to a fight or something?
+
+message_53:
+      text: \n<VANCE>Hmm...\! No, I don't really have beef with any of you.\!<br>Me and KIM just always do the same stuff together.
+
+message_54:
+      text: \n<VANCE>I'm only one year older than her, but no one believes me because of my beard...
+
+message_55:
+      text: \n<VANCE>She's a lot of talk, but she's got a big heart.\!<br>And me?\! I got some big muscles.
+
+#====================ARTIST==============================
+
+#Location: Artist's house
+
+message_60:
+      text: \n<ARTIST>I'm drafting out my next painting, but I'm not sure where to start...\! It's so hard to come up with good ideas! I should just quit art and become a zookeeper or something.
+
+#====================SHORT HAIR GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_70:
+      text: \n<SHORT HAIR GIRL>I'm thinking of writing my crush a letter to tell him how I feel...
+
+#====================FASHIONABLE MOM==============================
+
+#Location: SHORT HAIR GIRL's House (Pick up furniture quest)
+
+message_80:
+      text: \n<FASHIONABLE MOM>My COFFEE MACHINE is right in the kitchen.<br>\!Careful...\! It's pretty strong!
+
+#====================INTIMIDATING GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_90:
+      text: \n<INTIMIDATING GIRL>I just came back from college today.\!<br>I miss the city already! It's just way too quiet here.
+
+#====================SCHOOL PRINCIPAL==============================
+
+#Location: Hardware Store looking at flowers
+
+message_100:
+      text: \n<SCHOOL PRINCIPAL>Sometimes I come here to look at the flowers.\!<br>I'm thinking of getting a few for the house, but I heard that some plants attract ants...
+
+message_101:
+      text: \n<SCHOOL PRINCIPAL>Ants are the bane of my existence...\!<br>The last thing I want are ants crawling around my house!
+
+#====================OLD BEARDY==============================
+
+#Location: Graveyard (Lost dentures quest)
+
+message_110:
+      text: \n<OLD BEARDY>\QUAKE[1]Hewp!\! Mah teef are gawn!!\! Can ye' ‘pind dem!?\QUAKE[0]
+
+#After finding teeth:
+
+message_112:
+      text: \n<OLD BEARDY>Thanks, fellas.\!<br>Sometimes the ghosts around here like to play tricks on me!
+
+message_113:
+      text: \n<OLD BEARDY>They don't mean any harm...\!<br>My old eyes just aren't what they used to be...
+
+#====================CRIS'S MOM==============================
+
+#Location: Supermarket
+
+message_120:
+      text: \n<ALL-AMERICAN MOM>\SINV[1]La-di-dee!\! La-di-da!\! La-di-dee!\! La-di-da!\SINV[0]
+
+#====================CURTSEY==============================
+
+#Location: Pharmacy
+
+message_130:
+      text: \n<CUTE GIRL>MISS CANDICE told me to buy some painkillers for her headache.\! Apparently a lot of kids around here like to steal \c[3]CANDY\c[0]...
+
+message_131:
+      text: \n<CUTE GIRL>They must be so brave.\! MISS CANDICE is really scary when she's angry...
+
+#====================KAREN==============================
+
+#Location: Supermarket
+
+message_140:
+      text: \n<PIGTAILS LADY>Hmmm... I've never cooked for a whole party before...\!<br>Maybe I was too ambitious this time around...
+
+message_141:
+      text: \n<PIGTAILS LADY>Should I get something that is better quality or something with more quantity?\! How do I know which brand I should choose?
+
+message_142:
+      text: \n<PIGTAILS LADY>Are green onions and red onions the same thing?
+
+message_143:
+      text: \n<PIGTAILS LADY>Sigh...\! Maybe we should've just gotten delivery.
+
+message_144:
+      text: \n<CHECKERS GUY>Hey, no need to stress about this, KAREN. I believe in you!\! Besides... if no one else eats your food...<br>you know at least I will!
+
+message_145:
+      text: \n<PIGTAILS LADY>Oh, SEAN... You're so sweet.<br>What did I ever do to deserve someone like you?
+
+#====================KEL'S DAD==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room watching TV
+
+message_150:
+      text: \n<KEL'S DAD>I offered to help your mom cook dinner for tonight, but you know how she is in the kitchen...
+
+#After Cutscene: Kel's Mom
+#Location: Kel's Dining Room
+
+message_151:
+      text: \n<KEL'S DAD>Make sure to tell her how good her food tastes!
+
+#After Cutscene: Convincing Kel's Mom:
+#Location: Kel's Living Room
+
+message_152:
+      text: \n<KEL'S DAD>Don't fret about your mom too much, HERO.<br>She just misses you, that's all!\!<br>She'll feel better after she calms down...
+
+message_153:
+      text: \n<KEL'S DAD>You guys go off and do your thing!<br>I'll make sure she's okay.
+
+#KEL'S DAD leaves to KEL'S PARENT'S ROOM.
+#Examine KEL'S PARENT'S ROOM.
+
+message_154:
+      text: The door is locked.
+
+#====================KEL'S MOM==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room
+
+message_160:
+      text: \n<KEL'S MOM>Okay, you can go...\! Just make sure to be home by dinner!
+
+message_161:
+      text: \n<KEL'S MOM>
+
+#====================Kim and Vance's Mom==============================
+
+#Location: Kim's House
+
+
+message_171:
+      text: \n<RED-GLASSES LADY>My son and daughter were supposed to be home by now! What's so important that they would miss out on hanging out with their mom!?
+
+
+
+#====================Polly==============================
+
+#Location: Basil's House
+message_180:
+      text: \n<POLLY>I notice that BASIL likes to go to the park a lot, but he wasn't there when I checked...
+
+message_181:
+      text: \n<POLLY>His grandma isn't doing very well...\!<br>I was trying to calm him down, but as I was talking, he started shaking and ran off...\! Sigh...\! I hope he is okay...
+
+#====================SARAH==============================
+
+#Location: Sarah's House
+
+message_190:
+      text: \n<PONYTAIL GIRL>Mom and Dad haven't come home yet.\!<br>It's getting late... Where could they be?
+
+#talk again
+
+message_191:
+      text: \n<PONYTAIL GIRL>I'm trying to eat healthy, but we're out of ranch sauce...\!<br>How am I going to eat my carrots and celery now?
+
+message_192:
+      text: \n<PONYTAIL GIRL>Love is gross...
+
+#====================SARAH'S DAD==============================
+
+#Location: Candy Shop (Anniversary chocolate quest)
+
+message_200:
+      text: \n<CLUMSY GUY>\sinv[1]You're so beautiful right now that I could kiss you!\sinv[0]
+
+#====================SARAH'S MOM=============================
+
+#Location: Gino's Pizza (Anniversary Pizza quest)
+
+message_210:
+      text: \n<PONYTAIL LADY>Oh my, dear! You're making me blush...\!<br>I'll remember this anniversary forever!
+
+#====================SEAN=============================
+
+#Location: Supermarket
+#ref 140 - 145

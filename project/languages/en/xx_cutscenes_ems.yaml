@@ -1,0 +1,126 @@
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text:  It's no good. I can't even dent this thing!\aub
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmmm...\! Hold on a sec...\her
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: This is cheese, isn't it?\her
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Whoa, you're right!\! It is cheese!\kel
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Okay, guys.\! Hear me out.\! This might sound crazy but...<br>What if...\! we eat the cheese.\kel
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: If we all start now...\!<br>We can probably finish this in a couple of hours or so!\kel
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Just a warning, though. Cheese gets me kind of gassy...\kel
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\Com[2]EWWWWW, KEL!\aub\}
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: H-Hold up, KEL. There's no need for that.\her
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: I think I may have the perfect solution!\her
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: TAG me, OMORI.\!<br>I know just how to handle this.\her
+
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill (Cont.)
+# =========================================================================================
+
+#Trigger: Tag HERO and examine Cheese.
+
+# EMS spirals down from the sky
+
+message_50:
+      text: \}Hello, friends!\! It's me... EMS, the humble hungry hamster!\ems
+
+#EMS looks around.
+
+message_51:
+      text: \}Oh wow, is this all for me? What a treat!\!<br>How did you know that cheese is my favorite?\ems
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: I don't have to guess, EMS!\!<br>Everything is your favorite.\her
+
+#HERO turns to party.
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Everyone, this is EMS!\! She's a good friend of mine.\her
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: You know what to do, EMS!\her
+
+message_55:
+      text: \}I sure do!\! \Com[2]Be done in a jiffy!\ems
+
+#EMS begins to devour the cheese.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Whoa...\kel
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: How does all of that even fit in her body?\aub
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: I try not to think about it.\her
+
+message_59:
+      text: The cheese has been eaten, and the path has been cleared.
+
+message_60:
+      text: \}Well now, that was incredibly satisfying!\ems
+
+message_61:
+      text: \}If you're ever in need of any giant cheese-eating services again, you know who to call!\ems
+
+message_62:
+      text: \}Goodbye, friends!\ems
+
+#EMS spirals into the sky.

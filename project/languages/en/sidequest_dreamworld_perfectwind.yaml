@@ -1,0 +1,36 @@
+
+# =========================================================================================
+# PERFECT WIND
+# ========================================================================================
+
+message_0:
+    text: A boy stares at his kite in deep concentration.\!<br>Do you want to disturb him?
+
+message_1:
+    text: \kitI'm just a boy with his kite.\! <br>We may not look like much, but we have an unbeatable bond.\!<br>It's not something just anyone would understand.
+
+message_2:
+    text: \kitWe'll show you how strong we are when we work together!
+
+message_3:
+    text: \kitSigh... I knew it.\! We can't perform at our full potential without the perfect weather conditions.
+
+# KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
+
+message_4:
+    text: \kitThe wind feels weaker today...\!<br>Maybe there's something wrong with one of the pinwheels.
+
+# KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
+
+message_5:
+    text: \kitMaybe me and my kite should try to fly somewhere else...
+
+# TAG DIALOGUE
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelHuh?\! How did that get up there?
+
+message_7:
+    text: This pinwheel doesn't seem to be working.\!<br>If only someone were able to throw something at it...

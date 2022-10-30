@@ -1,0 +1,126 @@
+ # ===========================================
+ # Menu scenes and translations
+ # ===========================================
+
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'TAG', 'STAB']
+      - EQUIP
+      - POCKET
+      - SKILLS
+      - OPTIONS
+    status:
+      tag: TAG WHO?
+      select: SELECT WHO?
+
+  equipMenu:
+    weapon: WEAPON
+    charm: CHARM
+    replace: REPLACE WITH?
+
+  skillMenu:
+    skills: SKILLS
+    replace: REPLACE WITH?
+    DoWhat: DO WHAT?
+    use: USE
+    swap: SWAP
+    useon: USE ON WHO?
+
+  pocketMenu:
+    consumables: CONSUMABLES
+    toys: TOYS
+    important: IMPORTANT
+    trash: TRASH
+    use: USE
+    sure: ARE YOU SURE?
+    useon: USE ON WHO?
+
+  optionsMenu:
+    general:
+      screenResolution:
+        text: SCREEN RESOLUTION
+        options: ['X1', 'X2', X3, X4]
+        help: Change the resolution of the screen.
+        spacing: 80
+
+      fullScreen:
+        text: FULLSCREEN
+        options: ['ON', 'OFF']
+        help: Make the game fullscreen.
+        boolIndex: true
+        spacing: 80
+
+      commandRemember:
+        text: REMEMBER SELECTED COMMANDS
+        options: ['ON', 'OFF']
+        help: Remember selected commands in battle.
+        boolIndex: true
+        spacing: 80
+
+      battleAnimations:
+        text: BATTLE ANIMATIONS
+        options: ['ON', 'OFF']
+        help: HELP TEXT
+        boolIndex: true
+        spacing: 80
+
+      battleAnimationSpeed:
+        text: BATTLE ANIMATION SPEED
+        options: ['NORMAL', 'FAST', 'FASTER', 'FASTEST']
+        help: HELP TEXT
+        spacing: 130
+
+      battleLogSpeed:
+        text: BATTLELOG SPEED
+        options: ['NORMAL', 'AUTO']
+        help: HELP TEXT
+        spacing: 130
+
+      alwaysDash:
+        text: CHARACTER MOVEMENT
+        options: ['DASH', 'WALK']
+        help: HELP TEXT
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: BGM VOLUME
+        help: Change the volume of the background music.
+
+      bgsVolume:
+        text: BGS VOLUME
+        help: Change the volume of the background sounds.
+
+      meVolume:
+        text: ME VOLUME
+        help: Change the volume of the musical effects.
+
+      seVolume:
+        text: SE VOLUME
+        help: Change the volume of the sound effects.
+
+    controls:
+      keyboardHeader: KEYBOARD
+      gamepadHeader: GAMEPAD
+      pressKeyPrompt: PRESS A KEY
+      resetAll: RESET ALL
+      help: Press a key to change the input.
+      inputNames:
+        up: UP (↑)
+        down: DOWN (↓)
+        left: LEFT (←)
+        right: RIGHT (→)
+        ok: CONFIRM
+        escape: CANCEL
+        shift: RUN
+        tag: TAG
+        tab: STRAFE
+        pageup: LB
+        pagedown: RB
+
+    system:
+      load:
+        text: LOAD SAVE FILE
+        help: Load a save file.

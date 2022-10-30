@@ -1,0 +1,81 @@
+
+# =========================================================================================
+# Sidequest: Picking Paint
+# =========================================================================================
+
+#Talk to Sean or Karen:
+
+message_1:
+      text: \n<PIGTAILS LADY>After all this time, we've finally moved in together!\!<br>This is so exciting, isn't it, SEAN?
+
+message_2:
+      text: \n<CHECKERS GUY>Yeah...\! This is the start of the rest of our lives!
+
+message_3:
+      text: \n<CHECKERS GUY>Now it's time to make our first important decision...\!<br>What color should we paint our house's walls?
+
+message_4:
+      text: \n<PIGTAILS LADY>Hmm...\! I think anything would work!\! I like all of the colors!\!<br>What do you think, SEAN?
+
+message_5:
+      text: \n<CHECKERS GUY>I could go any way too...\! Don't worry about me!\!<br>You can choose, KAREN!\! What color would you like?
+
+message_6:
+      text: \n<PIGTAILS LADY>Oh, SEAN!\! You're too selfless!\! I don't need to pick a wall color!\! I'll be happy with anything as long as I'm with you!
+
+message_7:
+      text: \n<CHECKERS GUY>...\! KAREN...\!<br>If we keep doing this, we're going to be stuck here forever...
+
+message_8:
+      text: \n<PIGTAILS LADY>Hmm...\! You're right...\!<br>What if we just close our eyes and pick a color?
+
+message_9:
+      text: \n<CHECKERS GUY>Oh, that works!\!<br>That way, the result will be completely impartial!\!<br>Let's do it!
+
+message_10:
+      text: \n<PIGTAILS LADY>Okay, sounds good!
+
+message_11:
+      text: \n<CHECKERS GUY>Close your eyes, KAREN...
+
+message_12:
+      text: \n<PIGTAILS LADY>W-Wait!\! Hold on!\! It's okay!\!<br>You should be the one to do it, SEAN...\! I insist!
+
+message_13:
+      text: \n<CHECKERS GUY>No, KAREN...\! It should definitely be you!\!<br>What if I pick a color you don't like?
+
+message_14:
+      text: \n<CHECKERS GUY>...
+
+message_15:
+      text: \n<PIGTAILS LADY>Oh...\! We're not getting anything done here, are we?\! Hehe...
+
+message_16:
+      text: \n<PIGTAILS LADY>I have an idea!\! Let's get a stranger to help us!
+
+message_17:
+      text: \n<PIGTAILS LADY>Hey, you!\! Could you help us out for a second?\!<br>Please come here and pick a color sample...\!<br>Just make sure it's completely random!
+
+message_18:
+      text: You closed your eyes.
+
+message_19:
+      text: You picked up a floral wallpaper sample.
+
+message_20:
+      text: \n<CHECKERS GUY>Huh?\! What's this wallpaper doing here in the paint section?\!<br>Hmmm...\! It must have gotten misplaced...
+
+message_21:
+      text: \n<CHECKERS GUY>Well...\! It's not really what I was expecting, but I'm kind of digging it...\! What do you think, KAREN?
+
+message_22:
+      text: \n<PIGTAILS LADY>A wallpaper seems neat!\!<br>I think this works just fine!\! Let's do it!
+
+message_23:
+      text: \n<PIGTAILS LADY>Thank you so much for your help!\!<br>We're both from around the area, but we just moved in together into a brand new house recently...
+
+message_24:
+      text: \n<PIGTAILS LADY>It's the one with the yellow roof on the street near the \c[11]CHURCH\c[0]!
+
+message_25:
+      text: \n<PIGTAILS LADY>We're thinking of having a housewarming party two days from now.\! It would be amazing if you could join!

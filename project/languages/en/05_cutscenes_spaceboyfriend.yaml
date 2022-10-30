@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Halt, Children!
+# =========================================================================================
+
+#Trigger: Go up to Space boyfriends house
+
+message_0:
+      text: \Com[2]Halt, children!\!<br>You are now entering the vicinity of...\spg
+
+message_1:
+      text: The captain of the SPACE PIRATES...\!<br>The master of the SOLAR SYSTEM...\!<br>The prince of the universe...\spg
+
+message_2:
+      text: The one-and-only CAPT. SPACEB-\! I mean...\! Err...\!<br>You are entering the house of... \!SPACE...\! BOYFRIEND.\spg
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Whoa, the captain of the SPACE PIRATES lives here?\!<br>\{THAT'S AWESOME!!\}\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: I wanna be a SPACE PIRATE too!\kel
+
+message_5:
+      text: Yeah, well...\! So did I...\! once.\spg
+
+message_6:
+      text: SPACE BOYFRIEND doesn't do much these days, so most of the SPACE PIRATES got fed up and left with the main ship.\spg
+
+message_7:
+      text: It's just us stragglers here doing all of SPACE BOYFRIEND's chores and whatever.\spg
+
+message_8:
+      text: Yesterday, me and the guys spent the day cleaning and throwing away all of his trash.\spg
+
+message_9:
+      text: Sigh...\! I didn't leave my old job for this...\!<br>I ain't no babysitter!\spg
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Awww, I'm sorry... That sounds awful.\!<br>Maybe we can talk some sense into him.\aub
+
+message_11:
+      text: Oh, I wouldn't do that if I were you.\! CAPT. SPACEBO-<br>I mean...\! SPACE BOYFRIEND's got two sides to him, you see.\spg
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: We should at least try!\! You never know...\!<br>He might know something about how to find BASIL!\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Or maybe he knows where to find my pet rock, \c[13]HECTOR\c[0]!\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Yeah s-sure, that too.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: What are we waiting for? Let's go see him already!\kel
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Sorry about your job, sir.\aub
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: It'll get better soon, I promise!\aub
+
+message_18:
+      text: Sigh...\! Thank you, little lady.\! I sure hope so.\spg
+
+# =========================================================================================
+# Cutscene: Blackletter here
+# =========================================================================================
+
+#message_40:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \fn<OMORI_GAME>Whoa...\! Anyone feel that?\her
+
+#message_41:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 28
+#      text: Yeah...\! My head was all fuzzy for a second...<br>There must be a MISSING LETTER somewhere in here!\kel
+
+# =========================================================================================
+# Cutscene: Space boyfriend is sick
+# =========================================================================================
+
+#Trigger: Talk to Space boyfriend in bed
+
+
+message_51:
+      text: Cough...\! Cough, cough...\sbf
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Uh-oh...\! CAPT. SPACE-\!<br>I mean, SPACE BOYFRIEND doesn't look so good.\her
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Don't worry, I'll handle this!\kel
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{\{HEY, \Com[2]SPACE BOYFRIEND!!\kel
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\{WAKE UP!!!\kel
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: KEL!\her
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: What?\kel
+
+message_58:
+      text: \}\quake[1]Cough...\! Ughhh...\! Cough, cough...\! Sigh...\!<br>My... Precious...\! SWEETHEART...\sbf\quake[0]
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Aww... He sounds so sad.\!<br>There must be some way to help him.\aub
+
+message_60:
+      text: \}\quake[1]Cough, cough...\! Cough...\! Oh, my SWEETHEART...\!<br>Where have you run off to now?\sbf\quake[0]
+
+#SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
+
+message_61:
+      text: Oh no... Not again...\!<br>SPACE BOYFRIEND's feeling the heavy blues.\spg
+
+message_62:
+      text: Here, my guy. This'll cheer you right up.\spg
+
+#SPACE PIRATE GUY walks to the CASSETTE PLAYER.
+#SPACE PIRATE GUY is surprised and confused.
+
+message_63:
+      text: Huh?\! Why isn't anything playing?\spg
+
+#SPACE PIRATE GUY starts sweating.
+
+message_64:
+      text: Oh no...\! The boombox...\! It's empty!\!<br>He's never gonna wake up now!\! Or even worse...\! <br>He's gonna wake up... angry.\spg
+
+message_65:
+      text: Oh, man... Oh, man...\!<br>Where could that \c[4]SPECIAL MIXTAPE\c[0] be?\spg
+
+#SPACE PIRATE guy has an idea.
+
+message_66:
+      text: Someone must have thrown away his \c[4]SPECIAL MIXTAPE\c[0] when we were cleaning!\spg
+
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: What's the big deal? It's just a cassette, right?\kel
+
+message_68:
+      text: Well, you see...\! Whenever SPACE BOYFRIEND is away from SWEETHEART, he gets really sad and lies in bed all day.\spg
+
+message_69:
+      text: The only way to snap him out of it is by playing his \c[4]SPECIAL MIXTAPE\c[0].\! There's only one in the universe like it.\spg
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, I see...\! SPACE BOYFRIEND isn't sick...\!<br>He's... lovesick...\aub
+
+message_71:
+      text: Sigh...\! If SPACE BOYFRIEND stays like this, the once-great coalition of SPACE PIRATES will be lost for eternity...\spg
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Oh...\! man...\! That sucks.\kel
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Well... let's go!\kel
+
+#KEL attempts to leave.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Wait! Where are you going? We should help him out!\!<br>You should know that it really sucks to lose something important to you.\aub
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Don't you dare bring \c[13]HECTOR\c[0] into this!\kel
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: I'm talking about when you stole my \c[13]STUFFED TOY!\c[0]\aub
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Huh?\! I don't remember anything like that.\kel
+
+message_78:
+      text: There's a \c[11]JUNKYARD\c[0] not far from here, but that place is huge!\! It'll be pretty tough to find anything in there.\spg
+
+message_79:
+      text: \Com[2]Cough, cough!\sbf
+
+#Everyone turns to the bed
+
+message_80:
+      text: \quake[1]\}Oh... SWEETHEART...\! My perfect goddess...\sbf\quake[0]
+
+message_81:
+      text: \quake[1]\}Cough...\! My sweet...\! jelly-filled... donut...\sbf\quake[0]
+
+#AUBREY looks at Space Boyfriend.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: I think he's getting worse...\aub
+
+#HERO looks at Aubrey.
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: What should we do, OMORI? Should we help him?\aub
+
+#[Nod (Yes) / Shake (No)]
+
+message_84:
+      text: Thanks, my guys... I really appreciate it.\!<br>Here, take this.\spg
+
+message_85:
+      text: You got \c[4]JUNKYARD KEY\c[0].
+
+message_86:
+      text: This key unlocks the \c[11]JUNKYARD\c[0].<br>\!The \c[4]SPECIAL MIXTAPE\c[0] should be somewhere in there.\spg
+
+message_87:
+      text: You can get there through this secret entrance to SPACE BOYFRIEND's backyard.\! Pretty convenient, eh?\spg
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubOh, please \n[1]! I think he really needs our help. \!If you were sick in bed, you'd want someone to help you too, right?
+
+message_89:
+      text: I hope the CAPTAIN feels better soon...\spg
+
+
+# =========================================================================================
+# Cutscene: Missing Pluto
+# =========================================================================================
+
+
+message_110:
+      text: Sigh...\! We've really done it now, dude...\spd
+
+message_111:
+      text: I hope the CAPTAIN won't be too mad when we tell him his favorite planet is missing.\! You know how he gets when he's angry.\spd
+
+message_112:
+      text: Buddy, you're not supposed to call him CAPTAIN anymore.\!<br>You have to call him SPACE BOYFRIEND, remember?\spb
+
+message_113:
+      text: Oh yeah, that's right...\spd
+
+message_114:
+      text: Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+
+message_115:
+      text: You know, dude...\! Sometimes I wonder if we're even SPACE PIRATES anymore.\spd
+
+message_116:
+      text: Ever since that SWEETHEART came along, we haven't done anything cool!\! We should just quit and get real jobs.\spd
+
+message_117:
+      text: Don't talk nonsense, buddy!\!<br>What is life for us if not the SPACE PIRATE life?\spb
+
+message_118:
+      text: I'm sure the CAPTAIN will come to his senses one day and we'll all fly again.\! We just have to believe in him!\spb
+
+message_119:
+      text: Sigh...\! Thanks, dude.\! You're always there when I need you.\spd
+
+# =========================================================================================
+# Cutscene: Pluto Behind a Tree
+# =========================================================================================
+
+#BEFORE BATTLE
+
+message_130:
+    text: This guy looks pretty intimidating...\!<br>Do you want to disturb him?
+
+#BEFORE BATTLE
+
+message_131:
+    text: \who...\! Hm.\! Not bad.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_150:
+      text: \quake[1]\}Cough...\! cough...\sbf\quake[0]
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Hold on, OMORI!\! We should check up on CAPT. SPACE-\!<br>I mean, SPACE BOYFRIEND first.\aub
+
+message_161:
+      text: You used the \c[4]JUNKYARD KEY\c[0].

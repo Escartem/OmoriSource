@@ -1,0 +1,713 @@
+
+# =========================================================================================
+# SOMETHING BATTLE
+# ========================================================================================
+
+message_100:
+      text: You feel like your life is in danger.
+
+message_101:
+      text: You got a \c[4]LIGHT BULB\c[0].
+
+# =========================================================================================
+# THE LIGHT
+# ========================================================================================
+
+message_110:
+      text: \n<???>Your acknowledgement of the truth has come at a great cost...\! but it is not too late for redemption.\! Fortunately...\! you still know the way back home.
+
+# =========================================================================================
+# CHILDHOOD HOME
+# ========================================================================================
+
+message_120:
+      text: You can't leave without your \c[4]VIOLIN\c[0].
+
+message_122:
+      text: A phone that MOM made me put in my room.\!<br>Behind it is a detailed schedule.\!<br>MARI always has everything planned out.
+
+#Player's Room
+
+message_123:
+      text: Baskets full of baby toys.\! I haven't gotten around to throwing them away yet.
+
+
+message_124:
+      text: A regular houseplant.\! Nothing special about it.
+
+
+message_125:
+      text: A wardrobe meant for clothing...<br>but these days, its mostly full of old toys and candy.
+
+
+message_126:
+      text: A table lamp.\! MARI has trouble sleeping, so she reads books before bed.\! I often turn off this light for her after she falls asleep.
+
+
+message_127:
+      text: DAD's old computer.\! He gave it to us when he bought himself a brand new laptop for work.
+
+
+message_128:
+      text: Mine and MARI's school books.\!<br>MARI has been coming home late because of cram school.\!<br>She must be tired...
+
+
+message_129:
+      text: A very, very comfortable bed...\!<br>It used to be MARI's, but she switched with me when she noticed I had trouble sleeping.
+
+
+message_130:
+      text: MARI's bed...\! And mine too when I had nightmares.
+
+
+message_444:
+      text: MARI's clothes.\! They smell like clean laundry.
+
+
+#piano Room
+
+message_131:
+      text: One of two old grandfather clocks.\! This one always seems to be running ahead.
+
+
+message_132:
+      text: One of two old grandfather clocks.\! This one always seems to be running behind.
+
+
+message_134:
+      text: A grand piano.\!<br>The word "OMORI" is etched across the center.
+
+
+message_135:
+      text: MARI's collection of sheet music books.<br><br><br>Despite MARI being organized everywhere else, these music books are a mess.\! There's hastily-written notes on almost every page.
+
+
+message_136:
+      text: MOM and DAD's collection of vacation souvenirs.\! I never liked vacations, but...\! looking back... it wasn't so bad.
+
+
+message_137:
+      text: Books that MOM and DAD have collected over the years.\!<br>All they do is gather dust.
+
+#closet
+
+message_138:
+      text: A locked toy box.\! Do you want to open it?
+#Yes/No
+
+#kitchen
+
+message_139:
+      text: A cutting board.\! MARI accidentally cut her finger here.\! It was the first time I saw her cry.
+
+message_140:
+      text: A fridge.\! It's full of MOM's cooking and DAD's leftovers...
+
+message_141:
+      text: An old toaster.\! MOM says that it's even older than me.
+
+message_142:
+      text: A microwave.\! I've enjoyed many good meals with this.
+
+message_143:
+      text: An unfinished cup of coffee.\!<br>MOM leaves these around whenever she's stressed.
+
+message_144:
+      text: Some dirty laundry.\!<br>MARI always asks me to fold laundry with her.
+
+#parents room
+
+message_145:
+      text: An alarm clock... for responsible people.\!<br>It's set to be 5-minutes early.
+
+message_146:
+      text: DAD's bonsai tree.\! It has grown a lot since I last saw it.
+
+message_147:
+      text: MOM and DAD's bed.\! MOM sleeps on the left and DAD sleeps on the right.
+
+message_148:
+      text: MOM and DAD's wardrobe.\!<br>I'm not allowed to look in here.
+
+message_149:
+      text: A bunch of books...\! It feels like they just came with the house.
+
+message_150:
+      text: MOM's porcelain vases.\!<br>There used to be more, but I broke one of them.\!<br>MARI took the blame for it though...
+
+message_151:
+      text: Family photos.\! I see some of my relatives more in pictures than in real life.
+
+message_152:
+      text: A basket full of fruits.\! MARI is adamant about having fresh fruit in the house.
+
+message_153:
+      text: A coat rack.\!<br>This is DAD's hat, but I've never seen him wear it.
+
+message_154:
+      text: A TV remote.\! DAD gets really mad when it goes missing...\!<br>Even if it's usually stuck in the couch.
+
+message_155:
+      text: A nice, big TV.\! Watching Saturday morning cartoons here was the best.
+
+message_156:
+      text: A floor lamp.\! KEL and I knocked over the last one on accident.\! MOM wasn't too happy about that...
+
+message_157:
+      text: A warm fireplace.\!<br>My baby pictures are over the mantle.\! I don't like to smile...\! not even in photos.
+
+message_158:
+      text: MOM's personal house phone.\! It used to be in MOM and DAD's room, but not anymore.
+
+message_159:
+      text: \sinv[1]\}Puuuuuurrrr...\n<MEWO>
+
+message_160:
+      text: Good kitty.
+
+message_161:
+      text: My family photo...
+
+message_162:
+      text: A bird house.\! I catch birds feeding here pretty often.
+
+message_163:
+      text: There's no one home.
+
+message_164:
+      text: MOM's flower arrangement.\!<br>MOM and MARI have been taking classes recently.\!<br>Sometimes they drag me along.
+
+message_167:
+      text: A trash can.\! MEWO likes to hide in here.
+
+message_168:
+      text: Some small toy cars.\! KEL must have forgotten to take them home again.
+
+message_169:
+      text: A bunch of tacky ornaments.\! MOM likes buying these so much...\! She even asks DAD to build shelves so she can buy more.
+
+message_170:
+      text: A cactus.\! It was a gift from KEL's dad when we moved here.\! It has survived for a very long time...
+
+message_171:
+      text: A shoe rack.\! MOM's shoes are a mess as usual.
+
+message_172:
+      text: A nice big couch, perfect for falling asleep.\! I can never seem to sit through a whole movie.
+
+message_173:
+      text: A table lamp.\! It probably came with the house.
+
+message_174:
+      text: A stack of cork coasters.\! DAD gets them at work for free.
+
+message_175:
+      text: A small drawer.\! MOM couldn't decide what to put here.
+
+message_176:
+      text: The kitchen counter.\! MARI and HERO like to do their homework together here.
+
+message_177:
+      text: The kitchen sink.\! Washing dishes is the worst.
+
+message_178:
+      text: The stove.\! MARI begs HERO to cook for her often...\!<br>But since he makes too much, he ends up cooking for everyone.
+
+message_179:
+      text: This is the chair that I always sit in.
+
+message_187:
+      text: This is the chair that BASIL always sits in.
+
+message_188:
+      text: A toilet.\! Very reliable.
+
+message_189:
+      text: Some toiletries.\! Everyone is supposed to have their own section...\! but no one can really tell by looking.
+
+message_190:
+      text: A mirror.\! I don't like staring for too long.
+
+message_191:
+      text: A bathtub.\! I don't have much of an opinion on baths.
+
+message_192:
+      text: Little plants.\! They're supposed to make the bathroom smell better.\! I'm not sure if they work though.
+
+message_193:
+      text: Cardboard boxes are scattered across the floor.
+
+message_194:
+      text: An empty clothing rack.
+
+message_230:
+      text: A table lamp.\! MOM bought this one on sale.\! I remember specifically because she made me go with her...\! on a Sunday...
+
+message_201:
+      text: Ornate plants to decorate the staircase.\! MOM put these away later because MEWO kept trying to eat them.
+
+message_202:
+      text: A wooden chair.\! I like to sit here and listen to MARI play the piano.
+
+message_203:
+      text: A bunch of stools.\! BASIL and HERO set these up so everyone could watch me practice...
+
+message_204:
+      text: Some fake plants to decorate the hallway.\! AUBREY really liked these.
+
+message_205:
+      text: Some fake plants to decorate the hallway.\! I don't really care for them much.
+
+message_206:
+      text: An open toy box.
+
+message_207:
+      text: Leftovers again...
+
+message_208:
+      text: We always had a large backyard, so it's nice to finally make use of it now that there's a treehouse.\! The treehouse is further back...\! but I can still see my favorite tree.
+
+message_209:
+      text: Don't forget...\| It's in the toy box.
+
+#REMEMBER TO ADD FAMILY PHOTO
+
+# =========================================================================================
+# CROSSROADS STREET
+# ========================================================================================
+
+message_165:
+      text: KEL's basketball hoop.\! It looks brand new.
+
+message_166:
+      text: KEL and HERO aren't home right now.
+
+
+# =========================================================================================
+# PLAYER'S BACKYARD AND TREEHOUSE
+# ========================================================================================
+
+message_180:
+      text: A baseball bat.\! MARI used to play softball, but quit when she injured her knee.
+
+message_181:
+      text: AUBREY's stuffed toy, \"MR. PLANTEGG\".
+
+message_182:
+      text: HERO's cookbooks.\!<br>MARI bought them for his birthday.
+
+message_183:
+      text: A calendar...\!<br>Summer vacation is almost over...
+
+#Changes after you get violin to:
+
+message_184:
+      text: A calendar...\! The date of the recital has passed.
+
+message_185:
+      text: An old TV.\! KEL brought it up here, but was pretty bummed when he found out he couldn't use it.
+
+#Only when the tree is there as character set
+#The tree appears over the stump before you grab the broken violin, but disappears after
+#Ocean might not have set this up yet.
+
+message_186:
+      text: My favorite tree.
+
+message_400:
+      text: Plants made from paper.\! AUBREY and BASIL made these together.
+
+message_401:
+      text: A yo-yo.\! You only knew how to walk the dog.
+
+message_402:
+      text: KEL's old shoes.\! He forgot his stuff at your house frequently.
+
+
+# =========================================================================================
+# MEMORIES
+# ========================================================================================
+
+#Beach Memory:
+message_195:
+      text: MARI's picnic basket.\!<br>Today, it's full of cheese and crackers.
+
+#Rainy Memory:
+message_196:
+      text: A single plastic flamingo.\! It seems to enjoy the rain.
+
+message_197:
+      text: A white, classy mailbox.
+
+#Picnic Memory:
+message_198:
+      text: The symbol of \c[11]FARAWAY TOWN\c[0] overlooks the lake.
+
+message_199:
+      text: MARI's picnic basket.\!<br>Today, it's full of peanut butter and jelly sandwiches.
+
+message_200:
+      text: A bunch of toys are scattered across the grass.\!<br>The possibilities are endless!
+
+message_231:
+      text: Everyone's shoes.\! Can't get the picnic blanket dirty...
+
+message_232:
+      text: A half-eaten watermelon.\!<br>The other half is in everyone's stomachs.
+
+message_233:
+      text: A plate, wiped clean.\! HERO always makes sure that KEL finishes his food.
+
+message_234:
+      text: An old toaster.\! It does not make toast.
+
+message_235:
+      text: A stuffed toy of a girl with pink hair.
+
+message_236:
+      text: A bunch of toys are scattered across the floor.\!<br>The possibilities are endless!
+
+message_237:
+      text: KEL's shoes that he forgot to take home last week.
+
+message_238:
+      text: An ordinary sand castle.
+
+message_239:
+      text: A bunch of beach toys.\! Fun for everyone!
+
+message_240:
+      text: An oil barrel turned trash can.
+
+message_241:
+      text: MARI's beach bag.\! It matches with HERO's!
+
+message_242:
+      text: HERO's beach bag.\! It matches with MARI's!
+
+message_243:
+      text: AUBREY's pouch.\! It fits her perfectly!
+
+message_244:
+      text: KEL's backpack.\! It's way too big for him!
+
+message_245:
+      text: BASIL's tote bag.\! It's a little small but he likes it!
+
+message_246:
+      text: My plastic bag.\! It's functional.
+
+message_247:
+      text: A lifeguard tower.\! Guess no one's on duty today.
+
+message_248:
+      text: \"LIFE IS GOOD AT THE BEACH!\"
+
+message_249:
+      text: No shoes at the beach!\!<br>Walking on sand with shoes is the worst.
+
+message_250:
+      text: \"RELAX, UNWIND, AND ENJOY!\"
+
+message_251:
+      text: A beach chair.
+
+message_252:
+      text: A fully-eaten watermelon.\! It was delicious.
+
+
+# =========================================================================================
+# GENERAL
+# =========================================================================================
+
+message_0:
+      text: Do you want to sort through BASIL'S \c[4]PHOTO ALBUM\c[0]?
+
+message_1:
+      text: You got BASIL'S \c[4]PHOTO ALBUM\c[0].
+
+message_2:
+      text: You got a \c[4]PHOTO\c[0].
+
+# =========================================================================================
+# BASIL'S MEADOW
+# =========================================================================================
+
+#Shadow BASIL in front of the big tree
+
+message_9:
+      text: There's still hope for us...\! because you're here.\bas
+
+message_10:
+      text: I believed in you and you came back for me...\! so please...\! believe in me, too.\bas
+
+#message_10:
+#      text: \n[8]...\! You're finally here.\bas
+
+#message_11:
+#      text: I've always dreamed that you would come back for me...<br>But maybe now, it's too late.\bas
+
+#message_12:
+#      text: It's getting hard to breathe lately.\!<br>I'm not sure how much longer I can go on...\bas
+
+message_13:
+      text: The gate is locked.
+
+# =========================================================================================
+# PLAYER'S LIVING ROOM
+# =========================================================================================
+
+#Entrance
+
+message_14:
+      text: The door is locked.
+
+#Exit
+
+message_15:
+      text: The doorway is covered in hair.
+
+message_60:
+      text: \n<MOM>My only daughter...\| is gone.\!<br>And you...\| you are my only son.\| I can't...\| lose you as well.
+
+message_61:
+      text: \n<MOM>Please be a good boy, \n[8]...\|<br>Please be...\| a good boy...
+
+message_62:
+      text: An eerie red glow radiates from the TV.\!<br>You feel strangely drawn to it.
+
+# =========================================================================================
+# HOSPITAL
+# =========================================================================================
+
+#Patient
+
+message_16:
+      text: This person is not breathing.
+
+message_40:
+      text: This person is breathing steadily.
+
+#Television
+
+message_30:
+      text: You see four kids talking to a whale.
+
+message_31:
+      text: You see four kids riding an elevator.
+
+message_32:
+      text: You see five kids having a picnic.
+
+message_33:
+      text: You see four kids climbing a ladder to space.
+
+message_34:
+      text: You see three kids and one toast.
+
+message_35:
+      text: You see four kids talking to a giant statue.
+
+message_36:
+      text: You see four kids playing in the forest.
+
+message_37:
+      text: You see four kids riding a minecart.
+
+message_38:
+      text: The TV is off.
+
+# =========================================================================================
+# RECITAL BACKSTAGE
+# =========================================================================================
+
+#Photos
+
+message_17:
+      text: Something took one of your fingers.
+
+#Photos
+
+message_18:
+      text: Something is preventing you from getting any closer.
+
+# =========================================================================================
+# PLAYER'S ROOM
+# =========================================================================================
+
+#Shadow BASIL in room
+
+message_19:
+      text: \n[8]...\! Don't worry...\!<br>Everything is going to be okay.\bas
+
+#Door
+
+message_20:
+      text: You're missing something.
+
+# =========================================================================================
+# LAMP ROOM
+# =========================================================================================
+
+#Lamp
+
+message_21:
+      text: You screw in the \c[4]LIGHT BULB\c[0].
+
+message_22:
+      text: The \c[4]LIGHT BULB\c[0] illuminates the room.
+
+message_54:
+      text: Do you want to pick up this photo?
+
+message_23:
+      text: Do you want to screw in the \c[4]LIGHT BULB\c[0]?
+
+#Happy Chair
+
+message_50:
+      text: The air feels nice in here.
+
+message_51:
+      text: You can hear some birds chirping outside.
+
+message_52:
+      text: The smell of clean laundry fills the air.
+
+message_53:
+      text: You can feel the warmth of the sun on your cheeks.
+
+message_69:
+      text: MARI's calendar.\! Today is the day of the recital.
+
+#test in BACKSTAGE
+
+message_300:
+      faceset: MainCharacter_Mari
+      faceindex: 22
+      text: \n[8]...\! You're finally here.\aub
+
+message_301:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: After this point, it's going to be up to you.\aub
+
+message_302:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: You know...\! Before we met, I had a lot of trouble fitting in...\aub
+
+message_303:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: Even after we all became friends...\! I always assumed you were going to leave me eventually.\aub
+
+message_304:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: But...\! when the others were busy doing things...\! you always seemed to have time for me.\aub
+
+message_305:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: You would listen to me talk for hours and hours...\! I could always rely on you to do that. \aub
+
+message_306:
+      faceset: MainCharacter_Mari
+      faceindex: 26
+      text: I know we've missed out on each other for the past few years...\! but it doesn't have to stay that way.\kel
+
+message_307:
+      faceset: MainCharacter_Mari
+      faceindex: 25
+      text: People always tell me that I'm dense or that I'm kinda careless...\! but I'll always be here if you're okay with that!\kel
+
+message_308:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text:  \n[8]...\! We know that you're not someone who likes to take the lead.\her
+
+message_309:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: This has been really hard for you.\her
+
+message_310:
+      faceset: MainCharacter_Mari
+      faceindex: 9
+      text: But...\! you have to put a little bit of trust in us, too.\her
+
+message_312:
+      faceset: MainCharacter_Mari
+      faceindex: 24
+      text: Just because you've done something bad... doesn't make you bad.\kel
+
+message_313:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: You've had to live with this pain for so long...\! and you've been keeping it all inside.\her
+
+message_314:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text: It might be easier to ignore your problems, but it's okay to cry about them too.\her
+
+message_315:
+      faceset: MainCharacter_Mari
+      faceindex: 10
+      text: There's more good times to come.\! Life gets better...\! and you can be the one to make that happen.\her
+
+message_316:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Whatever happens next is going to be your call. \aub
+
+message_317:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: But we're here for you because you want us to be.\her
+
+message_318:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: And...\! We really hope that this isn't goodbye.\kel
+
+message_319:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: You can do this, \n[8]!\! I promise to stick with you until the very end!\kel
+
+message_320:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Yeah...\! I think we'll always be best friends.\! That's okay with you too, right?\kel
+
+message_321:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Whatever you end up choosing...\! We will always want what's best for you.\her
+
+message_322:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Keep us in your thoughts.\! We'll be cheering you on.\her
+
+message_323:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: No matter how far you push your feelings down...\! they'll always come back somehow.\! And what you do with those feelings...\! That will be your truth.\aub
+
+message_324:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Hey, \n[8]...\aub
+
+message_325:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Break a leg for me, alright?\aub
+
+message_330:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: We believe in you...\| \n[8].\aub

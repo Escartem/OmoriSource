@@ -1,0 +1,91 @@
+# =========================================================================================
+# Coffee Machine
+# ========================================================================================
+
+message_1:
+    text: \tvg\quake[1]PWW\{\Com[2]WWWAH\{\Com[2]HH\{HH!
+
+message_2:
+    text: \tvgGeez! Give me a warning at least, will ya?\!<br>I don't get visitors very often, y'know!
+
+message_3:
+    text: \tvgOh, hey! While you're here, could ya be a real pal and help me get the stuff that's on this list?
+
+message_4:
+    text: \tvgDid ya get all that?
+
+message_5:
+    text: \tvgEverything ya need to find should be in the \c[11]JUNKYARD\c[0].\!<br>Thanks, buddy! I owe ya one.
+
+message_6:
+    text: \tvgHuh?\! What do ya mean it was too fast for ya to read?
+
+message_7:
+    text: \tvgUgh... fine.\! <br>Here's a list ya can look at for as long as ya want to.
+
+message_8:
+    text: \tvgGot it down this time?\! I expect I'll be seeing ya again soon.
+
+# TVGIRL - DEFAULT
+
+message_10:
+    text: TVGIRL is too entranced by her dramas to pay any attention to you.
+
+# TVGIRL - QUEST COMPLETE
+
+message_20:
+    text: \tvgOh sweet, ya found everything on my list!\!<br>I should ask random people for favors more often.
+
+message_21:
+    text: \tvg\sinv[1]Du...\| dudududu...\| Du!\| Du... du!\sinv[0]
+
+message_22:
+    text: \tvg\sinv[1]Du...\| dudududu... du... du!\| Dudu...\| du...\| dududududu...\sinv[0]
+
+message_23:
+    text: \tvgAnd...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}
+
+message_24:
+    text: \tvg\sinv[1]Ahhh... That hits the spot!\sinv[0]
+
+message_25:
+    text: \tvgMy old COFFEE MACHINE broke like forever ago, but I've been too busy to gather the missing parts.
+
+message_26:
+    text: \tvgNow that this new one is all fixed up, I don't have to drink that gross instant coffee crap anymore.
+#maybe crap instead of stuff? lol
+message_27:
+    text: \tvgHere's a little somethin' for helping me out.
+
+message_28:
+    text: You got \c[5]DYNAMITE\c[0].\!<br>This actually looks kind of dangerous...
+
+message_37:
+    text: \tvgNow, if y'all will excuse me, I have some important business to attend to.
+
+message_29:
+    text: \n<COFFEE MACHINE>Y-Y-Y-You are now brewing \c[3]COFFEE\c[0]!\!<br>It will be ready after this commercial break!
+
+message_30:
+    text: \n<COFFEE MACHINE>\Com[2]\{\Sinv[1]C-C-C-CONGRATULATIONS!!\!\Sinv[1]\}<br>Your \c[3]COFFEE\c[0] is ready!
+
+message_31:
+    text: \n<COFFEE MACHINE>D-D-D-Do you want your \c[3]COFFEE\c[0] now?
+
+message_32:
+    text: A voice came out of the COFFEE MACHINE.
+
+message_33:
+    text: \n<COFFEE MACHINE>H-H-H-Here's a \c[3]COFFEE\c[0], on the house...
+
+message_34:
+    text: A brand new COFFEE MACHINE.
+
+message_35:
+    text: A broken COFFEE MACHINE.
+
+message_36:
+    text: You got some \c[3]COFFEE\c[0].
+
+message_38:
+    text: You got a \c[4]STRANGE LIST\c[0].

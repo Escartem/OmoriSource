@@ -1,0 +1,69 @@
+
+# =========================================================================================
+# Tentacle
+# ========================================================================================
+
+#Cutscene: ABBI's Tentacles
+
+#ABBIs Tentacles sink into the ground. ABBI's head is peeking from above the strange
+
+
+message_0:
+      text: \fn<OMORI_GAME>\n<ABBI>Please...\| No more...\! I am...\| sorry...\Quake[0]
+
+
+message_3:
+      text: \fn<OMORI_GAME>\n<ABBI>I am eight small pools...\| red tentacles...\|<br>across \c[11]HEADSPACE\c[0]...\Quake[0]
+
+message_4:
+      text: \fn<OMORI_GAME>\n<ABBI>I am bring...\| offerings there...\Quake[0]
+
+
+message_5:
+      text: \fn<OMORI_GAME>\n<ABBI>Please...\| please...\| please...\| Forgive me...\| My best friend...\SINV[0]\Quake[0]
+
+#[Nod/Shake]
+#[Nod]
+
+message_6:
+      text: \fn<OMORI_GAME>\n<ABBI>Thank you...\| DREAMER...
+
+message_7:
+      text: \fn<OMORI_GAME>\n<ABBI>I am...\| a gift for you...\| DREAMER.
+
+message_8:
+      text: ABBI gave you a \c[13]BASEBALL BAT\c[0].
+
+message_9:
+      text: ABBI gave you a \c[13]HEADBAND\c[0].
+
+message_10:
+      text: ABBI gave you a \c[13]COUGH MASK\c[0].
+
+message_11:
+      text: ABBI gave you a \c[13]RED KNIFE\c[0].
+
+message_12:
+      text: ABBI gave you a \c[13]BASKETBALL\c[0].
+
+message_13:
+      text: ABBI gave you \c[13]OL' RELIABLE\c[0].
+
+message_14:
+      text: ABBI gave you a \c[13]CHEF'S HAT\c[0].
+
+message_15:
+      text: ABBI gave you a \c[13]PRETTY BOW\c[0].
+
+message_16:
+      text: An empty puddle.
+
+message_17:
+      text: You got \c[13]ABBI'S EYE\c[0].
+
+#[Shake]
+#ABBI suddenly disappears
+#Tentacle pools in dreamworld disappear
+
+message_18:
+      text: \fn<OMORI_GAME>\n<ABBI>The truth...\| I am used to know it... \|<br>But... \| I am... \| cannot remember...

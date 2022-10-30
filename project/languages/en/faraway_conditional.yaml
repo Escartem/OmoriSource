@@ -1,0 +1,178 @@
+# =========================================================================================
+# Farawway town Conditional changes
+# =========================================================================================
+
+# =========================================================================================
+#If opened door on Day 1 of Faraway town
+# =========================================================================================
+
+#Cutscene: Pyrefly Intro
+#Enter Pyrefly Forest
+#KEL: Ugh... I hate this place... It gives me the heebie-jeebies...
+#AUBREY: Don't be such a baby, KEL. They're just bugs!
+#KEL: Aaaah! There's a huge bug in your hair!
+#AUBREY: W-What? Where? Get it off! Get it off!
+#KEL: Haha! Just kidding! Look who's the scared one now.
+#AUBREY: Hmph! That's not very funny, KEL...
+                    #>>>>>> changes to >>>>>>
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelUgh... \!I hate this place... It gives me the heebie-jeebies...
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubDon't be such a baby, KEL. They're just bugs!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kel\{\Com[2]\QUAKE[1]Aaaaaahhhh!!\}\!<br>\Com[2]There's a huge bug in your hair!!\QUAKE[0]
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aub\{\Com[2]\QUAKE[1]W-What!? \!Where!? \!\Com[2]Get it off!!\}\QUAKE[0]
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\Com[2]\QUAKE[1]Get it off before I kick you in your fart box!\QUAKE[0]
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelWhoa... \!Chill out, AUBREY... \!It was just a prank...
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubGoodness! \!I'm sorry! \!I don't know what came over me...
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubAnyway, that's not very funny, KEL...\!<br>You better apologize to me right now, or else-
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelYeah, yeah... I'm sorry...
+
+#TVGIRL:
+#TVGIRL: Dang... All they've been showing lately is re-runs... When is something interesting going to show up?
+                                      #>>>>>> changes to >>>>>>
+message_10:
+      text: \n<TV GIRL>There's a new show that just started airing! \!<br>It's a little dramatic, but pretty interesting...<br>\!I'm already hooked!
+
+
+# =========================================================================================
+#If opened door on Day 2 of Faraway town
+# =========================================================================================
+
+#I LOVE PICKLES!
+#MARI'S PICNIC
+#Location: SWEETHEART'S CASTLE - PRISON B1
+#In MARI's Intro Dialogue,
+#KEL: Awww... Yuck! I hate pickles! Next time, can you sneak in some jam instead?
+                        #>>>>>> changes to >>>>>>
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kel\{\Com[2]Yum!! \Com[2]I love pickles!\}
+
+#BERLY PUNCH:
+#Only triggers once.
+#Before playing her usual dialogue, BERLY punches leader.
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\Com[2]Hey! What'd you do that for!?
+
+message_22:
+      text: \berI dunno... \!I just felt like doing it.
+
+#SAD EXPRESSION (DAY 3 ONLY):
+#MARI'S PICNIC
+#Only triggers once.
+#After playing her usual dialogue, MARI says:
+
+message_23:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHey... OMORI... Are you okay?
+
+message_24:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marYour expression looks a little bit sad to me lately...\!<br>Is something wrong?
+
+
+# =========================================================================================
+#After entering piano room in FARAWAY TOWN
+# =========================================================================================
+#Grand Pianos appear all over DREAM WORLD.
+#Grand Pianos can be played in any order.
+
+#Locations:
+
+#VAST FOREST: Forest Playground
+#SWEETHEART'S CASTLE: In the Ballroom
+#JUNKYARD: Near the Couch? Somewhere that looks cool
+#LAST RESORT: Mr Jawsum's Room
+#ORANGE OASIS: In the middle of the desert
+#FROZEN FOREST ENTRANCE: In the middle of the snow-covered field
+
+#Upon examining a piano:
+
+message_40:
+      text: It's a grand piano. \!<br>The word \"OMORI\" is etched across the center.
+
+message_41:
+      text: Do you want to sit down?
+#yes/no
+#PIANO (1)
+
+message_42:
+      text: Two notes echo in your head...<br>\!You position your hands to play.
+
+#PIANO (2)
+message_43:
+      text: Some notes echo in your head...<br>\!You position your hands to play.
+
+#PIANO (3)
+message_44:
+      text: A part of a melody comes to you...<br>\!You position your hands to play.
+
+#PIANO (4)
+#same text as Piano 3
+
+#PIANO (5)
+#same text as Piano 3
+
+#PIANO (6)
+message_45:
+      text: You remember a familiar melody... \!<br>Your hands move on their own.
+
+#After playing the piano, it will disappear.
+
+
+
+#Finding all the Pianos will trigger Cutscene: Piano and Violin
+
+#OMORI sitting at the piano.
+#Camera zooms to MARI at entrance of room. MARI walks up to him.
+#MARI turns over to face PLAYER on the chair.
+
+message_46:
+      text: \marOh! Hey, \n[8]... \!<br>I see you're getting better at reading music, hehe!
+
+message_47:
+      text: \marThis is a new song that I'm learning... \!Do you like it?
+
+message_48:
+      text: \marI'm pretty sure there's a duet version for piano and violin...
+
+message_49:
+      text: \marDid you want to learn how to play it together?

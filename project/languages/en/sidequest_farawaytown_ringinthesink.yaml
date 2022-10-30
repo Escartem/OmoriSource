@@ -1,0 +1,71 @@
+
+# =========================================================================================
+# Sidequest: Ring in the Sink
+# =========================================================================================
+
+#messages to be added here
+
+message_1:
+      text: \n<CLUMSY GUY>\quake[1]\{GAAAA\{AAHHHHHH\{HHHHHH!!\}\quake[0]
+
+message_2:
+      text: \n<CLUMSY GUY>Oh...\! H-Heya!\! Um...\! Who are you?\! ...
+
+message_3:
+      text: \n<CLUMSY GUY>\Com[2]Wait! N-Nevermind that!<br>\Com[2]I've got an emergency here!
+
+message_4:
+      text: \n<CLUMSY GUY>Sooooo... uhhh...\! Do you think you can help me out?
+
+#yes/no
+
+# if yes
+message_5:
+      text: \n<CLUMSY GUY>Thanks, man!\!<br>\Com[2]Well, what are you waiting for!? Come inside!
+#once player is inside
+
+message_6:
+      text: \n<CLUMSY GUY>The kitchen is this way!\! \Com[2]Hurry!
+#examine Sink
+
+message_7:
+      text: \n<CLUMSY GUY>Here is the site of the incident...\! I was just washing the dishes, when suddenly...\! \Com[2]my \c[4]WEDDING RING\c[0] fell off my finger and slipped into the drain!
+
+message_8:
+      text: \n<CLUMSY GUY>Crazy, right?\! You'd think this kind of thing only happens in movies...
+
+message_9:
+      text: \n<CLUMSY GUY>Luckily, my wife is still out for the day and hasn't found out about it yet.\! I've been trying to get it out for almost an hour and my fingers are starting to bruise...
+
+message_10:
+      text: \n<CLUMSY GUY>Sigh...\! I really don't want to tell my wife or my daughter, SARAH, about this...\! I'll never hear the end of it!
+
+message_11:
+      text: \n<CLUMSY GUY>Could you guys please help me out?
+#yes/no
+
+#if yes
+
+message_12:
+      text: You spot something shiny in the sink and hook it up.
+
+message_13:
+      text: It's the \c[4]WEDDING RING\c[0]!
+
+message_14:
+      text: You gave the \c[4]WEDDING RING\c[0] to SARAH'S DAD.
+
+message_15:
+      text: \n<CLUMSY GUY>\Com[2]Hey, that's it!\! \Com[2]Thank you!\! \Com[2]Thank you, thank you, thank you!\!<br>I'll never forget this... I promise!\! You and any of your friends are welcome here at any time!
+
+message_16:
+      text: \n<CLUMSY GUY>I think I may have mentioned this before, but I have a daughter about your age.\! Her name is SARAH...\!<br>She's probably in her room right now!
+
+message_17:
+      text: You spot something shiny in the sink.
+
+message_18:
+      text: \n<CLUMSY GUY>W-Wait!\! Please help me get my \c[4]WEDDING RING\c[0]!
+
+message_19:
+      text: \n<CLUMSY GUY>Over here!

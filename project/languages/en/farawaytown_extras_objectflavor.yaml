@@ -1,0 +1,85 @@
+
+# =========================================================================================
+# FARAWAY TOWN Object Flavor Text
+# =========================================================================================
+
+# Gino's Dinner
+
+#Dining tables:
+message_1:
+      text: This table feels sticky.
+
+
+# Consumable items
+
+# Donut
+message_100:
+      text: The \c[3]DONUT\c[0] had a soft fluffy texture and was very sugary.
+
+# Candy
+message_101:
+      text: The \c[3]CANDY\c[0] had a chewy texture and fruity flavor.
+
+# Salad
+message_102:
+      text: The \c[3]SALAD\c[0] tasted like grass.
+
+# Bread
+message_103:
+      text: The \c[3]BREAD\c[0] was fragrant and crispy... and kind of addicting?
+
+# Chocolate
+message_104:
+      text: The \c[3]CHOCOLATE\c[0] was a bit creamy and a bit nutty. It melted in your mouth.
+
+# Pizza Slice
+message_105:
+      text: The \c[3]PIZZA SLICE\c[0] was hot and covered in cheese. You wish you had more...
+
+# Hero Sandwich
+message_106:
+      text: The \c[3]HERO SANDWICH\c[0] boasted the perfect mix of meats and veggies. Wow...
+
+# Caramel Apple
+message_107:
+      text: The \c[3]CARAMEL APPLE\c[0] was sticky and sweet, yet crunchy and sour.
+
+# Whole Pizza
+message_108:
+      text: The \c[3]WHOLE PIZZA\c[0] was hot and covered in cheese. This was the perfect amount.
+
+# Pie
+message_109:
+      text: The \c[3]PIE\c[0]'s buttery crust perfectly complemented the fruity filling.
+
+# Big Bag of Candy
+#message_110:
+#      text: There was so much \c[3]CANDY\c[0], it barely fit in your mouth.
+
+# Slice of Cake
+message_111:
+      text: The \c[3]SLICE OF CAKE\c[0] was small and humble, but rich.
+
+# Hamburger
+message_112:
+      text: The \c[3]HAMBURGER\c[0]'s ingredients blended together flawlessly. All it was missing was cheese.
+
+# Tasty Soda
+message_113:
+      text: The \c[3]TASTY SODA\c[0] had a fizzy and nostalgic taste that flooded your mouth.
+
+# Orange Joe
+message_114:
+      text: The \c[3]ORANGE JUICE\c[0] and \c[3]COFFEE\c[0] combination created a questionable flavor.
+
+# Apple Juice
+message_115:
+      text: The \c[3]APPLE JUICE\c[0] was truly made from the ripest of apples.
+
+# Orange Juice
+message_116:
+      text: The \c[3]ORANGE JUICE\c[0] was truly made from the freshest of oranges.
+
+# Coffee
+message_117:
+      text: The \c[3]COFFEE\c[0] was hot and bitter, as expected. You don't know why people drink this.

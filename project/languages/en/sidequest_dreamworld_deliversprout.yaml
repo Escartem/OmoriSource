@@ -1,0 +1,60 @@
+# =========================================================================================
+# Delivery for Brother
+# ========================================================================================
+#Talk to Family Mole 1
+
+message_1:
+      text: \n<BROTHER MOLE>Hey, you there!\! You creatures seem like well-seasoned travelers...\! Could you help me out?\! My brother lives in the \c[11]SPROUT MOLE COLONY\c[0] in \c[11]OTHERWORLD\c[0].
+
+message_2:
+      text: \n<BROTHER MOLE>I want to send him a \c[4]CARE PACKAGE\c[0], but...\! I'm afraid of getting lost.\! Would you be able to deliver this for me?
+
+#[Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<BROTHER MOLE>Thank you, strange creatures!\!<br>I'm sure he'll appreciate it.\! Here you go.
+
+message_4:
+      text: You got a \c[4]CARE PACKAGE\c[0].
+
+message_16:
+      text: \n<BROTHER MOLE>Make sure it gets to him safely!
+
+#[Shake]
+message_5:
+      text: \n<BROTHER MOLE>Oh, I see...\! Okay then...
+
+#Talk to Sprout Mole 1
+
+message_6:
+      text: \n<BROTHER MOLE>Huh?\! What's that?\! You have a package for me?
+
+message_7:
+      text: You gave the \c[4]CARE PACKAGE\c[0] to BROTHER MOLE.
+
+message_8:
+      text: \n<BROTHER MOLE>...\! Hey, this is from my brother!\!<br>Wow, there's 99 \c[3]TOFU\c[0] in here! This is the best gift ever!\!<br>Sniff... He knows me so well...
+
+message_9:
+      text: \n<BROTHER MOLE>Thanks for the delivery!\!<br>You know, I was saving this for a rainy day...\! but now that I have my \c[4]CARE PACKAGE\c[0], I won't need it anymore.
+
+message_10:
+      text: You got \c[3]LIFE JAM\c[0].
+
+message_11:
+      text: \n<BROTHER MOLE>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! So...\! good...
+
+#Quest complete
+
+#After quest dialogue:
+
+#Talk to Family Mole 1
+message_12:
+      text: \n<BROTHER MOLE>Did you deliver the package?<br>\!There's a year's worth of \c[3]TOFU\c[0] in there!\!<br>I'm sure he'll love it.\! Man, I miss that guy...
+
+#Talk to Sprout Mole 1
+message_13:
+      text: \n<BROTHER MOLE>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! So good...
+
+message_15:
+      text: \n<BROTHER MOLE>I'm all out of \c[3]TOFU\c[0].

@@ -1,0 +1,55 @@
+
+# =========================================================================================
+# Something in the Walls
+# =========================================================================================
+
+#UNUSED
+message_1:
+      text: \n<SOMETHING>\fn<OMORI_GAME>Oh... Little brother...\! You... You are scared.\!<br>Please... Let me take care of you...
+
+message_2:
+      text: \n<SOMETHING>\fn<OMORI_GAME>I can tell...\! The look in your eyes shows me...\!<br>You are tired.\! Please... Let me take care of you...
+
+message_3:
+      text: \n<SOMETHING>\fn<OMORI_GAME>Little brother...\! Please, look at me...\! I am worried about you...\! Your eyes are swollen and your fingers are bruised...\!<br>Let me take care of you...
+
+message_4:
+      text: \n<SOMETHING>\fn<OMORI_GAME>Oh, little brother...\! Please do not resist...\! After all I've done for you...\! Will you not trust me?\! Please... Let me take care of you...
+
+message_5:
+      text: \n<SOMETHING>\fn<OMORI_GAME>Sweet, little brother...\! You... You are confused...\! Why do you deny my help?\! I will always want the best for you...\! You know that, don't you?\! Please...\! Let me take care of you...
+
+
+message_6:
+      text: \n<SOMETHING>\fn<OMORI_GAME>I'm sorry... Sweet little brother...\! I must insist...\! Your eyes... They are welled with tears and your fingers...\ They shake in pain.\! Do not worry, little brother.\! I will take care of you...
+
+message_7:
+      text: \n<SOMETHING>\fn<OMORI_GAME>Sweet little brother.\! It is time to rest...\!<br>Shut your eyes... and stay very, very still...
+
+message_8:
+      text: NO
+
+message_9:
+      text: YES
+
+message_10:
+      text: You feel something crawling up your leg.
+
+message_11:
+      text: You feel something crawling on your neck.
+
+# =========================================================================================
+# Fear of Heights
+# =========================================================================================
+
+message_30:
+      text: Are you sure you want to go downstairs?
+
+message_31:
+      text: You don't want to go down the stairs.
+
+message_32:
+      text: You don't want to look down.
+
+message_33:
+      text: You feel dizzy...\! Maybe you can sleep it off...

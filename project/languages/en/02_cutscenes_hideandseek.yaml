@@ -1,0 +1,19 @@
+# =========================================================================================
+# Event: BATTLE BOOK
+# =========================================================================================
+
+message_0:
+      text: A book titled \c[4]ALL ABOUT BATTLES\c[0].\!<br>You should probably read this.
+
+message_1:
+      text: Would you like to take a look?
+
+message_2:
+      text: What chapter would you like to read?
+
+# =========================================================================================
+# Cutscene: HIDE AND SEEK
+# =========================================================================================
+
+message_10:
+      text:

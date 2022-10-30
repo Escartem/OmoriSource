@@ -1,0 +1,344 @@
+# =========================================================================================
+# Cutscene: Go to the Park
+# =========================================================================================
+
+#Trigger: Exit Hobby Shop after purchasing Hero's Gift.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: So...\! Where do you wanna go now, \n[8]?\kel
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Guess there's really not much to do around the suburbs, huh?\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Oh, how about the \c[11]FARAWAY PARK\c[0]?\! Yeah, the park!\kel
+
+#KEL walks towards FARAWAY PARK.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: We passed it by on the way here.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: That sounds fun, doesn't it?\kel
+
+# =========================================================================================
+# Cutscene: Aubrey and the Hooligans
+# =========================================================================================
+
+#Trigger: Enter proximity in FARAWAY PARK.
+
+
+#BASIL, talking to Kim
+message_20:
+      text: Wait, don't go!\! Please!\who
+#Kim talking:
+
+message_21:
+      text: Sorry, dude. I can't help you. You're on your own!\who
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Uh-oh...\! There's some commotion going on over there.\kel
+
+#KEL walks up.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Let's check it out.\kel
+
+#Camera pans to KIM and BASIL talking.
+#KIM turns away from BASIL.
+#Kim talking:
+message_24:
+      text: This ain't none of my business.\!<br>If you got beef with her, then talk to her yourself, you creep!\who
+
+#BASIL walks up to KIM.
+
+#Basil talking:
+message_25:
+      text: I'm begging you.\! Just ask her to give it back.\who
+
+#Basil talking:
+message_26:
+      text: She won't listen to me...\who
+
+#KEL is surprised.
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Wait...\! Is that...?\kel
+
+#KEL walks forward one step.
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: That's BASIL!\! Leave him alone, you bully!\kel
+
+#KIM looks around.
+#KIM is surprised.
+
+#KIM talking:
+
+message_29:
+      text: Huh?\! Who's there?\who
+
+#KIM is frustrated.
+
+message_30:
+      text: Oh, it's just KEL...\! Grumble, grumble...\who
+
+message_31:
+      text: Why don't you mind your own business?\who
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Well, why don't you go bother someone else, KIM?\kel
+
+message_33:
+      text: Psh.\! Well, aren't you acting all high-and-mighty?\kim
+
+message_34:
+      text: You don't make the rules around here!\kim
+
+#Aubrey talking:
+message_35:
+      text: \Com[2]\{WHAT'S GOIN' ON OVER THERE!?\who
+
+#AUBREY & the rest of the HOOLIGANS scooter in behind KIM.
+#AUBREY walks to KIM's side and faces her.
+
+message_36:
+      text: Oh, hey AUBREY...\!<br>This nerd KEL just showed up and thinks he can <br>boss me around!\! Let's show him what's what!\kim
+
+#AUBREY get off scooter, and turns to KEL.
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: KEL...\! What do you want?\aub
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Stop messing with BASIL!\! How could you!?\!<br>We all used to be friends, don't you remember?\!<br>Tell her, \n[8]!\kel
+
+#AUBREY is surprised.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: ...\! \n[8]'s here?\aub
+
+#AUBREY walks up to PLAYER.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Wow, it really is you.\!<br>It's been a while, but you haven't changed a bit.\aub
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: How long has it been since you left your house?\!<br>Three years...?\! Maybe four?\!<br>Must have been nice to live in your own little bubble.\aub
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Watch it, AUBREY!\!<br>You don't know what he's been through.\kel
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Hmph...\! Whatever.\aub
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: AUBREY!\! Please...\! Listen to me...\bas
+
+#BASIL walks toward AUBREY. KIM gets in BASIL's way. BASIL falls over.
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Hey, stop that!\kel
+
+#KEL attempts to run to KIM, but AUBREY blocks his path.
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: Leave it alone, KEL. This isn't your problem.\aub
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: What the heck is wrong with you, AUBREY!?\kel
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Ugh... \n[8]!\! C'mon! We've got to do something!\kel
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: Haha...\! Are you guys really picking a fight?\aub
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Sure, why not?\!<br>The two of you against me! How's that sound?\!<br>\Com[2]Come at me!\! I'll take on the both of you!\aub
+
+# =========================================================================================
+# Cutscene: Fake Knife Fight
+# =========================================================================================
+
+#Trigger: Attack AUBREY in battle.
+
+#AUBREY falls to the floor.
+#KIM runs to AUBREY.
+
+message_70:
+      text: Oh, shoot...\! AUBREY, are you okay?\!<br>You're... You're hurt...\kim
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: I-I'm fine...\aub
+
+message_72:
+      text: No, you're not! You're bleeding!\!<br>C'mon, we gotta get you out of here!\kim
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: Ugh...\! I'll get you back for this...\aub
+
+#AUBREY and HOOLIGANS run away.
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Whoa, that was about to get really messy.\!<br>Good thing you had your knife there or we would've-\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]W-Wait a sec!\! Give me that!\kel
+
+message_76:
+      text: KEL took away your \c[13]STEAK KNIFE\c[0].
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: You shouldn't be carrying things around like this, \n[8]...\! That's dangerous!\kel
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Sigh...\! AUBREY's really changed since you last saw her.\!<br>Her and her new friends have been nothing but trouble.\kel
+
+#KEL looks at BASIL.
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Poor BASIL...\kel
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Let's check if he's okay.\kel
+
+# =========================================================================================
+# Cutscene: Faraway Basil
+# =========================================================================================
+
+#Trigger: Talk to BASIL.
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Hey, BASIL. How are you doin'?\kel
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Ah...\! I'm fine...\! Thank you...\! KEL...\bas
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: I don't know if you noticed, but \n[8] is here too!\!<br>Say hi, \n[8]!\kel
+
+message_103:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Oh...\! Hey, \n[8].\! It's been a while, hasn't it?\! <br>Haha...\bas
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\sinv[1]WOO-HOO!\! WHAT A HAPPY REUNION!!\kel\}
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: So, did you wanna hang out with us today?\kel
+
+message_106:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: O-Oh...\! I'm sorry...\! I'd love to, but...\!<br>I...\! I should probably head home.\bas
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Huh? Really? Are you sure?\kel
+
+message_108:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: My, um...\! My grandma hasn't been feeling too well lately.\bas
+
+message_109:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Oh, I'm sorry to hear that.\kel
+
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Let us at least walk you home.\!<br>It's been so long since we've all hung out!\kel
+
+message_111:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: O-Oh...\! A-Alright then...\! Thank you.\bas
+
+message_112:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: There's BASIL's house!\! It's that one with the green roof!\kel
+
+message_123:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Umm...\! Weren't you guys just going to drop me off?\bas

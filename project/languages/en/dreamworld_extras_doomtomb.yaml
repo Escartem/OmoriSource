@@ -1,0 +1,503 @@
+# =========================================================
+# DOUGH DUNGEON (DOOM TOMB)
+# =========================================================
+
+#Upon entry: Crypt is dark
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelIt sure is dark in here...
+
+#Red eyes surround party
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herUh-oh...\! It looks like we're not alone!
+
+#One bread walks forward
+
+message_2:
+      text: \who\Quake[1]Hiss...\Quake[0]
+
+#Rest of bread walks forward
+
+message_3:
+      text: \who\Quake[1]Hiss...\| Hiss...\| Hiss...\| Hiss...\Quake[0]
+
+#Placeholder:
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHey! They're hissing at us!\! We can't let them do that!\!<br>\Com[2]Let's teach them a lesson!
+
+#AFTERBATTLE
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herHuff...\! Huff...\! Okay, that's the last of them.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelMan... What's with all this bread down here?\!<br>Someone must have a real baking problem...
+
+
+#After examining DO NOT TOUCH big bread
+
+message_53:
+      text: \who\sinv[1]Ohooooooooo...\sinv[0]
+
+#*Small shaking*
+
+message_54:
+      text: \who\sinv[1]Ohooooooooooooooooooo...\sinv[0]
+
+#*More shaking*
+
+message_55:
+      text: \who\sinv[1]Ohoooooooooooooooooooooooooooooo!!\sinv[0]
+
+#*The toast begins floating*
+#*More shaking and screen starts to fade out*
+#*falling noises*
+
+
+#Upon falling into Doom TOMB
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kel\Com[2]\sinv[1]\{PWWEEEEHHHHH!!\!\}<br>Ewwwwwwwwww...\!\sinv[0] What is all this?
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herThis...\! This is all-purpose flour!
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aub\Com[2]\sinv[2]\{ACHHOOOOOOO!!\sinv[0]\}\!<br>Urgh...\! My nose is all itchy...
+
+#--------------
+#ACTUAL MOLE DIALOGUE + SAFE
+
+message_200:
+      text: \n<ACTUAL MOLE>Stop right there, no-gooders!\! Can't y'all read directions?\!<br>Ya'll should be ashamed of yourselves!
+
+message_201:
+      text: \n<ACTUAL MOLE>My family and I have been guardin' this crypt's treasure for generations...\! but guardin' ain't easy ‘cause of people like you!
+
+message_202:
+      text: \n<ACTUAL MOLE>I may be old and frail now... and my eyesight may not be so good... and I may be the only one left...<br><br>But I've spent a lifetime doin' this, and I've gotten real good at guardin', I reckon!
+
+message_203:
+      text: \n<ACTUAL MOLE>I can't even remember what I'm guardin', but it's probably whatever's hidden in that important-lookin' safe in the left corner of the room!
+
+message_204:
+      text: \n<ACTUAL MOLE>Anyway, I'm gonna have to ask y'all to leave peacefully.\! Being an ACTUAL MOLE and all, I can dig my way out of here in 3 seconds flat!
+
+message_205:
+      text: \n<ACTUAL MOLE>There ain't nothin' special about this place.\! So how about I save y'all some trouble and getchu out of here?
+
+#[YES/NO]
+
+#[YES]
+message_206:
+      text: \n<ACTUAL MOLE>Well, that was easy!\! Don't blink! I'll have you back on the surface faster than a hot knife through butter!
+
+#[NO]
+message_207:
+      text: \n<ACTUAL MOLE>You wanna stay and enjoy the place?\! Alright, if you insist!
+
+
+message_208:
+      text: \n<ACTUAL MOLE>Feel free to look around and all...\! This summoning circle may be old, but it still works like a charm...\! but no funny business...\! or else!
+
+#Enter after leaving:
+message_209:
+      text: \n<ACTUAL MOLE>Hey, partner! You're back down yonder already?\! How many years has it been?
+
+#Talk to him again:
+message_210:
+      text: \n<ACTUAL MOLE>You feelin' an itch to get back to the surface?\! You won't be able to take anything you find from the counters here with you!\! That okay, partner?
+#[YES/NO]
+
+#[YES]
+message_211:
+      text: \n<ACTUAL MOLE>\{\{\sinv[1]YEEEEE-HAWWW!!
+
+message_230:
+      text: \n<ACTUAL MOLE>I'll have you back on the surface faster than a hot knife through butter!
+
+#[NO]
+#Nothing
+
+#To unveil the safe combination, you must empty the table as the safe combination is on it, meaning you must summon everything.
+#Use the combo to open up the safe.
+
+#Examine safe for the first time:
+message_212:
+      text: \n<ACTUAL MOLE>\com[2]Don't you even think about opening up that safe!\! There's definitely no combination or anything like that around these parts!
+
+#Talk to the safe:
+message_213:
+      text: What is the safe combination?
+
+message_217:
+      text: And?
+
+#Multiple choice with 4 random numbers each.
+#Correct answer combo:
+#2
+#2
+#3
+#1
+#9
+#9
+#1
+
+#The safe contains RECIPE FOR DISASTER. (Item #246)
+#Get Message is in XX_MELON
+#The screen will fade out and fade in to show the image, then fade back.
+#You can also view it through inventory.
+
+
+#The recipe requires you to sacrifice ACTUAL MOLE.
+
+#Talk to the Mole with RECIPE FOR DISASTER:
+message_214:
+      text: Do you want to pick up \c[4]ACTUAL MOLE\c[0]?\!<br>There may be no turning back...
+
+message_215:
+      text: \n<ACTUAL MOLE>\quake[1]\{\{WHAT IN TARNATION!?!?
+
+message_216:
+      text: You picked up \c[4]ACTUAL MOLE\c[0].
+#(Note: Once you pick up the ACTUAL MOLE, you won't be able to leave.)
+#ACTUAL MOLE is Item #248
+
+#Talk to the summoning circle. (XX_MELON.message_79)
+
+#After you sacrifice the ACTUAL MOLE, the map starts rumbling, the screen begins shaking and turning black.
+
+#You and your party will spawn to the top of this map. The boulder will appear and start chasing you down.
+
+#If you die here, it'll play the funeral song like you died.
+#Then you'll respawn at the top of the boulder map infinitely.
+
+#If you fall “survive” and fall through the hole at the bottom, the screen will turn black, then there will be a falling noise and then a crash signifying you hit the ground. Then it'll play the funeral song like you died. (Either way, you “die.”)
+
+#Instead of GAME OVER, you find yourself in the left pantry with 3 TOASTS around you (your party members).
+
+#OMORI pops out from the middle of the flour pile, covered in flour.
+
+#Orange = party members Green = Life Jam watermelons
+
+#You must gather the LIFE JAM around the room and use the LIFE JAM on the TOASTS to revive them.
+#After you revive each member, they join your party.
+
+
+
+message_220:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubOMORI! You saved me!
+
+#*AUBREY twirl*
+
+message_221:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubThank you... I thought I was TOAST for sure!
+
+#AUBREY joins your party.
+
+#KEL looks around
+
+message_222:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\quake[1]\com[2]\{AHHHHH!! WHERE AM I!?
+
+#*KEL jumps*
+
+message_223:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelOh, hey guys! What'd I miss?
+
+#KEL joins your party.
+
+message_224:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herUrf...
+
+message_225:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubWelcome back, HERO! How are you feeling?
+
+message_226:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herI feel...\! dizzy...
+
+message_227:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text:  \her\com[2]W-Whoa!\! Hey, where are we?
+
+message_228:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \kelI dunno...\! Maybe a place where all abandoned TOAST goes...
+
+message_229:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text:  \herWell, we sure as heck aren't TOAST anymore!\! Let's hurry and find a way out of here!
+
+
+#Walk to the top of the staircase and Biscuit and Doughie will challenge you.
+#Their dialogue was edited in dreamworld_extras_doomtomb.yaml. (message 63 - 110)
+#You can win or lose to them and it'll produce the same result except for a few lines of text.
+#Note: Maybe ingredients on the table should be gone after you defeat them.
+
+#After you fight them, Biscuit and Doughie leave using the portal above them.
+
+#When party uses portal, they pop out of the sand in toast graveyard one by one like zombies.  Then they align into party formation.
+
+#-----------
+#After entering BISCUIT and DOUGHIE's lair:
+message_63:
+      text: \n<DOUGHIE>We were born to make bread forever, day in and day out...\! \sinv[1]Fresh bread...\| Fresh bread...\| Fresh bread...\sinv[0]
+
+message_64:
+      text: \n<DOUGHIE>It's a hard life... and it's not very rewarding...<br>but this is all we have...\!<Br>We just have to be grateful, right BISCUIT?
+
+message_65:
+      text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
+
+message_66:
+      text: \n<DOUGHIE>That's right, brother...\! This has always been our life...\! trapped in an endless circle of bread.
+
+message_67:
+      text: \n<BISCUIT>\sinv[1]Ohooooooooo...\sinv[0]
+
+message_68:
+      text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
+
+message_69:
+      text: \n<BISCUIT AND DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelSo this is where the wailing was coming from!
+
+message_71:
+      text: \n<DOUGHIE>\Com[2]Ah!\! The bread...\! It has spoken!\!<br>I knew that our bread would come back to haunt us eventually...
+
+message_72:
+      text: \n<DOUGHIE>Come, BISCUIT!<br>We must destroy them before they destroy us first!
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelWait a sec... We're not-
+
+message_74:
+      text: \n<BISCUIT>\sinv[1]Ohooooooooo!\sinv[0]
+
+message_75:
+      text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
+
+message_76:
+      text: \n<BISCUIT AND DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
+
+#After fighting BISCUIT and DOUGHIE and WINNING:
+
+message_78:
+      text: \n<DOUGHIE>Huff...\! Huff...\! We're all out of JUICE...\!<br>It seems...\| that this is the end for us, BISCUIT...
+
+message_79:
+      text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
+
+#then continue to after win/lose text (message 85+)
+
+#After fighting BISCUIT and DOUGHIE and LOSING:
+#party members are lying on the floor
+
+#biscuit and doughie look at each other
+
+message_80:
+      text: \n<DOUGHIE>\{\sinv[1]HURRAY! WE ARE VICTORIOUS!!
+
+message_81:
+      text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
+
+#party members get up one by one
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Hey...\! Is everyone okay?\her
+
+message_83:
+      text: \n<DOUGHIE>Brother!\! The living bread has risen again!
+
+#DOUGHIE looks around
+message_84:
+      text: \n<DOUGHIE>But we don't have any more ingredients...\! Perhaps this is the end for us, BISCUIT...
+
+message_85:
+      text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
+
+#After win/lose text always continues to this same part:
+
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kel\Com[2]Wait!\! We're not bread...\! We're kids, just like you!
+
+message_87:
+      text: \n<DOUGHIE>You...\! You mean you're not here to destroy us?
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubOf course not!\! We would never attack unprovoked!
+
+message_89:
+      text: \n<DOUGHIE>You hear that, BISCUIT?\! We're saved!\! <br>Now it's back to baking...\!<br>\sinv[1]Fresh bread...\| Fresh bread...\| Fresh bread...\sinv[0]
+
+message_90:
+      text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
+
+#they bake for a while
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herHey... so...\! How long have you guys been baking bread here?\!<br>Don't you want to go outside and get some fresh air?
+
+message_92:
+      text: \n<DOUGHIE>\sinv[1]Ohoo...\sinv[0]\! If only that were possible...\!<br>We've been trapped here since the inception of the universe...
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubWow... That sounds like a pretty long time.\! I think you both deserve a break!
+
+message_94:
+      text: \n<DOUGHIE>\Com[2]What? That's preposterous!\! What meaning do our lives have if we do not spend it baking bread?
+
+message_95:
+      text: \n<BISCUIT>\sinv[1]Ohoo?\sinv[0]
+
+message_96:
+      text: \n<DOUGHIE>If we were to leave our bread-making stations... what would we do with ourselves?\! This is the only life we know...
+
+#pause
+
+message_97:
+      text: \n<DOUGHIE>And yet...\! My morbid curiosity overwhelms me...
+
+message_98:
+      text: \n<DOUGHIE>That portal up there is able to transport us out of this place.
+
+message_99:
+      text: \n<DOUGHIE>We've used it countless times to fulfill our bread summonings, but we have never seen the other side for ourselves...
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWell, we have!\! And let me tell you... It's a big, awesome world out there!\! I think it's about time that you guys start exploring new possibilities!
+
+#[Doughie and BISCUIT face each other]
+
+message_101:
+      text: \n<DOUGHIE>Hmm...\! Tempting...
+
+#face each other
+
+message_102:
+      text: \n<DOUGHIE>Well? What do you think, BISCUIT?
+
+message_103:
+      text: \n<BISCUIT>\sinv[1]Ohoo...
+
+message_104:
+      text: \n<DOUGHIE>\}Mhmm...\| I'm listening...\| Mhmm...\| Yes...\| But...\| Ah...\| That is true...
+
+#face party
+message_105:
+      text: \n<DOUGHIE>Alright, we've changed our minds...\!<br>We want to leave...\! This place sucks!
+
+message_106:
+      text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
+
+#face each other
+
+message_107:
+      text: \n<DOUGHIE>BISCUIT...\! We've always been afraid to use the portal...
+
+message_108:
+      text: \n<DOUGHIE>But perhaps it's time for change...
+
+#walk to portal
+
+message_109:
+      text: \n<DOUGHIE>Come on, brother!\!<br>\Com[2]Let's experience our first taste of freedom!
+
+message_110:
+      text: \n<BISCUIT AND DOUGHIE>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
+
+#[BISCUIT & DOUGHIE go into the portal]
+
+message_500:
+      text: You used \c[3]LIFE JAM\c[0] on AUBREY.
+
+message_501:
+      text: You used \c[3]LIFE JAM\c[0] on KEL.
+
+message_502:
+      text: You used \c[3]LIFE JAM\c[0] on HERO.
+
+message_503:
+      text: AUBREY...\! but TOAST.
+
+message_504:
+      text: KEL...\! but TOAST.
+
+message_505:
+      text: HERO...\! but TOAST.
+
+#GHOST Mole
+
+message_510:
+      text: \n<ACTUAL GHOST>\com[2]It's you!\! Don't think I've forgotten what you did!\! Anyways, just because I'm a ghost now doesn't mean I can't dig my way out of here.
+
+message_511:
+      text: \n<ACTUAL GHOST>Did you want to go back to the surface?\! You won't be able to take anything you find from the counters here with you.
+
+message_512:
+      text: \n<ACTUAL GHOST>Okay...\! But no funny business...\! Or else!
+
+message_513:
+      text: \n<ACTUAL GHOST>\com[2]I'll have you back on the surface faster than a hot knife through butter!
+
+message_515:
+      text: This PYRAMID GATE needs a \c[4]PYRAMID KEY\c[0].
+
+message_517:
+      text: The perfect spot for a sacrifice.
+
+message_518:
+      text:

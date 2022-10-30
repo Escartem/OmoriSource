@@ -1,0 +1,244 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Last Resort
+# =========================================================================================
+
+#Trigger: Enter proximity of Sweetheart.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Hey...\! Isn't that...\! SWEETHEART?\aub
+
+#KEL jumps.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HEY, SWEETHEART!! REMEMBER US!?\!\} <br>We're the kids who almost ruined your wedding!\kel
+
+#SWEETHEART looks at party.
+#SWEETHEART is surprised, then frustrated.
+
+message_2:
+      text: \Com[2]What? You four again!?\! Why do you keep showing up?\swh
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: So...\! how's married life treating ya?\kel
+
+message_4:
+      text: Ha!\! Married life is a joke!\! I ended relations with that pitiful excuse of a CAPTAIN a long time ago!\swh
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: But...\! your wedding was literally yesterday.\kel
+
+#AUBREY is worried.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, no...\! Does that mean that you and SPACE HUSBAND are...\aub
+
+message_7:
+      text: Hmph!\! He's SPACE EX-HUSBAND now for all I care!\swh
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Ouch... That poor guy...\kel
+
+#SWEETHEART looks away.
+
+message_9:
+      text: Alas! My journey has gone full circle.\!<br>It is more obvious to me now than ever that my perfect suitor does not exist!\swh
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Don't say that, SWEETHEART! <br>I'm sure your soulmate is out there somewhere!\her
+
+#SWEETHEART turns to HERO.
+
+message_11:
+      text: \sinv[1]Oh, my sweet HERO! \!How I've longed for your voice!\swh
+
+message_12:
+      text: But no... I must refrain.\! I've already decided my path.\! <br>Searching for a suitor is much too old-fashioned for me...\swh
+
+message_13:
+      text: \sinv[1]So I've decided that I will simply just make one!\swh
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: W-What?\! M-Make a suitor?\! Is that even possible!?\her
+
+message_15:
+      text: By regular-people means no!\! But a wealthy person, such as myself, does not abide by such rules!\swh
+
+message_16:
+      text: I'm going some place only filthy rich people, like myself, can afford...\! To a family of sea witches that specialize in clients with...\! special demands.\swh
+
+message_17:
+      text: Toodle-loo, peasants!\! I'm late for my appointment!\swh
+
+#SWEETHEART leaves O.S.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: So...\! should we follow her...\! or what?\kel
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: I feel like every time SWEETHEART shows up, something bad happens.\aub
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Yeah...\! When it comes to disaster...\!<br>she's in a league of her own.\her
+
+# =========================================================================================
+# Cutscene: Humphrey
+# =========================================================================================
+
+#Trigger: Enter Humphrey's Cave.
+
+
+#[Trigger: Enter proximity of Humphrey]
+
+#Humphrey speaking:
+message_42:
+      text: Whale hello there friends!\! The name is HUMPHREY.\! What brings you here to my humble little cave?\who
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Oh, hello HUMPHREY! We're just looking for someone.\! Sorry if we're bothering you.\aub
+
+message_44:
+      text: Oh no, not at all, children! I do love visitors.\n<HUMPHREY>
+
+message_45:
+      text: In fact, you are the second group to visit me today!\!<br>The first was just a girl... A very loud girl with a big, red bow.\n<HUMPHREY>
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Doesn't that sound like someone we know?\kel
+
+#HERO is surprised and begins to look around frantically.
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Huh? Is SWEETHEART here?\! Where is she?\her
+
+message_48:
+      text: Hmm...\! Where is she? Where is she?\!<br>It's on the tip of my tongue...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>That's a joke, it is!\! She is...\! inside me, you see?\n<HUMPHREY>
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: S-She's... inside you?\aub
+
+message_50:
+      text: Why, yes!\! She is visiting my guests, for I am also home to a family of sea witches!\n<HUMPHREY>
+
+message_51:
+      text: We spend our time together, chatting and chuckling.\!<br>It is so fun to hear about their daily antics.\! Sometimes <br>they are even so kind as to bring me my meals!\n<HUMPHREY>
+
+message_52:
+      text: It's much easier for them, you see, for they are closer to my <br>belly than I.\! In fact, I'm sure they'd love even more visitors!\!\n<HUMPHREY>
+
+message_55:
+      text: Here!\! Let me lower the bridge for you.\n<HUMPHREY>
+#HUMPHREY's mouth opens.
+
+message_53:
+      text: \quake[1]Mle\{hh\{hhhh...\quake[0]\n<HUMPHREY>
+
+#HUMPHREY's tongue creates pathway.
+#HUMPHREY burps.
+
+message_54:
+      text: My apologies...\!<br>The first guest seems to be causing some indigestion.\n<HUMPHREY>
+
+# =========================================================================================
+# Cutscene: Where do we start?
+# =========================================================================================
+
+#Trigger: Enter Humphrey.
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Whoa, HUMPHREY's belly is huge!\kel
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: It sure looks easy to get lost in here...\aub
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: I bet if I yell, it'd make an \sinv[1]ECHO\{OOOO!\kel
+
+#HUMPHREY appears as a lump in front of party.
+
+message_73:
+      text: \sinv[1]ECH\{OOO\{OOOO...\}echo...\}echo...\}echo...!\n<HUMPHREY>
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \Com[2]Ahhh!\! Where'd you come from?\kel
+
+
+message_75:
+      text: Whalecome to my lair.\! Are you surprised to see me?<br>\!I am always here.\! I am inside me, and all around you!\n<HUMPHREY>
+
+#HUMPHREY lumps appear all around.
+
+message_76:
+      text: I'm everywhere!\n<HUMPHREY>
+
+#HUMPHREY lumps disappear and one HUMPHREY lump appears in front KEL.
+
+message_77:
+      text: Or I am just here!\n<HUMPHREY>
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Wow, that's so cool, HUMPHREY! <br>\!I wish I could do that.\kel
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: It's kind of gross if you ask me.\aub
+
+#HUMPHREY appears in front of AUBREY.
+
+message_80:
+      text: Wow...\! So rude...\n<HUMPHREY>
+
+#HERO walks toward the center of the map and looks around.
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmm...\! There are many ways to go...\!<br>Where should we even start?\her
+
+#HUMPHREY appears in front of HERO.
+
+message_82:
+      text: Left...\! Right...\! Up...\! Around...\! <br>Does it matter?\! It's all forward isn't it?\! <br>Just pick one! It's easy!\n<HUMPHREY>
+
+message_83:
+      text: \n<HUMPHREY>\{\sinv[1]YOOOOO-HOOOOOOOOOO~!!

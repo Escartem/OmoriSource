@@ -1,0 +1,34 @@
+
+# =========================================================================================
+# STARGAZING
+# ========================================================================================
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelWow, Miss. You sure are tall...
+
+message_2:
+    text: \n<PO>Thank you, little one!\!<br>It's more of a hassle most of the time... <br>but I do get a better view of the stars.
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\Com[2]What! Being tall isn't a hassle!\!<br>Everything is better when you're tall.
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelOne day, I'm going to be as tall as you!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubYeah sure, \n[3]. Keep dreaming...
+
+# =========================================================================================
+# PO - DEFAULT
+# =========================================================================================
+
+message_6:
+    text: \n<PO>Watching the stars at night makes everything else in the world seem so small.

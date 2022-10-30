@@ -1,0 +1,12 @@
+{ "columns":1,
+ "image":"..\/img\/tilesets\/sgl_test.png",
+ "imageheight":64,
+ "imagewidth":32,
+ "margin":0,
+ "name":"sgl_test",
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":64,
+ "tilewidth":32,
+ "type":"tileset"
+}

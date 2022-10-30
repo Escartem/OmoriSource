@@ -1,0 +1,116 @@
+
+# =========================================================================================
+# Crow Friends
+# ========================================================================================
+
+message_1:
+    text: \n<MR. SCARECROW>Ah, a stranger.\!<br>Thank you for having the time to talk with me...
+
+message_2:
+    text: \n<MR. SCARECROW>I apologize, but I'm afraid I must burden you with a task I cannot complete with my own capabilities.
+#original line was about being "in a rut", which means something else entirely
+message_3:
+    text: \n<MR. SCARECROW>Quite recently and suddenly, a rogue planet burst across the sky at an alarmingly fast pace.\! My three dearest friends panicked and flew off in separate directions...
+
+message_4:
+    text: \n<MR. SCARECROW>My three friends are crows, you see, and are not the most friendly nor welcoming of creatures.
+
+message_5:
+    text: \n<MR. SCARECROW>I'm a bit wary to ask such an immense favor from a complete stranger, but there aren't many who pass through these fields.
+
+message_6:
+    text: \n<MR. SCARECROW>If I may ask...\!<br>Would you be willing to help me find my dear friends?
+
+message_7:
+    text: \n<MR. SCARECROW>Oh, thank you, stranger!\!<br>Words cannot begin to express what this means to me.
+
+message_8:
+    text: \n<MR. SCARECROW>Now I shall await their return patiently.\! For as you can see... \! Without them,\! I am just a stick in the mud.
+
+message_9:
+    text: \n<MR. SCARECROW>I see...\! That's very understandable.\! I'm afraid this request is too much to ask from a complete stranger.
+
+# Talking to Crow WITHOUT Hero as Leader
+
+message_10:
+    text: \n<CROW>...
+
+message_11:
+    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! charming?
+
+message_12:
+    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! handsome?
+
+message_13:
+    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! eloquent?
+
+
+# Talking to Crow 1 with Hero as Leader
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herHey there, little guy.\!<br>Your friend MR. SCARECROW really misses you, you know?\!<br>I can help you find him if you'd like.
+
+message_15:
+    text: \n<CROW>Caw, caw!\!<br>(Please do, if it's not too much of a bother. I miss him, too!)
+# Crows caw, not squawk
+# Talking to Crow 2 with Hero as Leader
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herHey, buddy.\!<br>You want me to take you back to your friend, MR. SCARECROW?
+
+message_17:
+    text: \n<CROW>Caw!!!!\! (Yes! Yes! Yes! Where is my friend? Take me to him!!)
+
+# Talking to Crow 3 with Hero as Leader
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herGreetings, my feathered friend.\!<br>Would you like to return to MR. SCARECROW?\!<br>He can't wait to be with you again.
+message_19:
+    text: \n<CROW>Caw caw.\! (Ah, yes. That would be immensely desirable.)
+
+# Talking to MR. SCARECROW before finding his friends
+
+message_20:
+      text: \n<MR. SCARECROW>My friends...\! Where could they have flown off to?\!<br>I hope they're all doing well...
+
+# Talking to MR. SCARECROW before finding his friends
+
+message_21:
+    text: \n<MR. SCARECROW>Oh, thank you, stranger!\!<br>Words still cannot express what this means to me.
+
+message_22:
+    text: The CROW left your party to be with his friend.
+
+message_23:
+    text: \n<MR. SCARECROW>Now I shall wait for the others to return.\!<br>For as you can see...\! Without them,\! I am just a stick in the mud.
+
+# Talking to MR. SCARECROW after finding his friends
+
+message_24:
+    text: \n<MR. SCARECROW>My friends! They all have returned!
+
+message_25:
+    text: \n<MR. SCARECROW>I cannot thank you enough for your help.\!<br>Now it is time for me to take my leave.
+
+message_26:
+    text: \n<MR. SCARECROW>Goodbye, kind stranger.\! I hope we will meet again one day.
+
+message_29:
+    text: You got a \c[13]5-LEAF CLOVER\c[0].
+
+# Talking to Crows before Quest is Accepted
+
+
+message_27:
+    text: A lonely CROW picks at the dirt.<br>\!It doesn't seem to notice you.
+
+# Talking to Crows at MR. SCARECROW before Quest is Fully Completed
+
+message_28:
+    text: The CROW seems content.

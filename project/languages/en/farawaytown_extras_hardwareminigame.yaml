@@ -1,0 +1,99 @@
+# =========================================================================================
+# MINI-GAME: Hardware Store
+# =========================================================================================
+
+
+message_19:
+      text: You see a 'HELP WANTED' poster for a short-term hardware sorting job.
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh! You're taking this job, \n[8]?\! In that case, I'll come back for you later.\! Work hard, okay?
+
+#Intro
+message_0:
+      text: \n<FIX-IT GUY>Yo, kid! I see you staring at that HELP WANTED poster!\!<br>You interested in a quick job?
+
+#[Nod/Shake]
+#[Nod]
+message_1:
+      text: \n<FIX-IT GUY>That's awesome, kid!\! I'll help you get started.
+#[Shake]
+message_2:
+      text: \n<FIX-IT GUY>Well, alright.<br>\!If you ever want some extra cash, just let me know.
+
+#Tool Names
+message_3:
+      text: DRILL
+
+message_4:
+      text: TAPE
+
+message_5:
+      text: SHOVEL
+
+message_6:
+      text: SAW
+
+message_7:
+      text: HAMMER
+
+message_8:
+      text: WRENCH
+
+message_9:
+      text: Do you want to put \v[815] here?
+
+message_10:
+      text: What do you want to replace?
+
+message_11:
+      text: You put the \v[813] where the \v[815] was.
+
+message_12:
+      text: You have a \v[815] in your hands.
+
+message_13:
+      text: You put the \v[815] here.
+
+message_14:
+      text: What do you want to pick up?
+
+message_15:
+      text: You grab the \v[815].
+
+# Trying to leave the shop without finishing your job
+message_16:
+      text: \n<FIX-IT GUY>Hey! Where do you think you're going?
+
+message_17:
+      text: \n<FIX-IT GUY>I thought we had a deal!\! Fix the displays and you'll get paid!
+
+# Complete
+message_18:
+      text: Everything is finally in its rightful place.
+
+#Rule Explanation
+message_23:
+      text: \n<FIX-IT GUY>Alright, kid.\! Take a good look at those shelves behind you and you'll probably notice that everything's a big jumbled mess!
+
+message_24:
+      text: \n<FIX-IT GUY>You'd think with a sign above the shelf it'd be obvious where to put things, but people just don't give a crap these days...\! Sigh...\! I hate working retail...
+
+message_21:
+      text: \n<FIX-IT GUY>Anyway, the sign above the shelf shows what product should be on display.\! Your job is to move everything back to its rightful place, got it?\! I'm countin' on you, kid.
+
+#Quest Finish
+
+message_22:
+      text: \n<FIX-IT GUY>\sinv[1]Snore...\| Snore...\!\sinv[0] H-Huh? What? You're finally done?\!<br>Excellent work, kid!\! Here's $30.00!\!<br>Don't spend it all in one place!
+
+#Return to Party:
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \KelHey, \n[8]! How'd you do?\! While you were working,<br>I decided to play some basketball at the park!\!<br>Man, that was fun...\! Well...\! I'm ready to go when you are!
+
+message_30:
+      text: \n<FIX-IT GUY>Hmm...\! Let's see here...\! Uh... yeah! You're almost there!\! Just get in the zone!

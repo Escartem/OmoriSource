@@ -1,0 +1,404 @@
+# =========================================================================================
+# PLUTO ON THE RUN
+# =========================================================================================
+
+message_0:
+    text: \n<SPACE PIRATE DUDE>\Com[2]\{HOLD IT RIGHT THERE!!
+
+message_1:
+    text: \n<SPACE PIRATE BUDDY>We've finally found you, PLUTO!<br>\{THERE'S NO ESCAPE!!
+
+#PLUTO runs into snaley and knocks him away
+
+message_2:
+    text: \who\}Oh, no...\! My gigantic, well-defined arms and legs are giving out.
+
+message_52:
+    text: \whoI can't let it end like this.<br>I need to find a hiding place!
+
+#PLUTO looks around in a panic and turns to party
+
+message_3:
+    text: \whoHey, you there!\} Huff... Huff...\!<br>Please...\! Lend me your assistance!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herH-Huh? Ohh... uhh... well...\! err...
+
+message_5:
+    text: \who\{HURRY! I DON'T HAVE MUCH TIME!!
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelYou need a place to hide, huh...
+
+#HERO looks around
+#HERO faces away from pluto
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{A-HA! I GOT IT!!
+
+#HERO turns back to PLUTO
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelYou can rest easy now! I got this all under control.
+
+# =========================================================================================
+# PLUTO IN HIDING
+# =========================================================================================
+
+#PLUTO is hiding in a crater with plant
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelOkay, that should do it!
+
+#HERO looks up
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herShoot, they're coming!
+
+#HERO looks at party
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herQuick, everyone... act natural!
+
+#PARTY members surround the crater looking up
+
+#SPACE PIRATES walk in
+
+message_10:
+    text: \n<SPACE PIRATE BUDDY>\}Huff... Huff...\! Dangit! We lost him!
+
+#SPACE PIRATE turns to party
+
+message_11:
+    text: \n<SPACE PIRATE DUDE>Hey, you kids! We're looking for a high-profile and very expensive rogue planet named PLUTO.\! He's a big, circular, gray-ish guy with huge, bulging muscles.
+
+message_12:
+    text: \n<SPACE PIRATE DUDE>Kind of hard to miss...\!<br>Have you seen him?
+
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: \aubU-Ummmmm...
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelUhhhhh...
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herN-No? Can't say we have...
+
+message_16:
+    text: \n<SPACE PIRATE DUDE>Really?\! ... ... ... \!Well, that's life!\!<br>Come on, dude! Let's keep searching.\!<br>We'll find him eventually!
+
+#SPACE PIRATES leave
+#KEL turns around
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\}Okay, sir... The coast is clear.\{
+
+#PLUTO pops out of crater, potted plant drops
+#PLUTO laugh
+
+message_18:
+    text: \who\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_19:
+    text: \whoSuch quick thinking! I'm impressed!
+
+message_20:
+    text: \whoYou have my eternal gratitude.<br>What are your names, if I may ask?
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herI'm HERO, and these are my friends AUBREY, KEL, and OMORI.
+
+message_22:
+    text: \whoI see! Fine names for fine young people!
+
+message_23:
+    text: \pluMy name is PLUTO, and I am a rogue planet...\!<br>A vagabond if you will.\! I do apologize for causing everyone<br>so much trouble.
+
+message_24:
+    text: \pluBut...\! I feel that it is not my purpose to act as a mere yard decoration.
+
+#PLUTO turns up
+#Background below turns into space parallax
+
+message_25:
+    text: \pluI want the freedom to roam the sky as I please, like the birds and the stars!
+
+message_26:
+    text: \pluIf that makes me a rogue planet, then so be it.<br>\!They can call me what they please,<br>so long as I'm free to do as I please!
+
+#Background below turns to normal
+#PLUTO turns to party
+
+message_27:
+    text: \plu\Com[2]My soul yearns for freedom!\!<br>You understand... Don't you, children?
+
+#HERO turns to KEL
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herW-Whoa! KEL, are you crying??
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\}Sniff... Such raw emotion...\! I'm touched...<br>\!That was beautiful, PLUTO...
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 5
+    text: \aub\}Sniff... Sniff...\! You said it, KEL.
+
+#HERO turns to AUBREY
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herWait, you too AUBREY??
+
+
+message_32:
+    text: \pluNow, at long last...\!<br>I am finally free to follow my lifelong dream...\!<br>of running my own transportation company!
+
+message_33:
+    text: \pluI'm going to call it “PLUTO'S SPACELINE”!
+
+#message 18
+
+message_34:
+    text: \pluThis realization has reinvigorated me!\!<br>And since you have helped me in such a selfless way, I must return the favor!
+
+message_35:
+    text: \plu...\! Ahem!\! I am PLUTO of "PLUTO'S SPACELINE" now.\!<br>Please pretend you have just arrived at a transportation station.
+
+#PLUTO turns around
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herOh, okay!\! Uh...\! Hello?\! PLUTO?
+
+#PLUTO shake
+#PLUTO turn to party
+
+#message18
+
+message_37:
+    text: \plu\Com[2]\quake[1]\{GREETINGS FROM \Com[2]PLUTO'S SPACELINE!!!\}
+
+message_38:
+    text: \plu\Com[2]\{WHERE WOULD YOU \Com[2]LIKE TO \Com[2]GO<br>TODAY,\Com[2] YOUNG \Com[2]TRAVELERS??
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herGah!
+
+message_40:
+    text: \pluOh, was that too much?<br>\!Hm.\! I should try to tone it down...\!<br>Let's try this again!
+
+#PLUTO turns back
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herNo, it's okay!<br>We'd just like to go back to the campsite, please!
+
+
+message_43:
+    text: \pluSo you want to go to the \c[11]OTHERWORLD\c[0] campsite?\!<br>...\! Ah, my first request...\! \sinv[1]how exciting!
+
+#PLUTO turn facing away
+#PLUTO shake
+
+message_54:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \kel\}Oh no... Here it comes...
+
+message_53:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+#PLUTO turn to party
+
+message_42:
+    text: \pluOne ride to \c[11]OTHERWORLD\c[0] campsite, coming right up!
+
+message_49:
+    text: \pluI won't let you down, young travelers!\!<br>Leave the rest to me!
+
+
+# =========================================================================================
+# PLUTO - TAKE OFF
+# =========================================================================================
+
+message_44:
+    text: \pluIs everyone strapped in?
+
+message_45:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelWait, hold on! I'm not ready yet!
+
+message_46:
+    text: \plu3...\! \{2...\! \{1...\! \Com[2]\{\sinv[1]LIFT-OFF!!
+
+# =========================================================================================
+# FLEX
+# =========================================================================================
+
+message_128:
+    text: \pluHow was that for a smooth ride?
+
+message_129:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herComfortable environment and relaxing music.<br>I'd give it five out of five stars!
+
+message_130:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel\}Huff... Huff...\! Says you!\! I can't even feel my arms anymore...
+
+message_131:
+    text: \pluKEL, I have to say... You did a great job holding on for dear life back there.
+
+message_132:
+    text: \pluYou have the potential to be very strong!\! Let me teach you a \c[1]SKILL\c[0] that might be useful in the future.
+
+message_133:
+    text: \pluAhem...\! Repeat after me.
+
+message_134:
+    text: \plu\Com[2]\{\quake[1]WHEN I \c[1]FLEX\c[0], I FEEL MY BEST!!\}
+
+message_135:
+    text: \pluNow you try.
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]\{WHEN I \c[1]FLEX\c[0],\} I feel \}my...
+
+message_137:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelBest?
+
+message_138:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelWhoa! That felt amazing! I'm pumped!
+
+message_139:
+    text: \plu\}Hm...\! It could use a little work.\! But nevertheless...\{
+
+message_140:
+    text: \pluYou've definitely got the power within you!<br>\!Take this lesson and use it well.
+
+message_141:
+    text: \pluFarewell, children. Until next time!
+
+message_142:
+    text: KEL learned \c[1]FLEX\c[0]!
+
+# =========================================================================================
+# AFTER SBF
+# =========================================================================================
+
+#message_60:
+#    text: \pluGreetings, children. I sensed you were in need of a ride, so I decided to wait here and \c[1]FLEX\c[0] in the meantime. How about it?
+
+#message_61:
+#    text: \pluExcellent! Hop aboard!
+
+# =========================================================================================
+# PLUTO'S RIDE
+# =========================================================================================
+
+message_47:
+    text: \pluGreetings and welcome to PLUTO'S SPACELINE!<br>Where will your journey take you today?
+
+message_48:
+    text: \pluYou got it.\! Now... Just sit back, relax, and enjoy the ride.
+
+message_200:
+    text: \pluSo you want to go to \v[1000]?
+
+message_210:
+    text: \pluDidn't you say you wanted to go to the \c[11]OTHERWORLD\c[0] campsite?\! Just sit back, relax, and enjoy the ride.\! This one's on me!
+
+#YES --> You got it (message 48)
+#NO --> Greetings and welcome... (message 47)
+
+# =========================================================================================
+# SNALEY
+# =========================================================================================
+
+message_100:
+  text: \n<SNALEY>Lovely weather, isn't it?
+
+message_101:
+  text: \n<SNALEY>Oh, goodness! \!Am I in your way?\!<br>I'm so sorry.\! I'll move over.
+
+# =========================================================================================
+# PLUTO DOCK
+# =========================================================================================
+
+#SFX DING DONG OR SOMETHING
+message_120:
+  text: Greetings and welcome to PLUTO'S SPACELINE!<br><br>Would you like to wait for PLUTO?
+
+#BEFORE CUTSCENE
+message_121:
+  text: An empty docking station.
+
+# =========================================================================================
+# LOCATIONS
+# =========================================================================================
+
+message_160:
+  text: OTHERWORLD
+
+message_161:
+  text: ORANGE OASIS
+
+message_162:
+  text: VAST FOREST
+
+message_163:
+  text: PYREFLY FOREST
+
+message_164:
+  text: DEEP WELL
+
+message_165:
+  text: SNOWGLOBE MOUNTAIN
+
+#Missing
+message_170:
+  text: You waited for PLUTO...\! but no one came.

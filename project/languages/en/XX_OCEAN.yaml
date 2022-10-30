@@ -1,0 +1,1606 @@
+#=========================================================================================
+# Messages to be replaced
+#=========================================================================================
+
+
+#=========================Location: x==============================
+#== x scene is happening
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubHold on a second, guys. I'm kinda thirsty.<br>\!Hmm...\! Which one should I get?
+
+#=========================Location: Kims mom in front of house==============================
+#== Missing shears sidequest
+
+message_20:
+      text: You handed over the \c[4]\c[4]GARDEN SHEARS\c[0]\c[0] to RED-GLASSES LADY.
+
+#=========================Location: Cris house==============================
+#== Wheres the remote sidequest
+
+message_30:
+      text: You see a \c[4]TV REMOTE\c[0] under the couch.\! You leave it alone for now.
+
+message_31:
+      text: You see a \c[4]TV REMOTE\c[0] between the towels in the bathroom cabinet.\! You leave it alone for now.
+
+message_32:
+      text: You see a \c[4]TV REMOTE\c[0] in the pie.\! ...\! You leave it alone for now.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey, is that a \c[4]TV REMOTE\c[0] you have there, \n[8]?\!<br>It's not nice to steal things, y'know?
+
+#=========================Location: Fixit==============================
+#== Pick up furniture sidequest
+
+message_40:
+      text: The STRANGE MAN gave you $50.00 to buy a \c[4]FLOOR LAMP\c[0].
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hold on, \n[8]! We can't just leave with all this money!\! We have to buy a \c[4]FLOOR LAMP\c[0] first!
+
+message_42:
+      text: \n<FIX-IT GUY>So you kids wanna to buy a \c[4]FLOOR LAMP\c[0], huh?\! Well, the one you're looking at costs about...\! uh...\! $50.00.\! Do you want it or not?
+
+message_43:
+      text: \n<FIX-IT GUY>Cool, here's your brand-new \c[4]FLOOR LAMP\c[0].\!<br>No refunds or exchanges, alright?\! It's company policy.
+
+#=========================Location: Orange Guy in front of OTHERMART=============================
+#== Fruitwarbrayden
+
+#If you are wearing a red headband
+message_51:
+      text: \n<ORANGE GUY>Egad!\! Is that a...\! \c[13]RED HEADBAND\c[0]...\! you are wearing?\! I refuse to serve you any \c[3]ORANGE JUICE\c[0] until you take that off!
+
+#After buying 5 Orange juices
+message_52:
+      text: \n<ORANGE GUY>Oh, right! Before you go, here's a small gift for being such a loyal customer!\! It's an \c[13]ORANGE HEADBAND\c[0], the color of oranges!\! There is nothing better!
+
+#If HERO is wearing a red headband
+message_53:
+      text: \n<ORANGE GUY>I see one of your friends is wearing a \c[13]RED HEADBAND\c[0]...\! Although I do not normally approve, it suits him quite nicely.\! I will forgive him, but just this once!
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herWow! Thanks!
+
+#Receive orange headband
+message_55:
+      text: You got an \c[13]ORANGE HEADBAND\c[0]!
+
+#=========================Location: Apple Guy in the park=============================
+#== Fruitwaradrian
+
+#While wearing an Orange Headband
+message_60:
+      text: \n<APPLE GUY>Egad!\! Is that a...\! \c[13]ORANGE HEADBAND\c[0]...\! you are wearing? I refuse to serve you any \c[3]APPLE JUICE\c[0] until you take that off!
+
+#After buying 5 Apple juices
+message_61:
+      text: \n<APPLE GUY>Oh, right! Before you go, here's a small gift for being such a loyal customer!\! It's a \c[13]RED HEADBAND\c[0], the color of apples!\! Wear it with pride!
+
+#If HERO is wearing an orange headband
+message_62:
+      text: \n<APPLE GUY>I see one of your friends is wearing an \c[13]ORANGE HEADBAND\c[0]...\! Although I do not normally approve, it suits him quite nicely.\! I will forgive him, but just this once!
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herWow! Thanks!
+
+#Receive Red Headband
+message_64:
+      text: You got a \c[13]RED HEADBAND\c[0]!
+
+#=========================Location:Vances house =============================
+#== Fix pipe
+
+#Day 1 reward
+message_70:
+      text: \n<GRUFF GUY>Here's $1.00, kids.\! Go get yourselves some \c[3]CANDY\c[0] or something.
+
+#Day 2 reward
+message_71:
+      text: You look into the man-shaped hole...\! and find a \c[4]SEASHELL\c[0]!
+
+#If pipe is completely fixed
+message_72:
+      text: \n<GRUFF GUY>Thanks for supporting me through the tough times.\! If only there was a way I could repay you...\!<br><br>Oh, I know! Here's a \c[4]CD\c[0] I found the other day!<br>\! That should do the trick!
+
+message_73:
+      text: \n<GRUFF GUY>\sinv[1]Grumble, grumble...
+
+message_74:
+      text: You look into the man-shaped hole...
+
+#=========================Location: Jesses house=============================
+#== Birthday gift 2
+
+#Talk to Jesses dad before you talk to Jesse
+message_80:
+      text: \n<WRINKLY FOREHEAD>It's my son's birthday today!\! ...\! If only I could get him out of his room to celebrate!
+
+message_81:
+      text: \n<WRINKLY FOREHEAD>Sigh...\! I even bought \c[3]CAKE\c[0]...
+
+#Talk to Jesses dad after you talk to Jesse
+message_82:
+      text: You got a \c[3]CAKE\c[0]!
+
+#=========================Location: Candy store=============================
+#== Anniversary chocolate
+
+
+message_90:
+      text: \n<CLUMSY GUY>Here! Take some \c[3]CANDY\c[0] for your help!\! I'm sure my wife won't mind sharing!
+
+message_91:
+      text: \n<CLUMSY GUY>Here! Take some \c[3]CARAMEL APPLES\c[0] for your help!\! I'm sure my wife won't mind sharing!
+
+message_92:
+      text: \n<CLUMSY GUY>Here! Take some \c[3]CHOCOLATE\c[0] for your help!\! I'm sure my wife won't mind sharing!
+
+message_93:
+      text: What would make the best anniversary gift?
+
+message_94:
+      text: \c[3]CHOCOLATE\c[0]
+
+message_95:
+      text: \c[3]CANDY\c[0]
+
+message_96:
+      text: \c[3]CARAMEL APPLES\c[0]
+
+
+#=========================Location: General=============================
+#== Kels blocking you when you need to go elsewhere
+
+message_100:
+      text: There is nothing here.
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHold on, that's not the way to \c[11]HOBBEEZ\c[0]!\!<br>Don't you remember, \n[8]?\!<br>It's in the \c[11]TOWN PLAZA\c[0] north of here!
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCome on, \n[8], let's go to \c[11]HOBBEEZ\c[0] first!
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey! That's not the way to \c[11]BASIL'S HOUSE\c[0]!<br>Remember what I taught you?\! It's the first house on the street diagonal to ours from the crosswalk!\!<br>Makes it easy to remember, right?
+
+message_104:
+      text: You shouldn't disturb others at night.\! It's time to go home.
+
+message_105:
+      text: You shouldn't disturb others this late at night.
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelI'll walk home with you first!
+
+message_107:
+      text: Do you want to pet this dog?
+
+message_108:
+      text: GUITAR GUY's donation box is full of cash!
+
+#=========================Location: Church=============================
+#== Day 1 Church
+
+message_110:
+      text: Do you want to go into the \c[11]CHURCH\c[0]?
+
+message_111:
+      text: You shouldn't disturb others during a sermon.
+
+message_112:
+      text: You shouldn't disturb others during a sermon.
+
+
+#=========================Location: Basils house=============================
+#== Dinner with Basil
+
+message_130:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Munch... munch... munch... munch...\!<br>What took you so long!?\kel
+
+message_131:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: POLLY and I worked really hard on this!<br>\!Hurry up and take a seat, \n[8]! \kel
+
+message_132:
+      text: POLLY and KEL's homemade dinner.\!<br>Would you like to eat some?
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]BAAAASSSIIIIIL!\! Oh, BAAAASILLLL!
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelAww... Poor guy.\! He's always had a weak stomach.\! Hope he feels better soon...
+
+message_135:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \basCome on, \n[8]! Let's have dinner...
+
+#=========================POLLY==============================
+
+#LOCATION: SUNFLOWER
+
+message_140:
+      text: \n<POLLY>Sigh...\! I thought he would be here...
+
+
+#=========================FIXIT/BASIL STREET=============================
+#QUEST: PICK UP FURNITURE
+
+message_150:
+      text: You got a \c[4]FLOOR LAMP\c[0]!
+
+# Trying to leave the shop without finishing your job
+message_151:
+      text: Hey! Where do you think you're goin'?
+
+message_152:
+      text: I thought we had a deal!\! Fix the displays and you will get paid!
+
+#Rule Explanation
+message_153:
+      text: \n<FIX-IT GUY>Take a good look at those shelves behind you and you'll probably notice that everything's a big jumbled mess!
+
+message_154:
+      text: \n<FIX-IT GUY>You'd think with a sign above the shelf, it'd be obvious where to put things, but people just don't give a crap these days...\! Sigh...\! I hate retail...
+
+message_155:
+      text: \n<FIX-IT GUY>Anyway, the sign above the shelf shows what product should be on display.\! Your job is to move everything back to its right place, got it?\! I'm countin' on you, kid.
+
+
+#=========================SHOPPING CENTER=============================
+#map flavor text
+
+message_160:
+      text: A parked car.
+
+message_161:
+      text: Oops...
+
+
+#=========================HOBBEEZ=============================
+#Hobbeez
+
+message_170:
+      text: An interesting poster.
+
+message_171:
+      text: You took \c[4]HERO'S GIFT\c[0] off the shelf.
+
+message_172:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], did you forget?\! We're holding onto a potential gift for HERO.\! We can't just waltz on out of here!
+
+message_173:
+      text: \n<SHOPKEEP>Ah... \c[4]SUPER ULTRA SPROUT MOLE EATER - REVENGE OF THE MOLES III\c[0]...\! A future classic!
+
+message_174:
+      text: \n<SHOPKEEP>Yo, champs! Just goin' on a whim here, but would you be interested in buying off my last \c[13]PET ROCK\c[0]?
+
+message_177:
+      text: \n<SHOPKEEP>They usually go for $25.00...\! but you seem like just the right guy for this one...\! so I'll let it go for $10.00!\! Whaddya say?\$
+
+message_175:
+      text: \n<SHOPKEEP>Excellent.\! You and your new \c[13]PET ROCK\c[0] are a good match.\!<br>Take good care of it!
+
+message_176:
+      text: Will you challenge this monster to a battle?
+
+#=========================Artist=============================
+#ARtists house
+
+message_180:
+      text: \artHey, stranger!\! You're just in time to help critique my latest work in progress!
+
+#=========================Pet Rock=============================
+#Pet Rock
+
+message_190:
+      text: You got a \c[13]FEDORA\c[0]...
+
+
+#=========================Shopping center=============================
+#Michaels lunch
+
+message_200:
+      text: \n<THICK EYEBROWS>My son quit school to play guitar at the \c[11]TOWN PLAZA\c[0].\! We may not get along, but I still think about him every day.
+
+message_201:
+      text: \n<GUITAR GUY>Yes! I'm just about to hit my donation goal!\! With the money I've earned, I'll finally be able to leave for the city tomorrow!
+
+message_202:
+      text: \n<GUITAR GUY>Whoa, I'm almost at my donation goal!\! With the money I've earned, I'll be able to leave for the city soon...
+
+message_203:
+      text: \n<THICK EYEBROWS>Sigh...\! That boy just ain't gonna quit...
+
+#=========================Other street=============================
+#Charlies mom
+
+message_210:
+      text: \n<YELLOW-BUN GRANNY>Oh...\! I see...\!<br>In that case, I hope my daughter shows up soon...
+
+#=========================Basils house=============================
+#Basils house day 1
+
+message_220:
+      text: \n<POLLY>Tonight for dinner we'll be making chicken vegetable soup!\! How's that sound?
+
+message_221:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelSoup and veggies!?\! Sounds nutritious and delicious!
+
+message_222:
+      text: \n<POLLY>Y-You really think so?\! I was afraid you'd be a bit disappointed...\! People always tell me that my taste is a bit bland...
+
+message_223:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelDon't worry about what other people think!<br>\!All food is good to me!\! I'll eat anything you throw at me!
+
+
+#=========================Park=============================
+#PB and J
+
+message_230:
+      text: \n<JOCK>Heya...\! So... How've you been doing lately?
+
+message_231:
+      text: \n<PRETTY BOY>I'm doing good.\! Coming to the park by myself helps me relax and gather my thoughts...\! Though, I am still glad that I bumped into you...
+
+message_232:
+      text: \n<JOCK>O-Oh, yeah? That's really cool...\!<br>I'm... uh...\! I'm glad I bumped into you too...
+
+#=========================Creepy guy=============================
+#tucker refuse pet rock
+
+#no
+message_240:
+      text: \n<CREEPY GUY>A-ha! Of course not!\! You tremble before me and cower!
+
+#=========================BRENT and JOY=============================
+#Brent
+
+message_241:
+      text: Do you want to tutor the SMART-LOOKING BOY?
+
+message_242:
+      text: Do you want to tutor the SMALL GIRL?
+
+message_243:
+      text: You got $20.00.
+
+message_244:
+      text: BUY
+
+message_245:
+      text: SELL
+
+message_246:
+      text: NOTHING
+
+#=========================Pedros Shop=============================
+#Hobbeez buying pet rock
+
+message_250:
+      text: \n<SHOPKEEP>Yo, champs! Would you be interested in buying off my last \c[13]PET ROCK\c[0]?\! These toys were a big hit with the kids about five years ago.<br>They usually go for $25.00 nowadays, but... you just seem like the right guy for this one, so I'll let it go for $10.00...\! Whaddya say?
+
+message_251:
+      text: \n<SHOPKEEP>Well, alright... but this \c[13]PET ROCK\c[0] is calling your name!\!<br>I can feel it.
+
+message_252:
+      text: \n<OLD LADY>Here is $\v[650].00 for your help! Hoho!
+
+message_253:
+      text: \n<CLUMSY GUY>\com[2]\{THANK YOU, THANK YOU, THANK YOU!!
+
+message_254:
+      text: \n<CLUMSY GUY>Please...\! I don't need a reason for my wife to be even more angry with me!
+
+#==================Kel graffiti====================
+#Day 2 Graffiti kels house
+
+message_260:
+      text: There is graffiti here written in chalk.
+
+message_261:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]What the heck!? What happened here!?<br>\!Dangit... It must have been AUBREY and the scooter gang...\kel
+
+message_262:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: ...\! \n[8], be honest! Do I smell?\kel
+
+message_263:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Hold up, \n[8]! We should pick a gift for HERO before we go!\kel
+
+message_264:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \n[8]... What are you doing?\!<br>We can't just leave without paying!\kel
+
+
+#====================Save point Faraway=======================
+
+message_270:
+      text: An empty picnic basket.\! Do you want to SAVE?
+
+message_271:
+      text: Would you like to pet the dog?
+
+message_272:
+      text: You pet the dog.
+
+message_273:
+      text: \n<GOOD DOG>\com[2]\{Bark, bark...\{ BARK!
+
+message_274:
+      text: The dog seems content.
+
+message_275:
+      text: \n<HECTOR>\com[2]\{Bark, bark...\{ BARK!
+
+message_276:
+      text: You did not pet the dog...
+
+#====================Faraway lamp=======================
+
+message_277:
+      text: You gave the \c[4]FLOOR LAMP\c[0] to FASHIONABLE MOM.
+
+message_278:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \n[8], I'll deal with AUBREY.\! You have to go help BASIL!\kel
+
+message_279:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh! You're gonna take this job?\! That's cool.\! We'll just go hang out somewhere else in the meantime.\! See you soon, \n[8]!
+
+message_280:
+      text: You got $30.00 for your hard work.
+
+message_281:
+      text: \n<PIZZA MAN>Anyway, here's some monies.\!<br>Maybe you can use it to buy some \c[3]PIZZA\c[0]!
+
+message_282:
+      text: You got $20.00 for your hard work.
+
+message_283:
+      text: You got a \c[13]PET ROCK\c[0]!
+
+message_284:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh! You're gonna take this job?\! That's cool.\! I'll just go hang out somewhere else in the meantime.\! See you soon, \n[8]!
+
+
+#====================Dreamworld=======================
+
+#When you find the rarebear in Sweetheart Castle
+
+message_290:
+      text: You found a \c[4]TEDDY BEAR\c[0]!
+
+#Reward for killing a Squizzard
+
+message_291:
+      text: You got \v[101] CLAMS!
+
+#====================POLLY 2S after finding Basil=======================
+
+message_300:
+      text: \n<POLLY>I've been taking care of BASIL for two years already, but I barely know anything about him...\! I wish he would open up about himself more.\! I just want to help...
+
+#====================  Pessie =======================
+
+message_310:
+      text: \pes\Com[2]\{\quake[1]I...\| LOVE...\| SWEETHEART!\quake[0]\}
+
+message_311:
+      text: \pesSo much so...\! that I have acquired tickets to the most prestigious \"SWEETHEART'S QUEST FOR HEARTS\" event!
+
+message_312:
+      text: \pesAlthough I was unable to obtain an ultra-rare-impossible-to-attain front row ticket...
+
+message_321:
+      text: \pesMy reputable salesman has assured me that my ticket will still seat me in a prime location!
+
+message_317:
+      text: \pesHe has also assured me that the event will start very soon, so I have been waiting here in line for many, many hours!
+
+message_313:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubHmm...\! I wonder if we should tell him...
+
+
+message_314:
+      text: \pesI am sure that at any moment, the event will begin and I will be guided to my seat by none other than SWEETHEART herself!
+
+message_315:
+      text: \pesNow...\! As I am the truest SWEETHEART fan, I could not even think of coming to the event without my most precious thing!\! Take a look at my beautiful-
+
+message_316:
+      text: \pes\com[2]\quake[1]\{W-W-WHAT'S THIS!?\! IT'S...\| MISSING!?!?
+
+message_318:
+      text: \pesNo...\! My most precious thing...\! I will not be able to attend my dream event without it!
+
+message_319:
+      text: \pesYou four!\! Since you are undoubtedly lesser SWEETHEART fans, I must ask you to find my precious thing and return it to me!\! You'll know it when you see it!
+
+message_320:
+      text: \pes\sinv[1]\{OHO\{OHO\{OHO\quake[1]HYECKHYECK...\quake[0]
+
+message_322:
+      text: \pes\sinv[1]\{OH, YOU FOUND IT! MY PRECIOUS THING!
+
+message_911:
+      text: You gave \c[4]PESSI'S THING\c[0] to PESSI.
+
+message_323:
+      text: \pesThank you...\! I say...\! Thank you!\! I say again...
+
+message_324:
+      text: \pesIn return for your selfless deed, I bestow upon you the ultimate gift.
+
+message_325:
+      text: You got a \c[13]SWEETHEART BUST\c[0].
+
+message_326:
+      text: \pes\sinv[1]Ah...\! Isn't it beautiful?
+
+message_327:
+      text: \pes\sinv[1]May it fill you with joy for the rest of your days!
+
+message_328:
+      text: \n<SHADY MOLE>\}Now...\! You didn't hear this from me, but...\! Earlier, I believe I may have seen a SPROUT MOLE with a big pink bow digging through poor ol' PESSI's pockets...
+
+message_329:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubA SPROUT MOLE with a big pink bow?\! \com[2]That sounds like ROSA!
+
+message_330:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelThe menace ROSA's at it again!\! C'mon, OMORI! We gotta make her hand over \c[4]PESSI'S THING\c[0] no matter what!
+
+
+#Sidequest B.E.D. with Rosa and Shady Mole
+
+message_340:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\{\com[2]ROSA!! THE JIG IS UP!
+
+message_341:
+      text: \n<ROSA>Why are you here!? \!I'm angry! Go away!
+
+message_342:
+      text: \n<ROSA>Thanks to you, my dear SWEETHEART ran away with that blasted CAPT. SPACEBOY...\! \com[2]again!
+
+message_344:
+      text: \n<ROSA>Sigh...\! SWEETHEART was only a few doors away...\! but now she's flown galaxies away!\! How will I follow her now!?\! Do I look like I can fly to you!?
+
+message_345:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herI... I don't know if that was really our fault...
+
+message_346:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\com[2]ROSA, we know you stole \c[4]PESSI'S THING\c[0]! Now, give it back!
+
+message_347:
+      text: \n<ROSA>This again?\! Why are you always after my SWEETHEART merchandise!?\! I found it fair and square, so...
+
+message_348:
+    text: \n<ROSA>\{\com[2]IT'S FINDERS KEEPERS!
+
+message_909:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 43
+    text: \herDon't worry, guys.\! Let me handle this...
+
+message_349:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herHey...\! ROSA...
+
+message_350:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herWhy don't you and I try to work something ou-
+
+message_351:
+    text: \n<ROSA>\sinv[1]Ewwwwwwwwwww...\sinv[0]\com[2] No! I don't want to hear it!
+
+message_352:
+    text: \n<ROSA>There is no way that I am giving you the most valuable new addition to my collection...
+
+message_353:
+    text: \n<ROSA>\{\quake[1]NOW GET OUT OF MY HOUSE!!
+
+message_354:
+    text: \n<SHADY MOLE>\}Heh...\! ROSA's bein' difficult again, huh?\!<br>Figures... She's always been like that...
+
+message_908:
+    text: \n<SHADY MOLE>\}Here.\! Take this and show it to her.\!<br>There's no way that she will refuse you after seeing this.
+
+message_910:
+    text: You got \c[4]BLACKMAIL\c[0].
+
+message_355:
+    text: \n<SHADY MOLE>\}Now, leave me and my new \c[4]B.E.D.\c[0] alone.<br>Our business is done here!
+
+message_356:
+    text: \n<ROSA>Back again?\! Hmph...\! You amuse me...\!<br>Such a fruitless effort!
+
+#INSERT OHOHOO 15_cutscenes_herothebachelor.message_145
+
+message_357:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelStep aside, guys. I'll deal with her!
+
+message_358:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herWait, KEL...
+
+message_359:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herIt's true that ROSA is a real pain...\! but I have some serious issues with using \c[4]BLACKMAIL\c[0] as a means to-
+
+message_360:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\{\{\Com[2]HEY, ROSA!!
+
+message_361:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\{\Com[2]CHECK THIS OUT!!
+
+message_362:
+    text: KEL pulled out the \c[4]BLACKMAIL\c[0].
+
+message_363:
+    text: \n<ROSA>W-W-Where did you get that?
+
+message_364:
+    text: \n<ROSA>\Com[2]I've... I've changed my mind!\!<br>Please, kind sir...\! I'll give you anything you want!\!<br>Just politely hand over that \c[4]BLACKMAIL\c[0] at once!
+
+message_365:
+    text: \n<ROSA>\Com[2]Ah, yes!\! You wanted \c[4]PESSI'S THING\c[0], right?
+
+message_366:
+    text: \n<ROSA>Fine, whatever.\! Take it! It's yours...<br>Now give me that \c[4]BLACKMAIL\c[0]...
+
+message_367:
+    text: \n<ROSA>\{\{\Com[2]\quake[1]HURRY UP AND DO IT!!!
+
+message_368:
+    text: You traded \c[4]BLACKMAIL\c[0] for \c[4]PESSI'S THING\c[0].
+
+message_369:
+    text: \n<ROSA>I'm gonna need you to get out of my house now.\!<br>You already got what you wanted, didn't you?
+
+message_370:
+    text: \n<ROSA>\{\{\Com[2]NOW SCRAM! SCRAM, I SAY!
+
+message_371:
+    text: \n<ROSA>Go away! I'm mad at you!
+
+
+#====================  Faraway =======================
+
+message_380:
+    text: \n<ALL-AMERICAN GUY>\com[2]Hey, out of the way!\!<br>Can't you see I'm watching TV!?
+
+#==================== Pizza Delivery 2 =======================
+
+message_390:
+    text: Look at the note?
+
+# Heros gift in Hobbeez
+
+message_391:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelThese \c[4]CDs\c[0] look pretty cool, but I think HERO would appreciate something more sentimental!\! Let's keep looking.
+
+# Space boys arcade
+
+message_392:
+      text: A cool-looking arcade machine...\!<br>but you don't have even $1.00 to play.
+
+message_393:
+      text: Do you want to play this game?\$
+
+message_394:
+      text: A game called "CAPT. SPACEBOYS SPACE ADVENTURE".\!<br>It costs $1.00 to play.
+
+# Moms to do list and voice mail
+
+message_395:
+      text: MOM'S TO-DO LIST.\!<br>You don't feel like doing your chores right now.
+
+message_396:
+      text: You have a new message.
+
+message_397:
+      text: There used to be something here.
+
+message_398:
+      text: You have no new messages.
+
+# Kels house dinner time
+
+message_399:
+      text: You got a \c[4]HOMECOOKED MEAL\c[0]...\! but it's cold.\!<br>You can heat it up using the microwave.
+
+# Characters sleeping in bedfort
+
+message_400:
+      text: \sinv[1]Snore...\| Snore...\| Snore...\| Snore...\kel
+
+message_401:
+      text: HERO is sleeping soundly.
+
+# Going to other places when you need to go to shopping center first
+
+message_402:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHey \n[8]! Come on, let's go to the \c[11]TOWN PLAZA\c[0] for a bit!
+
+#Gachapon:
+message_403:
+      text: A capsule machine.\! It's $3.00 a try.\!
+
+message_404:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey \n[8]! Let's get \c[4]HERO'S GIFT\c[0] first.\! We can play later!
+
+message_405:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelThat's not the way! We just passed by \c[11]BASIL'S HOUSE\c[0]!
+
+#Note: Placeholder Hero dialogue
+message_406:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herHey...\! So I'm really glad that we get to hang out and everything...\! but I also feel pretty bad for leaving Mom all alone...
+
+message_407:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herBefore we head to your house, let's go to \c[11]FIX-IT\c[0] and get some \c[4]FLOWERS\c[0] for her!\! I know she'd really appreciate that.
+
+message_434:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh! I see you have \c[4]FLOWERS\c[0] already!\! I think we should get my mom some fresh ones, though.\! \c[11]FIX-IT\c[0] isn't that far off anyway.
+
+
+message_408:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\sinv[1]Oh, HERO...\! Always a momma's boy...
+
+message_409:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herDo you want to give these \c[4]FLOWERS\c[0] to my mom?
+
+message_410:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herMom's gonna love these \c[4]FLOWERS\c[0]! Let's drop them off at my place, \n[8].
+
+message_411:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herOh, I see... then we should buy one for my mom!
+
+message_412:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHmm...\! It looks like it's getting pretty late.\! We should probably head to your house right after this.\! That sound good to you?
+
+message_413:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \her\sinv[1]Hey, Mom... I got you some \c[4]FLOWERS\c[0]!
+
+message_414:
+      text: \n<KEL'S MOM>O-Oh...\! Are these for me?
+
+message_415:
+      text: \n<KEL'S MOM>They're beautiful.\! Thank you.
+
+message_416:
+      text: \n<KEL'S DAD>Ha!\! HERO, you're such a charmer.\! Just like your old man!
+
+message_417:
+      text: \n<KEL'S MOM>I'm sorry for overreacting earlier.\!<br>I know \n[8] is moving away soon...
+
+message_418:
+      text: \n<KEL'S MOM>Try your best to keep in touch.\! Friends are harder to make the older you get!
+
+message_419:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMom... That's so depressing...\! We'll be fine!
+
+message_420:
+      text: \n<KEL'S MOM>Yes... I'm sure you will be.
+
+message_421:
+      text: The door is locked.
+
+message_422:
+      text: \n<KEL'S MOM>Take care, \n[8].\!<br>Know that you'll always have a home here!
+
+# Kel telling you to check out the bedfort if you try to leave your bedroom
+
+message_423:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], come look at our bed fort!
+
+# Kel yelling at you to go to his room instead of the other rooms when you first go into his house
+
+message_424:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelThink you can hold it a bit longer, \n[8]?\! I wanna show you my room first!
+
+message_425:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelThat's the parents room! Let's go to my room!
+
+# With basil taking him other than the path to his house
+
+message_426:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCome on, we have to take BASIL back to his house!
+
+# NPC woman sitting behind apple guy
+
+message_427:
+      text: \n<BROWN HAIR LADY>Wow... That is a nice view.
+
+message_428:
+      text: \n<WRINKLY FOREHEAD>Seems like some kids still like to visit this lake.\! I don't mind but I have to clean after them...
+
+message_429:
+      text: \n<WRINKLY FOREHEAD>Well, off to work!
+
+
+
+#==================== Dreamworld =======================
+
+message_430:
+      text: \n<CAPT. SPACEBOY>So many thoughts and emotions have been eating at me lately...\! but there's something very calming about this moment.\!<br>I feel at peace.
+
+message_431:
+      text: \n<PINATA GUY>\sinv[1]\{\{WEEEEEEEEEEEEEEEEE!!\^
+
+message_432:
+      text: \n<PINATA GUY>\sinv[1]\{\{WOOOOOOOOOOOOOOOO!!\^
+
+message_433:
+      text: \n<PINATA GUY>Aww...
+
+
+
+
+#==================== Aubrey street before you get Aubrey =======================
+
+message_440:
+      text: \n<ANGEL>AUBREY was supposed to watch the new dance I made up today...\! Do you think she's avoiding me on purpose!?
+
+message_441:
+      text: \n<CHARLIE>\}...
+
+message_442:
+      text: \n<THE MAVERICK>AUBREY isn't feeling well?\! \com[2]How could this be!?\! This must be the work of something more sinister...\! Perhaps an evil mastermind!\! We must track him down at once!
+
+message_443:
+      text: \n<KIM>\sinv[1]Grumble, grumble...\! ...\! Sigh...
+
+message_444:
+      text: \n<VANCE>Don't look so down, KIM. Everyone has bad days.\!<br>You know AUBREY always bounces back.
+
+
+# Mincy drawing if you didn't meet her before
+
+message_445:
+      text: An artist is diligently sketching away.
+
+# Day 2 looking at photo album at kels place
+
+message_446:
+      text: Are you done looking at the \c[4]PHOTO ALBUM\c[0]?
+
+# Hero giving money for flowers in fixit
+
+message_447:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOops! Before I forget...\! \n[8], here's some money for my mom's \c[4]FLOWERS\c[0].\! You didn't think I would let you pay for it, didja?
+
+message_448:
+      text: You got $10.00 from HERO.\! Wow...
+
+message_449:
+      text: \n<FIX-IT GUY>Were you looking to buy some hardware?
+
+message_450:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh, just looking around right now! Hmmm weren't we going to look at the \c[4]FLOOR LAMP\c[0] section?
+
+message_451:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herBefore we go, we should give these \c[4]FLOWERS\c[0] to Mom!
+
+
+# CDs from Hobbeez, titles to be replaced once the actual titles are set
+
+
+message_452:
+      text: A \c[4]BRUTAL CD\c[0].\! Do you want to buy it for $10.00?
+
+message_453:
+      text: A \c[4]LIVELY CD\c[0].\! Do you want to buy it for $10.00?
+
+message_454:
+      text: A \c[4]CELESTIAL CD\c[0].\! Do you want to buy it for $10.00?
+
+message_455:
+      text: A \c[4]CHILL CD\c[0].\! Do you want to buy it for $10.00?
+
+message_456:
+      text: A \c[4]DYNAMIC CD\c[0].\! Do you want to buy it for $10.00?
+
+message_466:
+      text: You can pay for the \c[4]CD\c[0] at the register.
+
+# Clumsy guy day 1 sunset when he loses the ring
+
+message_457:
+      text: \n<CLUMSY GUY>Well, I'll be here if you change your mind...\!<br>and I hope it's soon!
+
+message_460:
+    text: NOTHING
+
+message_461:
+    text: A book.
+
+
+# Basil in his faraway house day 1
+
+message_462:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 33
+      text: \bas\n[8]...\! Everything is okay now, isn't it?
+
+message_463:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 35
+      text: \bas\n[8]...\! W-Why...\! Why do you look so scared?
+
+message_464:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHold on, I'll be there in a bit!
+
+
+# Gacha!
+
+
+message_465:
+      text: You don't have $3.00.
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+
+#  Consumables
+message_500:
+    text: You got \c[3]\itemget\c[0]!
+
+message_501:
+    text: You got \c[3]\itemget\c[0]!
+
+#  Toys
+message_510:
+    text: You got \c[5]\itemget\c[0]!
+
+message_511:
+    text: You got \c[5]\itemget\c[0]!
+
+#  equips
+message_520:
+    text: You got \c[13]\itemget\c[0]!
+
+message_521:
+    text: You got \c[13]\itemget\c[0]!
+
+#  key items
+message_522:
+    text: You got \c[4]\itemget\c[0]!
+
+#  Skills
+message_530:
+    text: character learned \c[1]skill\c[0]
+
+message_531:
+    text: HERO learned \c[1]TEA TIME\c[0]!
+
+message_532:
+    text: HERO learned \c[1]REFRESH\c[0]!
+
+message_533:
+    text: HERO learned \c[1]SNACK TIME\c[0]!
+
+message_534:
+    text: HERO learned \c[1]TENDERIZE\c[0]!
+
+message_535:
+    text: KEL learned \c[1]JUICE ME\c[0]!
+
+message_536:
+    text: KEL learned \c[1]SNOWBALL\c[0]!
+
+message_540:
+    text: OMORI gained 1 HEART.
+
+message_541:
+    text: KEL gained 1 HEART.
+
+message_542:
+    text: AUBREY gained 1 HEART.
+
+message_543:
+    text: HERO gained 1 HEART.
+
+# Kels mom when POLLY <3 comes over
+
+message_550:
+      text: \n<KEL'S MOM>KEL, who is this beautiful young lady?\! \com[2]Why didn't you tell me we'd be having so many guests coming over!?
+
+# Kel and Aubrey fighting in the pier sunset day 2
+
+message_551:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \n<AUBREY>Get it through your thick head, moron!<br>I'm telling you it was an accident!
+
+message_552:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: What the heck are you doing, AUBREY!?\! <br>You've taken this way too far!\kel
+
+message_553:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herCome on, we need to take BASIL back to his house!
+
+# Foe facts in Angels room
+
+message_554:
+      text: Do you want to look through \c[4]FOE FACTX\c[0]?
+
+
+# Trying to leave kels house before getting dinner
+
+message_555:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCome on, let's go have dinner!
+
+# Trying to go elsewhere without flowers for heros mom
+
+message_556:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herWe should go get \c[4]FLOWERS\c[0] for my mom...
+
+message_557:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herWait, \n[8]! We should give these \c[4]FLOWERS\c[0] to my mom!
+
+message_558:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herHold up, \n[8]. We haven't gotten the \c[4]FLOWERS\c[0] for my mom yet.
+
+message_559:
+      text: \"To the best mom in the entire world."\!<br>\"From your son, HERO.\"\! Wow...
+
+# Trying to go up stairs without Hero, day 2 night
+
+message_560:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \kelWhere you going, \n[8]?\! HERO's waiting for us in the piano room!
+
+
+# Basils bathroom
+
+message_561:
+    text: A book on plants.
+
+# Trying to leave Aubreys house before getting Aubrey
+
+message_562:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herHold up, \n[8]. We should see how AUBREY is doing first.
+
+# I forget lol
+
+message_563:
+    text: You can't bring yourself to go back.
+
+# crossroads for when you try to leave basils house on night 3
+
+message_564:
+    text: You want to go home.
+
+#Hobbeez store: picking out a gift for HERO
+
+message_565:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelLooking through these comics brings back so many memories.\! It's just like old times, huh \n[8]?\! HERO was never too interested in comics though...
+
+message_566:
+    faceset: MainCharacters_Faraway
+    faceindex: 17
+    text: \kelA lot of these DVDs are catching dust...\! I'm sure we have most of these somewhere at home already...\! probably also catching dust...
+
+message_567:
+    faceset: MainCharacters_Faraway
+    faceindex: 15
+    text: \kelI've always been fond of these little guys...\! HERO would get mad at me for spending my lunch money on them, though.\!<br>Let's not remind him of that...
+
+message_568:
+    faceset: MainCharacters_Faraway
+    faceindex: 16
+    text: \kelThis thing is way too expensive, \n[8]!\!<br>I love HERO and all but not \sinv[1]that\sinv[0] much!
+
+message_569:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kelIf we get these, I don't think they'll ever make it to HERO...
+
+message_570:
+    faceset: MainCharacters_Faraway
+    faceindex: 22
+    text: \kelI already have this console, \n[8]!\!<br>And I don't think I can afford two...
+
+message_571:
+      text: You got \c[4]HERO'S GIFT\c[0]!
+# =========================================================================================
+# Cutscene: Fake Knife Fight
+# =========================================================================================
+
+#Trigger: Attack AUBREY in battle.
+
+#AUBREY falls to the floor.
+#KIM runs to AUBREY.
+
+message_580:
+      text: AUBREY!\! Why'd you back away?\kim
+
+message_581:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \n[8]...\! He has a \c[13]STEAK KNIFE\c[0]...\aub
+
+message_582:
+      text: What!?\! C'mon, we gotta get you out of here!\kim
+
+message_583:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: Ugh...\! You'll pay for this.\!\aub
+
+#AUBREY and HOOLIGANS run away.
+
+message_584:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Whoa, that was about to get really messy...\!<br>Good thing you had your knife there or we would've-\kel
+
+#Kels orders
+
+message_590:
+      text: You got KEL's \c[4]BAKERY ORDER\c[0]!
+
+message_591:
+      text: You got KEL's \c[4]"PIZZA" ORDER\c[0]!
+
+message_592:
+      text: You gave the \c[4]BAKERY ORDER\c[0] and \c[4]"PIZZA" ORDER\c[0] to KEL'S MOM.
+
+#Treehouse, talking with characters before getting the  photo
+
+message_593:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kel\sinv[1]Man...\! I was the best at card games...
+
+message_594:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubThere...\! Good as new...
+
+message_595:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herI remember now!\! KEL brought this toaster in here!\! He said he wanted me to cook with it...\! KEL was such a weird kid...
+
+#Graveyard with everyone, if you don't have any flowers
+message_596:
+      text: You do not have any \c[4]FLOWERS\c[0] on you.
+
+#Graveyard with everyone, if you do have flowers
+message_597:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herHere, this is for you, MARI.\! From all of us...
+
+message_598:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herI'm ready...\! Let's go.
+
+message_599:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubMR. PLANTEGG is so dirty...
+#Talking to yellow bun granny after you are given prescription
+
+message_600:
+      text: \n<YELLOW BUN GRANNY>It's a nice day out, isn't it?\! It's hard for me to move around much, but I did want to get some fresh air...
+
+message_601:
+      text: \n<YELLOW BUN GRANNY>I can't really go to the pharmacist in this condition...
+
+
+#Dreamworld Train station jash
+
+message_603:
+      text: \n<SNALEY>Hi! I'm SNALEY and I'm chronically unlucky!\! This guy here says they're all out of \c[4]TRAIN PASSES\c[0], just as I was about to buy mine.\! What a funny coincidence!
+
+#Aubreys mom if you try to talk to her
+
+message_605:
+      text: \n<AUBREY'S MOM>...
+
+#Kels dad if you get him meat in the afternoon
+
+message_606:
+      text: \n<KEL'S DAD>I'm gonna grill some delicious \c[3]HAMBURGERS\c[0] for everyone!\! I've been practicing!
+
+# Hobbeez buying CDs
+
+message_608:
+      text: Do you want to put the \c[4]CD\c[0] back?
+
+message_609:
+      text: You can take the \c[4]CD\c[0] to the counter to pay for it.
+
+message_610:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWait, \n[8]! Did you forget?\! You just picked up a \c[4]CD\c[0].\!<br>We can't go around stealing things! We're good law-abiding citizens!
+
+#Intro
+message_619:
+      text: \n<SHOPKEEP>Yo, champs! I see you are interested in that \c[4]CD\c[0].\! How's $10.00 sound?\$
+#Purchase
+message_620:
+      text: \n<SHOPKEEP>Thanks, champs! You can give that \c[4]CD\c[0] a try in the \c[4]JUKEBOX\c[0] next door!
+#Insufficient Funds
+message_621:
+      text: \n<SHOPKEEP>Whoa, sorry. You don't have enough funds there.
+#item selling prompt
+message_622:
+      text: \n<SHOPKEEP>No problem. Just put the \c[4]CD\c[0] back on the table where you found it!
+#item selling cancel prompt
+message_623:
+      text: \n<SHOPKEEP>Thanks, champ!
+
+message_624:
+      text: You shouldn't leave while you have a job to do.
+
+message_625:
+      text: You gave \c[4]HERO'S GIFT\c[0] to HERO.
+
+message_626:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herWe should go see MARI...\! She's been so worried about you.
+
+message_627:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herWe should go look for BASIL around the first
+
+message_628:
+      text: \n<POLLY>BASIL's lived with his grandma since he was a toddler.\!<br>His parents always seem to be too busy...\!<br>I've only ever seen them once.
+
+message_629:
+      text: Do you want to go back to \c[11]WHITE SPACE\c[0]?
+
+message_630:
+      text: Do you want to look through the keyhole?
+
+# Mincy drawing if you did meet her before
+
+message_631:
+      text: MINCY is diligently sketching away.
+
+message_632:
+      text: Look at the \c[4]PIZZA NOTES\c[0]?
+
+message_633:
+      text: \n<RAI>I'm RAI!\! I'm here for the card games, but I have a \c[13]PET ROCK\c[0] too!
+
+message_634:
+      text: \n<KEL'S DAD>I haven't seen you in a while, \n[8].\! Glad you could visit KEL and HERO before you move!
+
+message_635:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], you want to head home already?\! But it's not night time yet!
+
+message_636:
+      text: \n<KEL'S DAD>\c[4]FLOWERS\c[0], HERO?\! Heh...\! You always know what to do.
+
+message_637:
+      text: A HELP WANTED poster.\! Maybe you can ask about it tomorrow.
+
+message_638:
+      text: \n<GLASSES MAN>SPROUT MOLE EATER is an old game but a fun one.\! Play 'til your heart's content!\! Meanwhile...\! I'll be eyeing this pizza intently...
+
+message_639:
+      text: Would you like to throw a \c[4]COIN\c[0] into the fountain?
+
+message_640:
+      text: The \c[4]COIN\c[0] fell straight to the bottom.
+
+message_641:
+      text: You shouldn't leave while you have a job to do.
+
+message_642:
+      text: You found a \c[4]COIN\c[0]!
+
+message_643:
+      text: You found a $1.00!\! It's your lucky day!
+
+message_644:
+      text: A job posting.\!<br>You already did this job today.
+
+message_645:
+      text: You got $20.00 for your hard work.
+
+message_646:
+      text: Would you like to throw 1 CLAM into the fountain?
+
+message_647:
+      text: The CLAM fell straight to the bottom.
+
+message_648:
+      text: You picked up a \c[5]PEARL\c[0].
+
+message_649:
+      text: You don't have any CLAMS.
+
+message_650:
+      text: This is not fruit punch.
+
+message_651:
+      text: Some \c[4]GARDEN SHEARS\c[0].
+
+message_652:
+      text: REPLACE WITH PLAYER SHAKING HEAD
+
+message_653:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCome on, n[8]\! We gotta save BASIL!
+
+message_654:
+      text: Enter- \DII[ok]
+
+message_655:
+      text: Escape- \DII[escape]
+
+message_656:
+      text: Up- \DII[up]
+
+message_657:
+      text: Down- \DII[down]
+
+message_658:
+      text: A key- \DII[cancel]
+
+message_659:
+      text: Shift key- \DII[shift]
+
+message_660:
+      text: Do you want to play with HECTOR?
+
+message_661:
+      text: You do not want to hurt \n[6].
+
+message_662:
+      text: \n<WRINKLY FOREHEAD>Just gonna clean up a bit here...
+
+message_663:
+      text: \n<RECYCULTIST>I dare not leave this place yet until our leader says it is okay!
+
+message_664:
+      text: "$1.00"
+
+message_665:
+      text: "$5.00"
+
+message_666:
+      text: "$10.00"
+
+message_667:
+      text: How much do you want to donate?\$
+
+message_668:
+      text: NOTHING
+
+message_669:
+      text: You don't have enough money.
+
+message_670:
+      text: A JUKEBOX.\! There are no songs available to play.
+
+message_671:
+      text: Are you sure you want to donate $\v[1167].00 to OLD HOBO?
+
+message_672:
+      text: Are you sure you want to donate $\v[1167].00 to SMELLY HOBO?
+
+message_673:
+      text: Are you sure you want to donate $\v[1167].00 to GUITAR GUY?
+
+message_675:
+      text: \n<PONYTAIL GIRL>Sorry, my mom is in a bad mood.\! She bought a gift for him, but he's still not home.\! Can you come back later?
+
+message_676:
+      text: \n<PONYTAIL GIRL>Sorry, my dad is in a bad mood.\! He bought a gift for her, but she's still not home.\! Can you come back later?
+
+message_677:
+      text: Do you want to look through the \c[4]PHOTO ALBUM\c[0]?
+
+message_678:
+      text: \n<MEAT MAN>You don't wanna buy \c[4]MEAT\c[0] with all that fly gunk on you!
+
+message_679:
+      text: \n<MR. BAKER>Make sure those flies don't get on any of our fresh \c[3]BREAD\c[0]!
+
+# messages for cancelling out of minigames
+
+message_680:
+      text: Do you want to continue working on this job?
+
+message_681:
+      text: \n<OTHERMART LADY>No more job?\! ...\! OK.\! Then, no money.
+
+#UNUSED
+#message_682:
+#      text: \n<PIZZA MAN>Oh what happened? Didn't get to deliver the pizzas after all? I.... see.
+
+message_683:
+      text: \n<FIX-IT GUY>Sigh... Whatever, I guess.\! The shelves will get messy again anyway.
+
+message_684:
+      text: \n<SHOPKEEP>Don't hold back!\! Destiny is calling your name!
+
+
+#LAST RESORT CONSTRUCTION AFTER GETTING HERO
+
+
+message_700:
+      text: \n<GATOR GUY>Bah! Now I'm gonna be in a bad mood all day.
+
+message_701:
+      text: \n<GATOR GUY>Don't tell my mom that I lost, okay?
+
+message_702:
+      text: \n<GATOR GUY>Don't act so smug just 'cause you won! I just haven't had my \c[3]COFFEE\c[0] yet...
+
+message_703:
+      text: \n<GATOR GUY>Losing sucks...
+
+
+message_800:
+      text: Do you want to Retry?
+
+message_801:
+      text: Do you want to Continue?
+
+
+message_705:
+      text: \n<GLASSES MAN>OK! Take some time to prepare.\! I'll be waiting here!
+
+message_706:
+      text: \n<SHOPKEEP>I shall await our battle, then.\! Destiny is calling your name!
+
+message_707:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Let's go catch up to KIM and VANCE!\kel
+
+
+# If Hero / Aubrey are in the team in fixit when you take a job:
+
+message_708:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herWow, \n[8]! You're taking jobs now?\! Look at you, all grown up!\! In that case, we'll come back for you later.\! Work hard!
+
+#If you talk to Berly again with pool noodle after declining the first time
+
+message_709:
+      text: \berSo you changed your mind?\! Are you goin' to gimme your \c[13]POOL NOODLE\c[0] or what?
+
+message_720:
+      text: \n<WRINKLY FOREHEAD>That's a cool mini-record you have there, but my son likes something called video games...\! Do you think you can find me one of those?

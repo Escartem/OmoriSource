@@ -1,0 +1,26 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Slot Machines Text
+
+message_0:
+      text: \fs[46]BET UP TO 3 LINES! SPIN! SPIN! SPIN!
+
+message_1:
+      text: \fs[46]WOW!! AMAZING LUCK!!\!\fs[24]<br>Do you want to play again?
+
+message_2:
+      text: You wasted some CLAMS.\! That's too bad...<br>\!Do you want to play again?
+
+message_4:
+      text: You can't carry any more CLAMS.
+
+message_5:
+      text: BET
+
+message_6:
+      text: SPIN
+
+message_7:
+      text: EXIT

@@ -1,0 +1,157 @@
+
+# =========================================================================================
+# Sidequest: Seashells
+# =========================================================================================
+
+#intro
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelHey, neighbor! How's it going?
+
+message_1:
+      text: \n<BLUE-HAIRED GIRL>Hey, KEL!\! Oh, and who else is with you?
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelI brought my brother and my friends!
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelThis is AUBREY!
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelThis is my brother HERO!
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelAnd this is my friend \n[8]!
+
+message_2:
+      text: \n<BLUE-HAIRED GIRL>Oh, wait! I recognize you!\! It's \n[8], isn't it?\!<br>Sorry, it's been a while.\! I think we only met a few times...
+
+message_3:
+      text: \n<BLUE-HAIRED GIRL>My family has always lived here, but I was sent off to boarding school for a few years and just came back about three years ago, I think?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelHey, \n[8]! CRIS is my next door neighbor and she's really cool!\! She's the fastest swimmer in school!
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel\sinv[1]When she's in the water, people compare her to a mermaid...\! or a shark...\! or even a torpedo!\sinv[0]
+
+message_6:
+      text: \n<BLUE-HAIRED GIRL>Oh, KEL... You're never short on compliments, haha...
+
+message_7:
+      text: \n<BLUE-HAIRED GIRL>Aren't you trying out for the junior varsity basketball team this year?\! I'm sure you'll be a shoe-in... Hehe...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelWell, I'll try!\! I've been playing every now and then with strangers at the park!\! I think I'm getting better, but it's a little hard to tell...\! Heh...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelBut if I practiced basketball as much as you practiced swimming, I'd probably have a better chance...
+
+message_10:
+      text: \n<BLUE-HAIRED GIRL>Oh, I'm not that hard-working...\! It feels like fun to me, honestly!\! And besides...\! even though I love swimming in pools, I love swimming in the ocean even more!
+
+message_11:
+      text: \n<BLUE-HAIRED GIRL>I love everything about the ocean...\! the beach...\! <br>the sound of the waves...\! even the smell of seaweed...\!<br>Ah...\! Hehe...\! Sorry, I must sound a little obsessed.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelThat's totally fine!\! <br>It's good to be passionate about something, isn't it?
+
+message_13:
+      text: \n<BLUE-HAIRED GIRL>Hehe...\! I guess...\! Actually, I think this all started because I went to boarding school on an island and really enjoyed my time there!
+
+message_14:
+      text: \n<BLUE-HAIRED GIRL>The ocean reminds me of the friends I made there...\!<br>I hope maybe I can see them again one day.
+
+message_15:
+      text: \n<BLUE-HAIRED GIRL>But...\! for the time being, I guess I'll just be collecting \c[4]SEASHELLS\c[0] and stuff.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelYou know... that story kind of reminded me of this, but...\!<br>\n[8] is actually moving away from here really soon!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kelMaybe you can give him some tips on how to handle moving away to a new place!
+
+message_18:
+      text: \n<BLUE-HAIRED GIRL>Oh, \n[8] is moving?\! Hmmm...\! Well, being away from my friends was pretty tough at first...\! but change is just a fact of life!
+
+message_19:
+      text: \n<BLUE-HAIRED GIRL>It's the memories we make with them that we should cherish.
+
+message_20:
+      text: \n<BLUE-HAIRED GIRL>You know what...\! I just decided something.<br>\!If you see any \c[4]SEASHELLS\c[0], can you bring them to me?
+
+message_21:
+      text: \n<BLUE-HAIRED GIRL>They're kind of hard to find around here, but I'll make sure it's worth it!
+
+#Talk to Cris with SEASHELLS
+
+message_22:
+      text: \n<BLUE-HAIRED GIRL>Oh, hey! You found a \c[4]SEASHELL\c[0]!
+
+message_23:
+      text: You gave a \c[4]SEASHELL\c[0] to BLUE-HAIRED GIRL.
+
+message_24:
+      text: \n<BLUE-HAIRED GIRL>Wow, it's such a cute one...\! Hehe... Thank you!
+#Talk to cris after collecting some seashells (before leaving room)
+
+
+message_25:
+      text: The BLUE-HAIRED GIRL is fiddling with something in her hands.
+
+message_26:
+      text: \n<BLUE-HAIRED GIRL>\com[2]Hey! No peeking!
+
+#Talk to Cris after collecting all SEASHELLS
+
+message_27:
+      text: \n<BLUE-HAIRED GIRL>\com[2]And... there!\! It's finally done!
+
+message_28:
+      text: \n<BLUE-HAIRED GIRL>Thanks for collecting all these cute \c[4]SEASHELLS\c[0] for me!\!<br>Here's something I made for you.
+
+message_29:
+      text: \n<BLUE-HAIRED GIRL>My friends made one for me when I left boarding school on the island...\! so I thought I could share that feeling with someone else!
+
+message_30:
+      text: You got a \c[13]SEASHELL NECKLACE\c[0].
+
+message_31:
+      text: \n<BLUE-HAIRED GIRL>I hope that seeing it reminds you of your time here!\!<br>Good luck with everything! I'm sure you'll be fine!
+
+message_107:
+      text: \n<BLUE-HAIRED GIRL>I hope that seeing that \c[13]SEASHELL NECKLACE\c[0] reminds you of your time here!\! Good luck with everything! I'm sure you'll be fine!
+
+message_100:
+      text: You found a \c[4]SEASHELL\c[0]!
+
+
+message_105:
+      text: \n<BLUE-HAIRED GIRL>Hi KEL and \n[8]!\! If you see any \c[4]SEASHELLS\c[0], can you bring them to me?
+
+message_106:
+      text: \n<BLUE-HAIRED GIRL>They're kind of hard to find around here, but I'll make sure it's worth it!

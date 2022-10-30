@@ -1,0 +1,42 @@
+message_0:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    positionType: 0
+    text: "\\mar ^_^)b\n"
+message_1:
+    faceset: 05_MARI_OW
+    faceindex: 1
+    extraFaces:
+        -
+            faceset: MainCharacters_DreamWorld
+            faceindex: 6
+        -
+            faceset: MainCharacters_DreamWorld
+            faceindex: 18
+        -
+            faceset: MainCharacters_DreamWorld
+            faceindex: 36
+    text: "A white door casts a faint shadow.\\!<br>What would you like to do?\n"
+message_2:
+    text: 'Contemplate about life.'
+message_3:
+    text: '2+2 = 4...I guess?'
+message_4:
+    text: "Select a thing.\\fs[19] AAAAAAA\\frAAAAAAA\\fs[30]AAAAAAA\\frAAAAAAA\n"
+message_5:
+    text: "\\fs[30]ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789\n"
+message_6:
+    text: "\\fs[30]+!@#$%^&*()-=\n"
+message_7:
+    text: "\\fs[40]ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789\n"
+message_8:
+    text: "Select an option!\n"
+message_9:
+    text: "Dynamic Choices?!.\n"
+message_10:
+    faceset: MainCharacters_Faraway
+    faceindex: 41
+    text: "\\bas\\BC[-255,-255,-255]Idk what to feel anymore\n"
+
+message_11:
+    text: \n<4/29>It's raining super hard today!<br>\!The rain always seems to come out of nowhere during springtime.<br>AUBREY asked me to take a picture of her with her new raincoat.\! It's her favorite color, pink!

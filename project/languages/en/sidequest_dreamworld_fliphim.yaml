@@ -1,0 +1,26 @@
+
+# =========================================================================================
+# Flip him
+# ========================================================================================
+
+#Talk to Crossant
+
+message_0:
+      text: A CROSSANT is upside down and struggling to flip over.\!<br>Flip him?
+
+#[Yes/No]
+
+#[Yes]
+
+message_1:
+      text: You flipped the CROSSANT over.
+
+message_2:
+      text: \n<CROSSANT>\}Thanks.
+
+#CROSSANT walks away
+
+#[No]
+
+message_3:
+      text: You left the CROSSANT to his suffering.

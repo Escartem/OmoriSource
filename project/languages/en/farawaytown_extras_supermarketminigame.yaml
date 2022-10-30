@@ -1,0 +1,47 @@
+
+# =========================================================================================
+# MINI-GAME: Supermarket
+# =========================================================================================
+
+#intro
+message_1:
+      text: \n<OTHERMART LADY>HEY!\! 你要不要 JOB?
+
+#[Nod/Shake]
+#[Nod]
+message_2:
+      text: \n<OTHERMART LADY>OK!
+#[Shake]
+message_3:
+      text: \n<OTHERMART LADY>...\! OK.
+
+#Rule Explanation
+
+message_10:
+      text: \n<OTHERMART LADY>I GIVE YOU WEAPON.\! YOU KILL FLIES...\! OK?\! OK.
+
+message_11:
+      text: You got a \c[13]FLYSWATTER\c[0].
+
+message_12:
+      text: OTHERMART LADY took back her \c[13]FLYSWATTER\c[0].
+
+message_13:
+      text: \n<OTHERMART LADY>\{\{\com[2]NOW, GO!!
+
+#Quest Finish
+
+message_4:
+      text: \n<OTHERMART LADY>GOOD JOB!
+#Return to Party
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \KelHey, \n[8]!\! How'd you do?\! While you were working, <br>I decided to sit on a bench and talk to strangers!\!<br>Man, that was fun...\! Well... I'm ready to go when you are!
+
+#before killing all flies
+message_6:
+      text: \n<OTHERMART LADY>NOT FINISH!
+
+message_15:
+      text: You can't leave while you're on a job.

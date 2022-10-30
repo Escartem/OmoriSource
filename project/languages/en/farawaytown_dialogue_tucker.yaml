@@ -1,0 +1,70 @@
+# =========================================================================================
+# Tuckers dialogue
+# ========================================================================================
+
+#Randomize 1 - 3
+
+#Random message 1
+message_0:
+      text: \n<CREEPY GUY>If you are bolstering why I'm so much more pandemic than you are, it's solely due to my philosophy major.
+
+message_1:
+      text: \n<CREEPY GUY>My tenure has led me to my most elephantine discovery of all.\! Everyone is 100...\! No, maybe 1000 years too early in time to comprehend my genius.
+
+message_2:
+      text: \n<CREEPY GUY>Pithy me no more with your occupancy.\! You can't perceive anything I interject into your cerebrum anyway.
+
+#Random message 2
+
+message_6:
+      text: \n<CREEPY GUY>Step back you omnipotent worm!\! I almost maimed you.\! ...\! My condolences, my time in the arena has left me on the edge.
+
+message_7:
+      text: \n<CREEPY GUY>I'm a bit of a gladiator as it were.\! Ahh, I remember my days in the constable...
+
+message_8:
+      text: \n<CREEPY GUY>How I perpetuated my powers of impunity on the unsuspecting combatants that decided to traverse their souls into the barest of my...\! Blah...\! No hands!
+
+message_9:
+      text: \n<CREEPY GUY>I need not the shelter of a mighty utensil, but the beret of the crowd as they erode for more.\! Just...\! be careful around me...\! I'm dangerous.
+
+
+#Random message 3
+
+message_12:
+      text: \n<CREEPY GUY>I cannot begin to prolificate the proposal of mundane scribbles amongst one another on deflated parchment.
+
+message_13:
+      text: \n<CREEPY GUY>If you're going to scribe me something...\! Please do so in the most modern entrapment in parliament.
+
+#==========================================Pet Rock========================================
+
+#Before Battle
+message_16:
+      text: \n<CREEPY GUY>Heh...\! Heh, heh, heh...\! I say to thee, is that a \c[13]PET ROCK\c[0]?\! It gawks like a little weakling...\! Barter you won't stand a quark against my MUNCHER KING!
+
+message_17:
+      text: \n<CREEPY GUY>Shalt we ostracize a CLASH to conclude an empire?\! I shall reign splendiferously!
+
+#yes
+message_18:
+      text: \n<CREEPY GUY>Huzzah, you incumbent buffoon... You'll be sorry for that!\! Prepare to be embellished!\! Let's go, MUNCHER KING!
+
+#you win
+message_20:
+      text: \n<CREEPY GUY>Psh!\! Undo that impertinent facade off your maw!\! You just got lucky...\! That's all!
+
+#you lose
+message_21:
+      text: \n<CREEPY GUY>Heh...\! Heh, heh, heh...\! You prevalent proxy...\! You should facilitate your place, peasant!
+
+#================================Examine SW Poster==============================
+
+message_30:
+      text: \n<CREEPY GUY>Why yes, that peripheral you ponder over there is my duly betrothed.
+
+message_31:
+      text: \n<CREEPY GUY>I'd appreciate if you keep your optical appendages in their sheathes.\! She assimilates my confab better than anyone and anything else.
+
+message_32:
+      text: \n<CREEPY GUY>She's such a sweetheart and we love each other.\! <br>Now leave us alone.

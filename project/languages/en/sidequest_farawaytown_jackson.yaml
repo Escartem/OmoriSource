@@ -1,0 +1,29 @@
+
+# =========================================================================================
+# Sidequest: Defeat Jackson
+# =========================================================================================
+
+#Examine Jackson Poster
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelWow! The monster in the poster looks so realistic!\!<br>I'll bet fighting that would be a tough battle!
+
+#Battle with Jackson starts
+#Battle with Jackson ends
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kel...\! Hello?\! \n[8]?\!<br>... \!Earth to \n[8]...
+
+#Show a ! exclamation on Kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kel\com[2]Whoa! A \c[4]CD\c[0] fell from behind the poster...\!<br>Weird...\! I wonder who hid it there?\!<br>I guess...\! we can just take it?
+
+message_4:
+      text: You got a \c[4]MERRY CD\c[0].

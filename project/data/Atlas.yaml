@@ -1,0 +1,3620 @@
+source:
+
+###################################################################
+# SYSTEM ATLAS
+###################################################################
+
+ ###################################################################
+  # TITLE SCREEN
+  ###################################################################
+  img/pictures/OMO_WS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 918, height: 351}
+    sourceRect: {x: 0, y: 0, width: 918 , height: 351}
+
+  img/pictures/OMO_BS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 918, height: 351}
+    sourceRect: {x: 0, y: 351, width: 918 , height: 351}
+
+  img/pictures/OMO_RS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 918, height: 351}
+    sourceRect: {x: 0, y: 702, width: 918 , height: 351}
+
+  img/pictures/OMO_TITLE_WS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 277, height: 150}
+    sourceRect: {x: 918, y: 0, width: 277 , height: 150}
+
+  img/pictures/OMO_TITLE_BS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 277, height: 150}
+    sourceRect: {x: 918, y: 150, width: 277 , height: 150}
+
+  img/pictures/OMO_BULB_WS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 20, width: 65, height: 150}
+    sourceRect: {x: 1399, y: 20, width: 65 , height: 130}
+
+  img/pictures/OMO_BULB_WS_LINES.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 204, height: 150}
+    sourceRect: {x: 1195, y: 0, width: 204, height: 150}
+
+  img/pictures/OMO_STRING_WS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 68, height: 20}
+    sourceRect: {x: 1399, y: 0, width: 65 , height: 20}
+
+  img/pictures/OMO_BULB_BS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 20, width: 65, height: 150}
+    sourceRect: {x: 1399, y: 170, width: 65 , height: 150}
+
+  img/pictures/OMO_BULB_BS_LINES.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 204, height: 150}
+    sourceRect: {x: 1195, y: 150, width: 204 , height: 150}
+
+  img/pictures/OMO_STRING_BS.png:
+    atlasName: Omori_TitleScreen
+    rect: {x: 0, y: 0, width: 65, height: 20}
+    sourceRect: {x: 1399, y: 151, width: 65 , height: 20}
+
+###################################################################
+# DREAMWORLD
+###################################################################
+
+  ###################################################################
+  # TAG ATLAS BG 1
+  ###################################################################
+  img/pictures/DW_T_VF.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_CT.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_OS.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_JY.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_SM.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_PF.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_SW.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_KK.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_UH.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_UC.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_LR.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_SGL.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # TAG ATLAS BG 2
+  ###################################################################
+  img/pictures/DW_T_HU.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_FF.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_FS.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_DD.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_OO.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_EX1.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_EX2.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_EX3.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_AB.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_SP.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_CS.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_CO.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_TR.png:
+    atlasName: TAGATLAS_BG_1
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/DW_T_DW.png:
+    atlasName: TAGATLAS_BG_2
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+
+
+  ###################################################################
+  # OMORI TAGS SOMEONE
+  ###################################################################
+  img/pictures/DW_T_OMORIAUBREY.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_OMORIKEL.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_OMORIHERO.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # AUBREY TAGS SOMEONE
+  ###################################################################
+  img/pictures/DW_T_AUBREYOMORI.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_AUBREYKEL.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_AUBREYHERO.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # KEL TAGS SOMEONE
+  ###################################################################
+  img/pictures/DW_T_KELOMORI.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_KELAUBREY.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_KELHERO.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # HERO TAGS SOMEONE
+  ###################################################################
+  img/pictures/DW_T_HEROOMORI.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/DW_T_HEROAUBREY.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/DW_T_HEROKEL.png:
+    atlasName: TAGATLAS
+    rect: {x: 143, y: 24, width: 640, height: 480}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+
+###################################################################
+# FARAWAY TOWN
+###################################################################
+
+  ###################################################################
+  # FA OMORI TAGS SOMEONE
+  ###################################################################
+  img/pictures/FA_T_OMORIAUBREY.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/FA_T_OMORIKEL.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/FA_T_OMORIHERO.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # FA AUBREY TAGS SOMEONE
+  ###################################################################
+  img/pictures/FA_T_AUBREYOMORI.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/FA_T_AUBREYKEL.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/FA_T_AUBREYHERO.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # FA KEL TAGS SOMEONE
+  ###################################################################
+  img/pictures/FA_T_KELOMORI.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/FA_T_KELAUBREY.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/FA_T_KELHERO.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # FA HERO TAGS SOMEONE
+  ###################################################################
+  img/pictures/FA_T_HEROOMORI.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/FA_T_HEROAUBREY.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/FA_T_HEROKEL.png:
+    atlasName: TAGATLAS_FA
+    rect: {x: 143, y: 24, width: 640 , height: 480}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 1
+  ###################################################################
+  img/pictures/Faraway_FA_A_01.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_02.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_03.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_04.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_05.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_06.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_07.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_08.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_09.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_10.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_11.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_12.png:
+    atlasName: FarawayAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 2
+  ###################################################################
+  img/pictures/Faraway_FA_A_13.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_14.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_15.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_16.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_17.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_18.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_19.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_20.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_21.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_22.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_23.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_24.png:
+    atlasName: FarawayAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 3
+  ###################################################################
+  img/pictures/Faraway_FA_A_25.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_26.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_27.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_28.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_29.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_30.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_31.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_32.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_33.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_34.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_35.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_36.png:
+    atlasName: FarawayAtlas_03
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 4
+  ###################################################################
+  img/pictures/Faraway_FA_A_37.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_38.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_39.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_40.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_41.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_42.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_43.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_44.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_45.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_46.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_47.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_A_48.png:
+    atlasName: FarawayAtlas_04
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Atlas (Small Thumbnails)
+  ###################################################################
+  img/pictures/Faraway_FA_POLAROID_01.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_02.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_03.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_04.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_05.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_06.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 0, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_07.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 101, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_08.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_09.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_10.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_11.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_12.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 101, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_13.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 202, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_14.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_15.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_16.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_17.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_18.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 202, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_19.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 303, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_20.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_21.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_22.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_23.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_24.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 303, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_25.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 404, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_26.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_27.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_28.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_29.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_30.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 404, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_31.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 505, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_32.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_33.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_34.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_35.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_36.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 505, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_37.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 606, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_38.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_39.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_40.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_41.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_42.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 606, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_43.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 707, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_44.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_45.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_46.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_47.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_48.png:
+    atlasName: Faraway_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 707, width: 86, height: 101}
+
+
+
+
+
+
+  ###################################################################
+  # Faraway Album part 1
+  ###################################################################
+  img/pictures/Faraway_FA_AS_01.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_02.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_03.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_04.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_05.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_06.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_07.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_08.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_09.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_10.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_11.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_12.png:
+    atlasName: FarawayAtlas_01_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 2
+  ###################################################################
+  img/pictures/Faraway_FA_AS_13.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_14.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_15.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_16.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_17.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_18.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_19.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_20.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_21.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_22.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_23.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_24.png:
+    atlasName: FarawayAtlas_02_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 3
+  ###################################################################
+  img/pictures/Faraway_FA_AS_25.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_26.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_27.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_28.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_29.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_30.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_31.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_32.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_33.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_34.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_35.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_36.png:
+    atlasName: FarawayAtlas_03_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Album part 4
+  ###################################################################
+  img/pictures/Faraway_FA_AS_37.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_38.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_39.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_40.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_41.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_42.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_43.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_44.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_45.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_46.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_47.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/Faraway_FA_AS_48.png:
+    atlasName: FarawayAtlas_04_scribble
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Faraway Atlas (Small Thumbnails)
+  ###################################################################
+  img/pictures/Faraway_FA_POLAROID_01S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_02S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_03S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_04S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_05S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 0, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_06S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 0, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_07S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 101, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_08S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_09S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_10S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_11S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 101, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_12S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 101, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_13S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 202, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_14S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_15S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_16S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_17S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 202, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_18S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 202, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_19S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 303, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_20S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_21S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_22S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_23S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 303, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_24S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 303, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_25S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 404, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_26S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_27S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_28S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_29S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 404, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_30S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 404, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_31S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 505, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_32S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_33S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_34S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_35S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 505, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_36S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 505, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_37S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 606, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_38S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_39S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_40S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_41S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 606, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_42S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 606, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_43S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 707, width: 86, height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_44S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_45S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_46S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_47S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 707, width: 86 , height: 101}
+
+  img/pictures/Faraway_FA_POLAROID_48S.png:
+    atlasName: Faraway_PolaroidAtlas_Scribbles
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 707, width: 86, height: 101}
+
+
+
+
+
+
+
+
+  ###################################################################
+  # Dreamworld Atlas 1
+  ###################################################################
+  img/pictures/Dreamworld_DW_A_01.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_02.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_03.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_04.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_05.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_06.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_07.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_08.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_09.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_10.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_11.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_12.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361, height: 437}
+
+  img/pictures/Dreamworld_DW_A_13.png:
+    atlasName: DreamworldAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1444, y: 0, width: 361, height: 437}
+
+  ###################################################################
+  # Dream World (Small Thumbnails)
+  ###################################################################
+  img/pictures/Dreamworld_DW_POLAROID_01.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 0, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_02.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 0, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_03.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 0, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_04.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 0, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_05.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 0, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_06.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 0, width: 86, height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_07.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 101, width: 86, height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_08.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 101, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_09.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 101, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_10.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 101, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_11.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 101, width: 86 , height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_12.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 101, width: 86, height: 101}
+
+  img/pictures/Dreamworld_DW_POLAROID_13.png:
+    atlasName: Dreamworld_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 516, y: 0, width: 86, height: 101}
+
+  ###################################################################
+  # BlackSpace Atlas 1
+  ###################################################################
+  img/pictures/BlackSpace_BS_A_01.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361, height: 437}
+
+  img/pictures/BlackSpace_BS_A_02.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361, height: 437}
+
+  img/pictures/BlackSpace_BS_A_03.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_04.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_05.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_06.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_07.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_08.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_09.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_10.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_11.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_12.png:
+    atlasName: BlackSpaceAtlas_01
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # BlackSpace Atlas 2
+  ###################################################################
+
+  img/pictures/BlackSpace_BS_A_13.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_14.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_15.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_16.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_17.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_18.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_19.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_20.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 437, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_21.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_22.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_23.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 874, width: 361 , height: 437}
+
+  img/pictures/BlackSpace_BS_A_24.png:
+    atlasName: BlackSpaceAtlas_02
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 874, width: 361 , height: 437}
+
+  ###################################################################
+  # Black Space (Small Thumbnails)
+  ###################################################################
+  img/pictures/BlackSpace_BS_POLAROID_01.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 0, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_02.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 0, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_03.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 0, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_04.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 0, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_05.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 0, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_06.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 0, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_07.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 101, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_08.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 101, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_09.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 101, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_10.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 101, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_11.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 101, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_12.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 101, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_13.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 202, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_14.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 202, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_15.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 202, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_16.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 202, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_17.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 202, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_18.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 202, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_19.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 0, y: 303, width: 86, height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_20.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 86, y: 303, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_21.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 172, y: 303, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_22.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 258, y: 303, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_23.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 344, y: 303, width: 86 , height: 101}
+
+  img/pictures/BlackSpace_BS_POLAROID_24.png:
+    atlasName: BlackSpace_PolaroidAtlas
+    rect: {x: 0, y: 0, width: 86, height: 101}
+    sourceRect: {x: 430, y: 303, width: 86, height: 101}
+
+###################################################################
+# Photo Backgrounds
+###################################################################
+
+  img/pictures/Faraway_faraway_pg1.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 0, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg2.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 0, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg3.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 908, y: 0, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg4.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 320, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg5.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 320, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg6.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 908, y: 320, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg7.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 640, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_pg8.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 640, width: 454, height: 320}
+
+  img/pictures/Faraway_faraway_town_album.png:
+    atlasName: FarawayAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 908, y: 640, width: 454, height: 320}
+
+  img/pictures/Dreamworld_dreamworld_pg1.png:
+    atlasName: DreamworldAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 0, width: 454, height: 320}
+
+  img/pictures/Dreamworld_dreamworld_pg2.png:
+    atlasName: DreamworldAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 0, width: 454, height: 320}
+
+  img/pictures/Dreamworld_dreamworld_album.png:
+    atlasName: DreamworldAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 908, y: 0, width: 454, height: 320}
+
+  img/pictures/BlackSpace_blackspace_pg1.png:
+    atlasName: BlackSpaceAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 0, width: 454, height: 320}
+
+  img/pictures/BlackSpace_blackspace_pg2.png:
+    atlasName: BlackSpaceAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 0, width: 454, height: 320}
+
+  img/pictures/BlackSpace_blackspace_pg3.png:
+    atlasName: BlackSpaceAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 320, width: 454, height: 320}
+
+  img/pictures/BlackSpace_blackspace_pg4.png:
+    atlasName: BlackSpaceAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 454, y: 320, width: 454, height: 320}
+
+  img/pictures/BlackSpace_blackspace_album.png:
+    atlasName: BlackSpaceAtlas_Pages
+    rect: {x: 0, y: 0, width: 454, height: 320}
+    sourceRect: {x: 0, y: 640, width: 454, height: 320}
+
+###################################################################
+# Photo Album Parts
+###################################################################
+
+  img/pictures/Faraway_AlbumPictureBack.png:
+    atlasName: AlbumPicture_BackAtlas
+    rect: {x: 0, y: 0, width: 351, height: 421}
+    sourceRect: {x: 0, y: 0, width: 351, height: 421}
+
+  img/pictures/Dreamworld_AlbumPictureBack.png:
+    atlasName: AlbumPicture_BackAtlas
+    rect: {x: 0, y: 0, width: 351, height: 421}
+    sourceRect: {x: 351, y: 0, width: 351, height: 421}
+
+  img/pictures/Faraway_AlbumPictureBack_key.png:
+    atlasName: AlbumPicture_BackAtlas
+    rect: {x: 0, y: 0, width: 351, height: 421}
+    sourceRect: {x: 702, y: 0, width: 351, height: 421}
+
+  img/pictures/BlackSpace_AlbumPictureBack.png:
+    atlasName: AlbumPicture_BackAtlas
+    rect: {x: 0, y: 0, width: 351, height: 421}
+    sourceRect: {x: 1053, y: 0, width: 351, height: 421}
+
+  img/pictures/Faraway_polaroid_FA_cover.png:
+    atlasName: PhotoAlbumCovers
+    rect: {x: 0, y: 0, width: 241, height: 325}
+    sourceRect: {x: 0, y: 0, width: 241, height: 325}
+
+  img/pictures/Dreamworld_polaroid_FA_cover.png:
+    atlasName: PhotoAlbumCovers
+    rect: {x: 0, y: 0, width: 241, height: 325}
+    sourceRect: {x: 241, y: 0, width: 241, height: 325}
+
+  img/pictures/BlackSpace_polaroid_BS_cover.png:
+    atlasName: PhotoAlbumCovers
+    rect: {x: 0, y: 0, width: 241, height: 325}
+    sourceRect: {x: 482, y: 0, width: 241, height: 325}
+
+
+  ###################################################################
+  # SKETCHBOOK IMAGES
+  ###################################################################
+  img/pictures/sketchbook0.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook1.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook2.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook3.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook4.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook5.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook6.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook7.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook8.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook9.png:
+    atlasName: SKETCHBOOKATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 795, width: 404 , height: 265}
+
+  ###################################################################
+  # WHITESPACE FINAL SKETCHBOOK IMAGES
+  ###################################################################
+  img/pictures/sketchbook_b0.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b1.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b2.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b3.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b4.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b5.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b6.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b7.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b8.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_b9.png:
+    atlasName: SKETCHBOOKATLAS_BLANK
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 795, width: 404 , height: 265}
+
+  ###################################################################
+  # SKETCHBOOK BS IMAGES
+  ###################################################################
+  img/pictures/sketchbook_bs0.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs1.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs2.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 0, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs3.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs4.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs5.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 265, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs6.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs7.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs8.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 530, width: 404 , height: 265}
+
+  img/pictures/sketchbook_bs9.png:
+    atlasName: SKETCHBOOKATLAS_BS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 795, width: 404 , height: 265}
+
+
+  ###################################################################
+  # FOEFACTS IMAGES
+  ###################################################################
+
+  img/pictures/FOEFACTXATLAS0.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 0, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS1.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 0, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS2.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 0, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS3.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 265, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS4.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 265, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS5.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 265, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS6.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 530, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS7.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 530, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS8.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 530, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS9.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 0, y: 795, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS10.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 404, y: 795, width: 404 , height: 265}
+
+  img/pictures/FOEFACTXATLAS11.png:
+    atlasName: FOEFACTXATLAS
+    rect: {x: 0, y: 0, width: 404, height: 265}
+    sourceRect: {x: 808, y: 795, width: 404 , height: 265}
+
+  ###################################################################
+  # MINIGAMES
+  ###################################################################
+  img/pictures/PIZZA-A.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 31, height: 36}
+    sourceRect: {x: 419, y: 448, width: 31, height: 36}
+
+  img/pictures/PIZZA-And.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 77, height: 52}
+    sourceRect: {x: 943, y: 385, width: 77, height: 52}
+
+  img/pictures/PIZZA-As.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 58, height: 88}
+    sourceRect: {x: 1028, y: 722, width: 58, height: 88}
+
+  img/pictures/PIZZA-Ball.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 87, height: 56}
+    sourceRect: {x: 938, y: 921, width: 87, height: 56}
+
+  img/pictures/PIZZA-Beat.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 83, height: 54}
+    sourceRect: {x: 932, y: 1085, width: 83, height: 54}
+
+  img/pictures/PIZZA-Bench.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 117, height: 74}
+    sourceRect: {x: 611, y: 698, width: 117, height: 74}
+
+  img/pictures/PIZZA-Birdhouse.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 139, height: 60}
+    sourceRect: {x: 330, y: 919, width: 139, height: 60}
+
+  img/pictures/PIZZA-Black.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 123, height: 67}
+    sourceRect: {x: 605, y: 828, width: 123, height: 67}
+
+  img/pictures/PIZZA-Blue.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 80, height: 72}
+    sourceRect: {x: 940, y: 457, width: 80, height: 72}
+
+  img/pictures/PIZZA-Boarded.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 130, height: 55}
+    sourceRect: {x: 333, y: 1077, width: 130, height: 55}
+
+  img/pictures/PIZZA-Bottles.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 108, height: 71}
+    sourceRect: {x: 730, y: 308, width: 108, height: 71}
+
+  img/pictures/PIZZA-Boxes.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 146, height: 105}
+    sourceRect: {x: 333, y: 784, width: 146, height: 105}
+
+  img/pictures/PIZZA-Brick.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 106, height: 65}
+    sourceRect: {x: 732, y: 238, width: 106, height: 65}
+
+  img/pictures/PIZZA-Bring.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 104, height: 76}
+    sourceRect: {x: 838, y: 380, width: 104, height: 76}
+
+  img/pictures/PIZZA-Broken.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 174, height: 69}
+    sourceRect: {x: 0, y: 604, width: 174, height: 69}
+
+  img/pictures/PIZZA-Brown.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 136, height: 94}
+    sourceRect: {x: 354, y: 71, width: 136, height: 94}
+
+  img/pictures/PIZZA-Bushes.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 136, height: 76}
+    sourceRect: {x: 352, y: 195, width: 136, height: 76}
+
+  img/pictures/PIZZA-By.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 40, height: 77}
+    sourceRect: {x: 1087, y: 722, width: 40, height: 77}
+
+  img/pictures/PIZZA-Can.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 90, height: 51}
+    sourceRect: {x: 238, y: 1088, width: 90, height: 51}
+
+  img/pictures/PIZZA-Cans.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 112, height: 80}
+    sourceRect: {x: 729, y: 777, width: 112, height: 80}
+
+  img/pictures/PIZZA-Car.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 117, height: 77}
+    sourceRect: {x: 612, y: 338, width: 117, height: 77}
+
+  img/pictures/PIZZA-Chimney.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 130, height: 100}
+    sourceRect: {x: 480, y: 662, width: 130, height: 100}
+
+  img/pictures/PIZZA-Clean.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 88, height: 45}
+    sourceRect: {x: 491, y: 119, width: 88, height: 45}
+
+  img/pictures/PIZZA-Cones.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 72, height: 40}
+    sourceRect: {x: 346, y: 448, width: 72, height: 40}
+
+  img/pictures/PIZZA-Couch.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 113, height: 75}
+    sourceRect: {x: 725, y: 486, width: 113, height: 75}
+
+  img/pictures/PIZZA-Crack.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 146, height: 90}
+    sourceRect: {x: 205, y: 201, width: 146, height: 90}
+
+  img/pictures/PIZZA-Cracks.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 161, height: 104}
+    sourceRect: {x: 171, y: 814, width: 161, height: 104}
+
+  img/pictures/PIZZA-Dark.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 130, height: 76}
+    sourceRect: {x: 473, y: 1039, width: 130, height: 76}
+
+  img/pictures/PIZZA-Dirt.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 89, height: 62}
+    sourceRect: {x: 844, y: 0, width: 89, height: 62}
+
+  img/pictures/PIZZA-Dog.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 71, height: 60}
+    sourceRect: {x: 1022, y: 319, width: 71, height: 60}
+
+  img/pictures/PIZZA-Door.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 110, height: 73}
+    sourceRect: {x: 729, y: 933, width: 110, height: 73}
+
+  img/pictures/PIZZA-Down.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 110, height: 89}
+    sourceRect: {x: 729, y: 1007, width: 110, height: 89}
+
+  img/pictures/PIZZA-Driveway.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 146, height: 109}
+    sourceRect: {x: 333, y: 674, width: 146, height: 109}
+
+  img/pictures/PIZZA-Dull.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 91, height: 56}
+    sourceRect: {x: 841, y: 866, width: 91, height: 56}
+
+  img/pictures/PIZZA-Easel.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 116, height: 55}
+    sourceRect: {x: 615, y: 252, width: 116, height: 55}
+
+  img/pictures/PIZZA-Entrance.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 150, height: 54}
+    sourceRect: {x: 196, y: 298, width: 150, height: 54}
+
+  img/pictures/PIZZA-Fence.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 112, height: 78}
+    sourceRect: {x: 729, y: 698, width: 112, height: 78}
+
+  img/pictures/PIZZA-Find.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 89, height: 77}
+    sourceRect: {x: 937, y: 843, width: 89, height: 77}
+
+  img/pictures/PIZZA-First.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 130, height: 88}
+    sourceRect: {x: 474, y: 573, width: 130, height: 88}
+
+  img/pictures/PIZZA-Flamingo.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 123, height: 106}
+    sourceRect: {x: 605, y: 896, width: 123, height: 106}
+
+  img/pictures/PIZZA-Flowers.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 166, height: 88}
+    sourceRect: {x: 0, y: 999, width: 166, height: 88}
+
+  img/pictures/PIZZA-FoodCart.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 221, height: 91}
+    sourceRect: {x: 0, y: 0, width: 221, height: 91}
+
+  img/pictures/PIZZA-For.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 62, height: 55}
+    sourceRect: {x: 1026, y: 56, width: 62, height: 55}
+
+  img/pictures/PIZZA-Four.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 114, height: 53}
+    sourceRect: {x: 610, y: 773, width: 114, height: 53}
+
+  img/pictures/PIZZA-Fourth.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 107, height: 55}
+    sourceRect: {x: 730, y: 182, width: 107, height: 55}
+
+  img/pictures/PIZZA-Front.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 135, height: 73}
+    sourceRect: {x: 352, y: 272, width: 135, height: 73}
+
+  img/pictures/PIZZA-Garage.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 134, height: 73}
+    sourceRect: {x: 470, y: 890, width: 134, height: 73}
+
+  img/pictures/PIZZA-Garbage.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 170, height: 92}
+    sourceRect: {x: 0, y: 814, width: 170, height: 92}
+
+  img/pictures/PIZZA-Goes.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 1, y: 0, width: 117, height: 69}
+    sourceRect: {x: 612, y: 416, width: 116, height: 69}
+
+  img/pictures/PIZZA-Gray.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 100, height: 56}
+    sourceRect: {x: 839, y: 457, width: 100, height: 56}
+
+  img/pictures/PIZZA-Green.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 137, height: 81}
+    sourceRect: {x: 344, y: 491, width: 137, height: 81}
+
+  img/pictures/PIZZA-Grill.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 101, height: 102}
+    sourceRect: {x: 839, y: 238, width: 101, height: 102}
+
+  img/pictures/PIZZA-Hanging.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 139, height: 85}
+    sourceRect: {x: 334, y: 575, width: 139, height: 85}
+
+  img/pictures/PIZZA-Has.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 1, width: 81, height: 50}
+    sourceRect: {x: 939, y: 662, width: 81, height: 48}
+
+  img/pictures/PIZZA-Hoops.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 105, height: 71}
+    sourceRect: {x: 738, y: 0, width: 105, height: 71}
+
+  img/pictures/PIZZA-House.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 128, height: 89}
+    sourceRect: {x: 483, y: 346, width: 128, height: 89}
+
+  img/pictures/PIZZA-Hydrant.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 165, height: 88}
+    sourceRect: {x: 167, y: 999, width: 165, height: 88}
+
+  img/pictures/PIZZA-In.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 72, height: 72}
+    sourceRect: {x: 1023, y: 553, width: 72, height: 72}
+
+  img/pictures/PIZZA-Ladder.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 132, height: 70}
+    sourceRect: {x: 364, y: 0, width: 132, height: 70}
+
+  img/pictures/PIZZA-Landscaping.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 205, height: 108}
+    sourceRect: {x: 0, y: 92, width: 205, height: 108}
+
+  img/pictures/PIZZA-Large.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 129, height: 71}
+    sourceRect: {x: 482, y: 448, width: 129, height: 71}
+
+  img/pictures/PIZZA-Left.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 118, height: 102}
+    sourceRect: {x: 611, y: 595, width: 118, height: 102}
+
+  img/pictures/PIZZA-Light.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 102, height: 66}
+    sourceRect: {x: 838, y: 171, width: 102, height: 66}
+
+  img/pictures/PIZZA-Line.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 129, height: 64}
+    sourceRect: {x: 480, y: 763, width: 129, height: 64}
+
+  img/pictures/PIZZA-Lined.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 83, height: 82}
+    sourceRect: {x: 939, y: 579, width: 83, height: 82}
+
+  img/pictures/PIZZA-Long.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 68, height: 59}
+    sourceRect: {x: 1025, y: 978, width: 68, height: 59}
+
+  img/pictures/PIZZA-Look.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 92, height: 81}
+    sourceRect: {x: 937, y: 761, width: 90, height: 81}
+
+  img/pictures/PIZZA-Mailbox.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 142, height: 52}
+    sourceRect: {x: 173, y: 760, width: 142, height: 52}
+
+  img/pictures/PIZZA-Messy.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 99, height: 64}
+    sourceRect: {x: 840, y: 514, width: 99, height: 64}
+
+  img/pictures/PIZZA-Needs.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 131, height: 74}
+    sourceRect: {x: 473, y: 964, width: 131, height: 74}
+
+  img/pictures/PIZZA-New.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 139, height: 96}
+    sourceRect: {x: 333, y: 980, width: 139, height: 96}
+
+  img/pictures/PIZZA-No.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 62, height: 33}
+    sourceRect: {x: 938, y: 978, width: 62, height: 33}
+
+  img/pictures/PIZZA-Of.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 4, width: 60, height: 60}
+    sourceRect: {x: 1026, y: 921, width: 60, height: 56}
+
+  img/pictures/PIZZA-On.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 51, height: 43}
+    sourceRect: {x: 939, y: 711, width: 51, height: 43}
+
+  img/pictures/PIZZA-One.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 65, height: 36}
+    sourceRect: {x: 624, y: 75, width: 65, height: 36}
+
+  img/pictures/PIZZA-Orange.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 100, height: 44}
+    sourceRect: {x: 137, y: 1088, width: 100, height: 44}
+
+  img/pictures/PIZZA-Out.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 74, height: 59}
+    sourceRect: {x: 1021, y: 662, width: 74, height: 59}
+
+  img/pictures/PIZZA-Paint.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 111, height: 74}
+    sourceRect: {x: 729, y: 858, width: 111, height: 74}
+
+  img/pictures/PIZZA-Patch.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 76, height: 103}
+    sourceRect: {x: 1021, y: 127, width: 76, height: 103}
+
+  img/pictures/PIZZA-Pickup.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 136, height: 94}
+    sourceRect: {x: 346, y: 353, width: 136, height: 94}
+
+  img/pictures/PIZZA-PickupTruck.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 136, height: 94}
+    sourceRect: {x: 346, y: 353, width: 136, height: 94}
+
+  img/pictures/PIZZA-Picnic.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 91, height: 55}
+    sourceRect: {x: 840, y: 1084, width: 91, height: 55}
+
+  img/pictures/PIZZA-Pink.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 172, height: 66}
+    sourceRect: {x: 0, y: 747, width: 172, height: 66}
+
+  img/pictures/PIZZA-Pinwheels.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 190, height: 79}
+    sourceRect: {x: 0, y: 427, width: 190, height: 79}
+
+  img/pictures/PIZZA-Pizza.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 158, height: 69}
+    sourceRect: {x: 175, y: 604, width: 158, height: 69}
+
+  img/pictures/PIZZA-Plants.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 107, height: 84}
+    sourceRect: {x: 730, y: 380, width: 107, height: 84}
+
+  img/pictures/PIZZA-Please.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 186, height: 96}
+    sourceRect: {x: 0, y: 507, width: 186, height: 96}
+
+  img/pictures/PIZZA-Purple.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 147, height: 102}
+    sourceRect: {x: 206, y: 92, width: 147, height: 102}
+
+  img/pictures/PIZZA-Red.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 96, height: 71}
+    sourceRect: {x: 840, y: 1012, width: 96, height: 71}
+
+  img/pictures/PIZZA-Right.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 126, height: 118}
+    sourceRect: {x: 497, y: 0, width: 126, height: 118}
+
+  img/pictures/PIZZA-Rock.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 113, height: 74}
+    sourceRect: {x: 624, y: 0, width: 113, height: 74}
+
+  img/pictures/PIZZA-Roof.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 106, height: 95}
+    sourceRect: {x: 733, y: 75, width: 106, height: 95}
+
+  img/pictures/PIZZA-Roots.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 96, height: 79}
+    sourceRect: {x: 842, y: 681, width: 96, height: 79}
+
+  img/pictures/PIZZA-Rug.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 76, height: 97}
+    sourceRect: {x: 1021, y: 385, width: 76, height: 97}
+
+  img/pictures/PIZZA-RunDown.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 204, height: 126}
+    sourceRect: {x: 0, y: 201, width: 204, height: 96}
+
+  img/pictures/PIZZA-Second.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 136, height: 51}
+    sourceRect: {x: 0, y: 1088, width: 136, height: 51}
+
+  img/pictures/PIZZA-Short.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 125, height: 85}
+    sourceRect: {x: 489, y: 252, width: 125, height: 85}
+
+  img/pictures/PIZZA-Side.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 76, height: 63}
+    sourceRect: {x: 1020, y: 255, width: 76, height: 63}
+
+  img/pictures/PIZZA-Sign.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 78, height: 67}
+    sourceRect: {x: 941, y: 255, width: 78, height: 67}
+
+  img/pictures/PIZZA-Small.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 141, height: 70}
+    sourceRect: {x: 222, y: 0, width: 141, height: 70}
+
+  img/pictures/PIZZA-Spout.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 109, height: 107}
+    sourceRect: {x: 730, y: 562, width: 109, height: 107}
+
+  img/pictures/PIZZA-Street.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 158, height: 85}
+    sourceRect: {x: 174, y: 674, width: 158, height: 85}
+
+  img/pictures/PIZZA-Swing.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 160, height: 62}
+    sourceRect: {x: 169, y: 919, width: 160, height: 62}
+
+  img/pictures/PIZZA-TV.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 79, height: 73}
+    sourceRect: {x: 941, y: 181, width: 79, height: 73}
+
+  img/pictures/PIZZA-Table.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 75, height: 69}
+    sourceRect: {x: 1021, y: 483, width: 75, height: 69}
+
+  img/pictures/PIZZA-Take.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 123, height: 60}
+    sourceRect: {x: 480, y: 828, width: 123, height: 60}
+
+  img/pictures/PIZZA-Tether.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 154, height: 63}
+    sourceRect: {x: 191, y: 427, width: 154, height: 63}
+
+  img/pictures/PIZZA-That.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 113, height: 67}
+    sourceRect: {x: 616, y: 182, width: 113, height: 67}
+
+  img/pictures/PIZZA-The.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 59, height: 56}
+    sourceRect: {x: 1027, y: 843, width: 59, height: 56}
+
+  img/pictures/PIZZA-Third.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 143, height: 69}
+    sourceRect: {x: 196, y: 353, width: 143, height: 69}
+
+  img/pictures/PIZZA-This.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 124, height: 92}
+    sourceRect: {x: 604, y: 1039, width: 124, height: 92}
+
+  img/pictures/PIZZA-Three.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 116, height: 62}
+    sourceRect: {x: 616, y: 119, width: 116, height: 62}
+
+  img/pictures/PIZZA-Tires.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 119, height: 74}
+    sourceRect: {x: 605, y: 520, width: 119, height: 74}
+
+  img/pictures/PIZZA-To.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 78, height: 61}
+    sourceRect: {x: 943, y: 323, width: 78, height: 61}
+
+  img/pictures/PIZZA-Tools.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 1, width: 90, height: 73}
+    sourceRect: {x: 937, y: 1012, width: 87, height: 72}
+
+  img/pictures/PIZZA-Toys.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 65, height: 73}
+    sourceRect: {x: 1025, y: 1038, width: 65, height: 73}
+
+  img/pictures/PIZZA-Tree.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 98, height: 101}
+    sourceRect: {x: 840, y: 579, width: 98, height: 101}
+
+  img/pictures/PIZZA-Trees.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 97, height: 78}
+    sourceRect: {x: 840, y: 933, width: 97, height: 78}
+
+  img/pictures/PIZZA-Truck.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 195, height: 128}
+    sourceRect: {x: 0, y: 298, width: 195, height: 128}
+
+  img/pictures/PIZZA-Two.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 67, height: 55}
+    sourceRect: {x: 1023, y: 0, width: 67, height: 55}
+
+  img/pictures/PIZZA-Up.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 94, height: 104}
+    sourceRect: {x: 842, y: 761, width: 94, height: 104}
+
+  img/pictures/PIZZA-Van.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 110, height: 52}
+    sourceRect: {x: 482, y: 520, width: 110, height: 52}
+
+  img/pictures/PIZZA-White.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 88, height: 56}
+    sourceRect: {x: 934, y: 0, width: 88, height: 56}
+
+  img/pictures/PIZZA-Window.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 156, height: 67}
+    sourceRect: {x: 187, y: 507, width: 156, height: 67}
+
+  img/pictures/PIZZA-Windows.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 173, height: 72}
+    sourceRect: {x: 0, y: 674, width: 173, height: 72}
+
+  img/pictures/PIZZA-With.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 86, height: 69}
+    sourceRect: {x: 939, y: 57, width: 86, height: 69}
+
+  img/pictures/PIZZA-Work.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 126, height: 85}
+    sourceRect: {x: 489, y: 166, width: 126, height: 85}
+
+  img/pictures/PIZZA-Yard.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 98, height: 64}
+    sourceRect: {x: 840, y: 72, width: 98, height: 64}
+
+  img/pictures/PIZZA-Yellow.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 168, height: 91}
+    sourceRect: {x: 0, y: 907, width: 168, height: 91}
+
+  img/pictures/PIZZA-You.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 79, height: 53}
+    sourceRect: {x: 941, y: 127, width: 79, height: 53}
+
+  img/pictures/PIZZA-Mulch.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0,y: 0, width: 136, height: 55}
+    sourceRect: {x: 0, y: 1139, width: 136, height: 55}
+
+  img/pictures/PIZZA-Planks.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0,y: 1, width: 113, height: 80}
+    sourceRect: {x: 137, y: 1139, width: 113, height: 79}
+
+  img/pictures/PIZZA-Wood.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0,y: 8, width: 112, height: 85}
+    sourceRect: {x: 251, y: 1139, width: 112, height: 59}
+
+  img/pictures/PIZZA-Cone.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 102,height: 65}
+    sourceRect: {x: 1121, y: 184,  width: 102, height: 65}
+
+  img/pictures/PIZZA-Path.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 88,height: 103}
+    sourceRect: {x: 1121, y: 250,  width: 88, height: 103}
+
+  img/pictures/PIZZA-Stone.png:
+    atlasName: MN_PizzaItems
+    rect: {x: 0, y: 0, width: 143,height: 76}
+    sourceRect: {x: 1121, y: 107,  width: 143, height: 76}
+
+  ###################################################################
+  # Memory Photos
+  ###################################################################
+  img/pictures/Memories_07.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_06.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_01.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_02.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_03.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Memories_04.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Memories_05.png:
+    atlasName: FarawayAtlas_Memories
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  ###################################################################
+  # Memory Photos Scribbles
+  ###################################################################
+  img/pictures/Memories_S_07.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_S_06.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_S_01.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_S_02.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 1083, y: 0, width: 361 , height: 437}
+
+  img/pictures/Memories_S_03.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 0, y: 437, width: 361 , height: 437}
+
+  img/pictures/Memories_S_04.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 361, y: 437, width: 361 , height: 437}
+
+  img/pictures/Memories_S_05.png:
+    atlasName: FarawayAtlas_Memories_scribbles
+    rect: {x: 0, y: 0, width: 361, height: 437}
+    sourceRect: {x: 722, y: 437, width: 361 , height: 437}
+
+  ###################################################################
+  # BLACKJACK IMAGES
+  ###################################################################
+  img/pictures/BJ-BUST.png:
+    atlasName: MN_BlackJack
+    rect: {x: 107,y: 184, width: 640, height: 480}
+    sourceRect: {x: 641, y: 1243,  width: 416,  height: 122}
+
+  img/pictures/BJ-Button-Selected.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 124, height: 36}
+    sourceRect: {x: 1101, y: 1007,  width: 124,  height: 36}
+
+  img/pictures/BJ-Button.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 124, height: 36}
+    sourceRect: {x: 1101, y: 1044,  width: 124,  height: 36}
+
+  img/pictures/BJ-ButtonLong-Selected.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 145, height: 36}
+    sourceRect: {x: 1101, y: 970,  width: 145,  height: 36}
+
+  img/pictures/BJ-ButtonLong.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 145, height: 36}
+    sourceRect: {x: 1040, y: 1393,  width: 145,  height: 36}
+
+  img/pictures/BJ-HIT.png:
+    atlasName: MN_BlackJack
+    rect: {x: 269,y: 112, width: 640, height: 480}
+    sourceRect: {x: 1171, y: 123,  width: 87,  height: 41}
+
+  img/pictures/BJ-LOSE.png:
+    atlasName: MN_BlackJack
+    rect: {x: 105,y: 184, width: 640, height: 480}
+    sourceRect: {x: 641, y: 1120,  width: 420,  height: 122}
+
+  img/pictures/BJ-NATURAL.png:
+    atlasName: MN_BlackJack
+    rect: {x: 80,y: 148, width: 640, height: 480}
+    sourceRect: {x: 641, y: 970,  width: 459,  height: 149}
+
+  img/pictures/BJ-STAY.png:
+    atlasName: MN_BlackJack
+    rect: {x: 270,y: 104, width: 640, height: 480}
+    sourceRect: {x: 641, y: 1417,  width: 93,  height: 33}
+
+  img/pictures/BJ-TIE.png:
+    atlasName: MN_BlackJack
+    rect: {x: 199,y: 174, width: 640, height: 480}
+    sourceRect: {x: 1062, y: 1120,  width: 252,  height: 122}
+
+  img/pictures/BJ-WIN.png:
+    atlasName: MN_BlackJack
+    rect: {x: 112,y: 148, width: 640, height: 480}
+    sourceRect: {x: 1058, y: 1243,  width: 392,  height: 149}
+
+  img/pictures/CardBack.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 90, height: 122}
+    sourceRect: {x: 1171, y: 0,  width: 90,  height: 122}
+
+  img/pictures/Cards.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 1170, height: 488}
+    sourceRect: {x: 0, y: 0,  width: 1170,  height: 488}
+
+  img/pictures/blackjack_bg.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 640, height: 480}
+    sourceRect: {x: 0, y: 970,  width: 640,  height: 480}
+
+  img/pictures/blackjack_frame.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 640, height: 480}
+    sourceRect: {x: 0, y: 489,  width: 640,  height: 480}
+
+  img/pictures/blackjack_layout.png:
+    atlasName: MN_BlackJack
+    rect: {x: 0,y: 0, width: 640, height: 480}
+    sourceRect: {x: 641, y: 489,  width: 640,  height: 480}
+
+  img/pictures/blackjack_logo.png:
+    atlasName: MN_BlackJack
+    rect: {x: 12, y: 10, width: 418, height: 73}
+    sourceRect: {x: 641, y: 1366,  width: 398,  height: 50}
+  ###################################################################
+  # SPACE ADVENTURE IMAGES
+  ###################################################################
+  img/pictures/INVADER-Background.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 320, height: 288}
+    sourceRect: {x: 379, y: 481,  width: 320,  height: 288}
+
+  img/pictures/INVADER-Barricade.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 32, height: 64}
+    sourceRect: {x: 33, y: 874,  width: 32,  height: 64}
+
+  img/pictures/INVADER-Boundary.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 640, height: 480}
+    sourceRect: {x: 0, y: 0,  width: 640,  height: 480}
+
+  img/pictures/INVADER-Complete.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 700, y: 346,  width: 294,  height: 172}
+
+  img/pictures/INVADER-Damage.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 6, height: 6}
+    sourceRect: {x: 0, y: 934,  width: 6,  height: 6}
+
+  img/pictures/INVADER-Dead.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 641, y: 173,  width: 294,  height: 172}
+
+  img/pictures/INVADER-EShot.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 7, height: 2}
+    sourceRect: {x: 0, y: 928,  width: 7,  height: 2}
+
+  img/pictures/INVADER-Enemy.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 22, height: 28}
+    sourceRect: {x: 66, y: 874,  width: 22,  height: 28}
+
+  img/pictures/INVADER-GameOver.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 641, y: 0,  width: 294, height: 172}
+
+  img/pictures/INVADER-PShot.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 7, height: 2}
+    sourceRect: {x: 0, y: 931,  width: 7,  height: 2}
+
+  img/pictures/INVADER-Parallax.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 378, height: 389}
+    sourceRect: {x: 0, y: 481,  width: 378,  height: 389}
+
+  img/pictures/INVADER-PowerUp.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 32, height: 28}
+    sourceRect: {x: 0, y: 899,  width: 32,  height: 28}
+
+  img/pictures/INVADER-Prompt.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 674, y: 770,  width: 294,  height: 172}
+
+  img/pictures/INVADER-Ship.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 32, height: 24}
+    sourceRect: {x: 0, y: 874,  width: 32,  height: 24}
+
+  img/pictures/INVADER-Text.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 230, height: 18}
+    sourceRect: {x: 0, y: 943,  width: 230,  height: 18}
+
+  img/pictures/INVADER-Title.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 379, y: 770,  width: 294,  height: 172}
+
+  img/pictures/INVADER-UI-Line.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 310, height: 2}
+    sourceRect: {x: 0, y: 871,  width: 310,  height: 2}
+
+  img/pictures/INVADER-UI-Numbers.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 120, height: 18}
+    sourceRect: {x: 0, y: 962,  width: 120,  height: 18}
+
+  img/pictures/INVADER-YouWin.png:
+    atlasName: MN_Invader
+    rect: {x: 0,y: 0, width: 294, height: 172}
+    sourceRect: {x: 700, y: 519,  width: 294,  height: 172}
+  ###################################################################
+  # PET ROCKS IMAGES
+  ###################################################################
+  img/pictures/ROCK-Animation.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 192, height: 192}
+    sourceRect: {x: 641, y: 174, width: 192, height: 192}
+
+  img/pictures/ROCK-Background.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 640, height: 480}
+    sourceRect: {x: 0, y: 0, width: 640, height: 480}
+
+  img/pictures/ROCK-Bunny.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 0, y: 739, width: 256, height: 128}
+
+  img/pictures/ROCK-Button.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 48, height: 48}
+    sourceRect: {x: 765, y: 367, width: 48, height: 48}
+
+  img/pictures/ROCK-ButtonPressed.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 48, height: 48}
+    sourceRect: {x: 716, y: 367, width: 48, height: 48}
+
+  img/pictures/ROCK-ButtonSelected.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 48, height: 48}
+    sourceRect: {x: 716, y: 416, width: 48, height: 48}
+
+  img/pictures/ROCK-Combo1.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 30, height: 50}
+    sourceRect: {x: 765, y: 416, width: 30, height: 50}
+
+  img/pictures/ROCK-Combo2.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 30, height: 50}
+    sourceRect: {x: 771, y: 467, width: 30, height: 50}
+
+  img/pictures/ROCK-Combo3.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 30, height: 50}
+    sourceRect: {x: 771, y: 518, width: 30, height: 50}
+
+  img/pictures/ROCK-ComboCounter.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 74, height: 80}
+    sourceRect: {x: 641, y: 367, width: 74, height: 80}
+
+  img/pictures/ROCK-CoolSNake.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 0, y: 868, width: 256, height: 128}
+
+  img/pictures/ROCK-Heart.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 30, height: 26}
+    sourceRect: {x: 641, y: 448, width: 30, height: 26}
+
+  img/pictures/ROCK-Jash.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 257, y: 481, width: 256, height: 128}
+
+  img/pictures/ROCK-LilG.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 514, y: 739, width: 256, height: 128}
+
+  img/pictures/ROCK-Ocotaco.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 514, y: 868, width: 256, height: 128}
+
+  img/pictures/ROCK-OneWingAsh.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 257, y: 868, width: 256, height: 128}
+
+  img/pictures/ROCK-OptionsSheet.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 246, height: 44}
+    sourceRect: {x: 641, y: 129, width: 246, height: 44}
+
+  img/pictures/ROCK-P'Terry.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 514, y: 610, width: 256, height: 128}
+
+  img/pictures/ROCK-PapaChip.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 0, y: 610, width: 256, height: 128}
+
+  img/pictures/ROCK-Pluto.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 0, y: 481, width: 256, height: 128}
+
+  img/pictures/ROCK-RoseLad.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 514, y: 481, width: 256, height: 128}
+
+  img/pictures/ROCK-SaucyK.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 641, y: 0, width: 256, height: 128}
+
+  img/pictures/ROCK-TheMuncherKing.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 257, y: 739, width: 256, height: 128}
+
+  img/pictures/ROCK-TomatoGirl.png:
+    atlasName: MN_PetRocks
+    rect: {x: 0, y: 0, width: 256, height: 128}
+    sourceRect: {x: 257, y: 610, width: 256, height: 128}
+
+  ###################################################################
+  # SNAKE IMAGES
+  ###################################################################
+  img/pictures/SNAKE-Background.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 320, height: 288}
+    sourceRect: {x: 0, y: 25, width: 320, height: 288}
+
+  img/pictures/SNAKE-Body.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 96, height: 128}
+    sourceRect: {x: 321, y: 183, width: 96, height: 128}
+
+  img/pictures/SNAKE-Food.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 32, height: 32}
+    sourceRect: {x: 418, y: 208, width: 32, height: 32}
+
+  img/pictures/SNAKE-Life.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 24, height: 28}
+    sourceRect: {x: 418, y: 241, width: 24, height: 28}
+
+  img/pictures/SNAKE-Lines.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 296, height: 250}
+    sourceRect: {x: 0, y: 314, width: 296, height: 250}
+
+  img/pictures/SNAKE-Lose.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 186, height: 134}
+    sourceRect: {x: 297, y: 314, width: 186, height: 134}
+
+  img/pictures/SNAKE-Numbers.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 180, height: 22}
+    sourceRect: {x: 321, y: 160, width: 180, height: 22}
+
+  img/pictures/SNAKE-Prompt.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 212, height: 14}
+    sourceRect: {x: 0, y: 565, width: 212, height: 14}
+
+  img/pictures/SNAKE-ScoreText.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 80, height: 24}
+    sourceRect: {x: 418, y: 183, width: 80, height: 24}
+
+  img/pictures/SNAKE-Title.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 186, height: 134}
+    sourceRect: {x: 321, y: 25, width: 186, height: 134}
+
+  img/pictures/SNAKE-TitleLoop.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 538, height: 24}
+    sourceRect: {x: 0, y: 0, width: 538, height: 24}
+
+  img/pictures/SNAKE-TitleVertLoop.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 24, height: 538}
+    sourceRect: {x: 508, y: 25, width: 24, height: 538}
+
+  img/pictures/SNAKE-Win.png:
+    atlasName: MN_Snake
+    rect: {x: 0, y: 0, width: 186, height: 134}
+    sourceRect: {x: 297, y: 449, width: 186, height: 134}
+
+  ###################################################################
+  # GACHA IMAGES
+  ###################################################################
+  img/pictures/YellowCat.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 528, y: 217, width: 122, height: 216}
+    rect: {x: 0, y: 0, width: 122, height: 216}
+
+  img/pictures/PurpleBall.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 528, y: 553, width: 116, height: 118}
+    rect: {x: 0, y: 0, width: 116, height: 118}
+
+  img/pictures/RedHand.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 0, y: 216, width: 187, height: 215}
+    rect: {x: 0, y: 0, width: 187, height: 215}
+
+  img/pictures/GreenSlinky.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 187, y: 432, width: 170, height: 157}
+    rect: {x: 0, y: 0, width: 170, height: 157}
+
+  img/pictures/GreenCat.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 363, y: 0, width: 123, height: 215}
+    rect: {x: 0, y: 0, width: 123, height: 215}
+
+  img/pictures/PinkBall.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 528, y: 434, width: 116, height: 118}
+    rect: {x: 0, y: 0, width: 116, height: 118}
+
+  img/pictures/GreenHand.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 0, y: 0, width: 187, height: 215}
+    rect: {x: 0, y: 0, width: 187, height: 215}
+
+  img/pictures/BlueSlinky.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 188, y: 257, width: 170, height: 157}
+    rect: {x: 0, y: 0, width: 170, height: 157}
+
+  img/pictures/PinkCat.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 487, y: 0, width: 123, height: 216}
+    rect: {x: 0, y: 0, width: 123, height: 216}
+
+  img/pictures/GreenBall.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 359, y: 257, width: 116, height: 119}
+    rect: {x: 0, y: 0, width: 116, height: 119}
+
+  img/pictures/PurpleHand.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 0, y: 432, width: 186, height: 215}
+    rect: {x: 0, y: 0, width: 186, height: 215}
+
+  img/pictures/YellowSlinky.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 358, y: 415, width: 169, height: 157}
+    rect: {x: 0, y: 0, width: 169, height: 157}
+
+  img/pictures/ChimeraCat.png:
+    atlasName: gacha_prizes
+    sourceRect: {x: 188, y: 0, width: 174, height: 256}
+    rect: {x: 0, y: 0, width: 174, height: 256}
+
+  ###################################################################
+  # BATTLE SYSTEM UI
+  ###################################################################
+  img/system/BattleCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 292, 'y': 480, width: 360, height: 80}}
+#  img/system/BattleCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 131, width: 360, height: 80}}
+  img/system/BattleCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 131, width: 360, height: 80}}
+  img/system/BattleCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 213, width: 360, height: 80}}
+  img/system/bsRedHands.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 192, height: 128}, sourceRect: {x: 654, 'y': 1, width: 192, height: 128}}
+  img/system/energy_dw_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 289, height: 337}, sourceRect: {x: 363, 'y': 1, width: 289, height: 337}}
+  img/system/energy_stress_ekg_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 289, height: 337}, sourceRect: {x: 1, 'y': 229, width: 289, height: 337}}
+#  img/system/PartyCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 295, width: 360, height: 80}}
+  img/system/PartyCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 295, width: 360, height: 80}}
+  img/system/PartyCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 377, width: 360, height: 80}}
+  img/system/PartyCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 459, width: 360, height: 80}}
+  img/system/PartyCommands_FinalBattle.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 541, width: 360, height: 80}}
+  img/system/StressBar_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 180}, sourceRect: {x: 292, 'y': 340, width: 360, height: 180}}
+#  img/system/StressBar_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 138}, sourceRect: {x: 292, 'y': 340, width: 360, height: 138}}
+  img/system/StressBar_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 226}, sourceRect: {x: 1, 'y': 1, width: 360, height: 226}}
+  img/system/party_command_boss.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 108}, sourceRect: {x: 1, 'y': 673, width: 360, height: 108}}
+
+  ###################################################################
+  # MENU SYSTEM UI
+  ###################################################################
+  img/system/acc_1.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1, width: 106, height: 106}}
+  img/system/acc_2.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 217, width: 106, height: 106}}
+  img/system/acc_3.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 433, width: 106, height: 106}}
+  img/system/acc_4.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 649, width: 106, height: 106}}
+  img/system/acc_5.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 865, width: 106, height: 106}}
+  img/system/acc_6.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 109, width: 106, height: 106}}
+  img/system/acc_7.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 649, width: 106, height: 106}}
+  img/system/acc_8.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 757, width: 106, height: 106}}
+  img/system/acc_9.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 865, width: 106, height: 106}}
+  img/system/acc_10.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 109, width: 106, height: 106}}
+  img/system/acc_11.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 217, width: 106, height: 106}}
+  img/system/acc_12.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 325, width: 106, height: 106}}
+  img/system/acc_13.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 433, width: 106, height: 106}}
+  img/system/acc_14.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 541, width: 106, height: 106}}
+  img/system/acc_15.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 649, width: 106, height: 106}}
+  img/system/acc_16.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 757, width: 106, height: 106}}
+  img/system/acc_17.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 865, width: 106, height: 106}}
+  img/system/acc_18.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1, width: 106, height: 106}}
+  img/system/acc_19.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 109, width: 106, height: 106}}
+  img/system/acc_20.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 325, width: 106, height: 106}}
+  img/system/acc_21.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 433, width: 106, height: 106}}
+  img/system/acc_22.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 541, width: 106, height: 106}}
+  img/system/acc_23.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 649, width: 106, height: 106}}
+  img/system/acc_24.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 757, width: 106, height: 106}}
+  img/system/acc_25.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 865, width: 106, height: 106}}
+  img/system/acc_26.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1, width: 106, height: 106}}
+  img/system/acc_27.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 109, width: 106, height: 106}}
+  img/system/acc_28.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 217, width: 106, height: 106}}
+  img/system/acc_29.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 325, width: 106, height: 106}}
+  img/system/acc_30.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 541, width: 106, height: 106}}
+  img/system/acc_31.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 649, width: 106, height: 106}}
+  img/system/acc_32.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 757, width: 106, height: 106}}
+  img/system/acc_33.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 865, width: 106, height: 106}}
+  img/system/acc_34.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1, width: 106, height: 106}}
+  img/system/acc_35.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 109, width: 106, height: 106}}
+  img/system/acc_36.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 217, width: 106, height: 106}}
+  img/system/acc_37.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 325, width: 106, height: 106}}
+  img/system/acc_38.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 433, width: 106, height: 106}}
+  img/system/acc_39.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 541, width: 106, height: 106}}
+  img/system/acc_40.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 757, width: 106, height: 106}}
+  img/system/acc_41.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 865, width: 106, height: 106}}
+  img/system/acc_42.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1, width: 106, height: 106}}
+  img/system/acc_43.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 109, width: 106, height: 106}}
+  img/system/acc_44.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 217, width: 106, height: 106}}
+  img/system/acc_45.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 325, width: 106, height: 106}}
+  img/system/acc_46.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 433, width: 106, height: 106}}
+  img/system/acc_47.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 541, width: 106, height: 106}}
+  img/system/acc_48.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 649, width: 106, height: 106}}
+  img/system/acc_49.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 757, width: 106, height: 106}}
+  img/system/acc_50.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1, width: 106, height: 106}}
+  img/system/acc_51.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 109, width: 106, height: 106}}
+  img/system/acc_52.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 217, width: 106, height: 106}}
+  img/system/acc_53.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 325, width: 106, height: 106}}
+  img/system/acc_54.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 433, width: 106, height: 106}}
+  img/system/acc_55.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 541, width: 106, height: 106}}
+  img/system/acc_56.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 649, width: 106, height: 106}}
+  img/system/acc_57.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 757, width: 106, height: 106}}
+  img/system/acc_58.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 865, width: 106, height: 106}}
+  img/system/acc_59.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1, width: 106, height: 106}}
+  img/system/acc_60.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 217, width: 106, height: 106}}
+  img/system/acc_61.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 325, width: 106, height: 106}}
+  img/system/acc_62.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 433, width: 106, height: 106}}
+  img/system/acc_63.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 541, width: 106, height: 106}}
+  img/system/acc_64.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 973, width: 106, height: 106}}
+  img/system/acc_65.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 973, width: 106, height: 106}}
+  img/system/acc_66.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 973, width: 106, height: 106}}
+  img/system/acc_67.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 973, width: 106, height: 106}}
+  img/system/acc_68.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 973, width: 106, height: 106}}
+  img/system/acc_69.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 973, width: 106, height: 106}}
+  img/system/acc_70.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 973, width: 106, height: 106}}
+  img/system/acc_71.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1081, width: 106, height: 106}}
+  img/system/acc_72.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1081, width: 106, height: 106}}
+  img/system/acc_73.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1081, width: 106, height: 106}}
+  img/system/acc_74.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1081, width: 106, height: 106}}
+  img/system/acc_75.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1081, width: 106, height: 106}}
+  img/system/acc_76.png: {atlasName: itemCharms, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1081, width: 106, height: 106}}
+
+  img/system/food_1.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1, width: 106, height: 106}}
+  img/system/food_2.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 217, width: 106, height: 106}}
+  img/system/food_3.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 433, width: 106, height: 106}}
+  img/system/food_4.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 649, width: 106, height: 106}}
+  img/system/food_5.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 865, width: 106, height: 106}}
+  img/system/food_6.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 109, width: 106, height: 106}}
+  img/system/food_7.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 325, width: 106, height: 106}}
+  img/system/food_8.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 757, width: 106, height: 106}}
+  img/system/food_9.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 865, width: 106, height: 106}}
+  img/system/food_10.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 109, width: 106, height: 106}}
+  img/system/food_11.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 217, width: 106, height: 106}}
+  img/system/food_12.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 325, width: 106, height: 106}}
+  img/system/food_13.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 433, width: 106, height: 106}}
+  img/system/food_14.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 541, width: 106, height: 106}}
+  img/system/food_15.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 649, width: 106, height: 106}}
+  img/system/food_16.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 757, width: 106, height: 106}}
+  img/system/food_17.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 865, width: 106, height: 106}}
+  img/system/food_18.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1, width: 106, height: 106}}
+  img/system/food_19.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 109, width: 106, height: 106}}
+  img/system/food_20.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 325, width: 106, height: 106}}
+  img/system/food_21.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 433, width: 106, height: 106}}
+  img/system/food_22.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 541, width: 106, height: 106}}
+  img/system/food_23.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 649, width: 106, height: 106}}
+  img/system/food_24.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 757, width: 106, height: 106}}
+  img/system/food_25.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 865, width: 106, height: 106}}
+  img/system/food_26.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1, width: 106, height: 106}}
+  img/system/food_27.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 109, width: 106, height: 106}}
+  img/system/food_28.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 217, width: 106, height: 106}}
+  img/system/food_29.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 325, width: 106, height: 106}}
+  img/system/food_30.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 541, width: 106, height: 106}}
+  img/system/food_31.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 649, width: 106, height: 106}}
+  img/system/food_32.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 757, width: 106, height: 106}}
+  img/system/food_33.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 865, width: 106, height: 106}}
+  img/system/food_34.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1, width: 106, height: 106}}
+  img/system/food_35.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 109, width: 106, height: 106}}
+  img/system/food_36.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 217, width: 106, height: 106}}
+  img/system/food_37.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 325, width: 106, height: 106}}
+  img/system/food_38.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 433, width: 106, height: 106}}
+  img/system/food_39.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 541, width: 106, height: 106}}
+  img/system/food_40.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 757, width: 106, height: 106}}
+  img/system/food_41.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 865, width: 106, height: 106}}
+  img/system/food_42.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1, width: 106, height: 106}}
+  img/system/food_43.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 109, width: 106, height: 106}}
+  img/system/food_44.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 217, width: 106, height: 106}}
+  img/system/food_45.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 325, width: 106, height: 106}}
+  img/system/food_46.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 433, width: 106, height: 106}}
+  img/system/food_47.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 541, width: 106, height: 106}}
+  img/system/food_48.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 649, width: 106, height: 106}}
+  img/system/food_49.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 757, width: 106, height: 106}}
+  img/system/food_50.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1, width: 106, height: 106}}
+  img/system/food_51.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 109, width: 106, height: 106}}
+  img/system/food_52.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 217, width: 106, height: 106}}
+  img/system/food_53.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 325, width: 106, height: 106}}
+  img/system/food_54.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 433, width: 106, height: 106}}
+  img/system/food_55.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 541, width: 106, height: 106}}
+  img/system/food_56.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 649, width: 106, height: 106}}
+  img/system/food_57.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 757, width: 106, height: 106}}
+  img/system/food_58.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 865, width: 106, height: 106}}
+  img/system/food_59.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1, width: 106, height: 106}}
+  img/system/food_60.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 217, width: 106, height: 106}}
+  img/system/food_61.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 325, width: 106, height: 106}}
+  img/system/food_62.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 433, width: 106, height: 106}}
+  img/system/food_63.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 541, width: 106, height: 106}}
+  img/system/food_64.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 649, width: 106, height: 106}}
+  img/system/food_65.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 757, width: 106, height: 106}}
+  img/system/food_66.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 865, width: 106, height: 106}}
+  img/system/food_67.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 1, width: 106, height: 106}}
+  img/system/food_68.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 109, width: 106, height: 106}}
+  img/system/food_69.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 217, width: 106, height: 106}}
+  img/system/food_70.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 433, width: 106, height: 106}}
+  img/system/food_71.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 541, width: 106, height: 106}}
+  img/system/food_72.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 649, width: 106, height: 106}}
+  img/system/food_73.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 973, width: 106, height: 106}}
+  img/system/food_74.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 973, width: 106, height: 106}}
+  img/system/food_75.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 973, width: 106, height: 106}}
+  img/system/food_76.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 973, width: 106, height: 106}}
+  img/system/food_77.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 973, width: 106, height: 106}}
+  img/system/food_78.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 973, width: 106, height: 106}}
+  img/system/food_79.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 973, width: 106, height: 106}}
+  img/system/food_80.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 973, width: 106, height: 106}}
+  img/system/food_81.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1081, width: 106, height: 106}}
+  img/system/food_82.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1081, width: 106, height: 106}}
+  img/system/food_83.png: {atlasName: itemConsumables, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1081, width: 106, height: 106}}
+  img/system/i_1.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1, width: 106, height: 106}}
+  img/system/i_2.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 217, width: 106, height: 106}}
+  img/system/i_3.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 433, width: 106, height: 106}}
+  img/system/i_4.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 649, width: 106, height: 106}}
+  img/system/i_5.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 865, width: 106, height: 106}}
+  img/system/i_6.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 109, width: 106, height: 106}}
+  img/system/i_7.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 325, width: 106, height: 106}}
+  img/system/i_8.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 757, width: 106, height: 106}}
+  img/system/i_9.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 865, width: 106, height: 106}}
+  img/system/i_10.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 109, width: 106, height: 106}}
+  img/system/i_11.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 217, width: 106, height: 106}}
+  img/system/i_12.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 325, width: 106, height: 106}}
+  img/system/i_13.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 433, width: 106, height: 106}}
+  img/system/i_14.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 541, width: 106, height: 106}}
+  img/system/i_15.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 649, width: 106, height: 106}}
+  img/system/i_16.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 757, width: 106, height: 106}}
+  img/system/i_17.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 865, width: 106, height: 106}}
+  img/system/i_18.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1, width: 106, height: 106}}
+  img/system/i_19.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 109, width: 106, height: 106}}
+  img/system/i_20.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 325, width: 106, height: 106}}
+  img/system/i_21.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 433, width: 106, height: 106}}
+  img/system/i_22.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 541, width: 106, height: 106}}
+  img/system/i_23.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 649, width: 106, height: 106}}
+  img/system/i_24.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 757, width: 106, height: 106}}
+  img/system/i_25.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 865, width: 106, height: 106}}
+  img/system/i_26.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1, width: 106, height: 106}}
+  img/system/i_27.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 109, width: 106, height: 106}}
+  img/system/i_28.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 217, width: 106, height: 106}}
+  img/system/i_29.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 325, width: 106, height: 106}}
+  img/system/i_30.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 541, width: 106, height: 106}}
+  img/system/i_31.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 649, width: 106, height: 106}}
+  img/system/i_32.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 757, width: 106, height: 106}}
+  img/system/i_33.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 865, width: 106, height: 106}}
+  img/system/i_34.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1, width: 106, height: 106}}
+  img/system/i_35.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 109, width: 106, height: 106}}
+  img/system/i_36.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 217, width: 106, height: 106}}
+  img/system/i_37.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 325, width: 106, height: 106}}
+  img/system/i_38.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 433, width: 106, height: 106}}
+  img/system/i_39.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 541, width: 106, height: 106}}
+  img/system/i_40.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 757, width: 106, height: 106}}
+  img/system/i_41.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 865, width: 106, height: 106}}
+  img/system/i_42.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1, width: 106, height: 106}}
+  img/system/i_43.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 109, width: 106, height: 106}}
+  img/system/i_44.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 217, width: 106, height: 106}}
+  img/system/i_45.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 325, width: 106, height: 106}}
+  img/system/i_46.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 433, width: 106, height: 106}}
+  img/system/i_47.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 541, width: 106, height: 106}}
+  img/system/i_48.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 649, width: 106, height: 106}}
+  img/system/i_49.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 757, width: 106, height: 106}}
+  img/system/i_50.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1, width: 106, height: 106}}
+  img/system/i_51.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 109, width: 106, height: 106}}
+  img/system/i_52.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 217, width: 106, height: 106}}
+  img/system/i_53.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 325, width: 106, height: 106}}
+  img/system/i_54.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 433, width: 106, height: 106}}
+  img/system/i_55.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 541, width: 106, height: 106}}
+  img/system/i_56.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 649, width: 106, height: 106}}
+  img/system/i_57.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 757, width: 106, height: 106}}
+  img/system/i_58.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 865, width: 106, height: 106}}
+  img/system/i_59.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1, width: 106, height: 106}}
+  img/system/i_60.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 217, width: 106, height: 106}}
+  img/system/i_61.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 325, width: 106, height: 106}}
+  img/system/i_62.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 433, width: 106, height: 106}}
+  img/system/i_63.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 541, width: 106, height: 106}}
+  img/system/i_64.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 649, width: 106, height: 106}}
+  img/system/i_65.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 757, width: 106, height: 106}}
+  img/system/i_66.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 865, width: 106, height: 106}}
+  img/system/i_67.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 1, width: 106, height: 106}}
+  img/system/i_68.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 109, width: 106, height: 106}}
+  img/system/i_69.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 217, width: 106, height: 106}}
+  img/system/i_70.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 433, width: 106, height: 106}}
+  img/system/i_71.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 541, width: 106, height: 106}}
+  img/system/i_72.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 649, width: 106, height: 106}}
+  img/system/i_73.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 973, width: 106, height: 106}}
+  img/system/i_74.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 973, width: 106, height: 106}}
+  img/system/i_75.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 973, width: 106, height: 106}}
+  img/system/i_76.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 973, width: 106, height: 106}}
+  img/system/i_77.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 973, width: 106, height: 106}}
+  img/system/i_78.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 973, width: 106, height: 106}}
+  img/system/i_79.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 973, width: 106, height: 106}}
+  img/system/i_80.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 973, width: 106, height: 106}}
+  img/system/i_81.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1081, width: 106, height: 106}}
+  img/system/i_82.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1081, width: 106, height: 106}}
+  img/system/i_83.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1081, width: 106, height: 106}}
+  img/system/i_84.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1081, width: 106, height: 106}}
+  img/system/i_85.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1081, width: 106, height: 106}}
+  img/system/i_86.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1081, width: 106, height: 106}}
+  img/system/i_87.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1081, width: 106, height: 106}}
+  img/system/i_88.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 1081, width: 106, height: 106}}
+  img/system/i_89.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1189, width: 106, height: 106}}
+  img/system/i_90.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1189, width: 106, height: 106}}
+  img/system/i_91.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1189, width: 106, height: 106}}
+  img/system/i_92.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1189, width: 106, height: 106}}
+  img/system/i_93.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1189, width: 106, height: 106}}
+  img/system/i_94.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1189, width: 106, height: 106}}
+  img/system/i_95.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1189, width: 106, height: 106}}
+  img/system/i_96.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 1189, width: 106, height: 106}}
+  img/system/i_97.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1297, width: 106, height: 106}}
+  img/system/i_98.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1297, width: 106, height: 106}}
+  img/system/i_99.png: {atlasName: itemImportant, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1297, width: 106, height: 106}}
+  img/system/w_1.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 1, width: 106, height: 106}}
+  img/system/w_2.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 325, width: 106, height: 106}}
+  img/system/w_3.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 1, width: 106, height: 106}}
+  img/system/w_4.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 217, width: 106, height: 106}}
+  img/system/w_5.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 325, width: 106, height: 106}}
+  img/system/w_6.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 217, width: 106, height: 106}}
+  img/system/w_7.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 865, 'y': 217, width: 106, height: 106}}
+  img/system/w_8.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 325, width: 106, height: 106}}
+  img/system/w_9.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 865, 'y': 325, width: 106, height: 106}}
+  img/system/w_10.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 109, width: 106, height: 106}}
+  img/system/w_11.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 217, width: 106, height: 106}}
+  img/system/w_12.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 325, width: 106, height: 106}}
+  img/system/w_13.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 1, width: 106, height: 106}}
+  img/system/w_14.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 109, width: 106, height: 106}}
+  img/system/w_15.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 217, width: 106, height: 106}}
+  img/system/w_16.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 325, width: 106, height: 106}}
+  img/system/w_17.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 1, width: 106, height: 106}}
+  img/system/w_18.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 109, width: 106, height: 106}}
+  img/system/w_19.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 217, width: 106, height: 106}}
+  img/system/w_20.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 1, width: 106, height: 106}}
+  img/system/w_21.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 109, width: 106, height: 106}}
+  img/system/w_22.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 217, width: 106, height: 106}}
+  img/system/w_23.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 325, width: 106, height: 106}}
+  img/system/w_24.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 1, width: 106, height: 106}}
+  img/system/w_25.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 109, width: 106, height: 106}}
+  img/system/w_26.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 217, width: 106, height: 106}}
+  img/system/w_27.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 433, 'y': 325, width: 106, height: 106}}
+  img/system/w_28.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 1, width: 106, height: 106}}
+  img/system/w_29.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 1, width: 106, height: 106}}
+  img/system/w_30.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 865, 'y': 1, width: 106, height: 106}}
+  img/system/w_31.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 109, width: 106, height: 106}}
+  img/system/w_32.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 217, width: 106, height: 106}}
+  img/system/w_33.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 541, 'y': 325, width: 106, height: 106}}
+  img/system/w_34.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 649, 'y': 109, width: 106, height: 106}}
+  img/system/w_35.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 757, 'y': 109, width: 106, height: 106}}
+  img/system/w_36.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 865, 'y': 109, width: 106, height: 106}}
+  img/system/w_37.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 1, 'y': 433, width: 106, height: 106}}
+  img/system/w_38.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 109, 'y': 433, width: 106, height: 106}}
+  img/system/w_39.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 217, 'y': 433, width: 106, height: 106}}
+  img/system/w_40.png: {atlasName: itemWeapon, rect: {x: 0, 'y': 0, width: 106, height: 106}, sourceRect: {x: 325, 'y': 433, width: 106, height: 106}}

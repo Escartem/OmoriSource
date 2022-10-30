@@ -1,0 +1,84 @@
+
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+#FIRST MESSAGE
+
+message_0:
+    text: You look in the fridge...
+
+#KEL'S HOUSE
+
+message_1:
+    text: Piles of assorted foods stored in foil, cling film, and plastic containers.\! You can't tell what anything is.
+
+#CRIS'S HOUSE
+
+message_2:
+    text: Brussel sprouts, potato salad, and lots of \c[3]ORANGE JOE\c[0].
+
+#MAVERICK'S HOUSE
+
+message_3:
+    text: Noodles, fish, and bitter melon.
+
+#BRENT'S HOUSE
+
+message_4:
+    text: Macaroni and cheese, cornbread, frozen shrimp, and soup.
+
+#KIM'S MOM'S HOUSE
+
+message_5:
+    text: Avocados, eggs, blueberries, and grapefruit.
+
+#JOY'S HOUSE
+
+message_6:
+    text: Rice, string beans, and lots of dumplings.
+
+#CHARLIE'S HOUSE
+
+message_7:
+    text: Yogurt, asparagus, and some type of \c[4]MEDICATION\c[0].
+
+#VANCE' DAD'S HOUSE
+
+message_8:
+    text: Some off-brand soda and ketchup packets.
+
+#KAREN AND SEAN'S HOUSE
+
+message_9:
+    text: Grocery bags full of food and a container of margarine.
+
+#SARAH'S HOUSE
+
+message_10:
+    text: Chicken breast, cauliflower, brown rice, and one oragne.
+
+#AUBREY'S HOUSE (CAN'T GET TO FRIDGE)
+
+message_11:
+    text: Mold.
+
+#BASIL'S HOUSE
+
+message_12:
+    text: Cabbages, carrots, mushrooms, and tofu...
+
+#JESSE'S HOUSE
+
+message_13:
+    text: Some baked potatoes and a \c[3]WHOLE PIZZA\c[0] from \c[11]GINO'S PIZZA\c[0]!
+
+#BEBE'S HOUSE
+
+message_14:
+    text: Oysters, pasta, tomatoes, and fancy drinks in glass bottles.
+
+#ARTIST'S HOUSE
+
+message_15:
+    text: Milk, tea, and fried fish cake.

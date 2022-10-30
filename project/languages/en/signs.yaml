@@ -1,0 +1,143 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+#BIRD SIGN NAMES:
+#MR. PARROT: GRAWK!
+#MRS. CHICKEN: BAWK, BAWK!
+#MR. SEAGULL: CAWWWW!
+#MR. PENGUIN: BRRRRRRR!
+#MRS. FLAMINGO: GRAA! GRAA!
+#MR. BIRD: KER-CRAA...
+#MRS. PARROT: CHEEP!
+
+
+
+
+message_0:
+      text: \n<MR. PARROT>Squak!\! (\i[6]\c[11]PINWHEEL FOREST\c[0])\!<br>Squak, squak!\! (\i[3]\c[11]FOGGY BRIDGE\c[0])
+
+message_1:
+      text: \n<MR. PARROT>Squak!\! (\i[5]\c[11]TRAIN STATION\c[0])\!<br>Squak, squak!\! (\i[4]\c[11]FOGGY BRIDGE\c[0])
+
+message_2:
+      text: \n<MR. PARROT>Squak!\! (Line starts here.)
+
+message_3:
+      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]CATTAIL FIELD\c[0])
+
+message_4:
+      text: \n<MRS. PARROT>Cheep!\! (\i[3]\c[11]OTHERWORLD LAKE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[1]\c[11]JUNKYARD\c[0])
+
+message_5:
+      text: \n<MRS. PARROT>Cheep!\! (\i[6]\c[11]CATTAIL FIELD\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[2]\c[11]FROZEN LAKE\c[0])
+
+message_6:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (Leave this place!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_7:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (Turn back while you still can...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_8:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (There is nothing for you here... Begone!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_9:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (Go away! Leave me to my miserable existence!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_10:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (It would be foolish to continue.\!<br>How I wish someone had told me the same...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_11:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (All is fair in love and war...\! but it still hurts when you lose...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_12:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (You will gain nothing from coming here, as did I.\! All of this will be for naught.)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+message_36:
+      text: \n<MR. PENGUIN>Brrrrrrr!\! (Don't come looking for me...\! Only the cold can keep me company now.)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+
+
+#DIRECTIONS:
+#UP: \i[1]
+#DOWN: \i[2]
+#RIGHT: \i[3]
+#LEFT: \i[4]
+#UP LEFT: \i[5]
+#UP RIGHT: \i[6]
+#DOWN LEFT: \i[7]
+#DOWN RIGHT: \i[8]
+
+message_13:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL KITCHEN\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]SERVANT'S QUARTERS\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]THE ROYAL BALLROOM\c[0])
+
+message_14:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]THE ROYAL GALLERY\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
+
+message_15:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL GALLERY\c[0])\!<br>Graa, graa!\! (This month's feature is...)\!<br>Graa, graa, graa!\! (\"OEUVRES OF SWEETHEART\")
+
+message_16:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL LIBRARY\c[0])\!<br>Graa, graa!\! (Reminder... No reading without permission.)
+
+message_17:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL BALLROOM\c[0])\!<br>Graa, graa!\! (Reminder... Karaoke is Fridays ONLY.)
+
+message_18:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]LIFT TO THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (Reminder... You are not allowed in here unless you are a beautiful suitor hand-picked by SWEETHEART.)<br>Graa, graa, graa!\! (Or unless you are CASTELLA.)
+
+message_19:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL BATH\c[0])\!<br>Graa, graa!\! (Reminder... The pool must be refilled regularly.)
+
+message_20:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]A special hell for you, my dear...)\!<br>Graa, graa!\! (Signed, SWH)
+
+message_21:
+      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\c[11]TOLL ROAD\c[0])
+
+message_22:
+      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]TOLL ROAD\c[0])
+
+message_23:
+      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]LAST RESORT\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+
+message_24:
+      text: \n<MR. SEAGULL>Cawww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+
+message_25:
+      text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Pool is haunted!)
+
+message_26:
+      text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Pool is under construction.)
+
+message_27:
+      text: \n<MR. SEAGULL>Cawww!\! (This is the end of the highway.)
+
+message_28:
+      text: \n<MR. BIRD?>Ker-craa...\! (Strange growth.)\!<br>Ker-craa... aaa...\! (Will regenerate after being smashed.)
+
+message_29:
+      text: \n<MR. BIRD?>Ker-craa...\! (Intelligent growth.)\!<br>Ker-craa... aaa...\! (Will conveniently transform into a bridge after being smashed.)
+
+message_30:
+      text: \n<MR. BIRD?>Ker-craa...\! (MARINA's 667th experiment.)\!<br>Ker-craa... aaa...\! (Cawww...tion... Do not poke the glass.)
+
+message_31:
+      text: \n<MR. BIRD?>Ker-craa...\! (Field work in progress. Do not disturb.)
+
+message_32:
+      text: \n<MR. BIRD?>Ker-craa...\! (Lab work in progress. Disturb sparingly.)
+
+message_33:
+      text: \n<MR. SEAGULL>Cawww!\! (MUSICAL CLAMS in training.)\!<br>Cawww, cawwwww!\! (Please show them your support.)
+
+message_34:
+      text: \"IT'S GAME!\"<br>\!\"MATCH THREE GUYS FOR A PRIZE!\"
+
+message_35:
+      text: \n<BIRD MOLE>Squak?
+
+message_37:
+      text: \n<MRS. FLAMINGO>Graa!\! (The humble abode of ROSA!)\!<br>Graa, graa!\! (The \#1 SWEETHEART fan in the world!)
+
+message_100:
+      text: \i[4]\c[11]TRAIN STATION\c[0]<br>\i[3]\c[11]PINWHEEL FOREST<br>\i[2]\c[11]BASIL'S HOUSE\c[0]

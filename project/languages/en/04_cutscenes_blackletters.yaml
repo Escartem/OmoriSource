@@ -1,0 +1,303 @@
+# =========================================================================================
+# Cutscene: Basil is Missing!
+# =========================================================================================
+
+#Trigger: Enter Neighbor's Room.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: OMORI! This is where you've been!\kel
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Have you seen BASIL?<br>\!We can't seem to find him anywhere.\her
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: BASIL...\! It's like he just vanished into thin air.\!<br>We can't find him anywhere...\! I even asked MARI, but she doesn't know anything about it either.\her
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: We were thinking of going back to BASIL's house to see if we missed anything.\! Can you lead the way, OMORI?\aub
+
+# =========================================================================================
+# Cutscene: The First Blackletter
+# =========================================================================================
+
+#Trigger: Enter Stump Entrance.
+#Stump Entrance is glitchy.
+
+#HERO is surprised
+
+#message_24:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \fn<OMORI_GAME>\quake[1]W-Whoa, anyone else feel that?\quake[0]\her
+
+#AUBREY looks at HERO
+
+#message_25:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 7
+#      text: \fn<OMORI_GAME>\quake[1]Yeah, everything feels fuzzy all of a sudden...\quake[0]\aub
+
+#message_26:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 31
+#      text: \fn<OMORI_GAME>\quake[1]Sure... feels...\! strange...\! around... here...\quake[0]\kel
+
+
+# =========================================================================================
+# Cutscene: The First Blackletter continued
+# =========================================================================================
+
+#Trigger: Pick up Blackletter.
+#Blackletter disappears.
+#KEL looks around.
+
+# message_37:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 19
+#       text: Whoa!! Everything's back to normal again!\kel
+
+# message_38:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 40
+#       text: So many weird things happening lately...\!<br>We should stay close to each other in case anything happens.\her
+
+#AUBREY looks into the distance
+
+# message_39:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 5
+#       text: Sigh...\! I really hope BASIL is safe...\aub
+
+# =========================================================================================
+# Cutscene: FUZZY Feeling
+# =========================================================================================
+
+#Trigger: Enter BASIL's house
+#Screen glitches
+
+# message_50:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 28
+#       text: \fn<OMORI_GAME>\quake[1]Oof...\! There's that fuzzy feeling again...\quake[0]\kel
+
+# message_51:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 48
+#       text: \fn<OMORI_GAME>\quake[1]Just hold on a bit longer...<br>We should...\! get used to it eventually...\her\quake[0]
+
+# message_52:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 4
+#       text: \fn<OMORI_GAME>\quake[1]Look!\! That's the door that appeared right after BASIL vanished...\aub\quake[0]
+
+# message_53:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 4
+#       text: \fn<OMORI_GAME>\quake[1]Try opening the door, OMORI!\aub\quake[0]
+
+#Screen still glitching
+#fade to Black
+#knock SFX
+#Lock TAG option
+#return
+
+# message_54:
+#       text: The door won't budge.
+
+# =========================================================================================
+# Cutscene: HANGMAN
+# =========================================================================================
+
+#Trigger: Examine door.
+#Party is surrounding the door.
+
+# message_70:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 27
+#       text: \fn<OMORI_GAME>Darn...\! I guess it's locked.\kel
+
+# message_71:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 4
+#       text: \fn<OMORI_GAME>Where do you think it goes to?\!<br>Do you think BASIL is in there?\aub
+
+# message_72:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 40
+#       text: \fn<OMORI_GAME>Possibly...\! Although, I have a feeling that wherever it leads to will be dangerous...\her
+
+# message_73:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 5
+#       text: \fn<OMORI_GAME>But BASIL is our friend! We have to do something...\aub
+
+
+# message_107:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 30
+#       text: \fn<OMORI_GAME>Move over, OMORI! I'm goin' in!\kel
+
+# message_74:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 30
+#       text: \fn<OMORI_GAME>\quake[1]\{\Com[2]BASIL!!\! I'm coming to save you!!\}\kel
+
+#KEL smashes into door and glitches out.
+
+# message_108:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 46
+#       text: \fn<OMORI_GAME>\{\Com[2]Whoa, KEL!\! Are you okay!?\}\her
+
+
+# message_75:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 10
+#       text: \fn<OMORI_GAME>\{\Com[2]What are you doing, you dummy!?\}\aub
+
+# message_76:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 33
+#       text: \fn<OMORI_GAME>\quake[1]I don't know! I'm not equipped to handle difficult situations!\kel
+
+#An envelope is slipped under the door.
+
+# message_77:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 31
+#       text: \fn<OMORI_GAME>\Com[2]\{\quake[1]Ahhhhhhh!!\! What was that!?\kel\quake[0]\}
+
+
+
+# =========================================================================================
+# Cutscene: HANGMAN 2
+# =========================================================================================
+
+#OMORI pick up envelope. (TAG IS LOCKED)
+#Glitching stops.
+
+#Tutorial Box.
+#Black overlay on screen.
+#Show Map Screen.
+
+
+#message_78:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: Hmmm... It looks like a map of the forest...\!<br>but some parts of it are blacked out...\her
+
+#message_79:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 19
+#      text: What's that on the back?\kel
+
+#Black overlay on screen.
+#Show Checklist Screen.
+
+#message_91:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 29
+#      text: H... A... N... G... M... A... N...?\kel
+
+#message_92:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: Oh hey, I know this game!<br>We've probably even played it once or twice before...\her
+
+#message_93:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: In HANGMAN, you choose different letters to complete a message.\her
+
+#message_94:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: If you choose a correct letter, the letter is used to filled in the blanks...\! but if you get a letter wrong, a part of a hangman is drawn.\her
+
+#message_95:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: To win, you just have to guess the correct letters to complete the message...\her
+
+#message_113:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 42
+#      text: But if you choose too many wrong letters and the hangman drawing is completed...\! you lose the game.\her
+
+#AUBREY looks at HERO.
+
+#message_96:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 24
+#      text: Wow...\! That doesn't sound fun at all...\!<br>Why is there even a game like that?\kel
+
+#Wait
+#Letter “A” appears in blanks.
+
+#message_97:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: Hey, look!\! That big letter “A” we found earlier is filling in some of the blanks!\her
+
+#message_98:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 43
+#      text: If we're able to complete this message... I'm sure we'll be able to open the door and save BASIL!\her
+
+#message_99:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 10
+#      text: There must be more MISSING LETTERS around the forest!<br>We should hurry and go look for them.\aub
+
+#message_100:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: I'm...\! I'm worried about BASIL... \!<br>He doesn't...\! do well on his own...\aub
+
+#message_101:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 30
+#      text: Don't worry, AUBREY!\!<br>BASIL might be a little on the softer side, but he knows how to take care of himself.\kel
+
+#message_102:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: Yeah, I guess you're right.<br>We just need to believe in him...\aub
+
+# =========================================================================================
+# Cutscene: HANGMAN NEW
+# =========================================================================================
+
+#Upon examining the door, PLAYER moves back. An envelope slips through the bottom of the door.
+
+message_114:
+      text: There is an envelope on the floor.\! Pick it up?
+
+#Screen fade black.
+#Opening envelope SFX
+#Wait 60 frames
+
+message_103:
+      text: You now have the \c[4]LETTER CHECKLIST\c[0] and \c[4]MAP\c[0].
+
+message_104:
+      text: Press \DII[pageup] to view.
+
+#Player presses Q and CHECKLIST pops up.
+
+message_105:
+      text: Press \DII[pagedown] to view the \c[4]MAP\c[0].
+
+#Players presses W and MAP pops up.
+
+#Screen goes black.
+#Wait.
+#Screen return to overworld.

@@ -1,0 +1,12 @@
+{ "columns":22,
+ "image":"..\/img\/tilesets\/moon.png",
+ "imageheight":731,
+ "imagewidth":731,
+ "margin":0,
+ "name":"moon",
+ "spacing":0,
+ "tilecount":484,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

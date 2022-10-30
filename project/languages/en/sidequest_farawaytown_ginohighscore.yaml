@@ -1,0 +1,49 @@
+# =========================================================================================
+# Sidequest: Gino's High score
+# =========================================================================================
+
+#Examine Gino's arcade machine
+
+message_1:
+      text: \n<GLASSES MAN>I...\! I finally did it...\! I spent some time playing <br>SPROUT MOLE EATER and finally beat the world high score...
+
+message_2:
+      text: \n<GLASSES MAN>Granted...\! No one's played this game in over 20 years now...\!<br>but still!\! It's an achievement and I can be proud of that!
+
+message_3:
+      text: \n<GLASSES MAN>Hey, you're the kid who brought back the last piece of the arcade machine!
+
+message_4:
+      text: \n<GLASSES MAN>Did you want to play SPROUT MOLE EATER?
+
+#Yes/No
+
+#If yes
+message_5:
+      text: \n<GLASSES MAN>Cool beans!\! I'll move out of the way... for now.
+
+#If No
+message_6:
+      text: \n<GLASSES MAN>Okay!\! More for me then!
+
+#GINO moves one step to the left.
+
+#Exit game after beating Gino's Score:
+
+message_7:
+      text: \n<GLASSES MAN>I...\! I don't believe it...\! Before my very eyes...\! You have surpassed my high score!\! Those late nights dreaming about being the SPROUT MOLE EATER champion player...
+
+message_8:
+      text: \n<GLASSES MAN>It all ended too soon...\! I didn't even get to celebrate yet!
+
+message_9:
+      text: \n<GLASSES MAN>Sniff...\! No...\! This is no time to be bitter!\! <br>This is your moment now!\! You have rightfully earned your place as the SPROUT MOLE EATER champion!
+
+message_10:
+      text: \n<GLASSES MAN>Here, take this with you.\! Remember me when you are famous!
+
+message_20:
+      text: \n<GLASSES MAN>Remember me when you are famous, champ!
+
+message_30:
+      text: A game called "SPROUT MOLE EATER".\!<br>It costs $1.00 to play.

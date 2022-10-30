@@ -1,0 +1,33 @@
+
+# =========================================================================================
+# Sidequest: My Pie!
+# =========================================================================================
+
+#Talk to Cris's Mom / Cutscene: My Pie!
+message_1:
+      text: \n<ALL-AMERICAN MOM>Ah, if it isn't KEL and \n[8]!\! <br>It's been a while since I've seen you two.\! <br>I hope things have been okay!
+
+message_2:
+      text: \n<ALL-AMERICAN MOM>My, KEL, you've grown so tall!\! <br>You're basically a head taller than me!
+
+message_3:
+      text: \n<ALL-AMERICAN MOM>Your mother told me about your growth spurt, but it's another thing seeing in person.
+
+message_4:
+      text: \n<ALL-AMERICAN MOM>I remember when I could still pat you on the head!\! <br>Ohohoho...\! You were such a mischievous child.
+
+#Oven burning
+
+message_5:
+      text: \n<ALL-AMERICAN MOM>Oh no, I forgot about my pie!
+
+#Cris's Mom gets pie out of oven and sets it on table.
+
+message_6:
+      text: \n<ALL-AMERICAN MOM>Phew...\! That was a close call.\! Unfortunately, it's a little burnt...\! At the fair, it would probably rate an 8/10, but I promise it's still quite delicious!
+
+message_7:
+      text: \n<ALL-AMERICAN MOM>Oh, don't just take my word for it.\! <br>You must try it yourself!
+
+message_8:
+      text: You got \c[3]PIE\c[0]!

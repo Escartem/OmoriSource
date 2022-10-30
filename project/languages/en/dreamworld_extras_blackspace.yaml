@@ -1,0 +1,75 @@
+# =========================================================================================
+# Blackspace around dreamworld
+# =========================================================================================
+
+#otherworld
+
+#CAPT. SPACEBOY mentions the existence of a BLACK HOLE when he travels too far in the Universe.
+
+
+#PINWHEEL FOREST: KITE KID mentions that sometimes when his eye follows his kite, he catches a glimpse of a DARK VOID in the sky.
+
+message_5:
+      text: \n<KITE KID>I haven't told anyone this before...\! but sometimes when I'm looking up at my kite, I catch a glimpse of a \c[11]DARK VOID\c[0] in the sky from the corner of my eye.
+
+message_6:
+      text: \n<KITE KID>I used to see it very rarely, but these days it's been happening much more frequently.\! I wonder if it means anything...
+
+#SPROUT MOLE legend states that there used to be more SPROUT MOLES, but many of them were curious and dug too deep into the ground,
+#reaching a mystical realm we now call the  DEEP PIT. It seems that the location has been lost for centuries.
+#Some say that it mysteriously vanished without a trace.
+
+message_7:
+      text: \n<SPROUT MOLE TEACHER>SPROUT MOLE legend states that our kind used to prosper throughout all regions of the world, but our ancestors were curious and dug too deep into the ground.
+
+message_8:
+      text: \n<SPROUT MOLE TEACHER>They discovered a mysterious hole that sucked hundreds and thousands of our species in, never to be seen again.
+
+message_9:
+      text: \n<SPROUT MOLE TEACHER>The location of the \c[11]DEEP PIT\c[0], as it was called, has been lost for centuries, though some say that it simply vanished without a trace.
+
+#ORANGE OASIS: One of MINA's kids mentions the story of the SHADOWY CHASM, a place where all bad kids go.
+
+message_10:
+      text: \n<MINA'S KID>Mom tells us not to walk too far from the cave or else we'll be swallowed by the \c[11]SHADOWY CHASM\c[0]...\! She says that's where all the bad kids go.
+
+#Hitchhiker tells you of a place of no return called THE ABYSS.
+
+message_11:
+      text: \n<HITCHHIKER>Hello, children. \SINV[1]Uhuhuhu...\SINV[0]\! May I interest you in a curiosity?\!<br>I know of a place... you may have heard of it.
+
+message_12:
+      text: \n<HITCHHIKER>It goes by many names...\!<br>the \c[11]DARK VOID\c[0]...\! the \c[11]DEEP PIT\c[0]...\! the \c[11]SHADOWY CHASM\c[0]...
+
+message_13:
+      text: \n<HITCHHIKER>Here in the \c[11]DEEP WELL\c[0], we call it \c[11]THE ABYSS\c[0].
+
+message_14:
+      text: \n<HITCHHIKER>It's just past the end of the highway.\! Would you like me to take you there?
+
+#FORGOTTEN PIER: Inhabitants from the FORGOTTEN PIER are speaking from another realm which they call BLACK HOLE, DARK VOID, DEEP PIT,
+#SHADOWY CHASM, or ABYSS. They escape for a bit, but it will always pull them back.
+
+#Common SOMETHINGs are Dream World NPCs that have stayed in BLACK SPACE for a long time.
+
+#message_15:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>When I was young, my mother told me to beware of a place called the \c[11]SHADOWY CHASM\c[0], but I didn't listen...\!<br>Now I'm stuck here forever...
+
+#message_16:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I can linger for a while, but...\!<br>\quake[1]it\quake[0] will always pull me back...
+
+#message_17:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I used to have a friend...\! but the longer we stayed here, he started to...\! turn into something else...\! Oh, how I miss my friend...
+
+#HITCHHIKER AT ABYSS
+message_20:
+      text: \n<HITCHHIKER>We're here...
+
+message_21:
+      text: \n<HITCHHIKER>Did you want to go back to \c[11]DEEP WELL\c[0]?
+
+message_22:
+      text: \n<BIG YELLOW CAT>Sleep, little one.\! You are safe with me.
+
+message_23:
+      text: There is no turning back.

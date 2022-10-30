@@ -1,0 +1,94 @@
+# =========================================================================================
+# Sidequest: Claus
+# =========================================================================================
+
+#Cutscene: Claus Leaves 1   FISH 1
+
+message_1:
+      text: \n<ORANGE CAT>\sinv[1]Purr...\! Mreow...
+
+#Claus walks off in the direction of Basil's street
+
+message_2:
+      text: The cat left a gift for you.
+
+message_3:
+      text: You got \c[4]TRASH\c[0]...
+
+#Cutscene: Claus Leaves 2   FISH 2
+
+message_4:
+      text: \n<ORANGE CAT>\sinv[1]Mreow?\! Mrreeeoooww...
+
+#Claus walks off in the direction of Player's street
+
+message_5:
+      text: The cat left a gift for you.
+
+message_6:
+      text: You got \c[4]TRASH\c[0]...
+
+
+#Cutscene: Claus Leaves 3   FISH 3
+
+message_7:
+    text: \n<ORANGE CAT>\sinv[1]Arweow...\! Arweow?\! Mreow...
+
+#Claus walks off in the direction of Town Plaza
+
+message_8:
+    text: The cat left a gift for you.
+
+message_9:
+    text: You got \c[4]BUBBLE WRAP\c[0]!
+
+
+#Cutscene: Claus Leaves 4   FISH 4
+
+message_10:
+    text: \n<ORANGE CAT>\sinv[1]Mrreeeooooww...\! Purr...\! Purr...\! Purr...
+
+#Claus walks off in the direction of Trash Fortress
+
+message_11:
+    text: The cat left a gift for you.
+
+message_12:
+    text: You got a \c[4]SEASHELL\c[0]!
+
+
+#Cutscene: Claus Leaves 5   FISH 5
+
+message_13:
+    text: \n<ORANGE CAT>Mreow!\! Mreoww...\! Mreow!
+
+#Claus walks off in the direction of Graveyard
+
+message_14:
+    text: The cat left a gift for you.
+
+message_15:
+    text: You got a \c[4]TRANQUIL CD\c[0]!
+
+#Cutscene: Claus Leaves 6   FISH 6
+
+message_16:
+    text: You recognize the grave the cat is next to.
+
+message_17:
+    text: \n<ORANGE CAT>\sinv[1]Mreow?
+
+message_18:
+    text: The cat left a gift for you.
+
+message_19:
+    text: You got an \c[4]ARCADE PIECE\c[0]!
+
+message_20:
+    text: You get the feeling that it's the last time you will see that cat again.
+
+message_21:
+    text: The ORANGE CAT looks hungry.\! Feed it some \c[3]FISH\c[0]?
+
+message_22:
+    text: You don't have any \c[3]FISH\c[0] on you.

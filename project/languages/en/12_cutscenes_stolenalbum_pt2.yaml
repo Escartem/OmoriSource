@@ -1,0 +1,797 @@
+# =========================================================================================
+# Cutscene: Kim & Vance Intro
+# =========================================================================================
+
+#Trigger: Enter Candy shop.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Hmmm...\! Knowing KIM and VANCE, they're probably somewhere around here.\kel
+
+#KEL looks around
+#KEL is surprised
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Oh hey, there she is!\kel
+
+#Camera pans to KIM and VANCE.
+
+message_2:
+      text: Hurry, VANCE...<br>Let's shove it all in our pockets before someone sees us!\kim
+
+#KEL walks a few steps.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hey, KIM! Have you seen AUBREY anywh-\kel
+
+#KIM turns to VANCE.
+
+message_4:
+      text: \{\Com[2]SHOOT!! IT'S THAT NERD, KEL!!\}<br>C'mon, VANCE! We gotta go!\kim
+
+message_5:
+      text: Yup. Sure thing, KIM. Right behind you.\van
+
+#KIM and VANCE try to run out of the Candy Store.
+#KEL blocks their way.
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Whoa, hold on there!<br>I don't think you paid for those.\kel
+
+message_7:
+      text: \Com[2]\{GET OUT OF THE WAY, NERD!!<br>YOU DON'T KNOW ME!!!\kim
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Hey, hey! Hold on... I'm not here to snitch!\! We just need to find AUBREY.\! You know where she is? \kel
+
+message_9:
+      text: H-Huh?\! AUBREY?\! I-I don't know anything about that.\! <br>And even if I did, I wouldn't tell you!\kim
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Sigh...\! I've had enough of this for today.<br>\!KIM, let's make a deal!\kel
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: You tell me where AUBREY is, and I won't turn you in for stealing all that \c[3]CANDY\c[0].\kel
+
+message_11:
+      text: I thought you said you weren't a snitch!\kim
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: And I don't need to be if you just tell me where AUBREY is!\kel
+
+#MISS CANDY is surprised and walks toward KIM and VANCE.
+
+message_13:
+      text: \{\Com[2]YOU TWO AGAIN!?\!\}<br>I thought I told you to never come back in here! Smiley, smiley!\n<MISS CANDICE>
+
+#KIM and VANCE turn around.
+
+message_14:
+      text: Uh-oh...\van
+
+message_15:
+      text: \com[2]Hand over the stolen \c[3]CANDY\c[0]!\! <br>Don't make me call the cops on you kids! Smiley, smiley!\n<MISS CANDICE>
+
+message_16:
+      text: We've been busted.\van
+
+message_23:
+      text: \kim\{\{\Com[2]FINE!!
+
+message_17:
+      text: \{\{\Com[2]HERE'S YOUR STUPID \c[3]CANDY\c[0]!!\kim
+
+#KIM drops candy.
+#KIM turns to VANCE.
+
+message_18:
+      text: C'mon, VANCE... Let's get out of this dump.\kim
+
+#KIM and VANCE leave O.S.
+#KEL turns toward store opening.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{HAHA!! SERVES YOU RIGHT!!\kel
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ...\kel
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: Wait...\! How will we find out where AUBREY is now?\kel
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Sigh...\! C'mon, \n[8]. Let's follow them...\kel
+
+# =========================================================================================
+# Cutscene: Kim & Vance Intro (Cont.)
+# =========================================================================================
+
+#Trigger: Walk 6 steps.
+
+#KEL runs up to PLAYER.
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hold up one sec, \n[8].\! I think I have an idea!\kel
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Sorry for the hold up...\! Let's go catch up to KIM and VANCE!\kel
+
+# =========================================================================================
+# Cutscene: Kim & Vance's Fight
+# =========================================================================================
+
+#Trigger: Enter TOWN PLAZA.
+
+message_40:
+      text: Grumble, grumble...\! Sorry, VANCE.\! No \c[3]CANDY\c[0] today...\kim
+
+message_41:
+      text: No...\! Not again...\! I don't know how much longer I can last.\! We're going to die.\van
+
+message_42:
+      text: Sigh...\! Let's just go home.\! We're gonna be late for dinner.\kim
+
+#KEL walks up to KIM.
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Wait, KIM!\! I have something for you!\kel
+
+#KIM turns around.
+
+message_44:
+      text: You again, KEL? What the heck do you want, you bully!?\kim
+
+#KEL holds up candy.
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tell us where AUBREY is and I will give you this <br>whole \c[4]BIG BAG OF CANDY\c[0]!\kel
+
+message_46:
+      text: R-Really, the whole bag?\!<br>I mean, wait-\! \Com[2]You can't buy us off with \c[3]CANDY\c[0]!\!<br>Who do you take us for?\kim
+
+#VANCE looks at KIM.
+
+message_47:
+      text: I don't know, KIM.\! We haven't had \c[3]CANDY\c[0] for an entire <br>week...\! and there's a whole bag right in front of us.\!<br>We don't even have to pay for it!\van
+
+message_48:
+      text: \}Can you at least ask if he has any taffy in there?\van
+
+message_49:
+      text: Stop it, VANCE! We have to stay strong!\! <br>When we go to Dad's house, we'll be able to have all the \c[3]CANDY\c[0] we want.\kim
+
+message_50:
+      text: Okay...\! I'll do it for you, sis.\van
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \sinv[1]KIM...\! VANCE...\! I'm waiting...\sinv[0]\kel
+
+message_52:
+      text: Heh!\! Like we'd accept \c[3]CANDY\c[0] from a bunch of nerds.\kim
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: ...\! Aww, man... really?\! I was sure that would work.\kel
+
+message_54:
+      text: This is a waste of time... Let's get outta here!\kim
+
+#KEL is surprised and walks forward.
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \com[2]W-Wait!\! Please, KIM... you're the only lead we've got.\kel
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Please take the \c[4]BIG BAG OF CANDY\c[0].\!<br>We...\! We even... have taffy in here.\kel
+
+#KIM and VANCE stop.
+
+message_57:
+      text: Did someone...\! say taffy?\van
+
+message_58:
+      text: I see...\! ...\!<br>That changes everything.\kim
+
+#KIM turns around.
+
+message_59:
+      text: Fine.\! You really wanna know that badly, huh?\kim
+
+message_60:
+      text: \{LET'S SETTLE THIS WITH OUR FISTS!\kim
+
+message_61:
+      text: If you win, I'll tell you where AUBREY is...\! but if we win, you give us that bag of taffy and never talk to us ever again.\kim
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Wait a sec, there's no need to fight!\! If you just tell me <br>where she is, I'll give you this whole bag!\kel
+
+message_63:
+      text: But...\! I wanna fight...\!<br>\Com[2]C'mon! Put ‘em up, you two!\! <br>It's time to duke it out!\kim
+
+message_64:
+      text: UNUSED
+
+message_65:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Sigh...\! What is with you guys and fighting?\!<br>Well...\! I guess we have no choice.\kel
+
+#KEL turns to PLAYER.
+
+message_66:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Come on, \n[8].\! You know the drill.\kel
+
+# =========================================================================================
+# Cutscene:  Kim & Vance's Loss
+# =========================================================================================
+
+#IF YOU Lose
+
+message_80:
+      text: \kimHmph...\! Maybe that'll teach you to mind your own business.
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]Wait! Don't go!\!<br>Please KIM...\! I know you know where AUBREY is.
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelShe...\! She took something really important from BASIL.
+
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelI get that you guys are friends and stuff...\! but...\! even you gotta admit that AUBREY goes too far sometimes.
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelPlease...\! We're just trying to help a friend.
+
+#IF YOU WIN
+
+message_90:
+      text: Grumble, grumble...\! Grumble, grumble, grumble...\! <br>Sigh... I can't believe we lost. <br>\!We can never let AUBREY know about this.\kim
+
+#Church bells ring.
+#Everyone is surprised.
+#VANCE turns to KIM.
+
+message_91:
+      text: Come on, KIM... We gotta go home.\! It's almost time for dinner and Mom's gonna be really mad if we're late.\van
+
+message_92:
+      text: Shoot... Let's get out of here.\kim
+
+#KIM and VANCE try to walk O.S.
+#KEL steps forward.
+
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Wait! Where do you think you're going?\! <br>We won, so you need to tell us where AUBREY is!\kel
+
+message_94:
+      text: Oh...\! Yeah... that's right.\kim
+
+message_95:
+      text: ...\| ...\| ...\kim
+
+message_96:
+      text: AUBREY's at the \c[11]CHURCH\c[0].\! The one near her house.\kim
+
+#KEL is confused.
+
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Huh?\! AUBREY's at...\! \c[11]CHURCH\c[0]?\kel
+
+#KIM looks at KEL and jumps.
+
+message_98:
+      text: Hey, don't look at me!\!<br>You're the one who wanted to know.\kim
+
+#KIM turns back around.
+
+message_99:
+      text: Also, if she asks who told you, tell her it wasn't me! \!<br>Say it was...\! MIKHAEL or something.\kim
+
+#VANCE is worried.
+
+
+message_100:
+      text: Come on, KIM... We gotta scoot...\!<br>You know how Mom gets when we're late.\van
+
+message_101:
+      text: Yeah, yeah... I hear ya...\! Let's go...\kim
+
+#KIM takes one step forward.
+
+message_102:
+      text: \SINV[1]SMELL YA LATER...\! \Com[2]NEEE\{EEEE\{ERDS!!\SINV[0]\kim
+
+#KIM and VANCE walk out.
+#Vance runs back
+
+message_103:
+      text: \vanI'll take that.
+
+message_104:
+      text: VANCE took the \c[4]BIG BAG OF CANDY\c[0].
+
+message_105:
+      text: \vanThanks.
+
+#VANCE runs away.
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Aww nuts, they took the \c[4]BIG BAG OF CANDY\c[0] while I wasn't looking!\! Those two have got some sticky fingers.\kel
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Oh well...\! At least, we know where AUBREY is now!\! Or at least I think we do.\kel
+
+message_108:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: I can't really imagine AUBREY at \c[11]CHURCH\c[0]...\! but I'll believe it when I see it.\kel
+
+
+# =========================================================================================
+# Cutscene: Aubrey at Church?
+# =========================================================================================
+
+#KEL turns to PLAYER.
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Well, here we are.\!<br>This really is the last place I would expect her.\kel
+
+message_121:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_122:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: I'm kind of skeptical, actually.\! It might be a trap.\! <br>I'll open the door a little to take a peek.\kel
+
+#KEL turns to face the Church door.
+
+message_123:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \}Hmmm...\! Looks normal to me...<br>\!I think they're in the middle of a sermon.\kel
+
+#KEL is surprised.
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \}Oh!\! There she is on the right.\! Hmmm...\! She's just...\! sitting there...\!<br>all normal...\! So weird!\kel
+
+#KEL turns to PLAYER.
+
+message_125:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Yeah, I'd feel pretty bad about interrupting this.\! <br>We should probably wait until the sermon is over or something.\kel
+
+message_126:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hold on, \n[8]!\! Let's wait here until the sermon is over.\kel
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Well, we're already inside.\! Might as well keep going.\kel
+
+message_128:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hmm... Looks like they're setting up for a sermon.\! You don't really want to spend your last days here hanging out at \c[11]CHURCH\c[0], do you?\kel
+
+# =========================================================================================
+# Cutscene: Kel follows Player
+# =========================================================================================
+
+#KEL is not following PLAYER.
+
+#[Trigger: PLAYER walks 6 steps.]
+
+message_140:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: Whoa! I didn't expect you to just walk in like that, \n[8].\! <br>Well...\! There's no turning back now...\!<br>\}C'mon, we have to be really quiet.\kel
+
+#[Trigger: PLAYER walks near AUBREY.]
+
+message_141:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \}There she is on the right.\! Let's walk to the pew behind her.\kel
+
+# =========================================================================================
+# Cutscene: Aubrey's Rage
+# =========================================================================================
+
+#Trigger: Examine Aubrey's Pew behind Aubrey.
+
+#KEL and PLAYER takes the seats behind AUBREY.
+
+message_160:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \}AUBREY...\! Psst...\! AUBREY!\kel
+
+#AUBREY is confused. AUBREY turns around. AUBREY is surprised.
+
+message_161:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \}\Com[2]What the-?\! W-What the heck are you guys doing here!?\aub
+
+message_162:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \}We want you to give back BASIL's \c[4]PHOTO ALBUM\c[0]!\kel
+
+message_163:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}You're still on about that?\! That's none of your business.\aub
+
+message_164:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \}Really?\! None of my business?\!<br>We all used to be best friends, but now, this is none of my business?\kel
+
+message_165:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}Yeah, KEL...\! Exactly.\! We used to be friends...\aub
+
+message_166:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \}...\kel
+
+message_167:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \}You know, MARI would be really sad to hear that.\kel
+
+message_168:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text:  \}Heh...\! Really?\! You really wanna bring MARI into this?\aub
+
+message_169:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}Who cares what MARI thinks?\! MARI's dead.\aub
+
+message_170:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: AUBREY, seriously!?\! What's wrong with you?\kel
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \}...\! I get that you have new friends now, but you can't just forget your old friends like that!\kel
+
+message_172:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}My old friends?\aub
+
+message_173:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}...\aub
+
+message_174:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \}My old friends weren't there for me when I needed them.\aub
+
+message_175:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \}So that's what this is all about...\kel
+
+message_176:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \}When MARI...\! passed on...\! we were all dealing with our own stuff.\! <br>We were kids.\! It was hard!\kel
+
+message_177:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}You think it's all so simple.\! You've always been simple, KEL.\aub
+
+#KEL is frustrated.
+
+message_178:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \}So what if I am?\! I'd rather be simple than be like you!\! <br>How could you do that to BASIL?\! <br>You know how important his \c[4]PHOTO ALBUM\c[0] is to him!\kel
+
+message_179:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}It's important to all of us...\aub
+
+message_180:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \}That doesn't mean you can just steal it!\kel
+
+message_181:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \}Is that what BASIL told you!?\! I'm the one keeping it safe.\aub
+
+message_182:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \}What are you talking about?\! That \c[4]PHOTO ALBUM\c[0] belongs to BASIL and I'm not leaving until you agree to give it back!\kel
+
+#AUBREY turns around.
+
+message_183:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}Ugh...\! You're so persistent.\aub
+
+message_184:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \}When MARI died, you moved on so fast.\aub
+
+message_185:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}You know why I come here every week?\!<br>Even after all this time, I'm still trying to find some peace...\! <br>but it doesn't look like that's happening today.\aub
+
+message_186:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}We haven't talked in four years, KEL.\! <br>A lot changes in four years.\aub
+
+#AUBREY turns to party.
+
+message_187:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \}You and \n[8] think you can just barge back into my life and tell me what to do?\! \Com[2]Don't be so naive!\aub
+
+message_188:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \}You might look different and act different, AUBREY...\!<br>but you're still the same person.\kel
+
+message_189:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}Hmph...\! The AUBREY you knew is long gone.\!<br>And the AUBREY that was your friend...\! She's long gone, too.\aub
+
+message_190:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \}...\kel
+
+message_191:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \}Okay, fine.\! I get that you're angry.\!<br>Look, if it's an apology you want, here.\!<br>I'm sorry, okay?\kel
+
+message_192:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \}I should have been there for you when we lost MARI.\kel
+
+#AUBREY turns around.
+
+message_193:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \}...\aub
+
+message_194:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \}... ... ... ... ... ... ... ... ...  \aub
+
+message_195:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \}No.\! I won't accept this.\aub
+
+#AUBREY walks to the center aisle and attempts to walk out of the Church.
+
+message_196:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Wait!\! Where are you going!?\kel
+
+#The Pastor stops the sermon.
+
+#KEL walks to the center aisle and faces AUBREY.
+
+message_197:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]I can't let you go until you promise me you'll give BASIL his \c[4]PHOTO ALBUM\c[0] back, you thief!\kel
+
+message_198:
+      text: \}What's happening?\| ...\| BASIL?\| ... \|Isn't that the boy who... \|I've seen AUBREY and her friends bully... \|Now she's stealing as well...
+
+message_199:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: Oops...\kel
+
+message_200:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: ... ... ... \aub
+
+message_201:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: ...\aub
+
+message_202:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: You think you're the good guy, don't you KEL?\aub
+
+message_203:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: And I'm the big, bad bully...\!<br>here to terrorize poor, defenseless BASIL.\aub
+
+message_204:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \com[2]You're the one hanging out with the psychopath who carries around a knife!\aub
+
+message_205:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \}Now's not the time to do this, AUBREY...\kel
+
+message_206:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: You don't get to say that!\!<br>\Com[2]You're the one who barged in here!\aub
+
+message_207:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: I already said I was sorry for everything!\kel
+
+#AUBREY pulls out her bat.
+
+message_208:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: If you want me to be a bully...\! <br>\Com[2]\{\quake[1]THEN I'LL BE A BULLY!!\aub
+
+message_209:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: You two better come at me quick...<br>\!\{\quake[1]OR I'LL COME AT YOU FIRST!!\aub
+
+
+# =========================================================================================
+# Cutscene: Disapproving Eyes
+# =========================================================================================
+
+#Trigger: Finish Aubrey fight.
+
+
+message_220:
+      text: \}Ah, ever since her father left...\| ...\| She's so uncontrollable...\| ...\| <br>Disrespectful...\| ...\| I feel bad for her mother...
+
+message_221:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: ...\aub
+
+#AUBREY shakes out of anger and runs out.
+
+message_222:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Shoot...\! I know she's been kind of messed up lately...\! but I still feel sorry for her.\! Maybe this was a bad idea.\kel
+
+#After a battle
+
+message_223:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelMan... That last fight really wore me out.\! You got any \c[5]BANDAGES\c[0], \n[8]?\! Or even better...\! What about some snacks?\! That always helps too!
+
+message_300:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHmm...\! It looks like the pastor is continuing the sermon.
+
+message_301:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelWe should probably not interrupt... again...\! Heh heh...
+
+message_302:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel...\! Oops...
+
+#CHUCH FOLK
+
+message_400:
+      text: \n<CHURCHGOER>Where are your manners, off brawling about like that?\! You should be ashamed!
+
+message_401:
+      text: \n<CHURCHGOER>I just wanted to spend my day off in peace...
+
+message_402:
+      text: \n<CHURCHGOER>I reserve my judgment.\! The Lord will be the one to judge you.
+
+message_403:
+      text: \n<CHURCHGOER>It's about time that girl ran off.\! Now, maybe all my friends will come back to \c[11]CHURCH\c[0] again!

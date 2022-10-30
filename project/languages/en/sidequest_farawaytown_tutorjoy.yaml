@@ -1,0 +1,146 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Joy
+# =========================================================================================
+
+#Examine and take language Tutor Flyer:
+
+message_0:
+      text: There is a job posting on the wall.\! Read it?
+
+#Yes/No
+
+#Yes
+
+message_1:
+      text: \"TUTOR HELP WANTED! Looking for a local language<br>tutor for my daughter, JOY! $20.00 a day!\! Please bring this flyer to my house for a quick interview!”
+
+message_2:
+      text: Take the \c[4]BLUE FLYER\c[0] off the wall?
+
+#Yes/No
+
+#Yes
+message_3:
+      text: There is a map to the house on the back.
+#Show map
+
+#Examine Joy's House Door
+
+message_4:
+      text: \n<THICK EYEBROWS>Hello there!\! What can I do for you?
+
+message_100:
+      text: You gave THICK EYEBROWS the \c[4]BLUE FLYER\c[0].
+
+message_101:
+      text: \n<THICK EYEBROWS>Ah, you must be JOY's new language tutors!
+
+message_5:
+      text: \n<THICK EYEBROWS>Hmm...\! An interview is too much trouble!\! <br>You should know 2nd grade language, right?
+
+message_7:
+      text: \n<THICK EYEBROWS>Hurry and come in!\! My daughter JOY is waiting for you in her room!
+
+#Talk to Joy
+
+message_8:
+      text: \n<SMALL GIRL>H-Hello... I'm JOY. Pleased to meet you!\!<br>You must be my new tutors.\! Should we start now?
+
+message_9:
+      text: \n<SMALL GIRL>This is the worksheet that I'm stuck on...
+
+#Language worksheet
+
+message_10:
+      text: \n<SMALL GIRL>This question is giving me a little trouble...
+
+message_11:
+      text: My pencil is __ the table.
+
+message_12:
+      text: A) in
+
+message_13:
+      text: B) at
+
+message_14:
+      text: C) on
+
+message_15:
+      text: \n<SMALL GIRL>How about this one?
+
+message_16:
+      text: In the phrase, “silently read your book.”, what type of word is “silently”?
+
+message_17:
+      text: A) Adjective
+
+message_18:
+      text: B) Adverb
+
+message_19:
+      text: C) Preposition
+
+message_20:
+      text: \n<SMALL GIRL>This one's the hardest one...
+
+message_21:
+      text: Which one of these sentences is written correctly?
+
+message_22:
+      text: A) “Eggplants taste better when it is cooked.”
+
+message_23:
+      text: B) “It is definitely tastiest than tofu.”
+
+message_24:
+      text: C) “I think eggplant is the better tasting soft vegetable.”
+
+#Correct choice:
+
+message_25:
+      text: \n<SMALL GIRL>Oh, okay!\! I see now...
+
+#Incorrect choice:
+
+message_26:
+      text: \n<SMALL GIRL>Wait...\! I thought the right answer was "A"?
+
+message_27:
+      text: \n<SMALL GIRL>Hmm...\! But...\! Isn't the right answer "B"?
+
+message_28:
+      text: \n<SMALL GIRL>Hmm...\! Wait...\! Isn't the correct answer "C"?
+
+message_29:
+      text: \n<SMALL GIRL>Oh, I get it!\! You must be testing me...
+
+message_30:
+      text: \n<SMALL GIRL>Sorry, I've never had a tutor before so I don't know how this works!
+
+#After Completing Language Worksheet:
+
+message_31:
+      text: \n<SMALL GIRL>Thanks!\! I think I understand a little better...\! Hehe...
+
+message_32:
+      text: \n<THICK EYEBROWS>Hello! Hello!\! JOY! How are you doing?\! <br>Are these tutors of any help to you at all?
+
+message_33:
+      text: \n<THICK EYEBROWS>Ah!\! I see you have already completed your worksheet...
+
+message_34:
+      text: \n<THICK EYEBROWS>Amazing work!\! You should consider tutoring full-time!\! <br>Here is your payment!
+
+message_35:
+      text: \n<THICK EYEBROWS>Please come back tomorrow!
+
+message_36:
+      text: \n<THICK EYEBROWS>Hello! Are you here because of the tutoring poster?\! No? Oh...
+
+message_37:
+      text: \n<THICK EYEBROWS>JOY should be in her room right now.\! Thanks for your help!
+
+message_1000:
+      text: Ugh...\! Language...

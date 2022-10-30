@@ -1,0 +1,94 @@
+# =========================================================================================
+# Sidequest: Sneaking Out Joy
+# =========================================================================================
+
+#Talking to JOY
+
+message_1:
+      text: \n<SMALL GIRL>O-Oh, hi, MR. TUTOR...
+
+#Talk to Joy / Cutscene: Joy Leaves
+
+message_2:
+      text: \n<SMALL GIRL>Ummm...\! Sorry...\! This may seem kind of selfish of me, but...
+
+message_3:
+      text: \n<SMALL GIRL>You see, my dad isn't home today because he's out running errands.\! I've been studying in my room all summer, and I just want one day to play at the park.
+
+message_4:
+      text: \n<SMALL GIRL>Could you please finish my worksheet for today so he doesn't notice?\! I promise I'll be home before it gets dark, so please don't tell him!
+
+# yes /no
+
+#if yes
+
+
+message_5:
+      text: \n<SMALL GIRL>Ahh...\! I thought so-
+
+message_6:
+      text: \n<SMALL GIRL>W-Wait...\! You mean you'll let me go?\!<br>Oh, thank you, mister tutor! You're the best!
+
+message_8:
+      text: \n<SMALL GIRL>Yay! I'm really going to the park!\! I wonder what I should do first...\! I know!\! I want to play in the sandbox!\!<br>\sinv[1]Hehe... I can't wait!
+
+message_9:
+      text: \n<SMALL GIRL>Thanks again, mister!\! I'm going to go have some fun!
+
+#JOY runs out.
+
+#if no
+
+message_10:
+      text: \n<SMALL GIRL>Ahh...\! I thought so...\! That's okay!\!<br>I should probably be studying harder anyway...
+
+message_1000:
+      text: \n<SMALL GIRL>Another day of studying...\!<br>Sigh... I wonder what my brother is doing right now...
+
+#if yes, complete worksheet without prompts from JOY
+#if no, complete worksheet with prompts from Joy
+
+message_11:
+      text: JOY's language worksheet.\! Finish it?
+
+message_12:
+      text: In the sentence, “This glass of lemonade is __freshing”, <br>which prefix is correct?
+
+message_13:
+      text: A) Dis
+
+message_14:
+      text: B) Un
+
+message_15:
+      text: C) Re
+
+message_16:
+      text: What is the correct abbreviation for the word ‘weight'?
+
+message_17:
+      text: A) wgt.
+
+message_18:
+      text: B) wt.
+
+message_19:
+      text: C) W.
+
+message_20:
+      text: What word means ‘to move forward on the hands and knees'?
+
+message_21:
+      text: A) Slither
+
+message_22:
+      text: B) Crawl
+
+message_23:
+      text: C) Walk
+
+message_24:
+      text: You completed JOY's language worksheet.
+
+message_25:
+      text: You should complete the worksheet first before you leave.

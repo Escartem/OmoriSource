@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Sidequest: Fix Arcade Machine
+# =========================================================================================
+
+#Talk to Gino without arcade piece
+
+message_1:
+      text: \n<GLASSES MAN>Sigh...\! Dangit...\! I'm trying to fix this old arcade machine, <br>but I'm missing a rare and important piece...
+
+message_2:
+      text: \n<GLASSES MAN>It looks like it was just bitten off right here.\! I wonder where it could be...
+
+#Talk to Gino with arcade piece
+
+message_4:
+      text: \n<GLASSES MAN>\com[2]Hey!\! That's the missing \c[4]ARCADE PIECE\c[0] I've been looking for!\! C-Could I maybe take it off your hands?
+
+#[Nod/Shake]
+#[Nod]
+
+message_8:
+      text: You gave the \c[4]ARCADE PIECE\c[0] to GLASSES MAN.
+
+message_5:
+      text: \n<GLASSES MAN>Alright, cool!\! Now let's see here...
+#[Arcade Machine boots up]
+message_6:
+      text: \n<GLASSES MAN>There you go...\! Good as new!
+#[Shake]
+message_7:
+      text: \n<GLASSES MAN>\com[2]B-B-B-But why!?
+
+message_9:
+      text: \n<GLASSES MAN>Here! Take this \c[4]CD\c[0] as thanks!
+
+message_10:
+      text: \n<GLASSES MAN>I bought it at \c[11]HOBBEEZ\c[0] last week, but forgot I already had a copy at home...
+
+message_11:
+      text: \n<GLASSES MAN>Now, if you'll excuse me...\! <br>I must...\! err...\! make sure this game works correctly...

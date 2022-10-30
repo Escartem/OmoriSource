@@ -1,0 +1,63 @@
+# =========================================================================================
+# Book to Read
+# ========================================================================================
+
+#DEMI is facing a book shelf.
+
+message_0:
+      text: \n<DEMI>Hmm...\! What to read...\! What to read...\! Sigh...
+
+message_1:
+      text: \n<DEMI>I've read every book on this shelf over twenty times already...\! If only I had something more interesting to read...
+
+#Examine Interesting book
+
+message_2:
+      text: You got an \c[4]INTERESTING BOOK\c[0]!\!<br>It's...\! interesting...
+
+#Talk to DEMI
+
+message_3:
+      text: \n<DEMI>Hmm...\! What to read...\! What to read...\! Sigh...
+
+message_4:
+      text: \n<DEMI>I've read every book on this shelf over twenty times already...\! If only I had something more interesting to read...
+
+#DEMI turns around.
+
+message_5:
+      text: \n<DEMI>\Com[2]Whoa! Where'd you come from?
+
+#You gave an INTERESTING BOOK to DEMI.
+message_13:
+      text: You gave an \c[4]INTERESTING BOOK\c[0] to DEMI.
+
+message_6:
+      text: \n<DEMI>Wow...\! This book...\! sure is...\! interesting...\|<br>Hmm...\| Mhmm...\| Hmmmmmm...
+
+message_7:
+      text: \n<DEMI>Oh!\! Sorry, I must've zoned out for a moment there.\!<br>Thank you for showing me this \c[4]INTERESTING BOOK\c[0].\!<br>I'll have to give you something in return...
+
+#DEMI turns to Bookshelf
+
+message_8:
+      text: \n<DEMI>Let's see here...\! How about...\! this one?
+
+#DEMI turns to party
+
+message_9:
+      text: \n<DEMI>Here you go.\! This book is a collection of some of the saddest poems ever written.\! Please enjoy it!
+
+#DEMI gave you a POETRY Book
+
+message_10:
+      text: \n<DEMI>Now, where was I...
+
+message_11:
+      text: \n<DEMI>Hmm...\| Mhmm...\| Hmmmmmm...
+
+#Quest complete
+
+#Afterquest, talk to DEMI
+message_12:
+      text: \n<DEMI>Hmm...\| Mhmm...\| Hmmmmmm...\! Very interesting...

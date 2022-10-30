@@ -1,0 +1,628 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Leave
+# =========================================================================================
+
+#Trigger: Enter proximity of Slime Girls Lobby.
+
+#SWEETHEART is walking toward the open elevator.
+
+message_0:
+      text: \{STOP RIGHT THERE!!\!\}<br>You can't leave just yet, doll.\n<MEDUSA>
+
+message_1:
+      text: We just want our payment, darling.<br>Can't you see how upset MARINA is getting?\n<MOLLY>
+
+message_2:
+      text: \{\quake[1]WHERE'S MY MONEY, LADY!?!?<br>GIVE ME MY MONEY!!!!\n<MARINA>
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Uh-oh... It's SWEETHEART and those sea witches!\her
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: There's no way we're getting caught in the middle of this.\!<br>Let's make a run for it!\kel
+
+message_5:
+      text: Stop right where you are, children.\!<br>I must correct you...\! as you are sorely mistaken.\! <br>We are not witches...\! but followers of science!\n<MOLLY>
+
+#MEDUSA turns to MOLLY.
+
+message_6:
+      text: It's a common mistake, I'm afraid.\!<br>Humans tend to fear what they cannot understand.\n<MEDUSA>
+
+message_7:
+      text: Besides...\! I think I know why people think we're witches...\n<MEDUSA>
+
+#MEDUSA turns to MOLLY.
+
+message_8:
+      text: Hey! What are you lookin' at me for!?\n<MARINA>
+
+message_9:
+      text: That aside, we have a bigger problem on our hands.\n<MEDUSA>
+
+#MEDUSA turns to SWEETHEART.
+
+message_10:
+      text: That's right!\! Where do you think you're going...\!<br>\sinv[1]SWEETHEART, darling?\n<MOLLY>
+
+message_11:
+      text: You owe us a big, big bag of CLAMS!\n<MARINA>
+
+#SWEETHEART turns to SLIME GIRLS.
+
+message_12:
+      text: \com[2]Hmph! As if you three peasants are worthy of payment!\swh
+
+message_13:
+      text: All I wanted was for you to make me a perfect match...\!<br>but you've all managed to fail me in three different ways!\swh
+
+#SWEETHEART turns to elevator.
+
+message_14:
+      text: If you are so insistent to get your worthless CLAMS...\!<br>let these children cover the charge!\swh
+
+message_15:
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+
+#SWEETHEART walks into elevator. Elevator doors close.
+
+message_16:
+      text: \{WHERE DO YOU THINK YOU'RE GOING!?\n<MARINA>
+
+message_17:
+      text: \quake[1]\{HUMPHREY!\! STOP HER NOW!!\n<MARINA>
+
+#Screen shakes, and a burp is heard.
+#HUMPHREY appears in front of MARINA.
+
+message_18:
+      text: \sinv[1]Yoo-hoo!\sinv[0]\! I am here to report that SWEETHEART has been disposed of.\n<HUMPHREY>
+
+message_19:
+      text: It's a good thing you asked!\! I was afraid that I wasn't going to be able to hold myself back any longer.\n<HUMPHREY>
+
+message_20:
+      text: Also...\! This may or may not surprise you...\! but SWEETHEART had a total balance of 0 CLAMS on her.\!<br>Zero!\! Not a single one!\n<HUMPHREY>
+
+message_21:
+      text: Which...\! is quite unfortunate...<br>as I am getting a bit...\! \quake[1]hungry...\quake[0]\n<HUMPHREY>
+
+#MARINA is surprised.
+
+message_22:
+      text: \{THAT WENCH DOUBLE-CROSSED US!!\!\}<br>I knew there was something fishy about her.\n<MARINA>
+
+#MEDUSA looks at MARINA.
+
+message_23:
+      text: Hmm... Well, not necessarily.\!<br>She did say these children would cover the charges.\n<MEDUSA>
+
+#MARINA is surprised.
+
+message_24:
+      text: Oh yeah, huh!\! In that case, she's definitely paid her due.\n<MARINA>
+
+#MARINA walks up to party.
+
+message_25:
+      text: Which parts of them should we sell off first?\n<MARINA>
+
+#MEDUSA jumps.
+
+message_26:
+      text: Don't be such a brute, MARINA!\!<br>I'm sure she meant the kids would pay us...<br>not that we should sell them!\n<MEDUSA>
+
+#MOLLY turns to children and walks up.
+
+message_27:
+      text: Alright, darlings...\!<br>Now be good, and hand over your big, big bag of CLAMS!\n<MOLLY>
+
+#KEL, AUBREY, and HERO are nervous.
+
+message_28:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: H-Huh?\! S-So, uh...\! yeah...\! about that...\!<br>Just curious...\! How much does she owe you anyway?\kel
+
+message_29:
+      text: Well... Let's see here!\n<MOLLY>
+
+#MOLLY turns around. MEDUSA and MARINA join to discuss.
+
+message_30:
+      text: \}There's consultation fee... initial fee... setup fee... inspection fee... service fee... cost of materials... warranty fee... disposal fee... shipping and handling... gratuity... cancellation fee... damages... late payment fee...\n<MOLLY>
+
+#MOLLY turns around.
+
+message_31:
+      text: So that brings the total charge to about...<br>\!1000000 CLAMS.\n<MOLLY>
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \quake[1]\com[2]\{1000000 CLAMS!?!?\!\}<br>\quake[0]We don't have that kind of money!\aub
+
+#if you somehow have 634626246329 clams
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \quake[1]\com[2]\{1000000 CLAMS!?!?\!\}<br>\quake[0]We can't just give you all that money!\aub
+
+message_33:
+      text: ...\! Oh?\n<MOLLY>
+
+message_34:
+      text: ...\. ...\. ... \n<MEDUSA>
+
+message_35:
+      text: ...\. ...\. ...\. ...\. ... \n<MARINA>
+
+message_36:
+      text: Well...\! That's just too bad.\n<MOLLY>
+
+message_37:
+      text: \quake[1]\Com[2]\{HUMPHREY!!\! SEAL THE EXITS!!!\n<MARINA>
+
+
+#Lights go off. When returned SLIME GIRLS are in their battle sprites.
+
+message_39:
+      text: Tough luck, kids...\! You walked into the wrong whale.\n<MARINA>
+
+message_40:
+      text: Someone's gotta pay for all of this.\n<MARINA>
+
+#MARINA walks up.
+
+
+message_42:
+      text: I would say desperate times call for desperate measures.\n<MARINA>
+
+message_43:
+      text: Don't you agree, sisters?\n<MARINA>
+
+#MARINA goes up to HERO.
+
+message_44:
+      text: \sinv[1]Oooh...\! This one is too pretty to sell... Isn't he, MOLLY?\n<MEDUSA>
+
+#MOLLY goes up to OMORI.
+
+message_45:
+      text: \sinv[1]Well... I like the quiet one.\! He would make a great pet.\n<MOLLY>
+
+#AUBREY jumps.
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{DON'T YOU TOUCH HIM!\}\!<br>Let us go now! We didn't do anything wrong!\aub
+
+message_47:
+      text: \sinv[1]Ooh, feisty!\! I think you'd like this one, MARINA! \sinv[1]Fufufu...\sinv[0]\n<MOLLY>
+
+message_48:
+      text: Heh.\! Well...\! I guess selling just one will do.\n<MARINA>
+
+#MARINA grabs KEL.
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: H-Hey!\! Let me go!\kel
+
+#SLIME GIRLS float in air, lifting KEL up.
+
+message_50:
+      text: If you kids can't pay us in CLAMS...<br>\!you can pay us with your arms and legs!\n<MARINA>
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KEL!! NOOO\{OOOOOOO\{OOOO!!\her
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \{LET GO OF ME!!\kel
+
+message_116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \{\quake[1]PUT ME DOWN!!\! PUT ME DOWN!!!\kel
+
+message_66:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: ...\| \quake[1]\Com[2]\{MUUUUU\Com[2]\{NNNNNN\Com[2]\{NCCCHHHH!!!\kel
+
+#KEL bites MARINA.
+
+message_53:
+      text: Argh!\! What the heck!? He bit me!\n<MARINA>
+
+#SLIME GIRLS float back down.
+
+message_54:
+      text: Oh, settle down, MARINA... \sinv[1]Fufufu~!\sinv[0]\! <br>It's just a little nibble!\n<MOLLY>
+
+message_55:
+      text: \quake[1]\{YOU'LL PAY FOR THIS, BRAT!!!\n<MARINA>
+
+#MEDUSA looks at party.
+
+message_56:
+      text: Well now, it seems that you've gotten MARINA all worked up!\! <br>Our little prey is biting back.\n<MEDUSA>
+
+#HERO jumps.
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Guys...\! It looks like we're going to have to fight our way out of this place!\her
+
+#KEL runs behind HERO.
+#Camera pans to SLIME GIRLS.
+
+message_58:
+      text: Oh...\! it's a fight you want, is it?\n<MOLLY>
+
+#MOLLY takes step toward party.
+
+message_59:
+      text: It's been a while since my last hunt!\n<MOLLY>
+
+#MEDUSA takes step toward party.
+
+message_60:
+      text: Yes... It seems like our prey needs to be disciplined.\! <br>Someone needs to teach you children some proper manners!\n<MEDUSA>
+
+message_61:
+      text: For prey, you're all way too picky...\!<br>\sinv[1]You don't want to be sold...\! You don't want to be pets...\!<br>You all should really learn your place...\n<MARINA>
+
+message_62:
+      text: Well...\! Whatever...\! That's fine with us.\n<MARINA>
+
+message_63:
+      text: There's always another option. \sinv[1]Fufufu~ \n<MOLLY>
+
+message_64:
+      text: If you're going to keep resisting...<br>you leave us with no other choice.<br>\!I'm afraid we'll just have to...\n<MEDUSA>
+
+message_65:
+      text: \{TURN YOU INTO CHUM INSTEAD!!!\n<MARINA>
+
+# =========================================================================================
+# Cutscene: Sweetheart's Leave
+# =========================================================================================
+
+#Trigger: Defeat Slime Girls.
+
+message_90:
+      text: Huff...\! huff...\!<br>Man...\! What's wrong with us?\!<br>This fight should be a piece of cake.\n<MARINA>
+
+message_91:
+      text: Huff...\! Forget hunting...\! I'm not cut out for this kind of nonsense anymore.\! I'm just... huff...\! going to stick to research from now on.\n<MOLLY>
+
+message_92:
+      text: Well, dolls...\! It seems we are all past our prime.\! <br>If only we were 200 years younger.\n<MEDUSA>
+
+#Screen shakes.
+
+message_93:
+      text: Not to alarm you all...\!<br>but I'm afraid my appetite is getting...\n<HUMPHREY>
+
+message_117:
+      text: \quake[1]much...\! \{much...\! \{MUCH...\! \{BIGGER!!\n<HUMPHREY>
+
+message_94:
+      text: Yeah, yeah, HUMPHREY... We got you.\n<MARINA>
+
+#MARINA turns to MOLLY.
+
+message_95:
+      text: MOLLY, feed HUMPHREY some CLAMS.\n<MARINA>
+
+#MOLLY turns to MARINA.
+
+message_96:
+      text: Hm? I'm sure I fed him last time!\! Besides...<br>I used up all my CLAMS on software for the last job.\n<MOLLY>
+
+#Screen shakes.
+
+message_97:
+      text: \sinv[1]I'm getting... \quake[1]\{HUNGRIER!\n<HUMPHREY>
+
+#MARINA is sweaty.
+#MARINA turns to MEDUSA.
+
+message_98:
+      text: Okay, fine then.\! How about you, MEDUSA?\n<MARINA>
+
+message_99:
+      text: Well, I...\! I wasn't expecting to feed HUMPHREY again so soon.\! If memory serves me correctly. Isn't it your turn to feed him, MARINA?\n<MEDUSA>
+
+#Screen shakes.
+#MARINA is nervous.
+
+message_100:
+      text: Oh wait, is it?\n<MARINA>
+
+#MARINA turns around.
+
+message_101:
+      text: I thought it was MOLLY's turn.\n<MARINA>
+
+#MOLLY walks one step toward MARINA.
+
+message_102:
+      text: I'm pretty sure it was MEDUSA's turn this time.\n<MOLLY>
+
+#HUMPHREY appears in front of SLIME GIRLS.
+
+message_103:
+      text: \sinv[1]Whale, whale, whale...\sinv[0]<br>It seems you all have run into a bit of a pickle.\n<HUMPHREY>
+
+message_104:
+      text: If you can't feed me...\!<br>\quake[1]I guess I'll just have to help myself!\n<HUMPHREY>
+
+#Screen shakes.
+#HUMPHREY's interior swallows a potted plant.
+#SLIME GIRLS are sweaty.
+
+message_105:
+      text: \{\quake[1]NOOOOOOOOOO!! MY FURNITURE!!\n<MEDUSA>
+
+message_106:
+      text: What are we gonna do now!?\! HUMPHREY's gonna digest everything!\n<MARINA>
+
+message_107:
+      text: Hmmm...\! Perhaps... we should plan an escape?\n<MEDUSA>
+
+message_108:
+      text: We've already expended so much energy.\! Perhaps it's finally time for us to swim with the fishes...\n<MOLLY>
+
+#HUMPHREY's face appears below SLIME GIRLS.
+
+message_109:
+      text: \sinv[1]\{YOO\{OOO-\{HOOOO\{OOOOOO!!!\n<HUMPHREY>
+
+#HUMPHREY swallows SLIME GIRLS.
+
+message_110:
+      text: \quake[1]\{AHHH\{HHHHHHHH\{HHHH\{HHHHH!!!!\n<SLIME GIRLS>
+
+message_111:
+      text: Mmm...\! \com[538]Seafood...\n<HUMPHREY>
+
+message_112:
+      text: \sinv[1]\{DEEEEEE...\{\Com[2]LICIOUS!!\n<HUMPHREY>
+
+#Camera pans to party.
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: HUMPHREY is out of control!\kel
+
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \{HOW ARE WE GONNA GET OUT OF HERE!?\aub
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Keep calm, everyone. Let's look for an exit!\her
+
+# =========================================================================================
+# Cutscene: Humphrey Hungry (Cont.)
+# =========================================================================================
+
+#Trigger: Enter proximity of big Humphrey. (Elevator)
+#Elevator turns his head
+
+message_130:
+      text: \sinv[1]My friends! May I say you all look delicious right now?\n<HUMPHREY>
+
+#KEL jumps.
+
+message_131:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]HUMPHREY, stop this!\! Haven't you eaten enough?\! We promise we'll feed you later!\aub
+
+message_132:
+      text: But...\! You can feed me now!\! <br>Just...\! \quake[1]let me eat you.\n<HUMPHREY>
+
+#Multiple HUMPHREY appear and surround party.
+
+message_133:
+      text: \sinv[1]Time to feast!\! Time to feast!\!<br>\{TIME FOR YOU TO BE DECEASED!!\n<HUMPHREY>
+
+#Party looks around.
+#AUBREY is sweating.
+
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: Please don't eat us, HUMPHREY!<br>We don't want to be eaten!\kel
+
+message_135:
+      text: Well, it's a little too late for that, isn't it?\!<br>You should have thought of that before you walked into my mouth! \quake[1]Nyak, nyak!\quake[0]\n<HUMPHREY>
+
+#HERO looks back.
+
+message_136:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: It's no good, guys...\!<br>I don't know if there's a way out of here.\her
+
+message_137:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Don't say that, HERO!\aub
+
+message_138:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Yeah, we can't let it end like this!\kel
+
+message_139:
+      text: \quake[1]Nyak, nyak, nyak, nyak, nyak, nyak, nyak, nyak!!\quake[0]\n<HUMPHREY>
+
+message_140:
+      text: \sinv[1]Oh, there's no need to struggle, children!\n<HUMPHREY>
+
+message_141:
+      text: Then again...\!<br>It is always more satisfying when you prepare your own food!\n<HUMPHREY>
+
+message_142:
+      text: Now, you all just sit still...\n<HUMPHREY>
+
+message_143:
+      text: \sinv[1]The preparations have already been made...\n<HUMPHREY>
+
+message_144:
+      text: \sinv[1]Dinner is being served...\!<br>\quake[1]\{AND...\. YOU'RE ON THE MENU!!\n<HUMPHREY>
+
+#Uvula
+
+# =========================================================================================
+# Cutscene: Before Uvula
+# =========================================================================================
+
+message_180:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herHuff...\! Huff...\! It’s no use...
+
+message_181:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herHow will we get out of here if HUMPHREY keeps<br>swallowing us?
+
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aubOMORI...\! I’m scared...\! Why did we get ourselves into this mess?
+
+message_183:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelDon’t worry, AUBREY. We’ll get through this!\!<br>We’ve gotten out of plenty sticky situations before!
+
+message_184:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herYeah... We can’t give up now!\!<br>There’s just gotta be a way out of here...
+
+message_145:
+      text: \sinv[1]Going somewhere?\. \quake[1]Nyak, nyak!\quake[0]\n<HUMPHREY>
+
+# =========================================================================================
+# Cutscene: Last Blackletter
+# =========================================================================================
+
+#Trigger: Defeat Humphrey.
+#HUMPHREY blows party and Blackletter out of blowhole.
+
+message_160:
+      text: \quake[1]Bl\{ee\{hhh!\!!\}\}\quake[0]<br>Blurf...\! well, that didn't go down smoothly at all!\n<HUMPHREY>
+
+#HUMPHREY rumbles.
+#Screen shakes.
+#HUMPHREY burps, then closes back mouth.
+
+message_161:
+      text: Hmm...\! suddenly...\! I feel so sleepy...\!<br>\}I think...\! \}\sinv[1]I'll take a short nap.\n<HUMPHREY>
+
+#HUMPHREY sinks into lake.
+#Camera pans to party.
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Huff...\! huff...\! That was... huff...\! a close one.\her
+
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Huff...\! yeah.\!<br>Never underestimate a hungry stomach...\kel
+
+#AUBREY walks one step away.
+
+message_164:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: That was really scary... \}Huff...\aub
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: But you know what... \}Huff...\aub
+
+#AUBREY turns to party.
+
+message_166:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: At least we got through it together! \}Huff...\aub
+
+#AUBREY turns around.
+
+#message_167:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: Wherever BASIL is...\! he's probably all alone.\aub
+
+#AUBREY turns to party.
+
+#message_168:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: We need to hurry and find him!\! I bet he could use a big hug right now!\aub
+
+#message_169:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: Yeah, I bet he could!\! When we're all together again, we should all give him a big ol' hug! Heh, heh!\kel
+
+#message_170:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 37
+#      text: Aww...<br>It's nice to see you two getting along so well for a change.\!<br>I could hug both of you right now!\her
+
+#AUBREY and KEL are surprised and start sweating, and look away from each other.
+
+#message_171:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 6
+#      text: H-Huh!?\! Me and KEL...\! G-Get along?\aub
+
+#message_172:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 30
+#      text: W-What are you talking about, HERO?\! Stop being weird!\kel
+
+#message_173:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 38
+#      text: Haha...\! Relax you two. I'm just playing around...\her
+
+#HERO looks out the cave.
+
+#message_174:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: Hold on, BASIL... We're almost there. I can feel it.\her
+
+#message_175:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: We'll all be together soon...\her

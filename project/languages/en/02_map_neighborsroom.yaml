@@ -1,0 +1,130 @@
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\c[13]HECTOR\c[0] is the coolest pet rock ever!
+
+message_2:
+      text: You can't leave without your friends.
+
+message_3:
+    text: An eye stares at you from inside the shelf.
+
+message_4:
+    text: There's a movie on TV.\!<br>Four boys are walking on railroad tracks.
+
+message_5:
+    text: A photo of someone familiar.
+
+message_6:
+    text: A fluffy pillow shaped like the head of a girl.
+
+message_7:
+    text: \n<SNAKE>\sinv[1]Sssssssssssss...?\sinv[0]\! (Waiting for something to happen?)
+
+message_8:
+    text: A cat-shaped hole.
+
+message_9:
+    text: You feel the presence of SOMETHING behind the door.\!<br>Look into the keyhole?
+
+message_10:
+    text: A neatly-wrapped present.
+
+message_11:
+    text: A blender.
+
+message_12:
+    text: A single bean on a plate.
+
+message_13:
+    text: Would you like to make toast?
+
+message_14:
+    text: You made TOAST.
+
+message_15:
+    text: A baseball and a baseball bat.
+
+message_16:
+    text: A tentacle is poking out of the ground.
+
+
+#- Omori's CUT Tag Skill
+
+message_17:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHuh? There's some roots in the way...\!<br>How did these get here?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubNo worries, BASIL!\!<br>I bet this would be a cinch for OMORI to \c[1]CUT\c[0] out of the way!
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubCome on, OMORI!\! You can do it!
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubCome on, OMORI!\! You can do it!
+
+
+#- Snake money
+
+message_100:
+    text: \n<SNAKE>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Going out, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Here is your allowance for today.)
+
+message_101:
+    text: You got \v[1001] CLAMS.
+
+message_102:
+    text: \n<SNAKE>\sinv[1]Sssssssssssss...\!\sinv[0] (Take care.)
+
+message_103:
+    text: \n<SNAKE>\sinv[1]Ssssssssssss...?\!\sinv[0] (Waiting for something to happen?)
+
+#Trying to go back inside Neighbor's Room before Basil is kidnapped
+
+message_110:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basWait, OMORI... We're supposed to go to my house!\! It's just past the path south of the playground.
+
+message_111:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI just finished planting some little sprouts and wanted to show everyone.\! Come on! They're really cute!
+
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWhere are you going, OMORI?\! Let's go see MARI and BASIL!\! We can't let their picnic go to waste!
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herWhere are you going, OMORI?\! Let's go see MARI.\! She's worried sick about you.
+
+message_114:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marLet's go see the spooky house, OMORI!\! Don't be scared.\! We're all doing this together!
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubWhere are you going, OMORI?\! We have to look for BASIL...
+
+#FRIEND TEXT
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubHi, OMORI!\! I'm so happy to see you!
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelWhat's up, best friend?\! Didja miss me? Heh, heh...

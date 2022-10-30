@@ -1,0 +1,151 @@
+
+# =========================================================================================
+# Seasonal gifts
+# ========================================================================================
+
+#Talk to Summer MOLE
+message_0:
+      text: \n<SUMMER MOLE>Ahh, summer...\! the sand...\! the sun...\! the beach...\! the waves...\!<br>not to mention... summer vacation!
+
+message_1:
+      text: \n<SUMMER MOLE>Finally, some time for rest and relaxation...<br>That's what life is all about!
+
+message_2:
+      text: \n<SUMMER MOLE>Summer is the best season! Don't you agree?
+
+# [Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<SUMMER MOLE>Right on, brother! Summer is the best! So thrilled you agree!\! Here's a gift from me... Use it well!
+
+message_4:
+      text: You got \c[13]SUNSCREEN\c[0].
+
+#[Shake]
+message_5:
+      text: \n<SUMMER MOLE>Oh, boo!
+
+#Talk to Spring MOLE
+message_6:
+      text: \n<SPRING MOLE>Ahh, spring...\! Spring brings us beauty!\! Spring brings us joy!\! Spring brings us life!\! Spring brings us a rejuvenating spirit to start things anew!
+
+message_7:
+      text: \n<SPRING MOLE>Spring is the best season! Don't you agree?
+
+# [Nod/Shake]
+#[Nod]
+message_8:
+      text: \n<SPRING MOLE>Yes, yes! Spring is the best! I am glad you agree!\!<br>Here is a gift from me... Please enjoy it!
+
+message_9:
+      text: You got a \c[13]WATERING PAIL\c[0].
+
+#[Shake]
+message_10:
+      text: \n<SPRING MOLE>Oh, poo on you!
+
+
+#Talk to Fall MOLE
+message_11:
+      text: \n<FALL MOLE>Fall...\! autumn leaves...\! comfy clothes...\! the smell of cinnamon...\! the perfect time to cuddle up with a book...\! and with holidays right around the corner...\! You just gotta love fall!
+
+message_12:
+      text: \n<FALL MOLE>Fall is the best season! Don't you agree?
+
+# [Nod/Shake]
+#[Nod]
+message_13:
+      text: \n<FALL MOLE>I concur! Fall is the best season! I'm delighted that you agree!\! Here is a gift from me... I hope you find a good use for it!
+
+message_14:
+      text: You got a \c[13]RAKE\c[0].
+
+#[Shake]
+message_15:
+      text: \n<FALL MOLE>Well, we can agree to disagree then.
+
+#Talk to WINTER MOLE
+message_16:
+      text: \n<WINTER MOLE>Ahh, winter.\! It may be snowing outside, but winter is time for friends and family!
+
+message_17:
+      text: \n<WINTER MOLE>Cuddling next to a warm fire...\! Sharing stories...\! Sipping on hot cocoa...\! and most importantly... taking a breather after a long year!
+
+message_18:
+      text: \n<WINTER MOLE>Winter is the best season! Don't you agree?
+
+# [Nod/Shake]
+#[Nod]
+message_19:
+      text: \n<WINTER MOLE>Indeed! Winter is the best season! Your agreement brings me great joy!\! Please have this gift.\! Winter is the season of giving, after all!
+
+message_20:
+      text: You got a \c[13]SCARF\c[0].
+
+#[Shake]
+message_21:
+      text: \n<WINTER MOLE>Oh...\! This does not bring me joy...
+
+#If Player has already chosen another favorite season:
+
+message_22:
+      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+
+message_23:
+      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+
+message_24:
+      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+
+message_25:
+      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+
+message_26:
+      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+
+message_27:
+      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+
+message_28:
+      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+
+message_29:
+      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+
+message_30:
+      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+
+message_31:
+      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+
+message_32:
+      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+
+message_33:
+      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+
+#If Player talks to their chosen favorite season:
+
+message_34:
+      text: \n<SUMMER MOLE>Ahh, summer...\! the sand...\! the sun...\! the beach...\! the waves...\!<br>not to mention... summer vacation!!
+
+message_35:
+      text: \n<SUMMER MOLE>Finally, some time for rest and relaxation...<br>That's what life is all about!\!<br>Summer is the best season!
+
+message_36:
+      text: \n<SPRING MOLE>Ahh, spring...\! Spring brings us beauty!\! Spring brings us joy!\! Spring us brings life!
+
+message_37:
+      text: \n<SPRING MOLE>Spring brings us a rejuvenating spirit to start things anew!\! Spring is the best season!
+
+message_38:
+      text: \n<FALL MOLE>Fall...\! autumn leaves...\! comfy clothes...\! the smell of cinnamon...\! the perfect time to cuddle up with a book...\! and with holidays just around the corner...
+
+message_39:
+      text: \n<FALL MOLE>You just gotta love fall!\! Fall is the best season!
+
+message_40:
+      text: \n<WINTER MOLE>Ahh, winter.\! It may be snowing outside, but winter is time for friends and family!
+
+message_41:
+      text: \n<WINTER MOLE>Cuddling next to a warm fire...\! Sharing stories...\! Sipping on hot cocoa...\! and most importantly... taking a breather after a long year!\! Winter is the best season!

@@ -1,0 +1,568 @@
+# =========================================================================================
+# Cutscene: Hero the Bachelor / To THE DUNGEON With You!
+# =========================================================================================
+
+#Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
+
+message_0:
+      text: Someone! Please, help me!\! <br>I am in need of a handsome young gentleman!\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE jumps
+
+message_1:
+      text: You... Yes!\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE walks one step forward.
+
+message_2:
+      text: You there, in the striped pants.\! You \quake[1]magnificent beast!\quake[0]\!<br>Yes... Ohohoho... Yes, you look like you'll do just fine!\n<MUSTACHE MOLE>
+
+#HERO sweats.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: H-Huh?\! Wow... Uh...\! W-why thank you! <br>I-I don't know what to say...\her
+
+#MUSTACHE MOLE walks up to HERO.
+
+message_4:
+      text: Please, kind sir. Will you help out a poor, lowly mole?\! <br>I am desperately in need of your service.\n<MUSTACHE MOLE>
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Well, since you asked so nicely... How can I refuse?\her
+
+#MUSTACHE MOLE jumps.
+
+message_6:
+      text: Thank you! Thank you, young lad! You are too generous.\! <br>Please, come this way now. Chop-chop!\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE attempts to push HERO O.S. toward stage.
+#HERO sweats.
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: W-wait, hold on! Can my friends come too?\her
+
+#MUSTACHE MOLE is confused, then surprised.
+
+message_8:
+      text: Ah, yes! Your friends!\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE turns to party.
+
+message_9:
+      text: You are all here to see \"SWEETHEART'S QUEST\", yes?\!<br>If so, you will all meet again soon enough.\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE turns to HERO.
+
+message_10:
+      text: Now come, sir! We must make haste. Time is short!\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE and HERO walk O.S.
+
+message_11:
+      text: HERO left the party.
+
+#Take seats
+
+message_12:
+      text: Are you ready to take your front row seats?
+
+# =========================================================================================
+# Cutscene: Hero the Bachelor / To THE DUNGEON With You! (Cont.)
+# =========================================================================================
+
+#Trigger: Examine Front Row Seats.
+message_30:
+      text: Greetings, SWEETHEART fans.<br>We apologize for the short intermission.\! <br>Welcome back to our regularly scheduled program!\smm
+
+message_31:
+      text: During the break, we regret to inform you that a tragic accident has occurred right here on this very stage.\smm
+
+#Curtain opens, revealing a portrait of SNALEY.
+
+message_32:
+      text: It is at this time we announce the sudden loss of<br>CONTESTANT \#3...\smm
+
+message_33:
+      text: We will remember him fondly for the few seconds that we got to know him.\! He was truly a unique and irreplaceable soul.\smm
+
+#Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
+
+message_34:
+      text: \Com[2]\{\sinv[1]BUT THE SHOW MUST GO ON!!\smm
+
+message_35:
+      text: Please give a warm welcome to our new CONTESTANT \#3...\!<br>Hailing all the way from the \c[11]VAST FOREST\c[0]...\!<br>It's our HERO in shining armor!\smm
+
+message_36:
+      text: Get this, guys.\!<br>HERO's a real hunk, standing at a whopping 5'7”!\smm
+
+#Someone whistles.
+
+message_37:
+      text: His passions include baking, cooking, and cleaning...\!<br>And if that doesn't sound like the perfect man, check out his killer smile and mild personality!\smm
+
+#Wild applause.
+
+message_38:
+      text: And now, once again...<br>it's time to introduce the star of the show!\smm
+
+message_39:
+      text: \{\Com[2]DIM THE LIGHTS, PLEASE!!\smm
+
+#The lights dim.
+
+message_40:
+      text: \sinv[1]She emits...\| beauty... \|She exudes...\| grace...\|<br>She truly has...\| the most pulchritudinous face...\smm
+
+message_41:
+      text: Yes!\! You know who we're talking about!<br>\!She's all that is amazing and wonderful, and she is just about to set foot on this very stage!\smm
+
+message_42:
+      text: She's the one... \!the only... \!the magnificent...\smm
+
+message_43:
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+
+#The stage curtain opens revealing SW on a lounge chair.
+
+message_44:
+      text: \Com[2]\sinv[2]\{OHOH\{OHOHOHOHO\{HOHOHOHOHO!!!\swh
+
+#Fan laugh
+
+message_45:
+      text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\swh
+
+message_46:
+      text: An excellent entrance, my liege!\smm
+
+#Wild applause.
+#SWEETHEART jumps off from cake.
+
+message_47:
+      text: \sinv[2]\{\{AHHHHHHHH YES!!\! IT IS ME!!\swh
+
+message_48:
+      text: Hello, my stupid, adoring fans!\swh
+
+message_49:
+      text: \sinv[1]We love you SWEETHEART!<br>Yeah, you're the best!\n<STUPID ADORING FANS>
+
+message_50:
+      text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
+
+message_51:
+      text: SWEETHEART...\! We have brought three of the best bachelors in the world onto this stage.\! Will today be the day that one of them steals your heart?\smm
+
+#SMM and SWEETHEART turn to face the CONTESTANTs.
+
+message_52:
+      text: Let's start with some questions.\! <br>One thing that SWEETHEART values most in a companion is complete and absolute obedience!\smm
+
+message_106:
+      text: Do you, CONTESTANT \#1, agree...\! to pledge your allegiance to SWEETHEART for the rest of your life?\!<br>CONTESTANT \#1! What is your answer?\smm
+
+#CONTESTANT #1 is confused.
+
+message_53:
+      text: Uh...\! sure. \!I don't know... \!I guess...\n<CONTESTANT \#1>
+
+#SMM turns to SWEETHEART.
+
+message_54:
+      text: Playing hard to get, I see!\! What do you think about that response, SWEETHEART?\smm
+
+#SWEETHEART is annoyed.
+
+message_55:
+      text: Mmm... Just three feet tall?\! My, that is much too short!\! <br>Send him off...\! \Com[2]to \c[11]THE DUNGEON\C[0]!\swh
+
+#CONTESTANT #1 starts sweating.
+
+message_56:
+      text: Hey... W-What did you say?\! \c[11]THE D-DUNGEON\c[0]?\n<CONTESTANT \#1>
+
+#Guards come out and escort CONTESTANT #1 to THE DUNGEON.
+
+message_57:
+      text: \{\sinv[1]HEE\{LLLPPP\{PP ME!!!\sinv[0]\n<CONTESTANT \#1>
+
+#CONTESTANT #2 is sweating.
+#SMM turns to CONTESTANT #2.
+
+message_58:
+      text: Now onto CONTESTANT \#2.\! We ask you the same question.\! <br>There's no right or wrong answer. Just answer truthfully!\smm
+
+message_59:
+      text: CONTESTANT \#2...\!<br>Will you pledge your allegiance to SWEETHEART for the rest of your life?\smm
+
+#CONTESTANT #2 is sweating.
+
+message_60:
+      text: Well, uh...\! sure!<br>If that means I won't get sent to \c[11]THE DUNGEON\C[0]...\n<CONTESTANT \#2>
+
+#SWEETHEART is annoyed.
+
+message_61:
+      text: My word! This one...\! His very being offends me.\! <br>Take him away, boys!\swh
+
+#Guards come out and escort CONTESTANT #2 to THE DUNGEON.
+#HERO starts sweating.
+#SMM turns to HERO.
+
+message_62:
+      text: CONTESTANT \#3! It looks you're the last one standing.\!<br>I'll ask the same question one more time.<br>Again, no pressure at all.\smm
+
+message_63:
+      text: Do you, HERO, agree to pledge your allegiance to SWEETHEART for the rest of your life?\smm
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: ...\her
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Well... No, that doesn't seem fair at all.\!<br>Why would I do that?\her
+
+#SWEETHEART is in love.
+
+message_66:
+      text: My...\! This one.\! He's absolutely immaculate!\! <br>Could it be?\! Is SWEETHEART...\! \sinv[1]in love?\swh
+
+message_67:
+      text: \{\Com[2]WHAT AN EXCITING TURN OF EVENTS!\!\}<br>This must be fate! A match made in heaven!\smm
+
+message_68:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: W-Wait, but I just said-\her
+
+message_69:
+      text: \sinv[1]\{AH, YES, YES! YOU'LL DO JUST FINE.\!\}<br>Now, what was your name again?\swh
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: H-Huh?\! I-It's uh...\! It's HERO, ma'am...\her
+
+message_71:
+      text: HERO!\! \Com[2]My HERO!\! We must go to my chambers at once!\swh
+
+message_72:
+      text: Guards! I have chosen my suitor.\!<br>\{TAKE HIM AWAY!\swh
+
+#Guards come out and walk toward HERO.
+#HERO takes a step back and sweats.
+#HERO turns to the audience.
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{GUYS! PLEASE... DO SOMETHING!!\her
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Whoa! HERO's gonna marry SWEETHEART?\!<br>I didn't see that one coming at all!\kel
+
+#AUBREY turns to KEL.
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: KEL, what are you saying!? We have to help him!\aub
+
+#KEL turns to AUBREY.
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: What do you want me to do about it? <br>I don't want to go to \c[11]THE DUNGEON\c[0]!\kel
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Ugh... KEL. You're so useless.\aub
+
+#AUBREY turns to HERO.
+#AUBREY jumps.
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: HERO!\! You have to reject SWEETHEART!\aub
+
+#HERO takes a step back.
+
+message_79:
+      text: \sinv[1]It's time, HERO! Your princess awaits!\swh
+
+#ADD Ohohoho
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Uhh... I don't think she's going to listen to me.\her
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]\{JUST DO IT ALREADY!!\aub
+
+#HERO takes a step back and turns around.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\her
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: Okay, I'll try.\her
+
+#HERO turns to SWEETHEART.
+
+message_84:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Excuse me...\! SWEETHEART...\! ma'am?\her
+
+message_85:
+      text: \sinv[1]Ah, yes... My lovely HERO!<br>How I yearn for the sound of your sweet voice!<br>Say my name again!\sinv[0]\swh
+
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Wow, haha... That's so nice of you...\! I mean-\her
+
+message_87:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \}Sigh... Why do I have to do this?\her
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Ahem...\!<br>I'm sorry, SWEETHEART, but...\! I'm...\! not...\! interested...\her
+
+message_89:
+      text: Why... Whatever do you mean, my prince?\swh
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text:  I...\! uh...\! This is all really flattering and all, but, you know...<br>We only just met like... a few moments ago, and...\her
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Well...\! I have to reject your...\! umm...\! offer?\her
+
+#Audience gasps.
+
+message_92:
+      text: Oh, pish-posh! Oh, don't be silly, HERO! <br>I've never heard anything sillier!\swh
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: It...\! It's true.\!<br>I'm sorry, SWEETHEART, but...\her
+
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: I...\! don't...\! want...\! to marry you.\her
+
+message_95:
+      text: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \swh
+
+message_96:
+      text: This...\! This is preposterous...\! ...\!<br>No...\! This...\! \Com[2]This is blasphemy!\swh
+
+message_97:
+      text: \{\Com[2]\QUAKE[1]YOU DARE REJECT SWEETHEART!?!?\swh
+
+message_98:
+      text: \{\Com[2]EVERYONE LOVES SWEETHEART!!<br>YOU HEAR ME!? EVERYONE!!\swh
+
+message_99:
+      text: \{SEND HIM OFF TO \c[11]THE DUNGEON\C[0]!!\swh
+
+
+#Guards close in on HERO.
+#AUBREY jumps.
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Hey! Stop right there!\!<br>You can't take HERO. He belongs to us!\aub
+
+message_101:
+      text: What's this now?\!<br>What is a non-SWEETHEART fan doing in the audience?\swh
+
+message_102:
+      text: Ah...\! I see...\! You must be HERO's fans!\swh
+
+message_103:
+      text: The nerve of you lot...<br>First, you make a fool out of me... then, you interrupt me during my own show!?\swh
+
+message_104:
+      text: I'm the one who makes the rules around here!\swh
+
+message_105:
+      text: \{\Com[2]GUARDS! TAKE THEM AWAY!!\swh
+
+#Guards appear from everywhere and pose to arrest.
+
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Now you've done it, AUBREY...\kel
+
+#Guards surround party and screen turns black.
+
+# =========================================================================================
+# Cutscene: Escape THE DUNGEON
+# =========================================================================================
+
+#Trigger: Sent to Sweetheart DUNGEON
+
+
+message_130:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: Aww man...\! now we're all stuck in \c[11]THE DUNGEON\C[0]...\kel
+
+message_131:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Sorry, guys. It's my fault that we're all in this mess.\her
+
+message_132:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: No, it's not HERO...\!<br>No one could have predicted that would happen.\aub
+
+message_133:
+      text: Ohohohoho...\who
+
+#KEL, AUBREY, and HERO are surprised.
+
+#MUSTACHE MOLE walks in front of jail cell.
+#HERO is surprised and walks up.
+
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hey, I remember you!<br>You're that SPROUT MOLE that asked me to join the show!<br>\!You think you can get us out of here?\her
+
+message_135:
+      text: Ohohohoho...\n<MUSTACHE MOLE>
+
+message_136:
+      text: \sinv[2]OHOH\{OHOH\{OHOH\{OHOH~!!\n<MUSTACHE MOLE>
+
+message_137:
+      text: \{YOU FOOLS!\n<MUSTACHE MOLE>
+
+message_138:
+      text: Don't you recognize me!?\n<MUSTACHE MOLE>
+
+#MUSTACHE MOLE takes off MUSTACHE.
+
+message_139:
+      text: \{\Com[2]IT'S ME!\! ROSA!!\!\}<br>The \#1 SWEETHEART fan in the world!\ros
+
+message_140:
+      text: I told you that you'd all pay for crossing me!\ros
+
+message_141:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Curses! We've been bamboozled!\kel
+
+message_142:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: I should've known you were behind this, ROSA!\kel
+
+message_143:
+      text: It's true what they say... <br>\{REVENGE IS SWEET!!\ros
+
+message_144:
+      text: Now rot, you peons! Rot in \c[11]THE DUNGEON\C[0] forever!\ros
+
+#ROSA walks O.S.
+
+message_145:
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros
+
+message_146:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Dangit... How are we ever going to get out of here?\her
+
+message_147:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: We'll find a way!\!<br>Come on, guys... Let's think about this.\aub
+
+message_148:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Where do we even start?\! <br>It's not like they'd just leave the gate unlocked...\!<br>would they?\her
+
+# =========================================================================================
+# Cutscene: The Ugliest
+# =========================================================================================
+
+#Trigger:
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Look, there!\aub
+
+#AUBREY does a twirl.
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: We're finally at the exit!\aub
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\sinv[1]WOO-HOO!! FREEDOM AT LAST!!\sinv[0]\kel
+
+message_173:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: Let's get out of here...\!<br>I never want to see another SPROUT MOLE again in my life.\her
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+#Trigger: Trying to leave after AUBREY says the show is about to start
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Where are you going, OMORI! We have to watch the show!\aub
+
+#Trigger: Trying to leave after ROSA takes HERO
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Hold on, OMORI!\! We can't just leave without HERO!\aub

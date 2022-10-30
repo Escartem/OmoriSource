@@ -1,0 +1,166 @@
+# =========================================================================================
+# Sidequest: anniversary CHOCOLATE
+# =========================================================================================
+
+#TRIGGER: Talk to CLUMSY GUY
+
+message_0:
+      text: \n<CLUMSY GUY>Oh, man... I'm in trouble now...
+
+message_1:
+      text: \n<CLUMSY GUY>I almost forgot that it was me and my wife's anniversary today...\! so here I am doing some last-minute damage control... Harhar...
+
+message_2:
+      text: \n<CLUMSY GUY>I know I've been goofing up recently, so I want to make sure that this gift really impresses her!
+
+message_3:
+      text: \n<CLUMSY GUY>Except...\! Like always...\! I have no idea what I'm doing...\!<br>I think I'd accept any help at this point.
+
+message_4:
+      text: \n<CLUMSY GUY>Say...\! Could you kids do me a favor and help me pick out a gift for my wife from the counter?\! Thanks in advance!
+
+#Examine CHOCOLATE / CARAMEL APPLES / CANDY:
+
+# [YES]
+
+message_5:
+      text: \n<CLUMSY GUY>Yeah!\! \c[3]CHOCOLATE\c[0]!\! She'll love \c[3]CHOCOLATE\c[0]!
+
+message_6:
+      text: \n<CLUMSY GUY>Yeah!\! \c[3]CARAMEL APPLES\c[0]!\! She'll love \c[3]CARAMEL APPLES\c[0]!
+
+message_7:
+      text: \n<CLUMSY GUY>Yeah!\! \c[3]CANDY\c[0]!\! She'll love \c[3]CANDY\c[0]!
+
+message_28:
+      text: \n<CLUMSY GUY>You think that'll impress her?
+
+message_29:
+      text: \n<CLUMSY GUY>Thanks for getting me out of a pinch again...\!<br>This was cutting it way too close.
+
+message_30:
+      text: \n<CLUMSY GUY>\sinv[1]\{\{SWEET!!\sinv[0]
+
+# [No]
+
+message_8:
+      text: \n<CLUMSY GUY>Maybe not...\! This is a really important decision...\! We have to really think this one through!
+
+#Cutscene: Sarah's Dad Buys CHOCOLATE
+
+message_9:
+      text: \n<CLUMSY GUY>Hello, ma'am!\!<br>I'd like to purchase some \c[3]CHOCOLATE\c[0], please!\!<br>It's for my lovely wife!\! Today is our anniversary!
+
+message_10:
+      text: \n<CLUMSY GUY>Hello, ma'am!\!<br>I'd like to purchase some \c[3]CARAMEL APPLES\c[0], please!\!<br>It's for my lovely wife!\! Today is our anniversary!
+
+message_11:
+      text: \n<CLUMSY GUY>Hello, ma'am!\!<br>I'd like to purchase some \c[3]CANDY\c[0] please!\!<br>It's for my lovely wife!\! Today is our anniversary!
+
+message_12:
+      text: \n<MISS CANDICE>Of course!\! Smiley, smiley!\!<br>Thank you and please come again!\! Smiley, smiley!
+
+message_13:
+      text: \n<CLUMSY GUY>Thanks for the help, kids!\!<br>I'll be on my way now...\! Wish me luck!
+
+message_14:
+      text: \n<PONYTAIL LADY>Hey, it's you kids again.\! Thanks for convincing me to buy a \c[3]WHOLE PIZZA\c[0] for my husband.\! He looks so happy right now...\! and it makes me happy to see him happy!
+
+message_15:
+      text: \n<PONYTAIL LADY>As for the gift he gave to me...
+
+message_16:
+      text: \n<PONYTAIL LADY>He probably forgot, but we actually met at that <br>\c[11]CANDY STORE\c[0] when we were teenagers.
+
+message_17:
+      text: \n<PONYTAIL LADY>He bought me some \c[3]CHOCOLATE\c[0] then, too...\! <br>Hehe...\! He said it was because I was the prettiest girl he'd ever seen.
+
+message_18:
+      text: \n<PONYTAIL LADY>He bought me some \c[3]CARAMEL APPLES\c[0] then, too...\! <br>Hehe...\! He said it was because I was the prettiest girl he'd ever seen.
+
+message_19:
+      text: \n<PONYTAIL LADY>He bought me some \c[3]CANDY\c[0] then, too...\! <br>Hehe...\! He said it was because I was the prettiest girl he'd ever seen.
+
+message_20:
+      text: \n<PONYTAIL LADY>It was such a simple gesture, but his sincerity is what really attracted me to him.
+
+message_21:
+      text: \n<PONYTAIL LADY>He's always been a bit aloof, but I can tell he really does care about me...\! I guess that's why it's okay if we sometimes disagree.\! Marriage is all about compromise!
+
+message_22:
+      text: \n<PONYTAIL LADY>Anyway, thank you for helping me today.\!<br>Here's a gift for you.
+
+message_23:
+      text: You got a \c[3]PIZZA SLICE\c[0]!
+
+message_25:
+      text: Should CLUMSY GUY buy \c[3]CHOCOLATE\c[0]?
+
+message_26:
+      text: Should CLUMSY GUY buy \c[3]CANDY\c[0]?
+
+message_27:
+      text: Should CLUMSY GUY buy \c[3]CARAMEL APPLES\c[0]?
+
+message_60:
+      text: \n<MISS CANDICE>Choosing between \c[3]CANDY\c[0], \c[3]CARAMEL APPLES\c[0], and \c[3]CHOCOLATE\c[0]?\! That's a hard choice!\! Smiley, smiley!
+
+message_300:
+      text: You have chosen \c[3]CHOCOLATE\c[0].
+
+message_301:
+      text: You have chosen \c[3]CANDY\c[0].
+
+message_302:
+      text: You have chosen \c[3]CARAMEL APPLES\c[0].
+
+# =========================================================================================
+#Cutscene: Old Love (Triggers when both anniversary Pizza and anniversary CHOCOLATE are complete)
+# =========================================================================================
+
+message_40:
+      text: \n<CLUMSY GUY>My love...\! It's our anniversary today, so I bought you...\!<br>Some \c[3]CHOCOLATE\c[0]!
+
+message_41:
+      text: \n<CLUMSY GUY>My love...\! It's our anniversary today, so I bought you...\!<br>Some \c[3]CARAMEL APPLES\c[0]!
+
+message_42:
+      text: \n<CLUMSY GUY>My love...\! It's our anniversary today, so I bought you...\!<br>Some \c[3]CANDY\c[0]!
+
+message_43:
+      text: \n<PONYTAIL LADY>Oh! You actually remembered!\!<br>Thank you, dear...\! This is so thoughtful of you...
+
+message_44:
+      text: \n<CLUMSY GUY>It...\! It is!?\! Haha!\! I mean...\! It is!\! I'm glad you think so!
+
+message_45:
+      text: \n<PONYTAIL LADY>Actually, I have a gift for you too...\!<br>It's a whole pizza from \c[11]GINO'S PIZZA\c[0]!
+
+message_46:
+      text: \n<CLUMSY GUY>A \c[3]WHOLE PIZZA\c[0]!?\! My love! You shouldn't have!\!<br>This is the best gift I've ever received in my life!
+
+message_47:
+      text: \n<PONYTAIL LADY>I...\! I thought you'd like it...\!<br>I've been hard on you lately...
+
+message_48:
+      text: \n<PONYTAIL LADY>So... I thought your favorite food might cheer you up!
+
+message_49:
+      text: \n<CLUMSY GUY>No... Don't be sorry, my love!\!<br>I know you only want what's best for me!
+
+message_50:
+      text: \n<CLUMSY GUY>I'm sorry for being so difficult...
+
+message_51:
+      text: \n<PONYTAIL LADY>Don't be silly, honey! I love you just the way you are!\!<br>Let's have pizza today and tomorrow!\!<br>How does that sound?
+
+message_52:
+      text: \n<CLUMSY GUY>Oh, my love! You really mean that?\!<br>\sinv[1]You're so beautiful right now that I could kiss you!\sinv[0]
+
+message_53:
+      text: \n<PONYTAIL LADY>\sinv[1]Oh, dear! You're making me blush...\sinv[0]
+
+#[Camera pans to SARAH at the living room entrance]
+
+message_54:
+      text: \n<PONYTAIL GIRL>Ugh...\! This is gross.\!<br>I'm just...\! gonna go back to my room...

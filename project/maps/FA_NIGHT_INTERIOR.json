@@ -1,0 +1,12 @@
+{ "columns":32,
+ "image":"..\/img\/tilesets\/FA_night_interior.png",
+ "imageheight":1024,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"FA_night_interior",
+ "spacing":0,
+ "tilecount":1024,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

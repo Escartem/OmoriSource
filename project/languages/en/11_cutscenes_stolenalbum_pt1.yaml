@@ -1,0 +1,534 @@
+# =========================================================================================
+# Cutscene: Stolen PHOTO ALBUM
+# =========================================================================================
+
+#Trigger: Examine BASIL's House Door.
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Ummm...\! Thanks for walking me home.\bas
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: No problem-o!\!<br>If you ever need anything from me, just ask, okay?<br>\!We'll catch you later, BASIL!\kel
+
+#KEL and PLAYER begin walking.
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: O-Okay...\! ...\bas
+
+#BASIL walks one step forward.
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 41
+      text: \Com[2]\{WAIT!! PLEASE DON'T GO!!!\bas
+
+#KEL turns around.
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: Ah...\! I mean...\! I... I'm so sorry.\! I actually have a favor to ask.\bas
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Anything, BASIL. What do you need?\kel
+
+message_6:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Well...\! You see...\!<br>Something important was taken from me.\bas
+
+#BASIL walks one step back.
+
+message_7:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: ... ... ... \bas
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: When...\! we...\! used to be friends...\!<br>Do you remember how I used to take pictures of everyone?\bas
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Of course I remember.\!<br>Those photos meant everything to you!\kel
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: Ah...\! Right...\! Well...\! AUBREY...\! <br>She took my \c[4]PHOTO ALBUM\c[0] and...\bas
+
+#KEL walks one step forward.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{AUBREY STOLE YOUR \c[4]PHOTO ALBUM\c[0]!?\kel
+
+message_12:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: W-Well...\! She...\! She won't give it back...\bas
+
+#KEL turns around.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{WHAT A SCUMBAG!!\}\kel
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Don't you worry about a thing, BASIL.<br>\!Me and \n[8] got you covered.\kel
+
+message_15:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Ah...\! Okay...\! Thank you...\bas
+
+#KEL turns toward BASIL.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: By the way...\! About what you said before...\kel
+
+#KEL walks up to BASIL.
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: We're still friends.\! I want you to know that, okay?\kel
+
+message_18:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text:  ...\! Okay.\bas
+
+#KEL walks back to PLAYER.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]C'mon, \n[8]! There's no time to lose!\! We got a \c[4]PHOTO ALBUM\c[0] to find.\! Let's check \c[11]FARAWAY PARK\c[0] for clues!\kel
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Well...\! I'll see you later.\bas
+
+# =========================================================================================
+# Cutscene: Charlie & Angel Intro
+# =========================================================================================
+
+#Trigger: Walk in proximity of Charlie.
+
+#KEL looks around.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Hmm, looks like AUBREY isn't here...\kel
+
+#KEL is surprised and walks up to CHARLIE.
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Oh, wait! I know you. Your name's CHARLIE, right?\! <br>I see you hanging around AUBREY sometimes.\kel
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: You know where she is?\kel
+
+#CHARLIE turns to face KEL.
+
+message_43:
+      text: ...\cha
+
+#CHARLIE turns away.
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: You know, CHARLIE...<br>I can tell you're not really the mean type of person.\kel
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: AUBREY took something important from BASIL and we need to get it back.\! Is there any way you can help us?\kel
+
+message_46:
+      text: ...\cha
+
+#CHARLIE shakes a nearby tree.
+#ANGEL comes out of the tree and poses.
+
+message_47:
+      text: \{\Com[2]WHO, WHAT, AND WHERE NOW!?\}<br>What'd you do that for!?!?\who
+
+#ANGEL turns to KEL.
+
+message_48:
+      text: Ah!\! If it isn't KEL and that weird knife guy.\!<br>Worthy adversaries for the great and mighty ANGEL.\who
+
+#ADD FWEFWEFWEFWE
+
+message_49:
+      text: Finally, it is time for you to meet your doom!\ang
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: ANGEL, we don't have time for this...\! <br>We just want to find AUBREY.\! <br>Do you know where she is?\kel
+
+message_51:
+      text: You seek AUBREY, do you?\! \Com[2]Interesting!\! <br>I will tell you what I know...\!<br>but first, you must best me in battle!\ang
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: B-Battle!?\! But...\! I don't...\! wanna punch a kid...\kel
+
+#ADD FWEFWEFWEFWE
+
+message_53:
+      text: You won't be able to lay a finger on me!\!<br>\Com[2]\{C'MON!!\! \Com[2]LET'S SICK 'EM, CHARLIE!!\ang
+
+#CHARLIE sighs and walks toward ANGEL and poses.
+
+# =========================================================================================
+# Cutscene: Charlie & Angel's Loss
+# =========================================================================================
+
+#ANGEL falls to the floor.
+
+#ADD FWAAAAAAAAAAAAAA
+
+message_70:
+      text: How could this be!? My training was all for nothing!\ang
+
+#CHARLIE looks at ANGEL.
+
+message_71:
+      text: ...\cha
+
+message_72:
+      text: Owww, my head hurts...\ang
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: You're the one who started it.\kel
+
+#ANGEL jumps up.
+
+message_74:
+      text: \Com[2]\{YOU BULLY!!!\ang
+
+#KEL is frustrated.
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Sigh...\! Okay, ANGEL, it's time to be serious now.\! <br>We beat you and CHARLIE, so tell us where AUBREY is.\kel
+
+message_76:
+      text: Hmph!\! A promise is a promise, I suppose.\! <br>I will honor my word and tell you what I know.\ang
+
+#LOSE CONDITION
+
+message_95:
+      text: \ang\com[2]\{\{HA! KEL, YOU MAJOR DOOFUS!!
+
+message_96:
+      text: \angMe and CHARLIE are victorious, as predicted!
+
+message_97:
+      text: \angMaster would be so proud of me.
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kel\}Ugh...\! This is what I get for going easy on a kid.
+
+message_99:
+      text: \ang\com[2]Huh? What was that!?\! Don't be a sore loser, KEL! We won fair and square!\! Didn't we, CHARLIE?
+
+message_100:
+      text: \n<CHARLIE>...
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Okay, ANGEL, it's time to be serious now.\! You need to tell us where AUBREY is.\! We're done playing games!\kel
+
+message_102:
+      text: \angYeesh...\! Such a party pooper...\! No wonder AUBREY tells us to stay away from you.
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \kelHey, this is serious business, ANGEL!\! Serious adult business!\! You don't want me to get adults involved, do you?
+
+message_104:
+      text: \angSigh...\! No...\! Okay, fine. I'll tell you what I know, but you won't like it.
+
+#BOTH
+
+message_77:
+      text: The truth is...\ang
+
+message_78:
+      text: AUBREY is...\! somewhere...\! in \c[11]FARAWAY TOWN\c[0]...\! probably.\ang
+
+#KEL jumps.
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Dang it, ANGEL!\! You better not be messing around or else-\kel
+
+message_80:
+      text: I told you I'd tell you what I know!\! <br>And the truth is... I don't know anything!\ang
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: ANGEL...\! You better tell us where she is now...\!<br>or else I'll tell everyone about that time you wet your bed at summer camp.\kel
+
+#ANGEL is surprised, and jumps.
+
+message_82:
+      text: \Com[2]H-huh!? W-W-W-What!?<br>You can't do that! That's cheating!\ang
+
+#ANGEL turns around.
+
+message_83:
+      text: A-Anyway, I really don't know!\ang
+
+message_84:
+      text: Maybe you can ask my master, THE MAVERICK.\! He's the keeper of all knowledge!\! He told me that himself!\ang
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: T-THE MAVERICK?\!<br>Oh, no...\! You mean that weird kid, MIKHAEL?\kel
+
+message_86:
+      text: \Com[2]Don't you dare call him by that name!\! <br>He would take great offense to that.\ang
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: I see...\! so... it is him...\!<br>Where can I find MIKHAE-, I mean, uh, THE MAVERICK?\kel
+
+message_88:
+      text: I'll tell you what I know...\! but...\! you'll have to fight me first!\ang
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Or... I can tell everyone about that time you-\kel
+
+message_90:
+      text: \{\{\quake[1]GAH!! \ang
+
+message_91:
+      text: Okay fine, I'll talk.\! Master went to the fountain at <br>the \c[11]FARAWAY PLAZA\c[0].\! He said he was going to meet some girls there for...\! a date or something.\ang
+
+message_92:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Ugh...\! disgusting.\kel
+
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Come on, \n[8]. Let's go to \c[11]FARAWAY PLAZA\c[0]...<br>I think we're done here.\kel
+
+message_94:
+      text: \ang\sinv[1]\{FWWWW\{AAAAAA\{AAAAAAAA!!!
+
+# =========================================================================================
+# Cutscene: The Maverick Intro
+# =========================================================================================
+
+#Trigger: Walk in proximity of The Maverick.
+
+#MAVERICK is at the fountain, with one girl on each arm.
+
+message_110:
+      text: And then I told him... It's not MAVERICK.\! <br>It's \Com[2]THE MAVERICK!\mav
+
+message_111:
+      text: Oh, \Com[2]THE MAVERICK, you're so funny!\n<GIRL>
+
+message_112:
+      text: Ho-ho! Wow, what an amazing story, \Com[2]THE MAVERICK!\n<GIRL 2>
+
+message_113:
+      text: \sinv[1]Girls, girls... please! There's enough of me to go around...\sinv[2]\mav
+
+#KEL walks up.
+
+message_114:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: MIKHAEL...\! What are you doing?\kel
+
+message_115:
+      text: \Com[2]Ah!\mav
+
+#THE MAVERICK walks toward KEL and flips his hair.
+
+message_116:
+      text: If it isn't KEL!\! My...\! \Com[2]archnemesis!\mav
+
+#THE MAVERICK does a lame pose.
+
+message_117:
+      text: Finally here to admit defeat, are you?\mav
+
+message_118:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: I don't have time for this, MIKHAEL.\!<br>We're looking for AUBREY. Have you seen her around?\kel
+
+#THE MAVERICK starts to sweat.
+
+message_119:
+      text: S-Stop calling me that!\! <br>I cast away that name a long time ago!\mav
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: MIKHAEL, do you know where she is or not?\kel
+
+message_121:
+      text: Again with that godforsaken name!\! <br>H-How dare you make a fool out of me!!\mav
+
+message_122:
+      text: I, \Com[2]THE MAVERICK, will not stand for this!\! <br>\Com[2]\{PREPARE TO FACE YOUR DOOM!\mav
+
+message_123:
+      text: \{\Com[2]WATCH THIS, LADIES!\!\}<br>I'll wipe the floor with this loser!\mav
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Please, MIKHAEL...\! Don't do this to yourself.\! <br>I'm going to ask one more time-\kel
+
+message_125:
+      text: \{\Com[2]FIGHT ME, YOU WAD!!<br>DON'T BE A CHICKEN!!!\mav
+
+message_126:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Sigh...\! Are we really going to do this?\kel
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Okay, then...\! C'mon, \n[8]... Let's take him down.\kel
+
+# =========================================================================================
+# Cutscene: The Maverick's Loss
+# =========================================================================================
+
+#Defeated by THE Maverick
+
+message_149:
+      text: \mavYou were a formidable opponent, KEL...\! but it's time to finish you off once and for all.
+
+#Trigger: Defeat THE MAVERICK
+
+#THE MAVERICK is defeated on the floor.
+
+message_150:
+      text: No...\! it can't be over for me.\mav
+
+message_151:
+      text: People of Earth...\mav
+
+message_152:
+      text: \{LEND ME YOUR STRENGTH!!\mav
+
+#THE MAVERICK strikes his final pose.
+
+message_153:
+      text: \Com[2]\sinv[1]HII\Com[2]\{IIYYYYY\Com[2]\{AAAAHHHH\Com[2]\{HHHHHHHH!!!\mav
+
+message_154:
+      text: Ew, what is with this guy? He's so lame.\n<GIRL>
+
+message_155:
+      text: This isn't worth $10.00. Let's get out of here...\n<GIRL 2>
+
+#The girls walk O.S.
+#THE MAVERICK looks where the girls left and walks 1 step forward.
+
+message_156:
+      text: L-Ladies!\! Please, come back!\mav
+
+message_157:
+      text: I have more money!\mav
+
+message_158:
+      text: ... \!Sigh...\mav
+
+#His wig falls off, but he fixes it.
+
+message_159:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: MIKHAEL...\kel
+
+#THE MAVERICK turns away from KEL.
+
+message_160:
+      text: \Com[2]\{THERE IS NO ONE HERE BY THAT NAME!!\mav
+
+message_161:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Please... I'll never ask you for anything again in my life.\! <br>Just tell us where AUBREY is and we'll go!\kel
+
+message_162:
+      text: ...\mav
+
+#THE MAVERICK turns to KEL.
+
+message_163:
+      text: Okay, fine.\!<br>I do happen to know where she is, and I'll tell you...\! <br>on one condition...\mav
+
+message_164:
+      text: You must call me by my true name, \Com[2]THE MAVERI-\mav
+
+#KEL turns to PLAYER.
+
+message_165:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Oh, forget it.\kel
+
+message_166:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Let's just go find KIM.<br>She probably knows where AUBREY is.\kel
+
+message_167:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Her and VANCE are major sugarheads, so...\! I have a hunch that they're probably somewhere near \c[3]CANDY\c[0].\kel

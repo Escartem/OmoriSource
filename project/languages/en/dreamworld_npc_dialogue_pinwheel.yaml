@@ -1,0 +1,239 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============PINWHEEL========================================
+                        #====NIGHT 1-1====
+
+#LEMON JASH
+#Shop dialogue guide
+
+#HOT DIGGITY DOG
+#Location: TRAIN STATION
+message_0:
+      text: \n<HOT DIGGITY DOG>Hot...\! diggity...\! dog!\! It's me!\! A hot diggity dog!
+
+#KITE KID
+#REFER TO PERFECT WIND SIDEQUEST
+
+#LEAFIE
+#REFER TO RABBITKILLER SIDEQUEST
+
+#SPELLING BEE
+#Location: Train station
+message_1:
+      text: \n<SPELLING BEE>H-\!E-\!L-\!L\!-O!\! I\! A-\!M\! T-\!H-\!E\!<br>S-\!P-\!E-\!L-\!L-\!I-\!N-\!G\! B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E!
+
+#Gator Guy 1
+#Location: Train Station
+message_2:
+      text: \n<GATOR GUY>Heh heh heh...\!\} heh heh...\!\{ heh... \!\}heh...\{
+
+#Gator Guy 2
+#Location: Train Station
+message_3:
+      text: \n<GATOR GUY>Kek kek kek...\!\} kek kek...\!\{ kek... \!\}kek...\{
+
+message_4:
+      text: \n<GATOR GUY>Over.
+
+#GIBS
+#Location: Train Station
+message_5:
+      text: \n<GIBS THE STATIONARY MUSICIAN>Hi, kids!\! I'm GIBS, the STATIONARY MUSICIAN!\!<br>I used to be a TRAVELING MUSICIAN, but I left that life a long time ago.
+
+message_6:
+      text: \n<GIBS THE STATIONARY MUSICIAN>Would you be able to spare 5 CLAMS? They g'would<br>be a great help, since I am completely stationary.\!<br>I'll show you something \SINV[1]g'wood\SINV[0] if you do!\$
+
+message_7:
+      text: \n<GIBS THE STATIONARY MUSICIAN>Thank you for your donation!\! Now, in return...<br>Let me play you the song of my people.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWow, sir!\. That was really amazi-\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub...
+
+message_10:
+      text: You thought the song was pretty \SINV[1]g'wood\SINV[0].
+
+message_51:
+      text: YES
+
+message_52:
+      text: You don't have enough CLAMS.
+
+
+#WISE ROCK
+#Location: East Coast
+message_11:
+      text: \wisHi, I'm the WISE ROCK!\!<br>I give solid advice in exchange for CLAMS!
+
+message_12:
+      text: \wisWhat kind of advice would you like me to give?\$
+
+message_13:
+      text: \wis... \!Understood!\! Here is your advice.
+
+message_14:
+      text: \wis...\! I hope this helps!
+
+# =========================================================================================
+# BAD ADVICE
+# =========================================================================================
+
+message_20:
+      text: \wisAnything is okay as long as you don't get caught!
+
+message_21:
+      text: \wis\QUAKE[1]\{Yell \Com[2]\{ALL \Com[2]\{THE \Com[2]TIME!!!!\}\}\}\QUAKE[0]
+
+message_22:
+      text: \wisWhen life gives you lemons...\! Start a \c[3]LEMONADE\c[0] stand in front of a \c[11]TRAIN STATION\c[0] and give away complimentary \c[4]TRAIN PASSES\c[0] with each purchase of \c[3]LEMONADE\c[0].
+
+message_23:
+      text: \wisListen to everyone's advice.
+
+message_24:
+      text: \wisDon't be ugly.
+
+# =========================================================================================
+# OK ADVICE
+# =========================================================================================
+
+message_25:
+      text: \wisNot all advice is good advice.
+
+message_26:
+      text: \wisNever make eye contact while eating a banana.
+
+message_27:
+      text: \wisIt is not wise to listen to advice from a rock.
+
+message_28:
+      text: \wisYour problems will catch up to you eventually.
+
+message_29:
+      text: \wisThere are approximately 238,900 miles between the Earth and the Moon.
+
+# =========================================================================================
+# GOOD ADVICE
+# =========================================================================================
+
+message_30:
+      text: \wisFollow your heart, but remember to take your brain with you!
+
+message_31:
+      text: \wisDo something today that you'll thank yourself for tomorrow!
+
+message_32:
+      text: \wisPain doesn't last forever.
+
+message_33:
+      text: \wisLife is short, so smile while you still have teeth!
+
+message_34:
+      text: \wisIf opportunity does not knock, you can always build a door!
+
+message_35:
+      text: You don't have enough CLAMS.
+
+# =========================================================================================
+# NO ADVICE
+# =========================================================================================
+
+message_36:
+      text: \wisFeel free to come back anytime for advice!
+
+message_37:
+      text: GOOD ADVICE (30 CLAMS)
+
+message_38:
+      text: BAD ADVICE (3 CLAMS)
+
+message_39:
+      text: OKAY ADVICE (10 CLAMS)
+
+message_41:
+      text: NO ADVICE
+                        #====NIGHT 1-2====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: Same as Night 1-1
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_40:
+      text: \n<SPELLING BEE>H-\!O-\!W\! A-\!R-\!E\! Y-\!O-\!U\! T-\!H-\!I-\!S\! F-\!I-\!N-\!E\! B-\!E-\!E-\!V-\!E-\!N-\!I-\!N-\!G?\!<br>I-\!S-\!N'-\!T \!T-\!H-\!E \!W-\!E-\!A-\!T-\!H-\!E-\!R \!J-\!U-\!S-\!T \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!A-\!U-\!T-\!I-\!F-\!U-\!L?
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: Same as Night 1-1
+#Gator Guy 2: Same as Night 1-1
+#Gibs: Same as Night 1-1
+
+                        #====NIGHT 2====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: Dialogue is in dreamworld_extras_blackspace yaml
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_50:
+      text: \n<SPELLING BEE>W-\!H-\!Y \!H-\!E-\!L-\!L-\!O \!T-\!H-\!E-\!R-\!E! \!I-\!T'-\!S \!Y-\!O-\!U \!A-\!G-\!A-\!I-\!N!\!<br>H-\!O-\!W \!H-\!A-\!V-\!E \!Y-\!O-\!U \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!N?
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+                        #====NIGHT 3====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: N/A
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_60:
+      text: \n<SPELLING BEE>B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!S!
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+
+message_61:
+      text: \n<MR. PARROT>\quake[1]Squak.\quake[0] (Line starts here.)
+                        #====NIGHT 4====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: N/A
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+#message_70:
+#      text: \n<SPELLING BEE>Dialogue goes here
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+#TRAIN Jash
+message_100:
+      text: \n<TRAIN STATION JASH>\com[2]Stop right there!\! You can't pass without a \c[4]TRAIN PASS\c[0]!\! Duh!
+
+message_101:
+      text: \n<TRAIN STATION JASH>\com[2]Stop right there!\! You can't pass without a-
+
+message_102:
+      text: \n<TRAIN STATION JASH>Whoa...\! That's a \c[4]TRAIN PASS\c[0]...\! You must be the last passengers!\! We've been waiting for you for a very long time.
+
+message_103:
+      text: \n<TRAIN STATION JASH>Well...\! That's an all-clear from me!\! Welcome aboard, patrons!
+
+message_104:
+      text: \n<TRAIN STATION JASH>Welcome aboard, patrons!

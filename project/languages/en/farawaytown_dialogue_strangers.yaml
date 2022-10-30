@@ -1,0 +1,108 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+# ===================STRANGER 1================
+#OLIVE BEANIE, by bus stop
+
+message_1:
+      text: \n<OLIVE BEANIE>Hmm...\! Looks like the bus is late today.
+
+message_2:
+      text: \n<OLIVE BEANIE>Or maybe I'm the one who's late...
+
+message_3:
+      text: \n<OLIVE BEANIE>Man...\! I sure hope I didn't miss it again.
+
+message_4:
+      text: \n<OLIVE BEANIE>When I was younger, my family used to go to this park a lot.\! I remember there being a lake with a statue in the middle...\! but I can't find it anywhere.
+
+# ===================STRANGER 2================
+#Older man with glasses
+
+message_10:
+      text: \n<OLD MAN WITH GLASSES>I'm meeting up with someone, but they're late...\! Don't tell me I've been stood up!
+
+# ===================STRANGER 3================
+#Brown hair lady
+
+message_20:
+      text: \n<BROWN HAIR LADY>Uhh...\! Can I help you?
+
+# ===================STRANGER 4================
+#Newsreporter
+
+message_30:
+      text: \n<REPORTER>I work at the news station in the city, but sometimes I drive to \c[11]FARAWAY PARK\c[0] during my breaks.\! There's just something really relaxing about this place.
+
+# ===================STRANGER 5================
+#Pencil in hair man
+
+message_40:
+      text: \n<PENCIL MAN>I need a nice soft drink.\! I've been working on my next big project and need something to keep me alert!
+
+# ===================STRANGER 6================
+#Glasses boy
+
+message_50:
+      text: \n<GLASSES BOY>My favorite novel just got a comic adaption!\! ...\! But the main character looks nothing like how I imagined him...
+
+# ===================STRANGER 7================
+#Tall man
+
+message_60:
+      text: \n<STRANGER>I'm pretty sure I'm lost.\! Both in body...\! and in spirit.
+
+# ===================STRANGER 8================
+#Messy hair man
+
+message_70:
+      text: \n<MESSY HAIR MAN>I love bananas so much.\! I could stare at them all day.
+
+message_71:
+      text: \n<MESSY HAIR MAN>Yesterday while I was eating a banana...\! I found a cool overgrown lake area just behind the park.
+
+message_72:
+      text: \n<MESSY HAIR MAN>But soon after, a bunch of hooligans on scooters rolled in and kicked me out.
+
+message_73:
+      text: \n<MESSY HAIR MAN>\com[2]And to make matters worse, they even threw away my banana!
+
+message_74:
+      text: \n<MESSY HAIR MAN>Sigh...\! I can't let a bunch of kids boss me around!\!<br>I'm an adult now!\! ...\! A young adult at least...
+
+
+# ===================STRANGER 9================
+#Doctor
+
+message_80:
+      text: \n<PROFESSIONAL>Let's see...\! What medication would help the most for a 30-hour flight?
+
+# ===================STRANGER 10================
+#Player lookalike
+
+message_90:
+      text: \n<SKINNY BOY>Whatchu lookin' at, mister?
+
+# ===================STRANGER 11================
+#Kel lookalike
+
+message_100:
+      text: \n<ENERGETIC BOY>I'm playing a game with my best friend!
+
+# ===================MOVERS================
+
+message_101:
+      text: \n<STRANGER>\sinv[1]Goodbye...\| Goodbye...\| Goodbye...
+
+message_102:
+      text: \n<STRANGER>What kind of future awaits you, I wonder?
+
+message_103:
+      text: \n<STRANGER>Your mom is waiting for you outside.
+
+message_104:
+      text: \n<STRANGER>It's time to move on from this place and start anew.
+
+message_105:
+      text: \n<STRANGER>May you live a long and happy life.

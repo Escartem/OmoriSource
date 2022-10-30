@@ -1,0 +1,212 @@
+# =========================================================================================
+# Cutscene: CAPT. SPACEBOY
+# =========================================================================================
+
+#Trigger: Defeating SPACE EX-BOYFRIEND
+
+message_0:
+      text: H-huh? What happened?\! W-Where am I?\! W-who are you?\who
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Hey, there! How are you feeling?\her
+
+message_2:
+      text: Oh, hello...\! I'm CAPT. SPACEBOY!\!<br>It's a pleasure to meet y-\cap
+
+message_3:
+      text: \quake[1]Oww, my chest!\quake[0]\cap
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh no, are you okay?\!<br>You got a little angry earlier, so we had to...\aub
+
+message_5:
+      text: Ah...\! I see...\! My other half must have gotten the better of me.\cap
+
+message_6:
+      text: I must apologize. Your actions were likely well-justified.\!<br>I just hope I didn't cause you all too much trouble.\cap
+
+message_7:
+      text: I've been having a hard time controlling my emotions lately.\!<br>I try my best to keep them at bay, but it's becoming much more difficult.\cap
+
+message_8:
+      text: SWEETHEART...\! She was the love of my life...\!<br>It's almost impossible for me to imagine life apart from her.\cap
+
+message_9:
+      text: I guess I'm a bit lost.\cap
+
+message_10:
+      text: This \c[4]SPECIAL MIXTAPE\c[0] is full of mine and SWEETHEART's favorite songs.\! I put so much love into making this for her.\cap
+
+message_11:
+      text: Thank you all for returning it to me.\!<br>This is still full of precious memories after all.\cap
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Eh... it's no problem...\! Well, not too much anyway.\kel
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Yeah, we're glad to help!\aub
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: You just go ahead and get some rest.\her
+
+message_15:
+      text: I'm afraid no amount of rest can truly heal a broken heart.\! I must find another way to get over this...\cap
+
+message_16:
+      text: CAPT. SP- I mean, SPACE BOYFRIEND!\spb
+
+message_17:
+      text: I am so, so, so sorry, but I have very, very terrible news.\!<br>Your favorite planet, PLUTO, has escaped and we can't find him anywhere.\spb
+
+message_18:
+      text: Don't be mad at us. We're sorry!\spd
+
+message_19:
+      text: P-please be gentle...\spb
+
+message_20:
+      text: Ah, I see.\cap
+
+message_21:
+      text: It's okay, you two.\! I'm sure even the planets get bored turning slowly all day.\! Perhaps PLUTO was never meant to be a planet.\cap
+
+message_22:
+      text: H-huh?\! Really??\! So you're not angry at us?\spb
+
+message_23:
+      text: Do you mean it, CAPT. SP- I mean, SPACE BOYFRIEND?\spd
+
+message_24:
+      text: I sure do.\! Gather the rest of the crew.\!<br>Let's go to the \c[11]FROZEN LAKE\c[0] and get some \c[3]SNO-CONES\c[0].\cap
+
+message_25:
+      text: Resting in bed may not fix a broken heart, <BR>but eating \c[3]SNO-CONES\c[0] with friends might help!\cap
+
+message_26:
+      text: Also, you don't have to call me SPACE BOYFRIEND anymore.\!<br>I'm CAPT. SPACEBOY!\cap
+
+message_27:
+      text: W-Wait, does this mean?\spd
+
+message_28:
+      text: \{\sinv[1]\Com[2]WOOOOO... \|\{HOOOOO\{OOOOOOO!!\sinv[0]\spd
+
+message_29:
+      text: The CAPTAIN is back! I can't wait to tell everyone!\!<br>Let's go, dude!\spd
+
+message_30:
+      text: Right behind you, buddy!\spb
+
+message_31:
+      text: I can't thank you enough for what you've done.\cap
+
+message_32:
+      text: Who knows what would've happened to me and my crew if you all didn't show up?\cap
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Awww, it was nothing!\!<br>We're just glad you're feeling like yourself again.\aub
+
+message_34:
+      text: You have my thanks.\! If you ever need anything from me or the SPACE PIRATES, please don't hesitate to ask.\cap
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herActually...\! I can't believe I forgot about this, but...\! We're actually looking for our friend BASIL.
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herHe wears a \c[4]FLOWER CROWN\c[0] and always carries his \c[4]PHOTO ALBUM\c[0] on him.\! Have you seen him around?
+
+message_41:
+      text: ...\! No, I'm afraid I haven't...\!<br>But if I do see anything, you'll be the first to know.\cap
+
+#AUBREY looks away.
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: BASIL...\! Where could he have gone?\aub
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Sniff...\! Sniff, sniff...\aub
+
+#CAPT. SPACEBOY is surprised.
+
+message_48:
+      text: \Com[2]Ah...\! Please don't cry, little lady!\cap
+
+#CAPT. SPACEBOY walks up to AUBREY.
+
+message_49:
+      text: Here, take this.\cap
+
+#AUBREY turns back.
+
+message_50:
+      text: You got a \c[4]SNO-CONE TICKET\c[0]!
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 12
+      text: Sniff...\! sniff... sniff...\! sniff...\! \quake[1]Eeeeehhh...\quake[0]\aub
+
+#Everyone turns to AUBREY and is surprised.
+
+message_52:
+      text: Uh-oh...\! Please, little lady... Don't cry!\!<br>Errr...\! Here, take this too!\cap
+
+#CAPT. SPACEBOY walks to book shelf.
+#CAPT. SPACEBOY walks to AUBREY.
+
+message_53:
+      text: You got a \c[4]TRAIN PASS\c[0].
+
+message_54:
+      text: I used it to travel around on trains when I was a child...\!<br>long before I became a SPACE CAPTAIN.\cap
+
+message_55:
+      text: If even I can go from traveling on trains to flying my own spaceship, I'm sure you'll be able to find your friend.\cap
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 12
+      text: Sniff... sniff...\! Oh...\!<br>Sniff...\! O-Okay...\aub
+
+message_57:
+      text: Hey, CAPTAIN! You ready to go?\!<br>Everyone's waiting for you!\spg
+
+message_58:
+      text: Ah! Yes, hold on. I'm coming!\cap
+
+#CAPT. SPACEBOY walks to door, but turns back.
+
+message_59:
+      text: You must keep your hopes up, little lady!\!<br>If it gets too hard to bear, try eating a \c[3]SNO-CONE\c[0]!\!<br>It might make things a little easier.\cap
+
+#CAPT. SPACEBOY turns toward the door.
+
+message_60:
+      text: I mustn't keep my crew waiting.\!<br>Good luck with everything, and thanks again!\cap
+
+message_61:
+      text: This looks like \c[3]JUICE\c[0], but tastes horrible!
+
+
+message_100:
+      text: There is nothing here.

@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Flower
+# =========================================================================================
+
+#Talk to Charlie
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubWhat are you doing here, CHARLIE?\!<br>I didn't know you liked flowers...
+
+message_2:
+      text: \cha...
+
+message_3:
+      text: CHARLIE gave you a \c[4]FLOWER CLIP\c[0].
+
+#CHARLIE walks O.S.

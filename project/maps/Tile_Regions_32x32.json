@@ -1,0 +1,12 @@
+{ "columns":8,
+ "image":"..\/img\/tilesets\/Tile_Region_32x32.png",
+ "imageheight":512,
+ "imagewidth":256,
+ "margin":0,
+ "name":"Tile_Regions_32x32",
+ "spacing":0,
+ "tilecount":128,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

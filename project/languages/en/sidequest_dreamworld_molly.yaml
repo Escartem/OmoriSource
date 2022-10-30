@@ -1,0 +1,66 @@
+
+# =========================================================================================
+# Slimegirls: MOLLY's Body
+# ========================================================================================
+
+#Talk to Molly:
+
+message_0:
+      text: \n<MOLLY>Hello, darlings~ It's good to see that you are still alive.\! Forgive me for my behavior earlier.\! My sisters and I tend to get carried away.\! I'm sure you understand.
+
+message_1:
+      text: \n<MOLLY>Would you bother to help me with something?\!<br>I want to build a new body for myself, but as you can see...\! I am a bit incapacitated.
+
+message_2:
+      text: \n<MOLLY>I will require some \c[4]SCRAP METAL\c[0] from the WORM-BOTS slithering around my lab.\! \sinv[1]Thank you, darlings~
+
+#Talk to Molly with Scrap Metal:
+
+message_3:
+      text: \n<MOLLY>Ah! You've brought my materials!\!<br>This should do nicely.\! Now, let's see here...
+
+#FADE IN FADE OUT WITH SFX
+
+message_4:
+      text: \n<MOLLY>\sinv[1]Hmm~\sinv[0]
+
+#[Molly turns left]
+
+message_5:
+      text: \n<MOLLY>\sinv[1]Hmmmmmmmmm~\sinv[0]
+
+#[Molly turns back]
+
+message_6:
+      text: \n<MOLLY>\sinv[1]Hmmmmmmmmmmmmmmmmmmm~\sinv[0]
+
+#[Molly turns right]
+
+message_7:
+      text: \n<MOLLY>...
+
+#[Molly turns front]
+
+message_8:
+      text: \n<MOLLY>\Com[2]Bah!\! This metal body is much too clunky...\!<br>I think I'd much prefer staying as just a head!
+
+#MOLLY HEAD JUMPS OFF ROBOT Body
+
+message_9:
+      text: \n<MOLLY>But still... I should repay you for your efforts...\!<br>Ah, I know! Go on and take these!\!
+
+message_10:
+      text: You got \c[13]HIGH HEELS\c[0].
+
+message_12:
+      text: \n<MOLLY>Since I don't have a body, I won't be needing them anymore!
+
+#QUEST complete
+
+#AFTER-QUEST Dialogue talk to Molly
+
+message_11:
+      text: \n<MOLLY>Having no body is so convenient!\!<br>I wish I'd thought of this sooner!<br>\sinv[1]Fufufu~
+
+message_13:
+      text: A hard, clunky body.

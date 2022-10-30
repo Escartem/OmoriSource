@@ -1,0 +1,39 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: You got a \c[4]BIG AIRHORN\c[0].
+
+message_1:
+    text: You got a \c[13]DEEP POETRY BOOK\c[0].
+
+message_2:
+    text: You got a \c[4]THINGAMABOB\c[0].
+
+message_3:
+    text: You got a \c[4]WHATCHAMACALLIT\c[0].
+
+message_4:
+    text: You got a \c[4]DOOHICKEY\c[0].
+
+message_5:
+    text:
+
+message_6:
+    text:
+
+message_7:
+    text:
+
+message_8:
+    text:
+
+message_9:
+    text:
+
+message_10:
+    text:
+
+message_11:
+      text:

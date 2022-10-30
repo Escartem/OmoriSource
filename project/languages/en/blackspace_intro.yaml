@@ -1,0 +1,400 @@
+
+
+#Reach picnic
+#Tag should not be enabled
+
+message_0:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marWell...\! We're here.
+
+#Hero shakes
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herGuys...\! I don't know about this.
+
+message_2:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOh, HERO! Don't tell me you're getting cold feet!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelCome on, bro! You already agreed to this...
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubWe can do this as long as we're together!\!<br>Isn't that what you always say?
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herYeah, I know... but...
+
+#Spider sfx
+
+message_6:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marDon't be scared, HERO.\! We're all here for you.\!<br>At the very least, do it for me...\! please?
+
+#pause
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \her...\! Oh...\! Alright, then.
+
+message_8:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\sinv[1]Thank you, HERO~ Hehe...
+
+#mari walks to OMORI
+
+message_9:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Lead the way, little brother.\mar
+
+#------------------------------------------------------------------------
+
+#Fog gets closer covering HERO
+#Player walks a bit
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelHold on a sec, guys.\! Where's HERO?
+
+message_11:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marGosh darnit... Did he run away?\!<br>And after all that persuading we did?
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kel...\! That doesn't sound like HERO.\!<br>He would have told us if he was leaving.
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubDon't say that! It's creeping me out...\!<br>He's probably just waiting back at the picnic.\!<br>We can catch up with him later!
+
+message_14:
+      text: Do you want to keep going through the fog?
+#[YES/NO]
+
+#[YES]
+
+
+#[NO]
+
+
+#------------------------------------------------------------------------
+#Player walks a bit
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelHey, guys... I don't know about this.\!<br>I'm starting to get worried.
+
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubKEL?\! Worried?\! That doesn't sound like you at all.
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelIt's just...\! HERO wouldn't run off like that.
+
+message_25:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marAre you sure you want to go back, KEL?\!<br>You were really excited to see the empty house earlier!
+
+message_26:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHERO knows how to take care of himself...\!<br>You can trust him!
+
+message_27:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 22
+      text: \kelYeah...\! I guess, you're right.
+
+message_28:
+      text: Do you want to keep going through the fog?
+
+#[YES/NO]
+
+#[YES]
+
+#[NO]
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubHmm...\! Should we go back for HERO then?
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \marOh, I'm sure he'll be fine...
+
+message_17:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marBesides...\! If he's going to just ditch us like that, then he deserves to wait!
+
+message_18:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marCome on, OMORI.\! Let's keep going!
+
+
+#------------------------------------------------------------------------
+
+#Fog gets closer covering KEL
+#AUBREY shakes
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\com[2]Ow... KEL! You're stepping on my foot!
+
+#AUBREY looks behind her.
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubHuh?\! Where's KEL?
+
+message_42:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marHmm... Do you think he went back for HERO?
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubMaybe...
+
+#AUBREY looks around
+
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubYou know...\! This forest was a lot less scary when there were more of us...
+
+message_45:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marDid you want to head back, AUBREY?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubI do, but...\! I don't want to go back all alone.
+
+message_47:
+      text: Do you want to keep going through the fog?
+#[YES/NO]
+
+#[NO]
+
+message_48:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marAww...\! AUBREY, don't be scared.\! We've all been through so much together.\! We can take on anything!
+
+message_49:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marAnd if worst comes to worst...\!<br>You know that OMORI and I will be able to protect you.
+
+message_50:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marIsn't that right, OMORI?
+
+#------------------------------------------------------------------------
+#Player walks a bit
+#AUBREY disappears
+#There should be footprints visible at the bottom of the map during this cutscene
+
+message_60:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh?\! Where's AUBREY?\!<br>Strange...\! She was holding my hand just a moment ago.
+
+message_61:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marI guess everyone went back...\!<br>What should we do now, OMORI?\!<br>Do you still want to keep going?
+
+#[YES/NO]
+
+message_62:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Okay! I'm still up for it if you are, little brother!\mar
+
+#[NO]
+
+message_63:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: But OMORI...\! We're already almost there!\mar
+
+message_64:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Everyone will be waiting for us when we get back.\mar
+
+message_65:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: I promise I'll keep you safe!\mar
+
+#------------------------------------------------------------------------
+
+#Go to BASIL's house entrance.
+#BASIL's shadow is in front of the bridge to his house.
+#He walks from the bridge to his house door and fades in.
+
+
+#If you try to go back:
+message_70:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marWhat's the matter, OMORI?\! Did you want to go back?
+#[YES] takes you back to picnic cutscene
+
+#------------------------------------------------------------------------
+
+#Go into BASIL's house.
+#BASIL's ghost looks at you then walks into blackness.
+
+message_80:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marWell...\! We're finally here.
+
+#MARI looks around
+
+message_82:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marI guess there really is nothing here after all.\!<br>I don't know why, but that makes me a bit sad.
+
+#MARI walks up to and sits on the ledge.
+
+message_83:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marSit with me, OMORI!
+
+#PLAYER gets control
+#talk to MARI
+
+message_84:
+      text: Do you want to sit with MARI?
+#[YES/NO]
+
+#[YES]
+#OMORI sits on the ledge animation + cutscene
+
+#NO
+#Nothing
+
+message_85:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marIt's just the two of us now.\!<br>We don't really get time like this anymore, huh?
+
+message_86:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marIt's so hectic all the time with everyone around.\!<br>Sometimes I miss the quieter moments.
+
+#MARI question mark
+
+message_87:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marWhat is it, OMORI? You seem distracted...
+
+#*Shadow BASIL fades away slowly*
+
+#pause
+message_88:
+      text: It's a long way down...\| Do you want to jump?
+
+#[YES/NO]
+
+#[YES]
+message_89:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marOMORI, watch out!\! You look like you were just about to fall in.
+
+message_90:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBe careful, okay?\! I can't lose you again...
+
+#pause
+
+message_91:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMaybe it's not so safe here.\!<br>We should get back to the others.
+
+message_92:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marI'll be waiting for you outside!
+#MARI leaves
+
+#NO
+message_93:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marThis sure looks like a long way down...
+#pause
+
+message_94:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMaybe it's not so safe here.\! We should get back to the others.
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marI'll be waiting for you outside!
+
+#MARI leaves
+#PLAYER gets up from the ledge and regains control
+
+#If you try to leave, glitch to PLAYER shaking his head.
+
+#If you examine hole, it says:
+
+message_100:
+      text: You don't want to jump.
+
+#PLAYER must stab himself.
+
+#When he stabs himself, it plays a special stab animation.
+#Then, he wakes up as PLAYER instead of OMORI.
+
+#------------------------------------------------------------------------
+
+#NO
+
+#Teleport back to “reach picnic” cutscene

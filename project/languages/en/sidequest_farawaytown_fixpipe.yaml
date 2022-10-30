@@ -1,0 +1,244 @@
+
+# =========================================================================================
+# Sidequest: Fix Pipe
+# =========================================================================================
+
+#Fix Pipe 1: Find in hardware store
+
+message_1:
+      text: \n<GRUFF GUY>Hey, stranger! How's your day been?\!<br>My day's been going just great!
+
+message_2:
+      text: \n<GRUFF GUY>Wanna know why?\! Because today is the day that I'm finally going to be fixing the leak in my house!
+
+message_3:
+      text: \n<GRUFF GUY>My problems began a couple of weeks ago...\! I found a really stubborn leak in the corner of my living room...\!<br>How it got there, I don't know...
+
+message_4:
+      text: \n<GRUFF GUY>It wasn't very noticeable at first, but the leak has been slowly getting worse and worse every day.
+
+message_5:
+      text: \n<GRUFF GUY>To tell you the truth, I've already gotten used to hearing the sound of dripping water and the feeling of a damp carpet!
+
+message_6:
+      text: \n<GRUFF GUY>But you know what?\! Today is the day everything changes...\! Yes!\! I'm finally here at \c[11]FIX-IT!\c[0]\! My tools are ready...\!<br>and I'm...\! I'm going to fix it!
+
+message_7:
+      text: \n<GRUFF GUY>Phew...\! Sorry for ranting to you like that.\!<br>This leak might have been driving me mad without me knowing...
+
+message_8:
+      text: \n<GRUFF GUY>My house is right next to the \c[11]CHURCH\c[0] southwest of here. \!<br>If you want to come by and watch this momentous occasion, please be my guest!
+
+# EXAMINE VANCES HOUSE DOOR AFTER TALKING TO HIM IN HARDWARE STORE
+
+message_9:
+      text: \n<GRUFF GUY>Hey, kids!\! You're here just in time to watch me fix this pipe once and for all!\! Come in, come in!
+
+#Go in Vance's Dad's HOUSE
+
+# Cutscene: Is it fixed? 1
+
+message_10:
+      text: \n<GRUFF GUY>Just a few more last-minute adjustments, and I can finally put this baby to rest...
+
+#Fixing Noise
+
+message_11:
+      text: \n<GRUFF GUY>\SINV[1]Ahhh...\! the sweet sound of silence at last...\SINV[0]
+
+#Water Spout
+
+message_12:
+      text: \n<GRUFF GUY>\sinv[1]Grumble, grumble...
+
+message_13:
+      text: \n<GRUFF GUY>Rats...\! I guess I'll try again tomorrow...
+
+#============================================
+#Fix Pipe 2
+#============================================
+
+#Talk to Vances dad at hardware store
+
+message_14:
+      text: \n<GRUFF GUY>\sinv[1]Grumble... Grumble...
+
+message_15:
+      text: \n<GRUFF GUY>Hey, kids... How's your day been?\!<br>My day's been going okay...
+
+message_16:
+      text: \n<GRUFF GUY>This stubborn leak is making my life hell.\! I was tweaking around with it more last night, but it's just gotten worse!\! Maybe it's time to call a professional...
+
+message_17:
+      text: \n<GRUFF GUY>Urgh...\! No...\! What am I saying!?\! My pride won't let me do that!\! I have to fix it myself!
+
+message_18:
+      text: \n<GRUFF GUY>\Com[2]I'm coming back for you, you stupid leak!
+
+message_19:
+      text: \n<GRUFF GUY>\Com[2]\quake[1]GYAAA\{AAAA\{AAAAA\{AAAAAAA!!!
+
+#Vance's dad runs out the DOOR
+
+#Examine Vance's House Door after talking to him in Hardware STORE
+
+message_20:
+      text: \n<GRUFF GUY>Hey, it's you guys again!\!<br>You here for moral support or what?
+
+message_21:
+      text: \n<GRUFF GUY>Heh, heh...\! I really appreciate it.
+
+message_22:
+      text: \n<GRUFF GUY>Come on in!\! I'm almost done fixing this dang leak!
+
+#Cutscene: Is it fixed? 2
+
+#Fixing noises
+
+message_23:
+      text: \n<GRUFF GUY>\Com[2]\SINV[2]GYAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+
+message_24:
+      text: \n<GRUFF GUY>And good riddance!
+
+message_26:
+      text: \n<GRUFF GUY>...
+#Water Spout
+
+#Vance's dad begins shaking
+
+message_25:
+      text: \n<GRUFF GUY>\quake[1]AAAAAA\{AAARR\{RRRGHH\{HHHHH\{HHH!!!\quake[0]
+
+#Vance's Dad runs through the wall
+
+#============================================
+#Fix Pipe 3
+#============================================
+
+#Talk to Vance's dad (Hardware)
+
+message_30:
+      text: \n<GRUFF GUY>\sinv[1]Grumble... Grumble...
+
+message_31:
+      text: \n<GRUFF GUY>Sigh...
+
+message_32:
+      text: \n<GRUFF GUY>Hey, it's you kids again...
+
+message_33:
+      text: \n<GRUFF GUY>How's your day been?\! My day's been horrible...
+
+message_34:
+      text: \n<GRUFF GUY>Guess what?\! The pipe is broken again...
+
+message_35:
+      text: \n<GRUFF GUY>And somehow...\! I've done irreversible damage to my house...
+
+message_36:
+      text: \n<GRUFF GUY>How did I know this was going to happen?
+
+message_37:
+      text: \n<GRUFF GUY>Sigh...\! I'm such a failure...
+
+message_38:
+      text: \n<GRUFF GUY>\}I just...\! Sniff...\! I just want to make them proud...
+
+message_39:
+      text: \n<GRUFF GUY>...
+
+message_40:
+      text: \n<GRUFF GUY>\Com[2]Urf!\! I gotta pull myself together!\!<br>This is just one measly pipe! I can get through this!
+
+message_41:
+      text: \n<GRUFF GUY>I got my new tools ready and I'm going to try one more time!
+
+message_42:
+      text: \n<GRUFF GUY>I just gotta keep my head up!\!<br>\Com[2]Yes! I can do this!
+
+message_43:
+      text: \n<GRUFF GUY>I'm coming for you, leak...\!<br>I'm going to get rid of you once and for all!
+
+#Examine Vance's House Door after talking to him in Hardware Store:
+
+message_44:
+      text: \n<GRUFF GUY>Huff...\! Huff...\! Huff...\! Huff...
+
+message_45:
+      text: \n<GRUFF GUY>H-Hey...\! It's you guys again...
+
+message_46:
+      text: \n<GRUFF GUY>Did you all come because you were worried about me?
+
+message_47:
+      text: \n<GRUFF GUY>Sniff...\! That's so thoughtful of you...
+
+message_48:
+      text: \n<GRUFF GUY>Come in!\! I think I really have it this time!\!<br>I can feel it in my soul!
+
+#Cutscene: It's Finally Fixed
+
+#Fixing Noises
+
+message_50:
+      text: \n<GRUFF GUY>It's gotta be fixed now!\! It's just gotta!
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBREY>...\! Here...\! I got this...
+#Aubrey goes to the Pipe
+
+#Fixed Noise
+
+message_52:
+      text: \n<GRUFF GUY>Oh?
+
+message_53:
+      text: \n<GRUFF GUY>I can't believe it...\! It's fixed!\! It's really fixed!\!<br>\Com[2]I'm so happy, I could cry!
+
+message_54:
+      text: \n<GRUFF GUY>You're amazing!\! Beyond amazing!\! Phenomenal even!\!<br>How can I ever repay you!?
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \n<AUBREY>It's...\! uh...\! It's nothing...\! Don't worry about it.
+
+message_56:
+      text: \n<GRUFF GUY>Sniff... \!Everyone...\!<br>Thanks for being here for me through this hard time...
+
+message_64:
+      text: \n<GRUFF GUY>In return, please take this \c[4]CD\c[0].\! I found it in a hole in the wall!
+
+message_57:
+      text: \n<GRUFF GUY>You know, I have a son and daughter just about your age.\!<br>Their names are VANCE and KIM!
+
+message_58:
+      text: \n<GRUFF GUY>Their mother and I separated when KIM was just a baby...
+
+message_59:
+      text: \n<GRUFF GUY>I don't see them as often as I'd like, so I make sure to spoil them with \c[3]CANDY\c[0] when I do! Heh heh...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBREY>Oh, you're KIM and VANCE'S dad?
+
+message_61:
+      text: \n<GRUFF GUY>I sure am, and proud of it!\! Even if they're always getting into trouble... at least they take care of each other!
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \n<AUBREY>Haha...\! Yeah...\! that's good...
+
+message_65:
+      text: \n<GRUFF GUY>Anyway, I think it's about time that I enjoy some drip-free rest and relaxation!
+
+message_66:
+      text: \n<GRUFF GUY>Thanks again, guys.\! You're always welcome here!
+
+message_67:
+      text: \n<GRUFF GUY>Me and the kids are going to our neighbor's housewarming party tonight!\! Gotta love free food!

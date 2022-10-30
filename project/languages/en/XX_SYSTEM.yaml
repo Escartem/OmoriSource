@@ -1,0 +1,182 @@
+# -----------------------------------------------
+# - PICNIC SAVE
+# -----------------------------------------------
+message_0:
+    text: >
+        MARI's picnic basket. \!Would you like to SAVE?
+
+message_1:
+    text: >
+        OMORI's party is feeling good!
+
+message_40:
+    text: >
+        OMORI stopped spacing out.
+
+message_41:
+    text: >
+        You feel a little better.
+
+message_42:
+    text: >
+        You feel better.
+
+message_43:
+    text: >
+        You feel pretty good.
+
+message_50:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+message_51:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+message_52:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+message_53:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+message_54:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+message_60:
+    text: >
+        An empty picnic basket.<br>\!Would you like to SAVE?
+
+# -----------------------------------------------
+# - FRUITS BASKET
+# -----------------------------------------------
+message_2:
+    text: Ah yes, some delicious fruits.\!<br>Would you like to eat some?
+
+message_3:
+    text: You and your friends feel like new!
+
+message_4:
+    text: Ah yes, some nutritious candy.\!<br>Would you like to eat some?
+
+message_5:
+    text: Ah yes, some lovely space tube food.\!<br>Would you like to eat some?
+
+message_6:
+    text: Ah yes, a perfectly-roasted chicken.\!<br>Would you like to eat some?
+
+message_7:
+    text: Ah yes, some homemade strawberry jam.\!<br>Would you like to eat some?
+
+message_8:
+    text: Ah yes, some questionable gelatin.\!<br>Would you like to eat some?
+
+message_9:
+    text: Ah yes, pickles.\!<br>Would you like to eat some?
+
+message_20:
+    text: Ah yes, an extra-large portion of junk food.\!<br>Would you like to eat some?
+
+message_21:
+    text: Ah yes, some delightful shaved ice.\!<br>Would you like to eat some?
+
+message_22:
+    text: Ah yes, a single block of tofu.\!<br>Would you like to eat some?
+
+message_23:
+    text: Ah yes, some hearty soup.\!<br>Would you like to drink some?
+
+message_24:
+    text: Ah yes, some luscious candy apples.\!<br>Would you like to eat some?
+
+message_25:
+    text: Ah yes, some raw seafood.\!<br>Would you like to eat some?
+
+message_26:
+    text: Ah yes, a very long hero sandwich.\!<br>Would you like to eat some?
+
+message_27:
+    text: Ah yes, some juicy tomatoes.\!<br>Would you like to eat some?
+
+message_28:
+    text: Ah yes, some fresh bread.\!<br>Would you like to eat some?
+
+message_29:
+    text: Ah yes, a bowl of sweet strawberries.\!<br>Would you like to eat some?
+
+message_31:
+    text: Ah yes, a bucket of fresh and chunky SEACOW milk.\!<br>Would you like to drink some?
+
+message_32:
+    text: Ah yes, SWEETHEART's special tea and crumpets.\!<br>Would you like to have some?
+
+message_33:
+    text: A magnificently large pink bed.\!<br>Would you like to sleep here with your friends?
+
+#Blackspace
+
+message_30:
+    text: Ah... a hard, frozen steak.\!<br>Would you like to eat some?
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_10:
+    text: YES
+message_11:
+    text: NO
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_12:
+    text: YES
+message_13:
+    text: NO
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_14:
+    text: OPEN THE DOOR
+message_15:
+    text: DO NOTHING
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+message_16:
+    text: NEW GAME
+message_17:
+    text: CONTINUE
+message_18:
+    text: \C[7]CONTINUE
+message_19:
+    text: QUIT
+
+#DOOR OPENING
+
+message_1000:
+    text: What would you like to do?
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+
+message_70:
+    text: NEVERMIND
+
+# -----------------------------------------------
+# - no longer afraid
+# -----------------------------------------------
+
+message_100:
+    text: You are no longer afraid of heights.
+
+message_101:
+    text: You are no longer afraid of spiders.
+
+message_102:
+    text: You are no longer afraid of drowning.

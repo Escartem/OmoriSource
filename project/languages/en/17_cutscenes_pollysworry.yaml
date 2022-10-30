@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Errand List
+# =========================================================================================
+
+#DAY 2 PART 1: FARAWAY TOWN
+#Trigger: Examine Front Door and open.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\com[2]HI, \n[8]!!\}\!<br>Top of the morning to you, heh heh.\kel
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Well...\! More like noon, actually.\! It turns out HERO's not coming back until around dinner today, so I thought I'd drop by a little later.\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: MOM is having me buy some stuff at \c[11]FARAWAY PLAZA\c[0] before he comes back, and...\! I thought it might be funner if we went together!\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Did you want to come along, \n[8]?\!<br>Of course you do!\! Come on...\kel
+
+#Upon entering Town PLAZA
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Let's see...\! I'm pretty sure we gotta stop at \c[11]GINO'S PIZZA\c[0] and the bakery in \c[11]OTHERMART\c[0]...\! Lead the way, \n[8]!\kel
+
+
+# =========================================================================================
+# Cutscene: secret lake Day
+# =========================================================================================
+
+#Trigger: Enter GINO's Pizza.
+
+message_20:
+      text: \c[11]GINO'S PIZZA\c[0] is the bomb!\! This is one disgusting, dirty, greasy-lookin' cheese pizza... just the way I like it!\kim
+
+message_21:
+      text: \Com[2]\{LET'S DIG IN!!\kim
+
+message_22:
+      text: So...\! munch...\! munch...\! munch...\! We're still on to go to our secret hangout spot today, right?\ang
+
+message_23:
+      text: I'm gonna bring my fishing pole!\! Munch...\! Made it myself...\! munch... Out of a cool stick and a jump rope yesterday.\!<br>Do you think it will work, CHARLIE?\ang
+
+message_24:
+      text: ...\cha
+
+message_25:
+      text: Heh.\! So we're going to our secret hangout spot?\! Munch... \! <br>That's a perfect date spot!\! Munch...\! I'll be sure to bring one of my special ladies.\mav
+
+message_26:
+      text: Swimming...\! Munch, munch, munch, munch...\! Sounds... \! <br>Munch, munch, munch, munch, munch, munch, munch, munch...\! <br>pretty fun.\van
+
+message_27:
+      text: Well!\! Munch...\! While you're all foolin' around being babies, <br>I'm gonna be busy skipping rocks!\kim
+
+message_28:
+      text: I've been looking for the perfect...\! munch...\! rocks all week!\kim
+
+message_29:
+      text: Heh.\! Munch...\! You can try all you want, KIM, but you'll never beat AUBREY's record!\mav
+
+message_30:
+      text: Shut up, MIKHAEL!\! Like any girls would actually wanna...\! munch...\! go to the lake with you without you paying them!\kim
+
+message_31:
+      text: I told you to call me THE MAVER- <br>\{\Com[2]\quake[1]ACK!!\! \Com[2]I BIH' MA' TONGUE!!\mav
+
+message_32:
+      text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>What a loser!\kim
+
+message_33:
+      text: \quake[1]\{FWAAAAAA!! MASTER, ARE YOU HURT!?\ang
+
+message_34:
+      text: \quake[1]\{YEW' PEH' FO' DIS', KIM!\mav
+
+#SWITCH TO BAHAHAHA
+message_35:
+      text: \{\Com[2]\sinv[2]BAHAH\{AHAHAH\{AHAHAHAHA!!\!\kim
+
+# =========================================================================================
+# Cutscene: We Got the Stuff
+# =========================================================================================
+
+#Trigger: Complete Mini-Game: Shopping and talk to PIZZA MAN in GINO'S PIZZA.
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Let's go to the bakery!\! My mom placed an order there!\kel
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Baked goods...\! Check!\! Sandwiches...\! Check!\kel
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Well that's everything, and just in time, too.\! <br>It looks like the sun is about to set!\kel
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Let's go back to my house.<br>HERO should be coming home any time now!\kel
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Now we just need to get the cookies from the bakery in \c[11]OTHERMART\c[0]!\kel
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Now we just need to get our order from \c[11]GINO'S PIZZA\c[0]!\kel
+
+# =========================================================================================
+# Cutscene: Beware of MOM
+# =========================================================================================
+
+#Trigger: Enter proximity of KEL's House.
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Before we go in...\! I should probably mention that my mom is going to be a little mad about me taking so long with the groceries.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: I was supposed to bring everything back around noon, <br>but I got carried away doing other stuff and...\! <br>Well, you know how it goes.\kel
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: But anyway, I thought of a solution for this!\kel
+
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: So...\! I think...\! You should walk in first.\!<br>That way, she'll see you first and get all excited.\! <br>And most importantly...\! she'll forget to yell at me!\kel
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: See? It's a win-win for everyone! Heh, heh!\!<br>Got it?\! Okay, let's go!\kel
+
+# =========================================================================================
+# Cutscene: Dropping off Stuff at Kel's
+# =========================================================================================
+
+#Trigger: Enter KEL's Living Room.
+
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\{\sinv[1]MOM, \n[8]'S HERE!!\kel
+
+message_101:
+      text: \Com[2]What took you so long, KEL? I sent you off hours ago! <br>How long does it take to get a bunch of sandwiches-\n<KEL'S MOM>
+
+message_102:
+      text: Oh my, is that \n[8]?\! It must be!\n<KEL'S MOM>
+
+message_103:
+      text: It's so good to see you again!\! But dear... You look so thin... Have you been eating properly?\n<KEL'S MOM>
+
+#KEL drops off groceries near KEL'S MOM.
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Here's the stuff you asked for, Mom!\kel
+
+#KEL turns to PLAYER.
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hurry, \n[8]! Let's go upstairs to my bedroom!\kel
+
+#KEL pushes PLAYER toward the hallway.
+
+message_106:
+      text: \Com[2]Now wait just a second, young man-\n<KEL'S MOM>
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Bye, Mom! See you when dinner is done!\kel
+
+# =========================================================================================
+# Cutscene: Kel's Bedroom
+# =========================================================================================
+
+#Trigger: Enter KEL's Room.
+
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Well, here it is... Make yourself at home!\!<br>Look! I got a basketball hoop and a boombox just like<br>I always wanted.\! Here, I'll play a song for you!\kel
+
+#KEL walks up to BOOMBOX. BOOMBOX plays fish song.
+
+message_121:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Yup, it's pretty sweet.\kel
+
+#KEL looks at PLAYER.
+
+message_122:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Mom won't let me play it too loud, though, because she says it's bad for SALLY.\kel
+
+#KEL has an idea.
+
+
+message_123:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Oh, wait!\! You haven't met SALLY yet, huh?\kel
+
+#KEL puts hand behind head.
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Heh, heh!\! Guess what, \n[8]!\! <br>I'm a big brother now!\kel
+
+message_125:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: SALLY's my baby sister.\! My mom will probably bring her downstairs around dinnertime.\! She's really small and really cute, heh heh!\kel
+
+message_126:
+      text: \Com[2]KEL!\! There's a girl at the door! <br>She says she's here to see you!\n<KEL'S MOM>
+
+#KEL is confused.
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Huh? I wonder who that could be?\kel
+
+# =========================================================================================
+# Cutscene: Polly's Worry
+# =========================================================================================
+
+#Trigger: Talk to POLLY.
+
+message_140:
+      text: Hey, KEL... Hey, \n[8]...\! S-Sorry for intruding.\n<POLLY>
+
+message_141:
+      text: I was just wondering if you know where BASIL is.\!<br>I thought he might be with you.\n<POLLY>
+
+message_142:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: BASIL?\! Hmm...\! No, sorry.\! We haven't seen him all day.\kel
+
+message_143:
+      text: Oh, it's okay!\! I'm...\! I'm sure he'll turn up eventually.\! <br>He ran off earlier and hasn't come back yet...\n<POLLY>
+
+message_144:
+      text: If you see him, can you tell him to come home?\!<br>I'm really worried about him.\n<POLLY>
+
+message_145:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Of course, POLLY!\! We'll be on the lookout.\kel
+
+message_146:
+      text: Thanks...\! I knew I could count on you guys!\n<POLLY>
+
+#POLLY walks O.S. through front door.
+
+message_147:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_148:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: BASIL's missing today?\! I have a bad feeling about this...\!<br>especially with AUBREY and the scooter gang around.\! <br>Maybe we should try to find him before it gets dark.\kel
+
+#KEL turns around.
+
+message_149:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Can we go look for him, Mom?\! Pretty please?\kel
+
+message_150:
+      text: Well...\! That girl did look awfully worried.\!<br>\sinv[1]Sigh...\sinv[0]\! Okay.\! Just make sure to be home by dinner!\n<KEL'S MOM>
+
+message_154:
+      text: Just make sure to be home by dinner!\! I don't want a repeat of last year!\n<KEL'S MOM>
+
+
+
+# =========================================================================================
+# Cutscene: Polly's Worry v2
+# =========================================================================================
+
+#Trigger: Talk to POLLY, if you have already seen Basil at the park
+
+message_151:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: BASIL?\! Hmm...\! We did see him at the park earlier, but that was a while ago.\kel
+
+message_152:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: BASIL's missing today?\! I have a bad feeling about this...<br>especially with AUBREY and the scooter gang around.\!\kel
+
+message_153:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Hmmm... Could BASIL be somewhere in \c[11]FARAWAY PARK\c[0]?\kel
+
+#KEL turns around.

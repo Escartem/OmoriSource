@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Slimegirls: Medusa's Body
+# ========================================================================================
+
+#Talk to Medusa:
+
+message_1:
+      text: \n<MEDUSA>Why hello there, dolls~\!<br>I am surprised to see that everyone is still alive.\!<br>How exciting!
+
+message_2:
+      text: \n<MEDUSA>I must ask you for a favor, since I'm a little immobilized at the moment.\! There's a creature that roams around here called the SNOT BUBBLE.
+
+message_3:
+      text: \n<MEDUSA>If you could kindly collect some \c[4]SNOT\c[0] from them, I would be able to create a concoction to revitalize my body.\!<br>That shouldn't be too much trouble... should it, dolls?
+
+#Talk to Medusa with SNOT / Cutscene: Medusa's Body Forms
+
+#FADE IN FADE OUT WITH SFX
+
+message_9:
+      text: \n<MEDUSA>Oh my!\! You've collected all the \c[4]SNOT\c[0] that I'll need and more!
+
+message_4:
+      text: \n<MEDUSA>\sinv[1]Mmmmmmm...\! Lovely...\!\sinv[0] Oh~!\!<br>I feel like my gorgeous self again...\!<br>but with some...\! minor...\! improvements~\! \sinv[1]Kukuku~\sinv[0]
+
+message_5:
+      text: \n<MEDUSA>Here, take this for your efforts.
+
+message_6:
+      text: You got a \c[5]MYSTERY POTION\c[0].
+
+message_7:
+      text: \n<MEDUSA>Why don't you try drinking it, doll?\!<br>The effects should prove...\! entertaining...\! \sinv[1]Kukuku~\sinv[0]
+
+#QUEST complete
+
+#After-Quest Dialogue:
+
+message_8:
+      text: \n<MEDUSA>Did you drink the \c[5]MYSTERY POTION\c[0] yet?\!<br>Please enjoy it...\! \sinv[1]Kukuku~\sinv[0]

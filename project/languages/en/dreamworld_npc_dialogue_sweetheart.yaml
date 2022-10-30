@@ -1,0 +1,644 @@
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Foyer
+# =========================================================================================
+
+message_200:
+      text: \n<HAROLD>\com[2]\{\{\quake[1]HALT, PRISONERS!!
+
+message_201:
+      text: \n<HAROLD>Did you really think that you could escape that easily!?
+
+message_202:
+      text: \n<HAROLD>It's back to \c[11]THE DUNGEON\C[0] for you four!
+
+#message_203: Delete line
+#      text: \n<KEL>Yes, we are?
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \n<AUBREY>Darn... and we were so close too!
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \n<KEL>\}Uh-oh... what do we do now?
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \n<HERO>Think, HERO, think!\! Come on... How do we get out of this?\!<br>...\! Oh, I got it!
+
+message_207:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \n<HERO>...\! Ahem...\! On the contrary, sir knight, I think you have mistaken us for someone else! Hm, hm, yes.
+
+#KEL ? MARK THEN EXCLAMATION POINT
+#EVERYONE TURN AND PUTS ON SPROUT MOLE MASKS
+
+message_208:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \n<KEL>\com[2]Hem, hem. Don't be so quick to judge!\!<br>We are SPROUT MOLES, indubitably.
+
+message_209:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \n<AUBREY>Hoo, hoo, indeed! Ah yes, quite!\! I am also a lover of \c[3]TOFU\c[0] and SWEETHEART!\! Mmm... Delicious SWEETHEA- I mean, \c[3]TOFU\c[0].
+
+message_210:
+      text: \n<HAROLD>Egad! My eyes must have deceived me. I apologize, brethren.<br>\!It is rather hard to see through this helmet.
+
+message_211:
+      text: \n<HAROLD>Very well, carry on then.\! I will resume my patrol.\! You lot ought to return to your stations as well, lest our dear SWEETHEART notices...
+
+message_212:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \n<HERO>Heh... How's that for some quick thinking?
+
+message_213:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \n<AUBREY>That was so smooth, HERO!\! With these \c[4]SPROUT MOLE MASKS\c[0], we'll be able to make it out of here in a cinch!
+
+message_214:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \n<KEL>Do we really have to keep wearing these, HERO?\!<br>Mine is getting kind of itchy...
+
+message_215:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \n<HERO>Yes, KEL... We should keep them on until we get out of here.\! C'mon... Let's move.
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Guest List
+# =========================================================================================
+
+message_0:
+      text: \n<GUEST LIST MOLE>Oh my! There's simply no time to admit entry to all these unruly guests!\! It just goes to show that we mustn't ever underestimate the popularity of our dear SWEETHEART...
+
+#guest mole puts up chart
+
+message_1:
+      text: \n<GUEST LIST MOLE>You there! Servants with the ugly faces!\! The upcoming main event has a strict dress code.<br><br>It is of utmost importance that our audience is dressed to SWEETHEART's exact specifications.\! Here is a simple chart that even a non-SPROUT MOLE could understand!
+
+message_2:
+      text: \n<GUEST LIST MOLE>What is it now?\! Do you need help with something?
+
+message_3:
+      text: \n<GUEST LIST MOLE>Kindly ask the lesser guests to follow you and bring them to me!\! You can do something that simple, can't you?
+
+#pan up
+message_4:
+      text: \n<GUEST LIST MOLE>\com[2]What are you doing!?<br>That SPROUT MOLE is an esteemed guest!
+
+message_5:
+      text: What's the dress code again?
+
+message_6:
+      text: How many SPROUT MOLES are left?
+
+message_7:
+      text: \n<GUEST LIST MOLE>Even from here, I can see that there are \v[1001] guests that are improperly dressed!
+
+message_8:
+      text: \n<GUEST LIST MOLE>Even from here, I can see that there is 1 guest that is improperly dressed!
+
+message_10:
+      text: \n<GUEST LIST MOLE>Splendid! I knew you had it in you!\!<br>Now we can finally get rid of these unpinkish guests!
+
+message_11:
+      text: \n<GUEST LIST MOLE>And that takes care of that!\!<br>Those unpinkish guests will never see the light of day again!
+
+message_12:
+      text: \n<GUEST LIST MOLE>\Com[2]\{GUARDS!!\!\}<br>Escort these SPROUT MOLES to \c[11]THE DUNGEON\C[0]!
+
+message_20:
+      text: \n<PINK MOLE>How dare they make me wait! I am an esteemed guest!
+
+message_21:
+      text: \n<PINK? MOLE>How dare they make me wait! I am an esteemed guest!
+
+message_22:
+      text: \n<PINK? MOLE>\v[1001]
+
+message_23:
+      text: Perhaps someone more charming could change their tune...
+
+message_30:
+    text: Do you want to ask this SPROUT MOLE to follow you?
+
+message_40:
+      text: \n<HAROLD>\sinv[1]I don't know what I've been told...\!<br>SWEETHEART's love's as good as gold!
+
+message_41:
+      text: \n<HAROLD>\sinv[2]Hut! Hut! Hut!
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Greetings, esteemed guest! Please follow me as your presence is urgently required...\her
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
+# =========================================================================================
+message_60:
+      text: \n<HEAD CHEF MOLE>Urg... My dear sous chefs...\!<br>I'm afraid my back just can't take anymore!\! It is at this unfortunate time that I announce my retirement.
+
+message_61:
+      text: \n<SOUS CHEF MOLE>But wait, chief! Without you, who will lead us in our task of baking a most magnificent cake for the main event!?
+
+message_62:
+      text: \n<CHEF MOLE>Sous chefs, it is now time for one of you to step up to the limelight.\! A cake must be baked today! Our very lives are on the line!
+
+message_63:
+      text: \n<SOUS CHEF MOLE>Oh, yes! I hear you, chief!\! As the most capable one of us,<br>I will volunteer and take charge of this task!\!<br>I won't fail you! I promise...
+
+# =========------------------
+message_70:
+     text: \n<OTHER SOUS CHEF MOLE>Hmm... Actually...\! I think I'll sit this one out...
+
+message_71:
+      text: \n<OTHER SOUS CHEF MOLE>Yeah, my stomach doesn't feel so good...
+
+message_74:
+      text: \n<SOUS CHEF MOLE>Bah! I don't need the support of you haters!\! I'll bake a cake that will end all cakes, you'll see!
+
+message_72:
+      text: \n<SOUS CHEF MOLE>Hey, you there!\! You four are SOUS CHEFS now.\!<br>Meet me in the kitchen, pronto!
+
+# =========------------------
+
+message_73:
+      text: \n<SOUS CHEF MOLE>What took you so long!?\! Step on it, will you?\! I can't leave this room until I bake the best cake in existence!
+
+# =========------------------
+
+message_80:
+      text: \n<SOUS CHEF MOLE>\com[2]Where are you going!? Come back here!
+
+message_81:
+      text: \n<SOUS CHEF MOLE>Good luck...\! You're going to need it.
+
+# =========------------------
+message_82:
+      text: \n<SOUS CHEF MOLE>Are you ready to start baking?\! Just follow my instructions and you'll be fine.\! I remember the HEAD CHEF's recipe by heart!
+
+message_83:
+      text: \n<SOUS CHEF MOLE>Hey, don't be nervous!\! Trust me, I know what I'm doing!
+
+message_84:
+      text: \n<SOUS CHEF MOLE>First, we must preheat the oven to 75 DEGREES!
+
+message_100:
+      text: What temperature do you want to preheat the oven?
+
+# =========------------------
+message_101:
+      text: 75 DEGREES
+
+message_102:
+      text: 190 DEGREES
+
+message_103:
+      text: 350 DEGREES
+
+message_120:
+      text: PICK RANDOMLY
+# =========------------------
+
+message_104:
+      text: You turned on the oven.\! It is now preheating.
+
+message_105:
+      text: \n<SOUS CHEF MOLE>Excellent work!\! The next thing to do is to mix two main ingredients in a bowl...\! FLOWERS and PING PONG BALLS!
+
+message_106:
+      text: \n<SOUS CHEF MOLE>You're doing great!\! Next, comes the SALT and CHEESE!\!<br>Yeah, beat those together until it's soup!
+# =========------------------
+message_107:
+      text: Do you want to take the SUGAR?
+
+message_108:
+      text: Do you want to take the FLOUR?
+
+message_109:
+      text: Do you want to take the GARDEN SOIL?
+
+message_110:
+      text: Do you want to take the STRAWBERRIES?
+
+message_111:
+      text: Do you want to take the PINEBERRIES?
+
+message_112:
+      text: Do you want to take the FRUIT JUICE?
+
+message_113:
+      text: Do you want to take the BUTTER?
+
+message_114:
+      text: Do you want to take the PICKLES?
+
+message_115:
+      text: Do you want to take the FISH?
+
+message_116:
+      text: Do you want to take the EGGS?
+
+message_117:
+      text: Do you want to take the OLD BOOT?
+
+message_118:
+      text: Do you want to take the WHOLE CHICKEN?
+# =========------------------
+
+message_122:
+      text: You are carrying too many ingredients.
+
+message_123:
+      text: \n<SOUS CHEF MOLE>Now we're cooking!\! Last but not least, grab the SAUCE and cut it into pieces!
+
+message_124:
+      text: \n<SOUS CHEF MOLE>Magnificent!\! Now, mix them all together and stick it in the microwave!\! It's that easy!
+
+# =========------------------
+
+message_125:
+      text: Take the CAKE BATTER?
+
+message_126:
+      text: You put the CAKE BATTER in the oven.
+
+# =========------------------
+
+message_127:
+      text: You baked a CAKE.\! Wow! It looks pretty good!
+
+message_128:
+      text: You baked a CAKE.\! It looks just okay.
+
+message_129:
+      text: You baked a CAKE.\! It doesn't look quite right...
+
+message_130:
+      text: You baked a CAKE.\! ...\! What the heck did you put in here!?
+
+# =========------------------
+message_131:
+      text: \n<SOUS CHEF MOLE>Ah! All done?\! Beautiful work, I must say!\!<br>Let's have a taste!
+
+message_132:
+      text: \n<SOUS CHEF MOLE>\com[2]\{MARVELOUS, JUST AS I EXPECTED!!\!\}<br>Those other SOUS CHEFS will be sorry!
+
+message_133:
+      text: \n<SOUS CHEF MOLE>Hmm... This cake is good, but not good enough to impress the others...
+
+message_134:
+      text: \n<SOUS CHEF MOLE>Wow, this is disgusting!\! Back to the drawing board, it is!
+
+message_135:
+      text: \n<SOUS CHEF MOLE>Oh, goodness... This isn't a cake at all! It's practically soup!
+
+message_136:
+      text: \n<SOUS CHEF MOLE>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+# =========------------------
+
+message_137:
+      text: Are you sure this is what you want to do?
+
+message_138:
+      text: You need to gather all your ingredients.
+
+message_140:
+      text: Take the MIXTURE?
+
+message_141:
+      text: Take the PLATTER?
+
+message_142:
+      text: You don't need this.
+
+message_143:
+      text: You need more ingredients.
+
+# =========------------------
+message_144:
+      text: \n<SOUS CHEF MOLE>\com[2]What are you doing!?\! Come back here and bake this cake!
+
+message_500:
+      text: \n<SOUS CHEF MOLE>\com[2]\{\{HEY! NO STEALING!!
+# =========------------------
+message_145:
+      text: \n<SOUS CHEF MOLE>Good riddance...\! That guy was such a drag.\!<br>Now, you ready to actually bake this cake?
+
+message_146:
+      text: \n<SOUS CHEF MOLE>Cool! So the first thing to do is to preheat the oven to 350 DEGREES.
+
+message_147:
+      text: \n<SOUS CHEF MOLE>Remember, it's 350 DEGREES!
+
+message_148:
+      text: \n<SOUS CHEF MOLE>Hey, what are you doing!? That's not what I said!
+
+message_149:
+      text: \n<SOUS CHEF MOLE>Pay attention next time!
+# =========------------------
+message_150:
+      text: \n<SOUS CHEF MOLE>Awesome! Now, mix some FLOUR and EGGS together.
+
+message_151:
+      text: \n<SOUS CHEF MOLE>Next comes the SUGAR and BUTTER.\!<br>Beat it until it's nice and fluffy!
+# =========------------------
+message_152:
+      text: \n<SOUS CHEF MOLE>And now finally, for the topping...\!<br>It's just gotta be STRAWBERRIES!
+
+message_153:
+      text: \n<SOUS CHEF MOLE>All done?\! Sweet!\! Now grab all your stuff, put it into the BAKING PAN, and bake it in the oven!
+# =========------------------
+message_154:
+      text: You don't have any CAKE BATTER to put in the oven.
+# =========------------------
+message_155:
+      text: \n<SOUS CHEF MOLE>And that's how you bake a cake!
+
+message_156:
+      text: \n<SOUS CHEF MOLE>Mmm... Yup! That'll do it!\!<br>Finally, a cake our late HEAD CHEF would be proud of.
+
+message_157:
+      text: \n<SOUS CHEF MOLE>May his memory live on forever...
+
+message_158:
+      text: \n<SOUS CHEF MOLE>You may go now, servants! Be free!
+
+# =========------------------
+message_159:
+      text: You can always try again.
+
+message_160:
+      text: What the heck did you put in here!?
+# =========------------------
+message_161:
+      text: Put back the \v[1001]?
+# =========------------------
+message_162:
+      text: \n<SOUS CHEF MOLE>This is a cake our late HEAD CHEF would be proud of.\! May his memory live on forever...
+
+message_163:
+      text: \n<SOUS CHEF MOLE>You may go now, servants! Be free!
+# =========------------------
+message_164:
+      text: \n<HEAD CHEF MOLE>...
+
+message_165:
+      text: \n<SOUS CHEF MOLE>Who are you?
+
+message_166:
+      text: \n<SOUS CHEF MOLE>Who am I!?
+
+message_167:
+      text: An array of ingredients.\! Some more appetizing than others.
+
+message_168:
+      text: \n<SOUS CHEF MOLE>May our late HEAD CHEF's memory live on forever...
+
+message_169:
+      text: \n<SOUS CHEF MOLE>My cake really made the big screen!\! The late HEAD CHEF would have been proud.\! May his memory live on forever...
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Elevator
+# =========================================================================================
+
+message_300:
+      text: THE FOYER
+
+message_301:
+      text: THE CHAMBERS
+
+#Bandito Mole Chance
+
+message_310:
+      text: \n<BANDITO MOLE>\}This is a robbery.
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Dungeon
+# =========================================================================================
+
+message_320:
+      text: \n<SMUGGLER JASH>I got sent to the dungeon for smuggling...\!<br>but old habits die hard.
+
+message_321:
+      text: \n<SMUGGLER JASH>That said, I've got some choice goods for sale, patron.\! Interested in buying?
+
+message_322:
+      text: \n<SMUGGLER JASH>Got some choice goods for sale, patron.
+
+#Kitchen Fireplace
+
+message_350:
+      text: There's a heart-shaped switch hidden inside the fireplace.\!<br>Do you want to press it?
+
+message_351:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmm...\! I wonder what that was for...\her
+
+message_352:
+      text: There's a heart-shaped switch hidden inside the fireplace...\! but you already pressed it.
+
+
+#SW Foyer
+
+message_359:
+      text: \n<CANDLE BUNNY>\sinv[1]Pyon?
+
+message_355:
+      text: \n<HAROLD>Back to your stations, newbies!\!<br>We don't take kindly to slackers!
+
+message_356:
+      text: \n<MARSHA>We take our jobs seriously!\! SWEETHEART's royal guard only accepts the best of the best!
+
+message_357:
+      text: \n<LUCIUS>I have studied the art of combat my entire life.\! If you all work hard...\! maybe one day you too can become a LUCIUS!
+
+message_358:
+      text: \n<THERESE>Hey, have you seen SIR MAXIMUS around?\!<br>That guy owes me some CLAMS...
+
+
+#SW AFTER WEDDING
+
+message_370:
+      text: \n<CASTELLA>I've seen you lot in the latest episode of \"SWEETHEART'S QUEST FOR HEARTS\"!
+
+message_371:
+      text: \n<CASTELLA>It was an episode worthy of my dearest SWEETHEART...\! but I could have done without the ending.
+
+message_372:
+      text: \n<CASTELLA>SWEETHEART is going to miss her afternoon tea...
+
+message_373:
+      text: \n<VIRTUOSO MOLE>Ah! I recognize you.\! You must be the paid actors from \"SWEETHEART'S QUEST FOR HEARTS\"!
+
+message_374:
+      text: \n<VIRTUOSO MOLE>Your performance was absolutely breathtaking.\! I believed every minute of it.
+
+message_375:
+      text: \n<HAROLD>How about that ending?\! Bet you guys didn't expect that for the finale.
+
+message_376:
+      text: \n<MARSHA>We take our jobs seriously!\! SWEETHEART's royal guard only accept the best of the best!
+
+message_377:
+      text: \n<LUCIUS>I have studied the art of combat my entire life.\! Young SPROUT MOLES spend their lives training to be a LUCIUS!
+
+message_378:
+      text: \n<THERESE>Hey, have you seen SIR MAXIMUS around?\!<br>That guy owes me some CLAMS...
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Library
+# =========================================================================================
+
+message_400:
+      text: \n<PINK? MOLE>Of course! The staff is wonderful here!
+
+message_401:
+      text: \n<PINK? MOLE>Who do you think you are!?\! I want to speak to the manager!
+
+message_402:
+      text: \n<PINK? MOLE>Fine.
+
+message_403:
+      text: \n<PINK? MOLE>Nah.
+
+message_404:
+      text: \n<PINK? MOLE>\}\"This is 'BIGBOYZ' to 'ALPHA-3'...\! the jig is up.\! Abort the mission.\"\! \quake[1]Bzzt...\quake[0]
+
+message_405:
+      text: \n<PINK? MOLE>Sorry, but I am not the mole you are looking for.
+
+message_406:
+      text: \n<PINK? MOLE>O-okay...\! but you have to explain what's going on!
+
+message_407:
+      text: \n<PINK? MOLE>Ew... Who are you?\! Never talk to me again.
+
+message_408:
+      text: \n<PINK? MOLE>Do I have to stand in another line?
+
+message_409:
+      text: \n<PINK? MOLE>Maybe, I'll come with you...\! But maybe I won't.
+
+message_410:
+      text: \n<PINK? MOLE>The laws of this land are cruel...
+
+message_411:
+      text: \n<PINK? MOLE>All because I'm wearing my favorite color blue!?\! I'll never move for you!
+
+message_412:
+      text: \n<PINK? MOLE>My presence is required?\! Of course it is.
+
+message_413:
+      text: \n<PINK? MOLE>Psh...\! or what?
+
+message_414:
+      text: \n<PINK? MOLE>Dang... I knew I picked the wrong tie!
+
+message_415:
+      text: \n<PINK? MOLE>I walked eight-hundred miles to get here.\! I'm not giving up my seat!
+
+message_416:
+      text: \n<PINK? MOLE>Me? They have got to make an exception.\! I must go show them a piece of my mind!
+
+message_417:
+      text: \n<PINK? MOLE>No! Maybe \sinv[1]you\sinv[0] should leave!
+
+message_418:
+      text: \n<PINK? MOLE>Am I finally getting center stage?
+
+message_419:
+      text: \n<PINK? MOLE>No way. I'm the most important person here!
+
+message_420:
+      text: \n<PINK? MOLE>\sinv[1]WEEEEEEEEEHH!\sinv[0] Why do I gotta go!?
+
+message_421:
+      text: \n<PINK? MOLE>Oh yeah? Make me!
+
+message_422:
+      text: \n<PINK? MOLE>Oh...\! I just wanted to see my only son.
+
+message_423:
+      text: \n<PINK? MOLE>Can ye speak up, sonny? I can't hear you!
+
+message_424:
+      text: \n<PINK? MOLE>My... of course! You look like a \sinv[1]clean\sinv[0], upstanding gentleman!
+
+message_425:
+      text: \n<PINK? MOLE>Don't touch me!\! You look like you have germs!
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Kitchen
+# =========================================================================================
+
+message_450:
+      text: Put back the SUGAR?
+
+message_451:
+      text: Put back the FLOUR?
+
+message_452:
+      text: Put back the GARDEN SOIL?
+
+message_453:
+      text: Put back the STRAWBERRIES?
+
+message_454:
+      text: Put back the PINEBERRIES?
+
+message_455:
+      text: Put back the FRUIT JUICE?
+
+message_456:
+      text: Put back the BUTTER?
+
+message_457:
+      text: Put back the PICKLES?
+
+message_458:
+      text: Put back the FISH?
+
+message_459:
+      text: Put back the EGGS?
+
+message_460:
+      text: Put back the OLD SHOE?
+
+message_461:
+      text: Put back the WHOLE CHICKEN?
+
+#====
+#trying to pick up something after cooking game
+
+message_462:
+      text: \n<SOUS CHEF MOLE>Hey! No touchie!
+#====
+
+#AFTER DEFEATING MAXIMUS III
+
+message_501:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHey, is it just me or does it seem quieter all of a sudden?
+
+message_502:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWasn't there a crowd of SPROUT MOLES at the entrance earlier?\! I don't see them around anywhere!
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubThey must have finally pushed their way outside!\! Let's follow them, OMORI.\! Maybe they can lead us out of here!

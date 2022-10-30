@@ -1,0 +1,452 @@
+# =========================================================================================
+# ** ROCOCO INTRODUCTION
+# =========================================================================================
+#THE ARTIST ROCOCO:
+
+#After defeating Jawsum/Pluto in Last Resort, if you backtrack to Sweetheart's Castle - Fanmail Graveyard, you will notice a hole in the wall.
+
+#ROCOCO is an artist who is an elf.
+
+message_0:
+    text: \n<???>\sinv[1]Le gasp!\sinv[0]\! C-Could it be!?
+
+message_1:
+    text: \n<???>Ah, finally...\! Some company...
+
+#*charm pose spinning*
+
+message_2:
+    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
+
+message_3:
+    text: \n<???>I've been alone for so long...\! but after what feels like an eternity...\! At last...\! I have...\! an audience!
+
+#*charm pose spinning*
+
+message_4:
+    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
+
+message_5:
+    text: \n<???>Who am I, you ask?
+
+message_6:
+    text: \n<ROCOCO>Why...\! I am the great up-and-coming artist, ROCOCO!
+
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelThis guy's...\! kind of weird.\! Let's get out of here.
+
+#*ROCOCO runs to block exit*
+
+message_8:
+    text: \n<ROCOCO>\com[2]Wait, don't go!\! Please listen to my story!
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelExcuse...\! us.
+
+message_10:
+    text: \n<ROCOCO>\{\com[2]\quake[1]PLEASE LISTEN! I'M SO LONELY!!
+
+#*pause*
+
+message_11:
+    text: \n<ROCOCO>Ahem...\! right.\! Now where should I start?
+
+message_12:
+      text: \n<ROCOCO>In the beginning was me...\! crying in a pod in the middle of space...\! witnessing my home planet blow up right before my eyes.
+
+message_13:
+    text: \n<ROCOCO>I can still remember it all so vividly...\!<br>Fire...\| Fire...\| everywhere...\| and then darkness.
+
+message_14:
+    text: \n<ROCOCO>When I awoke, I found myself in the middle of a desert...\! surrounded by a sea of brown sugar, in a strange land I soon learned to be called \c[11]ORANGE OASIS\c[0].
+
+message_15:
+    text: \n<ROCOCO>Even as a baby, I knew I was the sole survivor of my species...\! the last elf in the entire universe.
+
+#*Party members gather and sit*
+
+message_16:
+    text: \n<ROCOCO>\"So this is how it ends..."\ I thought.
+
+message_17:
+      text: \n<ROCOCO>Yet...\! In a stroke of luck, I was found by none other than a young \c[3]DONUT\c[0] by the name of SWEETHEART.\! She brought me to her family and they took me in as one of their own.
+
+message_18:
+    text: \n<ROCOCO>SWEETHEART and I...\! We grew up together.
+
+message_19:
+    text: \n<ROCOCO>It was a rough childhood.\! We fought frequently, but she would always win...\! If I fought back...\! Well...\! ...
+
+message_20:
+    text: \n<ROCOCO>Anyway! I learned to run!\! And I got quite good at running...\!<br>But...\! there's only so far you can run.
+
+message_21:
+    text: \n<ROCOCO>Yes, it was a hard time.\! But even through that suffering, I stood firm.
+
+
+message_22:
+      text: \n<ROCOCO>Because even then, I knew everything had a purpose.\! I was sent to this planet and survived for one reason and one reason only...\! to repopulate my entire species.
+
+#*pause*
+
+message_23:
+    text: \n<ROCOCO>There is a conspicuous gap in my memory after this, so I'll fast-forward a few years.
+
+message_24:
+    text: \n<ROCOCO>At some point...\! SWEETHEART and I fell deeply in love, became engaged, and moved to this giant castle together!
+
+message_25:
+    text: \n<ROCOCO>We were inseparable, her and I... and we loved each other dearly!\! I would do anything for her, and I mean anything!
+
+message_26:
+    text: \n<ROCOCO>I was ready to spend the rest of our lives together...\! to grow old...\! and to raise hundreds upon hundreds of children!
+
+message_27:
+      text: \n<ROCOCO>Hmm... Thinking about it now, I wonder if I ever made that clear to her.
+
+message_28:
+    text: \n<ROCOCO>Anyway, continuing my story...
+
+message_29:
+    text: \n<ROCOCO>Alas, all good times must come to an end.\! As SWEETHEART's fan base grew, she and I grew apart as well.
+
+message_30:
+    text: \n<ROCOCO>She began receiving gifts and letters from suitors from all over the universe...\! asking for a chance to prove their love to her.
+
+
+message_31:
+    text: \n<ROCOCO>Being her one true love, I was vehemently against this notion! But she wouldn't have it!
+
+message_32:
+      text: \n<ROCOCO>“SWEETHEART is for sharing!” she would say!
+
+message_33:
+    text: \n<ROCOCO>...
+
+message_34:
+    text: \n<ROCOCO>So...\! one night while I was asleep...\! SWEETHEART and her servants tied me up and sealed me inside the walls of her castle.
+
+message_35:
+    text: \n<ROCOCO>I have been wandering aimlessly through the darkness inside the walls ever since...\! surviving off old TOAST and \c[3]TOFU\c[0].
+
+
+message_37:
+      text: \n<ROCOCO>Fast-forward a few more years, and that brings us to now!
+
+message_38:
+    text: \n<ROCOCO>Yes...\! You four are the first living beings I have seen since that fateful day.
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWow, sir.\! That's a really... umm...\| shocking story.
+
+#ROCOCO shakes.
+
+message_40:
+    text: \n<ROCOCO>\sinv[1]Sniff... Oh... SWEETHEART...\! Why did you do it?<br>\!Was I not good enough for you?
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubWell...\! Sorry about everything...\! We're going to go now.
+
+#party gets up
+
+message_42:
+    text: \n<ROCOCO>\com[2]\quake[1]\{WAIT, I'M NOT FINISHED YET!
+
+message_43:
+      text: \n<ROCOCO>I'm just getting to the point!
+
+message_44:
+    text: \n<ROCOCO>\sinv[1]Sigh...\sinv[0]\! For the last few years, I've had a long time to think.
+
+message_45:
+    text: \n<ROCOCO>I kind of gave up on my dreams and all that stuff now...\!<br>It all seems so far away and pointless...
+
+message_46:
+    text: \n<ROCOCO>So...\! I've decided to drop everything and become an artist instead!
+
+#ROCOCO walks to his canvas.
+
+message_47:
+    text: \n<ROCOCO>\sinv[1]Sigh...\sinv[0]\! And since I'm just starting out, I suppose I can give you all a discount.
+
+#*ROCOCO CHARM stay in pose*
+
+message_48:
+      text: \n<ROCOCO>For my first ever masterpiece...\! I will only charge you 1000 CLAMS!
+
+#*stop pose*
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herWell...\! What do you guys think?\! 1000 CLAMS is kind of steep, isn't it?
+
+message_50:
+    text: \n<ROCOCO>\{\com[2]\quake[1]PLEASE COMMISSION ME!
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWe...\! We'll think about it.
+
+message_52:
+    text: \n<ROCOCO>Ah! Yes... Yes, of course! Do take your time!
+
+message_999:
+    text: \n<ROCOCO>I will stand right here until then!
+
+message_53:
+    text: \$\n<ROCOCO>For my first ever masterpiece, I will only charge you 1000 CLAMS!\! Have you decided to assist me on my journey of self-discovery?
+
+#[YES/NO]
+
+
+#[YES]
+#*chaching*
+
+message_54:
+    text: \n<ROCOCO>\{\{\sinv[1]LE MAGNIFICENT!!
+
+message_55:
+      text: \n<ROCOCO>Please return after some more adventuring!\!<br>After all, greatness takes time!
+
+#[NO]
+
+message_56:
+    text: \n<ROCOCO>Oh...\! That's fine...\! \sinv[1]Sigh...\sinv[0]\!<br>I am sure...\! Someone else will recognize a true artist when they see one.
+
+#If you try to leave after not paying for COMMISSION:
+
+message_57:
+    text: \n<ROCOCO>\sinv[1]\com[2]\{DON'T KEEP ME WAITING!!
+
+#If you try to leave after paying for COMMISSION:
+
+message_58:
+    text: \n<ROCOCO>\sinv[1]\com[2]\{I WON'T DISAPPOINT YOU!!
+
+#Upon returning once painting is complete:
+
+message_59:
+    text: \n<ROCOCO>\sinv[1]Le gasp!\sinv[0]\! You have returned!
+
+message_60:
+      text: \n<ROCOCO>Please admire my latest masterpiece.\! It is already framed in the gallery ahead.
+
+#After checking out the painting:
+
+message_61:
+    text: \n<ROCOCO>Well? Are you happy with my masterpiece?
+
+message_62:
+    text: \n<ROCOCO>Just so you know...\! As my skills become more formidable, my commission rates will also increase!
+
+message_63:
+    text: \$\n<ROCOCO>This next masterpiece will cost you \v[1000] CLAMS!\! Will you continue to assist me on my journey of self-discovery?
+
+#After completing all paintings:
+
+message_64:
+    text: \n<ROCOCO>Thank you, fellow living beings.\! Through these few commissions...\! I feel as if I had made great leaps in my quest of self-discovery in the process.\! I am also very rich now.
+
+message_65:
+      text: \n<ROCOCO>I can do no more for you!\! I truly feel complete!
+
+#How to Commission Art:
+#ROCOCO will make a total of 6 pieces for you.
+#To commission art from ROCOCO, just talk to him and pay him the amount he asks for. His price will increase with each piece you commission.
+#After you pay ROCOCO, the art will be ready as soon as you exit Sprout Mole Village.
+#When you come back, ROCOCO will tell you that your new art is done and hanging in the gallery. After you check the painting, you can talk to him again. He will ask if you want to commission him for his next piece.
+
+#1st piece: Kid's Drawing
+#Cost: 1000 CLAMS
+
+message_70:
+    text: \"UNTITLED\"<br>\!- By The Great Artist, ROCOCO
+
+message_71:
+    text: \n<ARTIST COMMENTARY>\"Hey I'm just starting out, okay? Give me a break.\"
+
+#2nd piece: Gesture (WIP)
+#Cost: 5000 CLAMS
+message_72:
+    text: \"PEOPLE WITH FRUIT\"<br>\!- By The Great Artist, ROCOCO
+
+message_73:
+    text: \n<ARTIST COMMENTARY>"Behold my improvement!\! However, it is plain that I am still a student.\! I must shake off this novice energy for my next piece."
+
+#3rd piece: Cubist
+#Cost: 10000 CLAMS
+message_74:
+    text: \"LA FIESTA DE CUATRO\"<br>\!- By The Great Artist, ROCOCO
+
+message_75:
+    text: \n<ARTIST COMMENTARY>"As all great artists say... realism is boring!\! This is my most expressive piece yet!\! Can you feel my expression?"
+
+#4th piece: Manga Cover (WIP)
+#Cost: 15000 CLAMS
+
+message_76:
+    text: \"OMORI'S UNUSUAL ESCAPADES\"<br>\!- By The Great Artist, ROCOCO
+
+message_77:
+    text: \n<ARTIST COMMENTARY>"What!? Are you surprised?\! What are you saying, huh? Can't an artist change styles!?"
+
+#5th piece: Renaissance (WIP)
+#Cost: 25000 CLAMS
+
+message_78:
+    text: \"THE FINAL REVELATION\"<br>\!- By The Great Artist, ROCOCO
+
+message_79:
+    text: \n<ARTIST COMMENTARY>"I won't lie to you.\! I struggled with this one, but I think it turned out half-decent.\! My next work will be better!"
+
+#6th piece: Pixel Art (WIP)
+#Cost: 50000 CLAMS
+
+message_80:
+    text: \"OMORI, AUBREY, KEL, AND HERO\"<br>\!- By The Great Artist, ROCOCO
+
+message_81:
+    text: \n<ARTIST COMMENTARY>"My art has truly ascended with this masterpiece.\! I have finally captured you in your true essence.\! I can do nothing more for you."
+
+
+#NOT HAVING ENOUGH CLAMS
+
+message_1000:
+    text: \n<ROCOCO>Ah...\! I see that you are lacking in CLAMS.\! I am sorry, but my prices are firm...\! and I do not work for free!
+
+#THE SCULPTOR GATOR GUY:
+#In the construction area in LAST RESORT above MARI's picnic, there will be a sculptor working on a HERO statue. He will remain here until Epilogue after Hero becomes boss of Last Resort.
+
+#Before HERO is in party:
+message_90:
+      text: \n<GATOR GUY>Phew...\! I'm just about finished with our tribute to our employee of the century.<br><br>Look at me makin' statues and stuff...\! Never thought I could actually do it, but the boss always believed in me!
+
+#After HERO is in party:
+message_91:
+    text: \n<GATOR GUY>Hey HERO! Just finishing up your statue here per boss's orders.\! Lookin' pretty good, I might add...
+
+#After Hero becomes the boss, the Gator Guy will move to his work station.
+#Since Hero is the boss, the GATOR GUY will offer to make a statue of OMORI, AUBREY or KEL (since Hero will already be completed.)
+
+message_92:
+    text: \n<GATOR GUY>Hey, new boss!\! Always figured you'd take over the old man's work one day.\! Hope work's treatin' ya well.
+
+message_93:
+    text: \n<GATOR GUY>You four look like a tight-knit group, but your statue's lookin' a bit lonely there, HERO.
+
+message_94:
+    text: \n<GATOR GUY>If you want me to make all of you together, I can do that for ya...\! But I'm just a humble sculptor... ain't makin' the big bucks like you.
+
+message_95:
+      text: \n<GATOR GUY>Still, I owe the old boss a big favor.\! If you want me to work, you'd still have to pay for the cost of materials...\! somethin' like 3000 CLAMS each.
+
+message_96:
+    text: \n<GATOR GUY>So did you want me to make a statue of one of y'all?
+
+#[YES/NO]
+message_97:
+    text: \n<GATOR GUY>Who did you want me to make a statue of?
+
+#[OMORI/AUBREY/KEL]
+#
+message_98:
+    text: \n<GATOR GUY>Sounds good, boss!\! Y'all take a bit to do your own thing and come check back later!\! I'll make a new friend for you soon enough, boss.
+
+#[NO/NEVERMIND]
+
+message_99:
+      text: \n<GATOR GUY>Alright! Your call, boss...\! but from my humble point of view, I just think your statue could use some more friends.
+
+message_1002:
+      text: \n<GATOR GUY>Alright...\! Your call, boss...
+
+#Once you pay for your statue, it will be completed as soon as you exit the Last Resort building to Last Resort Entrance.
+
+#After you come back when the statue is complete:
+message_100:
+    text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
+message_101:
+    text: \n<GATOR GUY>Did you want me to make another friend?\!<br>It'll cost ya 3000 CLAMS.
+
+#After OMORI, AUBREY, and KEL statues are complete:
+
+message_102:
+      text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
+
+message_103:
+    text: \n<GATOR GUY>You know... I was talkin' to your friends at the picnic and I think they should be invited to this statue party!
+
+message_104:
+    text: \n<GATOR GUY>Did you want me to make another friend?\!<br>It'll cost ya 3000 CLAMS.
+
+message_105:
+      text: \n<GATOR GUY>Who did you want me to make a statue of?
+#[MARI/BASIL]
+
+#After completing MARI/BASIL statues:
+message_106:
+    text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
+
+#*GATOR GUY looks at statues*
+
+message_107:
+    text: \n<GATOR GUY>Dang... Now I'm the one feelin' lonely...\! If it's not too much to ask boss, do you think I'd be able to join your statue party?
+
+#After completing GATOR GUY statue:
+
+message_108:
+      text: \n<GATOR GUY>Well, it's done.\! This party is officially complete!
+
+#*GATOR GUY looks at statues*
+
+message_109:
+      text: \n<GATOR GUY>There's just nothin' like lookin' at the giant faces of all your friends together.
+
+message_110:
+    text: \n<GATOR GUY>Thanks for makin' me a part of this group, even if it's only as a statue.\! You guys are the real deal.
+
+message_111:
+    text: \n<GATOR GUY>Here's my phone number, boss.\! Just give me a call if you ever need some back-up.
+
+message_112:
+    text: HERO learned \c[1]GATOR AID\c[0]!
+#Skill Get common event
+
+#not enough CLAMS
+
+message_1001:
+    text: \n<GATOR GUY>You don't got enough CLAMS on you, boss!\! No worries, I can wait.\! I'm sure you could earn some real quick.
+
+#Statues
+
+message_1010:
+    text: An impressive statue of you.\!<br>It's weird to see your face so big.
+
+message_1011:
+    text: An impressive statue of AUBREY.\!<br>Her cheerful presence lights up the whole area.
+
+message_1012:
+    text: An impressive statue of KEL.\!<br>It captures his essence perfectly.
+
+message_1013:
+    text: An impressive statue of HERO.\! Wow...
+
+message_1014:
+    text: An impressive statue of MARI.\!<br>You never know what's hiding behind her mischevious smile.
+
+message_1015:
+    text: An impressive statue of BASIL.\!<br>Even as a statue, he's hiding his face behind a camera.
+
+message_1016:
+    text: An impressive statue of GATOR GUY.\!<br>Lookin' good...

@@ -1,0 +1,117 @@
+# =========================================================================================
+# Farawaytown: Kels Room
+# =========================================================================================
+
+#=========================Kels Room==============================
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelWhat's wrong, HERO?
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelOh... I know...\! There must be a spider in this room.\!<br>Don't worry, HERO! I gotchu!
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNow where is that pesky little...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kelA-ha! I got you now!
+
+#*squish SFX*
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelIt's alright now, HERO.\! You can take it easy.\!<br>The spider's gone!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her\}...\! Show it to me.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHuh?\! Did you say something, HERO?
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \herShow me the spider.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelOh, that's right.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHere, look.\! See?\! It's really dead.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelI'm going to go flush it down the toilet now, okay?
+
+#*KEL LEAVES THE ROOM*
+#*Toilet flush SFX*
+#*KEL comes back*
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]And... I'm back!\sinv[0]\! But the spider is gone!\! It's like magic!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ...
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ... ... ... ... ...
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHuff...\! Thank goodness...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHERO...\! I feel like your fear of spiders has gotten worse...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelYou should really try to work on that!\! What if a spider shows up when I'm not here?
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: \herGasp... Y-You really think that could happen?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMan, HERO...\! This is one of those rare times where I feel like the big brother!

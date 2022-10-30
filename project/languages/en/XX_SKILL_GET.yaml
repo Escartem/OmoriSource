@@ -1,0 +1,79 @@
+# =========================================================================================
+# UNTIL NEXT TIME
+# =========================================================================================
+
+#pluto.message_18
+
+message_28:
+    text: >
+      \pluHow was that for a smooth ride?
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: >
+      \herComfortable environment and relaxing music.<br>I'd give it five out of five stars.
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: >
+      \kelHuff... Huff...\! Says you! My arms are so sore.
+
+message_31:
+    text: >
+      \pluYou know, KEL. You did a really great job holding on for your life back there.
+
+message_32:
+    text: >
+      \pluI can see that you have the potential to be very strong!\!<br>Let me teach you a \c[1]SKILL\c[0] that might be of aid to you in<br>the future.
+
+message_33:
+    text: >
+      \pluAhem...\! Repeat after me.
+
+message_34:
+    text: >
+      \plu\Com[2]\{\Sinv[1]WHEN I \c[1]FLEX\c[0], I FEEL MY BEST!!\}
+
+message_35:
+    text: >
+      \pluNow you try.
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: >
+      \kel\Com[2]\{\Sinv[1]WHEN I \c[1]FLEX\c[0],\} I feel \}my...
+
+message_37:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: >
+      \kel\Sinv[1]Best?
+
+message_38:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: >
+      \kel\Com[2]\{HA! HOW WAS THAT!?\!<br>YEAH!! I'M FEELING PUMPED NOW!!
+
+message_39:
+    text: >
+      \plu\}Hm... Could use a little work.\! B-But...nevertheless...\{
+
+message_40:
+    text: >
+      \pluYou've definitely got the power within you.<br>Take this lesson and use it well.
+
+message_41:
+    text: >
+      \pluFarewell, children. Until next time.
+
+message_42:
+    text: >
+      KEL learned \c[1]FLEX\c[0]!
+
+message_43:
+    text: >
+      OMORI learned \c[1]OBSERVE\c[0]!

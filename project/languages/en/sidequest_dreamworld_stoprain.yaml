@@ -1,0 +1,180 @@
+
+# =========================================================================================
+# STOP THE RAIN
+# ========================================================================================
+
+#Talk to Potatogirl
+
+message_1:
+      text: \n<VEGGIE KID>\Com[2]Ahhhh!\! It is raining too hard!\!<br>It is making us slightly uncomfortable!
+
+message_2:
+      text: \n<VEGGIE KID>There is a mystical valve nearby which controls our rainfall, but only the CHOSEN ONE is able to turn it...
+
+message_3:
+      text: \n<VEGGIE KID>If no one helps us, we are doomed to be slightly uncomfortable forever!
+
+#EXTRA VEGGIE KID VILLAGERS:
+
+message_4:
+      text: \n<VEGGIE KID>We are slightly uncomfortable!\! Please make it stop!
+
+message_5:
+      text: \n<VEGGIE KID>I am slightly bothered by the amount of rain.
+
+message_6:
+      text: \n<VEGGIE KID>If only the rain were slightly lighter...
+
+message_7:
+      text: \n<VEGGIE KID>It is raining just a bit too much, don't you think?
+
+message_8:
+      text: \n<VEGGIE KID>I am uncomfortable.
+
+message_9:
+      text: \n<VEGGIE KID>This rain is slightly untolerable.
+
+message_10:
+      text: \n<VEGGIE KID>I am feeling a small amount of physical discomfort.
+
+message_11:
+      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 6.
+
+message_12:
+      text: \n<VEGGIE KID>Bleh!
+
+message_13:
+      text: \n<VEGGIE KID>Ick!
+
+message_14:
+      text: \n<VEGGIE KID>Yucky!
+
+message_15:
+      text: \n<VEGGIE KID>Ewwie!
+
+message_16:
+      text: \n<VEGGIE KID>Bleurgh!
+
+message_17:
+      text: \n<VEGGIE KID>Gross!
+
+#EXAMINE VALVE AS OMORI
+
+message_18:
+      text: Would you like to turn the valve slightly to the right or left?
+
+#[RIGHT/LEFT]
+#[RIGHT]
+message_19:
+      text: RIGHT
+#RAIN BECOMES lighter
+#Song changes to Puddles
+
+message_20:
+      text: The rain is slightly lighter now.
+
+#[LEFT]
+message_21:
+      text: LEFT
+#[Screen turns black.]
+
+message_45:
+      text: The rainfall intensifies and floods \c[11]RAIN TOWN\c[0].\!<br>\c[11]RAIN TOWN\c[0] and its inhabitants were never heard from again.
+
+#[Party teleports to Oasis.]
+
+message_46:
+      text: You are the hero of \c[11]RAIN TOWN\c[0]!
+
+#EXAMINE VALVE AS anyone else
+
+#[RIGHT/LEFT]
+message_22:
+      text: It won't budge.
+
+#Talk to Potatogirl after adjusting Valve
+message_23:
+      text: \n<VEGGIE KID>The rain has been adjusted!\! Neat!\!<br>Thank you, CHOSEN ONE!\!<br>We will remember your act of kindness forever.
+
+#TOMATO KID walks up
+message_24:
+      text: \n<VEGGIE KID>What's that, child?\! You want to go with them?\! Are you sure?
+
+#VEGGIE KID (Tomato) turns to VEGGIE KID (Potato).
+
+message_25:
+      text: \n<VEGGIE KID>If that is your wish...
+
+message_26:
+      text: \n<VEGGIE KID>CHOSEN ONE...\! This child wishes to join you on your quest.\!<br>She is yours now.\! Please take good care of her.
+
+message_27:
+      text: You got a \c[13]VEGGIE KID\c[0].
+
+#Potato speaking:
+message_28:
+      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+
+#QUEST complete
+
+#After quest dialogue
+
+#talk to potatogirl
+message_29:
+      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+
+#extra veggie kid VILLAGERS
+
+message_30:
+      text: \n<VEGGIE KID>The rain is at a perfect intensity right now!
+
+message_31:
+      text: \n<VEGGIE KID>Ahh...\! so...\! comfortable...
+
+message_32:
+      text: \n<VEGGIE KID>I am satisfied by the amount of rain.
+
+message_33:
+      text: \n<VEGGIE KID>The rain is comfortable now that it's slightly lighter...
+
+message_34:
+      text: \n<VEGGIE KID>It is raining the perfect amount, don't you think?
+
+message_35:
+      text: \n<VEGGIE KID>I am comfortable.
+
+message_36:
+      text: \n<VEGGIE KID>This rain feels great!
+
+message_37:
+      text: \n<VEGGIE KID>I am feeling comfortable.
+
+message_38:
+      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 1.
+
+message_39:
+      text: \n<VEGGIE KID>Hurray!
+
+message_40:
+      text: \n<VEGGIE KID>Feels good!
+
+message_41:
+      text: \n<VEGGIE KID>Yahoo!
+
+message_42:
+      text: \n<VEGGIE KID>Huzzah!
+
+message_43:
+      text: \n<VEGGIE KID>Whoopee!
+
+message_44:
+      text: \n<VEGGIE KID>Yay!
+
+message_50:
+      text: The surface of the water is shimmering.
+
+message_51:
+      text: Do you want to stare at it intently?
+
+message_52:
+      text: The surface of the water is emitting a dark energy.

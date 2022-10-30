@@ -1,0 +1,156 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============WHITE SPACE / Neighbors Room ========================================
+                        #====NIGHT 1-1====
+
+#Black Cat
+#Location: White Space, asleep
+message_0:
+      text: The black cat is fast asleep.
+
+#EYE in the shelf
+#Location: Neighbors room, inthe shelf
+message_1:
+      text: You feel like you are being watched.
+
+#SNAKE
+#Location: Neighbor's Room, on the staircase
+message_2:
+      text: \sinv[1]Sssssssssssss?\sinv[0]\! (Waiting for something to happen?)
+
+# ==============FOREST PLAYGROUND========================================
+                        #====NIGHT 1-1====
+
+#Bangs
+#Location: Forest Playground
+message_10:
+      text: \banHaving fun takes too much effort, so watching my friends have fun is enough for me.
+
+#Bun
+#Location: Forest Playground
+message_11:
+      text: \bunNOSE is my best friend.\!<br>She can't say much, but she's really smart!
+
+message_12:
+      text: \daiS-sorry, can you please not go this way?<br>I'm picking flowers \}for someone special...
+
+message_13:
+      text: \daiI picked some flowers \}for someone special...<br>I hope he likes it...
+
+#After Headbutt Quest
+message_14:
+      text: \berCome on, VAN.\! Put your head into it!
+
+message_15:
+      text: \n<BROWS>\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!
+
+message_16:
+      text: \hapHop! \}And-a-\{Hop! \}And-a-\{Hop! Hop! Hop!
+
+# ==============HEADBUTT=======================================
+
+message_20:
+      text: \berHey, dudes! Thanks for getting my ball back.\!<br>As you can see, I'm putting it to good use!
+
+message_21:
+      text: \n<VAN>Yup, she sure is.
+
+message_22:
+      text: \berI was thinkin'...\! Since you were all so kind to help me out,<br>I'm gonna be generous and teach you my special \c[1]SKILL\c[0].
+
+message_23:
+      text: \berBut first, I got a question for y'all...
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \kelWell, \{duh!\} That'd have to be \n[2]!
+
+message_25:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub\Com[2]\{What did you say!?
+
+message_26:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \kelWhoa, chill out!\!<br>No \{hard\} feelings... get it?
+
+message_27:
+      text: \berHeh.\! That sounds about right!
+
+message_28:
+      text: \berAlright \n[2], I'm gonna teach you a \c[1]SKILL\c[0], just between hard-headed folk like us.
+
+message_29:
+      text: \berIt's my specialty... \c[1]HEADBUTT\c[0]!<br>\!It's simple really. You just run up to someone and...
+
+message_30:
+      text: \Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!
+
+message_31:
+      text: \berNow you try.
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubThat looks like it would hurt...\!<br>And also mess up my hair.\!<br>And also ruin my bow.
+
+message_33:
+      text: \berOh come on, \n[2]! Live a little!<br>Having messy hair never hurt anyone.\!<br>\n[4] is living proof of that.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \herYeah, you bet!
+
+message_35:
+      text: \berWhy don't you give it a shot?
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubHmph! Fine...
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubBut if I'm doing this... I'm gonna give it all I got!
+
+message_38:
+      text: \Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubErughh...
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubUh-oh... \! I feel... dizzy...
+
+message_41:
+      text: \ber\{whoa! Nice one!!\}<br>I knew I saw talent in you.
+
+message_42:
+      text: \ber\{Congratulations!!\}<br>You passed the test with flying colors!
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub...Huh?\! What's happening?
+
+message_44:
+      text: \berFrom this day forth...<br>I hereby declare you a bonafide \c[1]HEADBUTTER\c[0].
+
+message_45:
+      text: \berHere, take this certificate.<br>Show your friends. I'm sure they'll be proud!
+
+message_46:
+      text: AUBREY learned \c[1]HEADBUTT\c[0].
+
+message_47:
+      text: You got a \c[4]BUTT CERTIFICATE\c[0].

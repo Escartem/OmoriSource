@@ -1,0 +1,12 @@
+{ "columns":30,
+ "image":"..\/img\/tilesets\/FA_UpperHouses_Rain.png",
+ "imageheight":888,
+ "imagewidth":960,
+ "margin":0,
+ "name":"FA_UpperHouses_RAIN",
+ "spacing":0,
+ "tilecount":810,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

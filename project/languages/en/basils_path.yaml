@@ -1,0 +1,556 @@
+#========================================================================================================================
+
+#BASIL'S PATH DIALOGUE
+
+#========================================================================================================================
+#UGLY PLANT CREATURE
+#========================================================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWhoa!\! What's that ugly plant creature?
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubDon't you know, KEL?\! That's a SPROUT MOLE!
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubSPROUT MOLES are highly intelligent creatures, but become dangerously vicious when they are lost.
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHey, MR. SPROUT MOLE! Are you doing okay there?
+
+#SPROUT MOLE does Question Mark
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basA-Are you lost by any chance?
+
+#SPROUT MOLE turns to PARTY. then vibrates. Then runs toward party.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herUh-oh...\! I guess we got our answer!
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\Com[2]Watch out, everyone! He's heading right toward us!
+
+#========================================================================================================================
+#UGLY PLANT CREATE - AFTER BATTLE
+#========================================================================================================================
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basPhew...\! Is everyone okay?
+
+message_11:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basSorry...\! Lately there've been a lot of LOST SPROUT MOLES around here.\! I don't really like to fight, but I'm sure everything will be okay now that you're here.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubDon't worry, BASIL!\! We'll take care of things from here!
+
+#========================================================================================================================
+#BESTIARY
+#========================================================================================================================
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herHey, OMORI!\! Now that we're getting the hang of battling...\! Here's a journal where we can keep track of any neat foes we come across.
+
+message_16:
+      text: HERO gave you the \c[4]FOE FACTS!\c[0] journal.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herThere, now it's in your POCKET.\! The journal is yours to record with, but we might pitch in sometimes too!
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herCheck it out through your POCKET in the PLAYER MENU by pressing \DII[escape].
+
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 1
+#========================================================================================================================
+
+#SUNFLOWER
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basCome over here, guys! I want to show you all something.
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basThese are sunflowers.\! They're called that because they always face towards the sun.
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basThat's how I want to be like...\! someone who always sees the bright side of things.
+
+#LILY
+
+message_23:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basThese flowers are called lily of the valley.\! It's said that they're able to ward off evil spirits and help people see a brighter future...
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI guess that's why they remind me of MARI!\!<br>I can always count on her to help me stay positive!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - ANGRY
+#========================================================================================================================
+
+#SPROUT MOLE STOMPING
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOh, no! It's another LOST SPROUT MOLE!
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]Please, MR. SPROUT MOLE! Stop that!<br>You're stomping over all the flowers...
+
+#SPROUT MOLE STOMP HARDER
+#SPROUT MOLE RAMS INTO PARTY
+
+#message_32:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \herUh-oh!\! It's no use, BASIL...\!<br>It looks like this SPROUT MOLE is ANGRY.
+
+#message_33:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herMuch like us, SPROUT MOLES also feel EMOTION.\! Since this sprout mole is ANGRY, its attacks are stronger... but in its recklessness, also leaves itself wide open.
+
+#message_34:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 2
+#      text: \aubRight!\! So what HERO is saying is that now is the perfect time for us to stop him!
+
+#message_35:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 3
+#      text: \aubDon't worry about a thing, BASIL! We'll save your flowers!\!<br>Come on, OMORI! Let's get em!
+
+#AFTER BATTLE
+
+message_36:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAh...\! Most of the flowers are unharmed...\! That's a relief!
+
+message_37:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basWe're almost at my house.\! Let's keep going down this path!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 2
+#========================================================================================================================
+
+#ROSE
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basThese are roses!<br>Can you guess who they remind me of?
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas...\! They remind me of HERO!\! Did you guess correctly?
+
+message_42:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basRoses come in many different colors and have their own unique meanings.
+
+message_43:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basPink roses symbolize admiration... Orange roses symbolize passion... Yellow roses symbolize friendship... and the list goes on!
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHERO doesn't remind me of any rose in particular.\!<br>I think HERO is like all roses, because he's versatile and universally loved!
+
+#GLADIOLUS
+
+message_45:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAh!\! These are a type of flower called the gladiolus!
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelThe gladio-what?
+
+message_47:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basGladiolus! Also known as the “sword flower”!
+
+message_48:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basAs you might guess, they represent strength of character.\! Someone who is honest, with strong moral values...\! Someone who stands by their convictions...
+
+message_49:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basThe gladiolus reminds me of AUBREY, because she's always true to herself!
+
+message_50:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelOh, I see...<br>\!So what you're saying is that AUBREY is really stubborn!
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubHey! No, I'm not!
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHaha...\! Okay! Let's move on!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - HAPPY
+#========================================================================================================================
+
+#SPROUT MOLE TWIRLING
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]Oh no, not again!\! Please, MR. SPROUT MOLE! Stop twirling!\! You're destroying all of the flowers!
+
+#SPROUT MOLE TWIRLS HARDER
+#SPROUT MOLE TWIRLS INTO PARTY
+
+#message_61:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herHmm... Let's see...\! From what I can gather, this SPROUT MOLE looks like its HAPPY!<br><br>As it flails around in its frenzy, it has a higher chance to hit our weak spots and do more damage, but it also means it has a higher chance of hitting nothing!
+
+#message_62:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: \aubCome on, OMORI!<br>We have to stop it before it squishes all the flowers!
+
+#message_63:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelLet's show this ugly plant creature who's boss!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 3
+#========================================================================================================================
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWhoa! What are these flowers called? They're all cool and spiky!
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basActually, KEL... This is a cactus!\! It's more of a plant than a flower...\! and it's funny that you ask, because they remind me of you!
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubIs it because...\! he's a prick?
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHey!
+
+message_74:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basWell...\! That too, but mostly because cacti are very sturdy and resilient plants by nature.<br><br>They don't need much care and can survive even in seemingly impossible conditions!
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI guess what I'm saying... is that even you could take care of a cactus, KEL!
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelWhoa, neat!\! Cacti are awesome!
+
+message_77:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAh...\! These are white tulips.\!<br>Plain, simple, and bulbous... just like OMORI!
+
+message_78:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basI don't know... I just think it's cute.
+
+#========================================================================================================================
+#BASIL PATH - SAD FLOWER DAYS
+#========================================================================================================================
+
+message_200:
+      text: \basThese are sunflowers.\! They're called that because they always face towards the sun.
+
+message_201:
+      text: \basThat's how I want to be like...\! someone who always sees the bright side of things.
+
+message_202:
+      text: \basThese flowers are called lily of the valley.\! It's said that they're able to ward off evil spirits and help people see a brighter future...
+
+message_203:
+      text: \basI guess that's why they remind me of MARI.\!<br>I can always count on her to help me stay positive.
+
+message_204:
+      text: \basRoses come in many different colors and have their own unique meanings.
+
+message_205:
+      text: \basPink roses symbolize admiration... Orange roses symbolize passion... Yellow roses symbolize friendship... and the list goes on.
+
+message_206:
+      text: \basHERO doesn't remind me of any rose in particular.\!<br>I think HERO is like all roses, because he's versatile and universally loved.
+
+message_207:
+      text: \basThese are a type of flower called the gladiolus, also known as the “sword flower”.
+
+message_208:
+      text: \basAs you might guess, they represent strength of character.\! Someone who is honest, with strong moral values...\! Someone who stands by their convictions...
+
+message_209:
+      text: \basThe gladiolus reminds me of AUBREY, because she's always true to herself.
+
+message_210:
+      text: \basCacti are very sturdy and resilient plants by nature.\! They don't need much care and can survive even in seemingly impossible conditions.
+
+message_211:
+      text: \basI guess what I'm saying... is that even you could take care of a cactus, KEL...
+
+message_213:
+      text: \basAnd these...\! These are white tulips.\! Tulips aren't very flashy plants.\! They're not too big or small, not too elaborate or flamboyant.
+
+message_214:
+      text: \basIf I could put it in another way...\! I guess I would say that...\! they're comfortable.\! Simple, modest, and perfect.\!<br>Just like \n[8].
+
+
+
+
+#========================================================================================================================
+#BATTLE TUTORIAL - SAD
+#========================================================================================================================
+
+#SPROUT MOLE staying still on top of a flower
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAh! Not another SPROUT MOLE!
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelIt's all good, BASIL!\! We got the hang of this by now!
+
+#KEL WALKS UP TO SPROUT MOLE AND TAPS IT. SPROUT MOLE TURNS AROUND. PROCS BATTLE.
+
+#message_X:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herHmm...\! Judging by the looks of it, this SPROUT MOLE seems a bit SAD...<br><br>See how it's curled up in the fetal position?\!<br>That means it takes less damage to its HEART, but it also loses a bit of JUICE in its place...
+
+#message_82:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 19
+#      text: \kelLet's just put it out of its misery!
+
+#message_83:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 11
+#      text: \aubWait, what?
+
+#message_84:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelCome on, OMORI! You know what to do!
+
+#========================================================================================================================
+#YE OLD SPROUT
+#========================================================================================================================
+
+#Before seeing anything, hear stomping noises and then a quake like something sat down.
+
+
+
+#Happens in the middle of the battle
+#Party members facing YE OLD SPROUT blocking the entrance to BASIL's house in order from left to right: OMORI, AUBREY, KEL, HERO. BASIL standing behind them.
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOh man, this fight is pretty tough...\! But don't worry!<br>We can do this if we work together!
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herIt looks like I'm going to have to teach you all a little bit about teamwork!\! Let's try again, OMORI!<br>We'll get him this time!
+
+#========================================================================================================================
+#WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
+#========================================================================================================================
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basP-Please don't step on the flowers!
+
+#[Player moves one step back]
+
+message_93:
+      text: A flower.
+
+#========================================================================================================================
+#MISC
+#========================================================================================================================
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHold on, OMORI! BASIL's house isn't this way!
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubWhere are you going, OMORI?\!<br>Let's help BASIL sort his \c[4]PHOTO ALBUM\c[0]!
+
+message_102:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAre you ready to put back the photos, OMORI?\!<br>I'll wait here until you're ready.
+
+
+
+#========================================================================================================================
+#SKILL DESCRIPTION
+#========================================================================================================================
+
+#short pause
+
+message_156:
+      text: BASIL's \c[4]PHOTO ALBUM\c[0].\! His most precious belonging.
+
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herAnd there you have it...\! HERO's BATTLE TUTORIAL 101!\! And I'm sure that as we fight more battles, our teamwork will improve overtime!
+
+message_157:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Wow, you guys!\! That was so amazing!\bas
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Ah, that was nothin'... Heh, heh.\! I've taken down way bigger guys than that!\! I should teach you some of my \c[1]SKILLS\c[0] one of these days!\kel
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: BASIL... I know you're not the type that likes to fight...\! but it's good to know how to defend yourself too!\aub
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: You know...\! I've actually been working on a book all about battles!\! Maybe we can all study together next time.\! I'll give it to OMORI to hold onto for now. \her
+
+message_169:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herAs we get stronger, I'll be updating the FOLLOW-UP section of the \c[4]SELF-HELP GUIDE\c[0], so be sure to check it out every now and then!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: OMORI, you should know...\! When we gain EXP and LEVEL UP, sometimes we'll also learn \c[1]SKILLS\c[0].\her
+
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \c[1]SKILLS\c[0] are powerful and have a wide range of effects, but each of us can only remember up to 4 \c[1]SKILLS\c[0] at a time.\her
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: After you learn a new \c[1]SKILL\c[0], don't forget to equip it from the PLAYER MENU, okay?\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Yeah, yeah... We know!\! Can we go to BASIL's house now?\kel
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Okay! That's all I had to say!\! Patience, KEL...\her
+
+#========
+#EMOTION
+
+#=======
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmmm...\! We seem to be running across a lot of foes with EMOTION.\her
+
+message_166:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herIn case you didn't know, EMOTIONS can determine how strong or weak an attack is.\! HAPPY beats ANGRY...\! ANGRY beats SAD...\! and SAD beats HAPPY!
+
+message_167:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Here! I even drew up a guide on how they work!\! I'm no artist, but I think you'll get the point.\! I'll put it in your POCKET so you can check it out later.\her
+
+message_168:
+      text: You got an \c[4]EMOTION CHART\c[0].
+
+message_170:
+      text: Do you want to look at the \c[4]EMOTION CHART\c[0] now?

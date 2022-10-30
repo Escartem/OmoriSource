@@ -1,0 +1,32 @@
+
+
+# =========================================================================================
+# MINI-GAME: Blackjack
+# =========================================================================================
+
+message_0:
+  text: Game Over
+
+message_1:
+  text: You do not have $
+
+message_2:
+  text: You have $
+
+message_3:
+  text: <br>How much do you want to bet?
+
+message_4:
+  text: Winning Streak -
+
+message_5:
+  text: Dealer
+
+message_6:
+  text: Player
+
+message_7:
+  text: <br>How much do you want to bet?
+
+message_8:
+  text: <br>You leave the table with $

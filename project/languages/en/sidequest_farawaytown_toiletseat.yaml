@@ -1,0 +1,17 @@
+
+# =========================================================================================
+# Sidequest: Toilet Seat
+# =========================================================================================
+
+#Examine toilet seat
+message_0:
+      text: The toilet seat is up.\! Move it down?
+
+#yes/no
+
+#if yes
+message_1:
+      text: You moved the toilet seat down.
+
+message_2:
+      text: ...\! You threw up.

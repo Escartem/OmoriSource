@@ -1,0 +1,213 @@
+
+# =========================================================================================
+# Hidden Library
+# ========================================================================================
+
+#Messages in Hidden Library
+
+message_0:
+      text: You find a book of interest.\! Read an excerpt?
+
+#========================================================================================
+# THE RIDE HOME
+#========================================================================================
+
+message_1:
+      text: \"One by one, they fell asleep on the car ride home.\! <br>It was a long day at the beach, after all, and everyone<br>was exhausted.\"
+
+message_2:
+      text: \"☐☐☐ was the first to nod off, then the rest.\"
+
+message_3:
+      text: \"As the sun set over the freeway, ☐'s head <br>accidently drops onto ☐☐☐☐☐☐'s shoulder.<br><br>The sudden jolt wakes him,<br>but he doesn't dare open his eyes.\"
+
+message_4:
+      text: \"He pretends to be asleep and steadies his breathing.\! <br>He listens to the sound of the road.\"
+
+message_5:
+      text: \"He feels the soft sun resting on his skin, and the slight tinge of pain on his nose from tomorrow's sunburn.\"
+
+message_6:
+      text: \"He is happy...\! very, very happy...\! <br>And he makes a vow to himself, that no matter what,<br>he will remember this moment forever.\"
+
+
+#========================================================================================
+# Tracks:
+#========================================================================================
+
+message_20:
+      text: \"A puddle of juice sinks into the carpet.\"
+
+message_21:
+      text: \"Hovering above it is none other than ☐☐☐, holding <br>an open juice box.\"
+
+message_22:
+      text: \"He looks around at his friends, who are all wearing the same face of disappointment.\! He lets out a guilty chuckle.\"
+
+message_23:
+      text: \"In what seems like less than a second, <br>☐☐☐ disappears out the front door.\"
+
+message_24:
+      text: \"A tiny black kitten makes her way through the stain, leaving sloppy, wet tracks all across the carpet.\"
+
+message_25:
+      text: \"☐☐☐☐'s face turns red and yells for ☐☐☐, <br>but ☐☐☐ is already long gone.\"
+
+message_26:
+      text: \"☐☐☐☐ hands ☐☐☐☐ some wet paper towels.\"
+
+message_27:
+      text: \"It looks like they're the only adults here...\! and if they don't clean this up soon, the carpet is going to stain.\! They'll have to deal with ☐☐☐ later...\"
+
+
+#========================================================================================
+# Hottest Day of Summer:
+#========================================================================================
+
+message_40:
+      text: \"It was a hot, summer day, and all ☐ could think about was why they couldn't do this tomorrow.\"
+
+message_41:
+      text: \"The backyard was a mess.\"
+
+message_42:
+      text: \"Planks of wood were strewn about the area.\! <br>Paint stains blotched the grass thanks to ☐☐☐☐☐ and ☐☐☐☐☐☐'s work.\"
+
+message_43:
+      text: \"All day, ☐ watched ☐☐☐☐ lug planks of wood back and forth from his dad's pickup truck.\"
+
+message_44:
+      text: \"He watched ☐☐☐ hammer his fingers over and over, and made note that over an hour has passed since ☐☐☐☐ has climbed down her ladder.\"
+
+message_45:
+      text: \"'I will just be their moral support.', ☐ thought, as he sat sleepily in the shade of his favorite tree.\"
+
+message_46:
+      text: \"Of course, he knew this wouldn't be the case.\"
+
+message_47:
+      text: \"Soon his friends will be asking for his help, and he won't be able to refuse.\"
+
+message_48:
+      text: \"The treehouse is for everyone, so it's only fair that everyone puts some work into it.\"
+
+message_49:
+      text: \"☐ knows this and agrees...\! but reluctantly.\!<br>He slides up and wobbles his way to the mess.\"
+
+message_50:
+      text: \"He knows he should put in his fair share.\!<br>It just had to be on the hottest day of summer.\"
+
+#========================================================================================
+# School Day:
+#========================================================================================
+
+
+message_70:
+      text: \"This year, ☐ was lucky enough to get assigned to a desk next to the small window.\"
+
+message_71:
+      text: \"Every day during class, ☐ would gaze listlessly through the opening...\! at the shadows of the trees, the clouds creeping overhead.\"
+
+message_72:
+      text: \"His mind drifted elsewhere...\! into his own worlds, his own stories, his own adventures.\"
+
+message_73:
+       text: \"He had a habit of doing this.\!<br>It was easy for him to get lost.\"
+
+message_74:
+      text: \"Today was the same as any other.\! ☐ stared vacantly out the small window as the clouds passed one by one.\"
+
+message_75:
+      text: \"Suddenly, a hand playfully slaps his back, snapping him out of his reverie.\! ☐ looks away from the opening.\"
+
+message_76:
+      text: \"☐☐☐ smiles.\! He motions that class is over and that it's finally time for lunch.\! It's pizza day today, and they <br>need to bolt to the cafeteria before it's all gone.\"
+
+message_77:
+      text: \"☐'s stomach growls.\! He looks at the small window one last time.\"
+
+message_78:
+      text: \"He would have to continue his adventure another day.\"
+
+
+#========================================================================================
+# Statue at the Lake:
+#========================================================================================
+
+
+message_90:
+      text: \"It's sunset.\! A strange statue watches over the hidden lake.\! It might have meant something significant in the past, but time has made it's engravings illegible.\"
+
+message_91:
+      text: \"Either way, it doesn't matter to the company visiting <br>it today.\! They're only here to use it as a diving board.\"
+
+message_92:
+      text: \"The brothers take turns jumping off the statue.\"
+
+message_93:
+      text: \"☐☐☐☐ jumps first.\! Then, ☐☐☐.\! <br>Then ☐☐☐☐ again.\! Then ☐☐☐ again.\"
+
+message_94:
+      text: \"The brothers gleefully urge ☐ to join them, and after some careful thought, ☐ warily agrees.\"
+
+message_95:
+      text: \"☐ shuffles up the statue, and looks down at the moving water.\! He can hear his heartbeat.\! His ears begin to ring.\"
+
+message_96:
+      text: \"His legs feel as if they would give out at any time.\! He tries to focus on his breathing...\"
+
+message_97:
+      text: \"He feels something crawling on his shoulder and his eyes fly open to meet with those of a black spider.\"
+
+message_98:
+      text: \"In an instant, ☐ loses all sense and hurls himself into the lake.\! Water fills his nose.\! He exerts his limbs, but the water is stronger.\"
+
+message_99:
+      text: \"He's too weak, too helpless...\! or that is what he believes.\"
+
+message_100:
+      text: \"☐ shuts his eyes...\! <br>and waits for the brothers to save him.\"
+
+#========================================================================================
+# Saturday Morning Cartoons:
+#========================================================================================
+
+message_110:
+      text: \"Everyone is over again today.\!<br>The special occasion is Saturday morning.\"
+
+message_111:
+      text: \"From 7:00AM to 11:00AM, a group of six friends eat a delicious homemade breakfast and watch T.V. together.\"
+
+message_112:
+      text: \"It's the most enjoyable part of every week.\"
+
+message_113:
+      text: \"☐ looks at the clock.\! 8:00AM.\! Two hours left.\"
+
+message_114:
+      text: \"He would be able to watch with everyone else until 10:00AM, when his tutor arrives.\"
+
+message_115:
+      text: \"☐ grimaces.\! What he thought would be a rewarding hobby has been nothing more than a nuisance.\"
+
+message_116:
+      text: \"Instead of watching the shows with the rest of his friends, he'll be the only one to miss out.\"
+
+message_117:
+      text: \"If only he could watch the last hour with everyone else.\"
+
+message_118:
+      text: \"If only he didn't have to play the violin...\"
+
+#========================================================================================
+# Piano Room
+#========================================================================================
+
+message_200:
+      text: Something opened.
+
+message_220:
+      text: Mountains of books, forgotten through time.\!<br>The keepers of this library have long since passed.
+
+message_221:
+      text: The wall feels hollow here.

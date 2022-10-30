@@ -1,0 +1,454 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - DAY
+#=========================================================================================
+
+# ===================Basil================
+#Examine BASIL's House Door.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hmm...\! No one is answering...\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Maybe BASIL is in the bathroom or something.\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Well, that's okay. We can catch up with him later.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: C'mon, \n[8]! We got a \c[4]PHOTO ALBUM\c[0] to find!\kel
+
+#===============ANGEL=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
+
+message_10:
+      text: \n<ANGEL>Teacher went to the fountain at the \c[11]FARAWAY PLAZA\c[0].\!<br>He said he was going to meet some girls there for...\!<br>a date or something...
+
+#===============CHARLIE=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
+
+message_20:
+      text: \n<CHARLIE>...
+
+message_21:
+      text: \n<CHARLIE>... ... ...
+
+#===============MAVERICK=====================
+
+#Location: Town Plaza
+
+message_30:
+      text: \n<MAVERICK>I won't tell you where AUBREY is unless you call me<br>\Com[2]THE MAVERICK!
+
+
+#===============ARTIST=====================
+
+#Location: Artist's house - Agree with me! Quest
+
+message_40:
+      text: \n<ARTIST>Hmmm...\! This piece may be my best work yet!
+
+#===============SHORT HAIR GIRL=====================
+
+#Location: Town Plaza (Near the fountain)
+
+message_50:
+      text: \n<SHORT HAIR GIRL>I just made a wish that I would meet my one true love today!
+
+#After Cutscene: The Maverick's Loss
+
+message_51:
+      text: \n<SHORT HAIR GIRL>Wow...\! That boy with the blonde wig is so cool...\!<br>I wish I had his confidence.
+
+
+#===============FASHIONABLE MOM=====================
+
+#Location: Supermarket
+
+message_60:
+      text: \n<FASHIONABLE MOM>My son BILLY is such a stickler for the environment.\! He and his friends are always picking up \c[4]TRASH\c[0] around the town.
+
+message_61:
+     text: \n<FASHIONABLE MOM>It's good to see so many young people these days taking care of the planet!
+
+#===============STRANGE MAN=====================
+
+#Location: Supermarket
+
+message_70:
+      text: \n<STRANGE MAN>All the containers in this section can be recycled to create new containers over and over and over again...\!<br>Such a beautiful concept, isn't it?
+
+#===============SCHOOL PRINCIPAL=====================
+
+#Location: BRENT'S HOUSE
+
+message_80:
+      text: \n<SCHOOL PRINCIPAL>Well done, tutor...\! Feel free to come back tomorrow!
+
+#===============OLD BEARDY=====================
+
+#Location: GINO'S PIZZA
+
+message_90:
+      text: \n<OLD BEARDY>Aye, kiddos. You caught me on my break!
+
+message_91:
+      text: \n<OLD BEARDY>\SINV[2]GW\{AH\{AHA\{HAH\{AHA!!\SINV[0]
+
+message_92:
+      text: \n<OLD BEARDY>I've been trying to decide what to eat for a good ten minutes, but I don't know why I'm fussin' so much...
+
+message_93:
+      text: \n<OLD BEARDY>Whatever I get is sure to be good!
+
+#===============After completing Medication Quest: Charlie's Mom=====================
+
+#Location: Other street in front of her HOUSE
+
+message_100:
+      text: \n<YELLOW BUN GRANNY>My youngest daughter is usually so attentive of me...\! I wonder where she is.
+
+message_101:
+      text: \n<YELLOW BUN GRANNY>She's always been pretty quiet, but she's made a lot of new friends recently.\! I hope she doesn't forget about me...
+
+#===============CRIS'S DAD=====================
+
+#Location: Where's the Remote? Couch in Cris's HOUSE
+
+message_110:
+      text: ALL-AMERICAN GUY's eyes are fixated on the TV.
+
+message_111:
+      text: \n<ALL-AMERICAN GUY>\Com[2]Number 85 was wide open!\! \Com[2]What kind of pass was that!?
+
+#===============CRIS'S MOM=====================
+
+#Location: CRIS'S HOUSE in the kitchen
+
+message_120:
+      text: \n<ALL-AMERICAN MOM>Did you enjoy the pie?\!<br>I'm working on perfecting my recipe for the summer-end county fair!
+
+message_121:
+      text: \n<ALL-AMERICAN MOM>I've won every year I've entered so far, and I hope this year won't be any different!\! Ohoho!
+
+#===============CURTSEY=====================
+
+#Location: CANDY SHOP
+
+message_130:
+      text: \n<CUTE GIRL>Welcome!\! We hope our \c[3]CANDY\c[0] makes you smile!
+
+message_131:
+      text: \n<MISS CANDICE>\{\com[2]I TOLD YOU, CURTSEY!\! IT'S \sinv[1]\"SMILEY\"\sinv[0]!\!
+
+message_132:
+      text: \n<MISS CANDICE>\{\{\quake[1]\sinv[1]\"S\.M\.I\.L\.E\.Y\.!\"\sinv[0]
+
+message_133:
+      text: \n<CUTE GIRL>Y-Y-Y-Y-Y-Yes, ma'am!
+
+message_134:
+      text: \n<CUTE GIRL>Welcome!\! We hope our \c[3]CANDY\c[0] makes you smiley!
+
+
+#===============Daphne & Bowen=====================
+
+#Location: Supermarket, working at the Bakery
+
+message_140:
+      text: \n<A TWIN>\SINV[1]Fresh bread...\SINV[0]
+
+message_141:
+      text: \n<THE OTHER TWIN>\SINV[1]Fresh bread...\SINV[0]
+
+message_142:
+      text: \n<THE TWINS>\SINV[1]Would you like some fresh bread?\SINV[0]
+
+#===============Gino=====================
+
+#Location: Gino's Pizza: Sitting at table
+
+message_150:
+      text: \n<GLASSES MAN>Hello, hello!\! My name is GINO!
+
+message_151:
+      text: \n<GLASSES MAN>I know what you're thinking, and no... I don't own this place...\! but they give me a free \c[3]WHOLE PIZZA\c[0] for my birthday every year, so that's pretty cool.
+
+#===============Hector (Dog)=====================
+
+#Location: Player's Street
+
+message_160:
+      text: \n<HECTOR>\quake[1]\Com[2]Bark! \{Bark! \{Bark!\}\} Bark!\! \{Bark! \}Bark! \}Bark!\quake[0]<br>\!(I'm a good boy!)
+
+#===============JOCK=====================
+
+#Location: FARAWAY PARK, running around the basketball court
+
+message_170:
+      text: \n<JOCK>Huff...\! Huff...\! Oh, hey!\! What's up?\! Huff...\!<br>What are you doing here, KEL?<br>You from around this part of town?
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh, whoa! I didn't expect to see you here, JAY!
+
+message_172:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kel\n[8], this is JAY. He's the captain of the football team at my high school!\! I didn't know you played basketball too!
+
+message_173:
+      text: \n<JOCK>Ehh...\! Huff...\! I'm just here to kill time.\! It's more of a hobby than anything.
+
+message_174:
+      text: \n<JOCK>You're trying out for the basketball team this year, right KEL?\! Maybe you can teach me some of your tricks!
+
+message_175:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelYeah, definitely! That sounds like fun...
+
+message_176:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelBut... maybe another time.\! My childhood friend \n[8] here is leaving town in the next few days so we're hanging out all day today.
+
+message_177:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelI'll definitely catch up with you later, though!
+
+message_178:
+      text: \n<JOCK>Sure, we can set something up next week.\!<br>Same time, same place?
+
+message_179:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelYup! Sounds good! See you then!
+
+#After talking again
+
+message_180:
+      text: \n<JOCK>Huff...\! Huff...\! Huff...\! Huff...
+
+
+#===============JESSE'S DAD=====================
+
+#Location: FARAWAY PARK, sweeping the ground
+
+message_190:
+      text: \n<WRINKLY FOREHEAD>Hey, pals! It's good to see you.\! Just going around sweeping,  picking up \c[4]TRASH\c[0], and wiping down surfaces...\!<br>You know...\! the usual job.
+
+message_191:
+      text: \n<WRINKLY FOREHEAD>Sigh...\! There's so much cleaning to do...\! It's just not possible for one person!
+
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's House - Tutoring Joy Quest
+
+#After completing Tutoting joy quest
+message_200:
+      text: \n<SMALL GIRL>Dad is extra hard on me because my big brother MICHAEL stopped going to school to become a musician...
+
+message_201:
+      text: \n<SMALL GIRL>He plays guitar at the \c[11]FARAWAY PLAZA\c[0] sometimes!\!<br>He's really good!
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's Dad - Tutoring Joy Quest
+
+message_210:
+      text: \n<THICK EYEBROWS>Amazing work! You should consider tutoring full-time!\!<br>Please come back tomorrow!
+
+
+#===============KAREN=====================
+
+#Location: Hardware store: After Picking up paint quest
+
+message_220:
+      text: \n<PIGTAILS LADY>Please come visit us if you have time!
+
+message_221:
+      text: \n<PIGTAILS LADY>We're thinking of having a housewarming party two days from now.\! It would be amazing if you could join us!
+
+#===============KATIE=====================
+
+#Location: Hobbeez - Pet Rock Fight
+
+message_230:
+      text: \n<COLORFUL GIRL>This place is kind of small but it has a lot of old and rare collectibles.\! People even come all the way from the city to shop here!
+
+#===============KIM AND VANCE'S DAD =====================
+
+#Location: Hardware Store- Fix Pipe Quest 1
+
+#After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
+message_240:
+      text: \n<GRUFF GUY>Grumble, grumble...\! The pipe broke again...
+
+message_241:
+      text: \n<GRUFF GUY>Rats...\! I guess I'll try again tomorrow...
+
+
+#===============KIM AND VANCE'S MOM =====================
+
+#Location: Other Street - Missing Shears Quest
+
+#Kim's Mom moves to Kim's Mom's house living room after Missing Shears Quest. Snipping Bonsai.
+
+message_250:
+      text: \SINV[2]Snip, snip...\! snip, snip, snip...\SINV[0]
+
+message_251:
+      text: \n<RED-GLASSES LADY>Ah, hi there, you two! I didn't expect you so soon!
+
+message_252:
+      text: \n<RED-GLASSES LADY>Look, here!\! Caring for these bonsai is a hobby of mine.\!<br>It helps me...\! relieve stress.
+
+message_253:
+      text: \n<RED-GLASSES LADY>After this, I'm going to start preparing dinner for my children, KIM and VANCE, tonight.\! They better not be late again...\! or else...
+
+message_254:
+      text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
+
+#===============LUCAS (DOG) =====================
+
+#Location: Artist's house
+
+message_260:
+      text: \n<GOOD DOG>\quake[1]\{BARK! \}BARK!\! \{BARK! \{BARK! \}BARK! \}BARK!
+
+message_261:
+      text: \n<ARTIST>\Com[2]\{LUCAS, quit your yappin'!
+
+
+#===============MINCY =====================
+
+#Location: FARAWAY PARK - Company Quest 1
+
+message_270:
+      text: She is diligently drawing away.
+
+#===============PRETTY BOY=====================
+
+#Location: FARAWAY PARK - Pet Rock Fight
+
+message_280:
+      text: \n<PRETTY BOY>Life's been kind of stressful lately, but people-watching out here helps me put things into perspective.
+
+message_281:
+      text: \n<PRETTY BOY>I might make it a habit to come to this park more often...\!<br>I guess sometimes all it takes to relax is to stop and smell the roses!
+
+message_282:
+      text: \n<PRETTY BOY>Oh no, you look like you're hurt!\! Here's a \c[5]BANDAGE\c[0].\! You can get more at the \c[11]PHARMACY\c[0] in \c[11]OTHERMART\c[0].
+
+message_283:
+      text: You got a \c[5]BANDAGE\c[0].
+#===============POLLY=====================
+
+#Location: Pharmacy
+
+message_290:
+      text: \n<???>Sigh...\! Is there nothing I can do?
+
+#===============POLLY=====================
+
+#Location: FARAWAY PARK
+
+message_300:
+      text: \n<PREACHER>I'm on my way to the \c[11]CHURCH\c[0], but it's a ritual of mine to take a quick stroll before delivering my sermons.
+
+message_301:
+      text: \n<PREACHER>I've had horrible stage fright ever since I was a child, but a scenic walk always seems to calm my nerves!
+
+
+#===============RECYCULTISTS=====================
+
+#Location: PARK
+
+message_310:
+      text: \n<RECYCULTIST>We are RECYCULTISTS, followers of THE HOLY BIN!
+
+message_311:
+      text: \n<RECYCULTIST>As all have littered, all must accept that they are \c[4]TRASH\c[0]!
+
+message_312:
+      text: \n<RECYCULTIST>\Com[2]\{REDUCE, REUSE, AND RECYCLE!!
+
+
+#===============SARAH=====================
+
+#Location: Supermarket in grocery section
+
+message_320:
+      text: \n<PONYTAIL GIRL>My mom and I are here buying healthy stuff at the \c[11]OTHERMART\c[0] because she threw away all the snacks in our house yesterday...
+
+message_321:
+      text: \n<PONYTAIL GIRL>I think she's been on a health craze since my dad's been only eating junk food lately...\! Why can't we do both?
+
+
+#===============SARAHs MOM=====================
+
+#Location: Supermarket in grocery section
+
+
+message_323:
+      text: \n<PONYTAIL LADY>My husband keeps eating junk food!\! I need to make sure he has a healthy meal.
+
+#===============SARAHs DAD=====================
+
+#Location: Gino's Pizza eating Pizza
+
+message_330:
+      text: \n<CLUMSY GUY>My wife keeps telling me that I'm getting chubbier and tubbier, but I just can't help myself when we live so close to delicious food like \c[11]GINO'S PIZZA\c[0]!
+
+message_331:
+      text: \n<CLUMSY GUY>Oh...\! mmm...\! pizza...
+
+#===============SEAN=====================
+
+#Location: Hardware Store (picking paint quest)
+#After completing Picking Paint Quest:
+
+message_340:
+      text: \n<CHECKERS GUY>Thank you so much for your help!\! We're both from around the area, but we just moved in together into a brand new house recently...
+
+message_341:
+      text: \n<CHECKERS GUY>It's on the street near the \c[11]CHURCH\c[0].
+
+
+#===============TUCKER=====================
+
+#Location: Charlie's Basement - Pet Rock Fight
+
+message_350:
+      text: \n<CREEPY GUY>Greetings, human!\! Please call me TUCKER...
+
+message_400:
+      text: An unassuming beehive.\! Do you want to disturb it?
+
+#BEES DEATH REVIVE
+
+message_420:
+      text: \n<PHARMACIST>Are you kids okay?\! Some passersby found the both of you passed out on the floor covered in wasp stings and brought you here.
+
+message_421:
+      text: \n<PHARMACIST>I've already treated you...\! and...\! luckily, it looks like neither of you are allergic, so you should be okay!
+
+message_422:
+      text: \n<PHARMACIST>But next time don't be playing with wasp nests like that.\! They're no joke!

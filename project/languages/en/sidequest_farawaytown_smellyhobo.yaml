@@ -1,0 +1,51 @@
+
+# =========================================================================================
+# Sidequest: Smelly Hobo
+# =========================================================================================
+
+#Intro
+
+message_0:
+      text: The stench of this man is indescribable.
+
+message_1:
+      text: \n<SMELLY HOBO>\Com[2]Whatchu makin' that face for, bub?\!<br>\Com[2]Z'ere somethin' on my face!?
+
+#Default
+
+message_2:
+      text: \n<SMELLY HOBO>Hey, bub... Could'ja spare a few nickels?\!<br>Really 'preciate it.
+
+
+#After reaching donation goal
+
+message_3:
+      text: \n<SMELLY HOBO>...\! Hey, bub... Thanks fer helpin' me...<br>You've been a real friend.
+
+message_4:
+      text: \n<SMELLY HOBO>So...\! I gots somethin' special for ya...
+
+message_5:
+      text: \n<SMELLY HOBO>\SINV[1]Hold out yer hands for me and close yer eyes...\SINV[0]
+
+#Screen turns black
+
+message_6:
+      text: You feel something cold on your palms.
+
+#Screen goes back
+
+message_7:
+      text: You got a \c[13]GOLD WATCH\c[0]!\!
+
+message_8:
+      text: \n<SMELLY HOBO>\Com[2]Ya like it!?\! Since you been so gracious, I thought I could spare ya some of my wares...\! Heh, heh...\! That's real gold there! I swear it!
+
+message_9:
+      text: \n<SMELLY HOBO>Thank ye kindly!
+
+message_20:
+      text: You have donated $\v[602].00 to SMELLY HOBO.
+
+message_21:
+      text: \n<SMELLY HOBO>How're you likin' your new \c[13]GOLD WATCH\c[0]!?\! It's real gold, I tell ya!

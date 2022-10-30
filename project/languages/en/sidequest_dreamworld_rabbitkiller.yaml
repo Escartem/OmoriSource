@@ -1,0 +1,61 @@
+
+# =========================================================================================
+# RABBIT KILLER
+# ========================================================================================
+
+message_1:
+      text: \n<LEAFIE>You know what I hate more than anything else?\!<br>\quake[1]Bunnies.\quake[0]\! That's right.\! \quake[1]Bunnies.\quake[0]
+
+message_2:
+      text: \n<LEAFIE>I just hate them so much.\!<br>If I had one wish in the world, <br>I would destroy all of the world's \quake[1]bunnies.\quake[0]
+
+#If you killed at least 1 bunny
+
+message_3:
+      text: \n<LEAFIE>Hey, you look like you've defeated a few \quake[1]bunnies!\quake[0]\!<br>Yeah, that's right.\! I can tell how many \quake[1]bunnies\quake[0] you've defeated just by looking at you.
+
+message_4:
+      text: \n<LEAFIE>That's how much I hate \quake[1]bunnies.\quake[0]
+
+message_5:
+      text: \n<LEAFIE>Say, tell you what.\! Let's make a deal.\!<br>If you defeat at least 5 \quake[1]bunnies,\quake[0] come back and report to me...\! I'll give you something nice.
+
+message_6:
+      text: \n<LEAFIE>Now go on and destroy those \quake[1]bunnies!\quake[0]
+
+#MEETING GOALS
+
+#Set variable for number of bunnies defeated and the next count
+
+message_7:
+      text: \n<LEAFIE>\Com[2]Splendid!\! I see you've destroyed more \quake[1]bunnies.\quake[0]\!<br>That's \v[615] \quake[0]bunnies obliterated\quake[0]!\!<br>Thank you so much, fellow bunny-hater.
+
+message_8:
+      text: \n<LEAFIE>Now...\! if only you could kill \v[1001] \quake[1]bunnies\quake[0],<br>I would give you yet another prize!
+
+#DEFAULT TEXT:
+
+message_9:
+      text: \n<LEAFIE>Hello, fellow bunny-hater!\!<br>By looking into your eyes, I can see that you have killed \v[615] \quake[1]bunnies\quake[0].
+
+message_10:
+      text: \n<LEAFIE>You have to kill \v[1001] more \quake[1]bunnies\quake[0] for your next prize.\!<br>Now get out there and destroy those \quake[1]bunnies!\quake[0]
+
+#PRIZES: COTTON BALL, BUNNY EARS, RABBIT FOOT, CONSUMABLES
+
+message_11:
+      text: You got a \c[13]COTTON BALL\c[0].
+
+message_12:
+      text: You got \c[13]BUNNY EARS\c[0].
+
+message_13:
+      text: You got a \c[13]RABBIT FOOT\c[0].
+
+#After defeating 50 bunnies
+
+message_15:
+      text: \n<LEAFIE>\Com[2]Splendid!\! I have nothing more to ask of you, fellow bunny-hater!
+
+message_16:
+      text: \n<LEAFIE>Now go on and destroy more \quake[1]bunnies!\quake[0]

@@ -1,0 +1,12 @@
+{ "columns":32,
+ "image":"..\/img\/tilesets\/BS_Treehouse_Hallucination.png",
+ "imageheight":480,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"Treehouse Hallucination",
+ "spacing":0,
+ "tilecount":480,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

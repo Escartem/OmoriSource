@@ -1,0 +1,42 @@
+
+# =========================================================================================
+# Sidequest: Trash Pick-Up
+# =========================================================================================
+
+#Talk to Old Lady
+message_0:
+      text: \n<OLD LADY>Hello, youngins'!\! I don't know if you've been watchin' where you're steppin', but there's quite a bit of \c[4]TRASH\c[0] around this town.
+
+message_1:
+      text: \n<OLD LADY>If you happen to find any, can you bring it to me so I can dispose of it properly?
+
+message_2:
+      text: \n<OLD LADY>Come on, youngins'!\!<br>Let's help the world, one step at a time!
+
+#Give trash
+message_5:
+      text: \n<OLD LADY>Hello, youngins'!\! I see you have some \c[4]TRASH\c[0] with you!\!<br>Thanks, I'll be sure to dispose of this properly!
+
+#Talk to Old Lady after picking up some Trash:
+message_6:
+      text: \n<OLD LADY>This town seems to be lookin' a little bit cleaner lately...\!<br>I can sleep a little easier thinkin' about that!
+
+#Talk to Old Lady after picking up all Trash:
+
+message_7:
+      text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Do you smell that fresh air?
+
+message_8:
+      text: \n<OLD LADY>This town has been much cleaner since you youngins' have started helpin' me pick up the \c[4]TRASH\c[0] around here!\!<br>I really can't thank you enough...
+
+message_9:
+      text: \n<OLD LADY>Oh! That reminds me...\! while I was pickin' up \c[4]TRASH\c[0] yesterday, I happened to stumble upon this!\!<br>Please take this as a token of my gratitude!
+
+message_10:
+      text: You got an \c[4]ETHEREAL CD\c[0]!
+
+message_11:
+      text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Would you smell that clean air!
+
+message_12:
+      text: You got \c[4]TRASH\c[0]?

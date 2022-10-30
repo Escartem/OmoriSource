@@ -1,0 +1,679 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Sproutmole Village / Sweetheart's Castle====================================
+
+
+                        #====NIGHT 2====
+
+#BANDITO MOLE
+#Location: Sprout Mole village
+
+message_0:
+      text: \who\}Fidget, fidget, fidget...\! Hush, hush, hush...
+
+#Beautiful Mole
+#Location: Sproutmole Village
+message_1:
+      text: \n<BEAUTIFUL MOLE>Look at me...\!<br>I am truly the most beautiful SPROUT MOLE, am I not?
+
+#BOX Mole
+#Location: Sproutmole Village
+
+message_221:
+      text: \n<BOX MOLE>Christmas is my favorite time of the year, so why not just celebrate Christmas all the time?
+
+
+message_2:
+      text: \n<BOX MOLE>Christmas is ruined...
+
+#BUTLER Mole
+#Location: Check Dream world -dungeon dialogue
+
+#CHEF Mole
+#Location: Sprout Mole Village
+#(TOFU TRIVIA copy)
+message_3:
+      text: \n<CHEF MOLE>Ah yes, welcome!\! You must be here to learn about the best culinary feat since sliced bread...\! \Com[2]\c[3]TOFU\c[0]!
+
+message_4:
+      text: \n<CHEF MOLE>C'est magnifique!\!<br>Here's your \c[3]TOFU\c[0] trivia for the day.
+
+message_5:
+      text: \n<CHEF MOLE>\Com[2]How dare you defy the majesty of \c[3]TOFU\c[0]!?\!<br>Get out.\! You disgust me!
+
+message_6:
+      text: \n<CHEF MOLE>It takes twelve-thousand, six-hundred and seventy-two blocks of \c[3]TOFU\c[0] lined up end-to-end lengthwise to equal one mile!
+
+message_7:
+      text: \n<CHEF MOLE>There are four kinds of \c[3]TOFU\c[0]...\!<br>firm, extra firm, soft and silken!
+
+message_8:
+      text: \n<CHEF MOLE>Firm \c[3]TOFU\c[0] can be stir-fried, baked, cubed, and just about anything else.\! This is because it can retain its shape and still absorb flavor!
+
+message_9:
+      text: \n<CHEF MOLE>Soft \c[3]TOFU\c[0] is best prepared raw or drained.\! It's best for desserts, smoothies, dips and sauces!
+
+message_10:
+      text: \n<CHEF MOLE>Silken \c[3]TOFU\c[0] is creamy and can be used for baking, dressings, sauces, smoothies and desserts!
+
+message_11:
+      text: \n<CHEF MOLE>Smoked \c[3]TOFU\c[0] is a great alternative for meat!
+
+message_12:
+      text: \n<CHEF MOLE>Since \c[3]TOFU\c[0] is high in soy content, it is not good for you if you have kidney stones!
+
+message_13:
+      text: \n<CHEF MOLE>The best way to add flavor to \c[3]TOFU\c[0] is to glaze it until golden, then add a marinade.\! It will absorb all the flavors until the sauce becomes syrup that sticks to the pan!
+
+message_14:
+      text: \n<CHEF MOLE>If you wish to know more about the amazing and majestic \c[3]TOFU\c[0], feel free to talk to me again.\! Ho-ho!
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+message_20:
+      text: \n<DOUBLE MOLE>We are two!\! We are one!\! We are twon?
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+message_21:
+      text: \n<DUNCE MOLE>This wall is nice and cold!
+
+#ELDER MOLE
+#Location: Sprout Mole Village
+message_22:
+      text: \n<MAYOR MOLE>I am working on revolutionary technology that will change all life in the colony...\! nay...\! the world!
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village
+message_23:
+      text: \n<MAYOR MOLE JR>It's so hard to get a good night's sleep lately!\! If only I had something to make the experience of sleeping more comfortable...
+
+#Fall mole: Location Sprout Mole village Note: Check Season mole yaml
+#Family Mole 1: Check Delivery for brother yaml
+
+#Family Mole 2
+#Location: Sprout Mole Village
+message_24:
+      text: \n<FAMILY MOLE>I hate Mondays.
+
+#FAMILY MOLE 3
+#Location: Sprout Mole Village
+message_25:
+      text: \n<FAMILY MOLE>We SPROUT MOLES do not dare leave the colony ever since the great move.\! It was a hard time...
+
+message_26:
+      text: \n<FAMILY MOLE>Many of us didn't make it...\! SPROUT MOLES were getting lost left and right...\! Children were separated from their families!\! Oh, the horror!
+
+message_27:
+      text: \n<FAMILY MOLE>I mean, at least it's all okay now...\! for the most part.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+
+message_30:
+      text: \n<FAMILY MOLE>SPROUT MOLES, while intelligent, are also very obsessive creatures.\! As you can see, I lack any semblance of self-control.
+
+#GUARD MOLE
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#MAID MOLE
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#OFFICER MOLE
+#Location: Sprout Mole Village
+message_32:
+      text: \n<OFFICER MOLE>It's our duty as officers to lock them do-badders in here to keep the peace!
+
+#ROSA
+#Location: N/A
+
+#SPORT MOLE
+#Location: Sprout Mole Village
+message_33:
+      text: \n<SPORT MOLE>Huff...\! huff huff...
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SPROUT MOLE MIKE
+#Location: Sweetheart's Castle
+#[Main Story]
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+message_40:
+      text: \n<STUDENT MOLE>Hey, look at this cool thing I drew!
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+message_41:
+      text: \n<STUDENT MOLE>D-Do you think we'll all still be friends after we graduate?
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+message_42:
+      text: \n<STUDENT MOLE>Despite all my \QUAKE[1]rage\QUAKE[0], I am still just a mole in a cage.
+
+#SUE CHEF MOLE 1 & SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+message_43:
+      text: \n<SOUS CHEF MOLE>How dare you speak such blasphemy!\! It is only common knowledge that \c[3]TOFU\c[0] is better when served hot!
+
+message_44:
+      text: \n<SOUS CHEF MOLE>Are you mad?\! Any SPROUT MOLE with decent sense knows that \c[3]TOFU\c[0] is better when served cold!
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text:  \herHey, there's no need to fight.\! Why don't you two come to a compromise?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWho knows?\! Maybe you're both right!\! Or maybe you can cook \c[3]TOFU\c[0] in a way that hasn't been done yet...\! Somewhere between hot and cold, like...
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herI don't know...\! L-Lukewarm?
+
+message_48:
+      text: \n<SOUS CHEF MOLE>...
+
+message_49:
+      text: \n<SOUS CHEF MOLE>\sinv[1]Eeeeewwwwwwwwwwwwww...
+
+message_50:
+      text: \n<SOUS CHEF MOLE>Lukewarm \c[3]TOFU\c[0]?\! That's the worst idea I've ever heard.\!<br>Even cold \c[3]TOFU\c[0] is better than that...
+
+message_51:
+      text: \n<SOUS CHEF MOLE>Lukewarm \c[3]TOFU\c[0]?\! I want to throw up.\!<br>Even hot \c[3]TOFU\c[0] is better than that...
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+message_60:
+      text: \n<SOUS CHEF MOLE>I have no idea what I'm doing!
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+message_61:
+      text: \n<TEACHER MOLE>I have no idea what I'm doing!
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Check SHOP DIALOGUE GUIDE
+
+#WALL MOLE
+#Location: Sprout Mole Village
+
+message_62:
+      text: This SPROUT MOLE is super-glued to the wall.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+
+                        #====NIGHT 3====
+
+
+#BANDITO MOLE
+#Location: Sprout Mole Village - B.E.D Trade Quest 1
+#Refer to SIDEQUEST: B.E.D.
+
+#BEAUTIFUL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOX MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BUTLER MOLE
+#Location: Sweethearts Castle
+message_80:
+      text: \n<BUTLER MOLE>Sigh...\! Now with SWEETHEART gone, my life has no meaning...
+
+#CHEF MOLE
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Refer to SIDEQUEST: B.E.D.
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Refer to SIDEQUEST: B.E.D.
+
+#FALL MOLE
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#FAMILY MOLE 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#FAMILY MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FAMILY MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#GUARD MOLE
+#Location: Sweetheart's Castle
+message_81:
+      text: \n<GUARD MOLE>With SWEETHEART gone, my life has no meaning.
+
+#MAID MOLE
+#Location: Sweetheart's Castle
+message_82:
+      text: \n<MAID MOLE>With SWEETHEART gone, my life has no meaning.
+
+#OFFICER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+message_83:
+      text: \n<ROSA>After that wedding fiasco, SWEETHEART left and never came back!\! \Com[2]This is all your fault!
+
+#SPORT MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Refer to sidequest_BED
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SPROUT MOLE MIKE
+#Location: Sweetheart's Castle
+message_84:
+      text: \n<SPROUT MOLE MIKE>Sigh...\! I don't know what to do with myself now that SWEETHEART is gone... She was my everything...
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+
+                        #====NIGHT 4====
+
+
+#BANDITO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 3.
+
+#BEAUTIFUL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOX MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BUTLER MOLE
+#Location: Last Resort
+message_85:
+      text: \n<BUTLER MOLE>I came here because they said they were offering jobs...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#CHEF MOLE
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#FALL MOLE
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#FAMILY MOLE 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#FAMILY MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FAMILY MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#GUARD MOLE
+#Location: LAST RESORT
+message_86:
+      text: \n<GUARD MOLE>I came here because they said they were offering jobs...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#MAID MOLE
+#Location: LAST RESORT
+message_87:
+      text: \n<MAID MOLE>I came here because they said they were offering jobs...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#OFFICER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+#[Incomplete]
+
+#SPORT MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SPROUT MOLE MIKE
+#Location: Sweetheart's Castle
+#Same as NIGHT 2.
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+#After Mr.Jawsum leaves Last Resort
+#Location: Slime Girl's Lair
+#Check dreamworld extras slimegirls
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#===
+
+#THEATER
+
+message_100:
+      text: \n<SPROUT MOLE>As a reputable movie critic, I believe that all of SWEETHEART's works are beyond what our feeble minds can comprehend!
+
+message_101:
+      text: \n<SPROUT MOLE>Boy...\! You lot look awfully familiar.\!<br>Have I seen you on TV!?
+
+message_102:
+      text: \n<SPROUT MOLE>Be quiet! This is my favorite movie!
+
+message_103:
+      text: \n<SPROUT MOLE>Oh, SWEETHEART...\! You're too good for this world.
+
+message_104:
+      text: \n<SPROUT MOLE>I've watched every episode of \"SWEETHEART'S QUEST FOR HEARTS\" at least six times!
+
+message_105:
+      text: \n<SPROUT MOLE>I bring SWEETHEART with me wherever I go!\!<br>Say hello, SWEETHEART!
+
+message_106:
+      text: \n<SPROUT MOLE>SWEETHEART is the only one that understands me...
+
+message_107:
+      text: \n<SPROUT MOLE>SWEETHEART is perfect in every way.\!<br>I would do \quake[1]anything\quake[0] for her...
+
+message_108:
+      text: \n<SPROUT MOLE>I love SWEETHEART so much, I can't even remember a time before her.\! Seriously... I can't!
+
+message_109:
+      text: \n<SPROUT MOLE>\}SWEETHEART...\! You will be mine...\{
+
+#AFTER SW WEDDING
+
+message_110:
+      text: \n<SPROUT MOLE>Sniff...\! SWEETHEART has done it again.\! I am utterly moved.
+
+message_111:
+      text: \n<SPROUT MOLE>Are you HERO, as in \sinv[1]the\sinv[0] HERO from \"SWEETHEART'S QUEST FOR HEARTS\"!?\! Your acting was superb!\! I truly believed that you rejected SWEETHEART!
+
+message_114:
+      text: \n<SPROUT MOLE>Now that \"SWEETHEART'S QUEST FOR HEARTS\" is over...\! so is my life.
+
+message_120:
+      text: An uncomfortably-realistic SWEETHEART doll.
+
+#SKELETON
+
+message_121:
+      text: It is not alive.
+
+message_122:
+      text: An assortment of lethal weapons...\!<br>One of them is missing.
+
+
+message_130:
+      text: Yo, JIMZ! It's been a while, buddy!<br>\!How was your weekend, man?\n<SPROUT MOLE>
+
+message_131:
+      text: What's up, LINDA? Haven't seen you around in forever!\!<br>How's your old man?\! I miss that guy.\n<SPROUT MOLE>
+
+message_132:
+      text: Hey, SAL! You've lost weight! Good for you!\n<SPROUT MOLE>
+
+message_133:
+      text: JEFFREY! My man!\! It's been too long.\!<br>We gotta catch up sometime.\n<SPROUT MOLE>
+
+
+#SPROUT CROWD
+
+message_200:
+      text: \sprI gave up my entire supply of \c[3]TOFU\c[0] for this seat!
+
+message_201:
+      text: \sprI gave up my college savings for this seat!
+
+message_202:
+      text: \sprI gave up my house for this seat!
+
+message_203:
+      text: \sprI gave up my soul for this seat!
+
+#REST OF CROWD
+
+message_204:
+      text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>She's the only one for me!\sinv[0]
+
+message_205:
+      text: \sprSWEETHEART is perfect!\! She makes no mistakes!
+
+message_206:
+      text: \sprMy love for SWEETHEART knows no bounds!
+
+message_207:
+      text: \sprSWEETHEART...\! She is a goddess walking amongst us...<br>\!We are so blessed.
+
+#UNIQUE SPROUT CROWD
+
+message_208:
+      text: \sprThe show hasn't even started and I'm already shaking!\! \quake[1]<br>Why won't the shaking stop!?\quake[0]
+
+message_209:
+      text: \spr\"S\" is for \"STUNNING\".\! \"W\" is for \"WONDERFUL\".\!<br>\"E\" is for \"EXTRAORDINARY\".\! \"E\" is for \"EXCEPTIONAL\".\!<br>\"T\" is for...\! \"TOFU\"...\! Mmm...\! Delicious \c[3]TOFU\c[0]...
+
+message_210:
+      text: \spr\"H\" is for \"HEADSTRONG\".\! \"E\" is for \"EXEMPLARY\".\!<br>\"A\" is for \"ATTRACTIVE\".\! R is for \"RADICAL.\"\!<br>And \"T\" is for...\! \"THE BEST!\", of course!
+
+message_211:
+      text: \spr\}Yay! SWEETHEART!
+
+message_212:
+      text: \sprI hear there used to be a library here...\!<br>but then SWEETHEART built her stage over it...\!<br>Who needs to read when you have SWEETHEART!?
+
+message_213:
+      text: \sprA tomato by any other name would taste just as juicy.
+
+message_214:
+      text: \sprI'm just here for a good time!
+
+message_215:
+      text: \sprI used to only like SWEETHEART ironically...\!<br>and now here I am...\! What happened to me?
+
+message_216:
+      text: \sprAt first, I was skeptical about this whole SWEETHEART thing, but I think I'm starting to get it...
+
+message_217:
+      text: \sprI came here with my family, but we were separated on the way here...\! I may never see them ever again.
+
+message_218:
+      text: \sprI heard that SWEETHEART is actually a \c[3]DONUT\c[0]...\!<br>I wonder if the rumors are true...
+
+#Elevator
+message_220:
+      text: Well, this is awkward.
+
+
+#Doors
+message_225:
+      text: \n<???>This room is occupied!
+
+message_226:
+      text: \n<???>I cannot be disturbed right now!
+
+message_227:
+      text: \n<???>No humans allowed!
+
+message_228:
+      text: \n<???>This room is for SPROUT MOLES only!
+
+message_250:
+      text: \sprIt never hurts to have \c[3]TOFU\c[0] on you at all times.\! I know I've gotten out of plenty of sticky situations with \c[3]TOFU\c[0]!

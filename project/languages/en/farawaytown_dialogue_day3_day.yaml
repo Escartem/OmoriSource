@@ -1,0 +1,335 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 3 - DAY
+#=========================================================================================
+
+#Location: Hobbeez looking at trading cards in the display case. (Pet Rock Fight)
+
+message_0:
+      text: \n<ANGEL>Look at all these super rare and expensive trading cards...\!<br>I want to complete my collection, but I only have $5.00 on me!\! Man, it sucks to be a kid...
+
+message_1:
+      text: \n<ANGEL>\Com[2]Whoa, what's this!?\! There's a fresh $20.00 bill in my butt pocket!\! This must be my lucky day!\! \SINV[2]Fufufufu...\SINV[0]\! I guess I can afford at least one super rare card today...
+
+#If player completes quest: Bring Angel home
+
+message_2:
+      text: ANGEL is frozen solid.\!<br>It will probably be a while before he recovers.
+
+#==============CHARLIE (CHARLENE)======================================================
+
+#Location: Hardware Store - Flower Quest
+
+message_10:
+      text: \n<CHARLIE>\}H-Hello...
+
+message_11:
+      text: \n<CHARLIE>\}H-Here...\! This is for you...
+
+message_12:
+      text: You got a \c[4]FLOWER CLIP\c[0].
+
+message_13:
+      text: \n<CHARLIE>\}Flowers are so pretty...
+
+#==============KIM======================================================
+
+#Location: Park (Ding-Dong)
+
+message_20:
+      text: \kim\Com[2]Hey, well lookie here! It's AUBREY and the nerds!
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: \aubHey, KIM! How's it hangin'?
+
+message_22:
+      text: \kimOh, you know...\! Pretty good, pretty good...
+
+message_23:
+      text: \kimMy dad said he's gonna take us to a sick party tonight...\! should be cool.
+
+message_24:
+      text: \van\sinv[1]Awwwwwwwwwwww, yeah! We're gonna party!
+
+
+#message_25:
+#      text: \kimUntil then... we were going to play our favorite game...\!<br>\{\COM[2]DING-DONG DITCH!
+
+#Ding Dong Ditch: Explanation
+
+#==============The Maverick===========================================
+
+#Location: Hobbeez
+
+message_30:
+      text: \n<MAVERICK>I've been trying all day to beat this video game, but it's kicking my butt.\! Sigh...\! Why is it so hard to find something that I, \Com[2]THE MAVERICK, am actually good at!?
+
+#==============VANCE===========================================
+#Location: Park (Ding-Dong)
+
+message_40:
+      text: \vanKIM is a lot of talk, but she's got a big heart.\!<br>And me?\! I got some big muscles.
+
+#==============ARTIST===========================================
+#Location: Artist's House (Bring back Angel)
+
+message_50:
+      text: \artAhh...\! Finally, some peace and quiet...
+
+#==============AUBREY'S MOM===========================================
+#Location:  Aubrey's House
+
+message_60:
+      text: \n<AUBREY'S MOM>...
+
+#==============SHORT HAIR GIRL===========================================
+#Location:  FARAWAY PARK
+
+message_70:
+      text: \n<SHORT HAIR GIRL>I told my big sister about my crush!\! She wanted me to show him to her, so we're standing around where he usually hangs out with his friends...
+
+#==============FASHIONABLE MOM===========================================
+#Location:  FARAWAY PARK
+
+message_80:
+      text: \n<FASHIONABLE MOM>Ah, I wonder what I should cook for my daughters tonight...
+
+message_81:
+      text: \n<FASHIONABLE MOM>Although...\! I don't cook very often, so maybe I should opt for take-out.
+
+#==============INTIMIDATING GIRL===========================================
+#Location:  FARAWAY PARK
+
+message_90:
+      text: \n<INTIMIDATING GIRL>When BEBE told me about her crush, I had to see him for myself.\! So far, he's a no-show... but BEBE told me that we're looking for someone with an obviously fake blonde wig.
+
+message_91:
+      text: \n<INTIMIDATING GIRL>Sigh...\! BEBE has pretty bad taste in guys...\!<br>Who's gonna look after her when I go back to college?
+
+#INTIMIDATING GIRL: If Hero is the leader
+
+message_92:
+      text: \n<INTIMIDATING GIRL>Aye! HERO, it's you! Teehee...\! It's so weird seeing you back here instead of at school.
+
+message_93:
+      text: \n<INTIMIDATING GIRL>I'm guessing you're visiting family too...\! Family's great and all, but I can't wait to get back to my friends... Nothing interesting ever happens back home, ya know?
+
+#==============BRENT===========================================
+#Location:  Brent's House
+
+message_100:
+      text: \n<SMART-LOOKING BOY>Hey, tutors. Thanks for helping me with those worksheets...\!<br>I think I can do them by myself now...
+
+#If you snuck out Brent
+
+message_101:
+      text: \n<SMART-LOOKING BOY>\}Psst...\! but what I really wanted to thank you for is letting me sneak out yesterday...\! Hehehe...\! You're the coolest tutor ever!
+
+#==============SCHOOL PRINCIPAL===========================================
+#Location:  Kim's House
+
+message_110:
+      text: \n<SCHOOL PRINCIPAL>\}As I was saying...\! can you believe...\! and her...\! but then...\! mhmm...
+
+#==============OLD BEARDY===========================================
+#Location:  Graveyard
+
+message_120:
+      text: \n<OLD BEARDY>The spirits have been howling all day...\!<br>I pray for this neighborhood.\!<br>Someone will be grieving tonight.
+
+#==============CHARLIE'S MOM===========================================
+#Location:  Charlie's House
+
+message_130:
+      text: \n<YELLOW BUN GRANNY>Oh, I see you've made friends!\!<br>Hello! Welcome!
+
+message_131:
+      text: \n<YELLOW BUN GRANNY>You're all so nice to visit a lonely old lady on such a nice day.\! I'm sure there are much better things you could be doing with your time.
+
+#==============CRIS'S DAD===========================================
+#Location:  Cris's House (where is the remote quest 3)
+
+message_140:
+      text: \n<ALL-AMERICAN GUY>\Com[2]Hey! That was a late hit!\! \Com[2]Where the heck is the flag!?
+
+#==============CRIS'S MOM===========================================
+#Location:  Cris's House
+
+message_150:
+      text: \n<ALL-AMERICAN MOM>The last pie I baked smelled a little strange when I took it out of the oven...\! I hope I'm not losing my touch!
+
+#==============Daphne and Bowen===========================================
+#Location:  The Mavericks House (Pet Rock Fight)
+
+message_160:
+      text: \n<A TWIN>Our little brother MIKHAEL is destined to be a master baker...
+
+message_161:
+      text: \n<THE OTHER TWIN>Soon, he will accept his fate...\! There is no escape...
+
+message_162:
+      text: \n<A TWIN>\SINV[1]Silly little brother...\SINV[0]
+
+message_163:
+      text: \n<THE OTHER TWIN>\SINV[1]Silly little brother...\SINV[0]
+
+#==============JESSE===========================================
+#Location:  Jesse's House
+
+message_170:
+      text: \n<HEADPHONES KID>Sigh...\! When I was younger, I had two really good friends named BRENT and JOY, but they started getting super serious with school, so I stopped hanging out with them.
+
+message_171:
+      text: \n<HEADPHONES KID>I wonder how they're doing these days...
+
+#==============JESSE'S DAD===========================================
+#Location:  FARAWAY PARK
+
+message_180:
+      text: \n<WRINKLY FOREHEAD>I'm not really sure how, but this trash heap appeared here overnight.\! I have a feeling the RECYCULTISTS are behind this...
+
+message_181:
+      text: \n<WRINKLY FOREHEAD>Sigh...\! I'm gonna be stuck cleaning here forever.
+
+
+#==============JOY===========================================
+#Location:  Joy's House
+
+message_190:
+      text: \n<SMALL GIRL>My big brother MICHAEL told me he's leaving home today to become a musician...
+
+message_191:
+      text: \n<SMALL GIRL>I wasn't supposed to... but I accidentally told Dad about it.\!<br>I hope MICHAEL won't be mad at me...
+
+#==============JOY'S DAD===========================================
+#Location:  Joy's House (Michael's Lunch quest)
+
+message_200:
+      text: \n<THICK EYEBROWS>Sniff...\! Oh...\! I've been so hard on MICHAEL these past few years...
+
+message_201:
+      text: \n<THICK EYEBROWS>I...\! I hope to see him again one day...\! Maybe even on TV! Haha!
+
+#==============KAREN===========================================
+#Location:  Sean's House (Cooking help quest)
+
+message_210:
+      text: \n<PIGTAILS LADY>Thank you for all your help again.<br>\!You're all such genuinely nice people!
+
+message_221:
+      text: \n<CHECKERS GUY>See you at the party tonight! We'll be waiting for you!
+
+#==============KEL'S DAD===========================================
+#Location: FARAWAY PARK (Forgot Meat quest)
+#Finish Forgot Meat (Before Sunset)
+
+message_230:
+      text: \n<KEL'S DAD>You all should drop by later in the evening.\!<br>You'll definitely want to try some of my delicious \c[3]HAMBURGERS\c[0]!
+
+message_231:
+      text: \n<KEL'S DAD>But for now, go on and enjoy yourselves.\!<br>The weather is great today!
+
+#==============KEL'S MOM===========================================
+#Location:  FARAWAY PARK
+
+message_240:
+      text: \n<KEL'S MOM>Well, hello boys! Good to see you're finally spending some quality time with me!
+
+message_241:
+      text: \n<KEL'S MOM>Please, stay for a while.\!<br>We're having the best weather today!
+
+#==============KIM and VANCE'S DAD===========================================
+#Location:  HARDWARE STORE (fix pipe quest 3)
+
+message_250:
+      text: \n<GRUFF GUY>Hey! You know, I have a son and daughter about your age.\! Their names are VANCE and KIM!
+
+message_251:
+      text: \n<GRUFF GUY>Their mother and I have been separated since they were young...
+
+message_252:
+      text: \n<GRUFF GUY>I don't see them as often as I'd like, so I make sure to spoil them with \c[3]CANDY\c[0] when I do! Heh heh...
+
+message_254:
+      text: \n<GRUFF GUY>They're good kids... really!\! I worry about them sometimes since they always seem to be getting into trouble, but at least they have each other...
+
+#==============KIM and VANCE'S MOM===========================================
+#Location:  Kim's House
+
+message_260:
+      text: \n<RED-GLASSES LADY>\}That was like the time we...\! yeah...\! and then...\! honestly, I think that...\! yes, definitely...
+
+#==============Lucas(Dog)===========================================
+#Location:  Artist's House, running around Angel
+
+message_270:
+      text: \n<GOOD DOG>\SINV[1]Awwwwo\{ooo\{ooo!\!\SINV[0]\QUAKE[1] \{Arf, arf, arf!\QUAKE[0]
+
+#==============Polly===========================================
+#Location:  Basil's House
+
+message_280:
+      text: \n<POLLY>BASIL has been all by himself recently, so I'm sure he's lonely...
+
+message_281:
+      text: \n<POLLY>It's nice to know that BASIL has friends who care so much about him.
+
+#==============Preacher===========================================
+#Location:  Church
+
+message_290:
+      text: \n<PREACHER>Ah, I'm afraid we won't be holding a sermon today, but feel free to use this place to collect your thoughts.\! Everyone is welcome here.
+
+#==============Sally===========================================
+#Location:  FARAWAY PARK
+
+#Randomly selected
+message_300:
+      text: \n<SALLY>\SINV[1]Abuuuu... Ubuuubuuuubuu...\SINV[0]
+
+message_301:
+      text: SALLY squished her face into a weird shape.
+
+message_302:
+      text: SALLY pulled on your nose.
+
+message_303:
+      text: SALLY sat on your foot.
+
+message_304:
+      text: SALLY rolled over.
+
+#==============SARAH===========================================
+#Location: Sarah's House
+
+message_310:
+      text: \n<PONYTAIL GIRL>\sinv[1]Woo!\sinv[0]\! Mom says we get to go to \c[11]GINO'S PIZZA\c[0] tonight!
+
+#==============SARAH'S DAD===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_320:
+      text: \n<CLUMSY GUY>\SINV[1]Zzzzzzzzz...\! Snore...\SINV[0]
+
+#==============SARAH'S MOM===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_330:
+      text: \n<PONYTAIL LADY>This...\! sniff...\! is my favorite movie ever...\! sniff...
+
+#==============SEAN===========================================
+#Location: Aubrey's Street in front of his house
+
+message_340:
+      text: \n<CHECKERS GUY>Hey, guys! Just a reminder that we're having our housewarming party tonight.\!<br>Everyone on the street is invited!
+
+message_341:
+      text: \n<CHECKERS GUY>Hope to see you tonight!<br>We'll have lots of food.
+
+#after cooking help Quest
+#refer to 210 and 221

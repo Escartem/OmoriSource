@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Lost Rare Bear
+# ========================================================================================
+
+#Talk to Candlie
+
+message_0:
+      text: \n<CANDLIE>Sniff...\! Sniff...\! I can't find my \c[4]TEDDY BEAR\c[0] anywhere...
+
+message_1:
+      text: \n<CANDLIE>The last time I had him...\!<br>I'm pretty sure I was wandering through a big pink castle...
+
+message_2:
+      text: \n<CANDLIE>If you ever find him, could you return him to me?\!<br>I bet he's really lonely...
+
+#Talk to Candlie after getting Rare Bear:
+message_3:
+      text: \n<CANDLIE>Sniff...\! Sniff...
+
+message_4:
+      text: \n<CANDLIE>Oh, that's my \c[4]TEDDY BEAR\c[0]!
+
+message_5:
+      text: You gave the \c[4]TEDDY BEAR\c[0] to CANDLIE.
+
+message_6:
+      text: \n<CANDLIE>I'm so happy to have you back, TEDDY!
+
+message_7:
+      text: \n<CANDLIE>Thank you for returning him to me!\! Here's a small gift for you...\! It's not much, but I hope you like it.
+
+message_8:
+      text: You got a \c[13]RUBBER DUCK\c[0].
+
+message_9:
+      text: \n<CANDLIE>Come on, TEDDY! What should we play first?\!<br>Oh, I know! Would you like a cup of tea?
+
+message_10:
+      text: CANDLIE and TEDDY are having a tea party.
+#CANDLIE and TEDDY have a tea party.

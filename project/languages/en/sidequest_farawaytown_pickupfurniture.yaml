@@ -1,0 +1,78 @@
+
+# =========================================================================================
+# Sidequest: Pick up Furniture
+# =========================================================================================
+
+#Talk to FASHIONABLE MOM
+message_1:
+      text: \n<FASHIONABLE MOM>I had my son go to the \c[11]FIX-IT\c[0] to buy a new lamp for my living room, but he's taking his sweet time...
+
+message_2:
+      text: \n<FASHIONABLE MOM>\Com[2]Bah!\! He's always so slow with these things!\!<br>I wish someone would tell him to hurry up...<br>\!I don't have all day!
+
+#Talk to STRANGE MAN / Cutscene: STRANGE MAN Leaves
+
+message_3:
+      text: \n<STRANGE MAN>Hmm...\! Which \c[4]FLOOR LAMP\c[0] should I get?\!<br>The pink one?\! The blue one?\! The plain one?\! The fancy one?\!<br>...
+
+message_4:
+      text: \n<STRANGE MAN>Why does this even matter?\!<br>It all looks like \c[4]TRASH\c[0] to me anyway...
+
+message_5:
+      text: \n<STRANGE MAN>Ugh...\! I hate decisions...\! I think I'm gonna throw up...
+
+message_6:
+      text: \n<STRANGE MAN>\Com[2]Eh!?\! Who are you?\! W-What do you want!?\!<br>Oh...\! Is my mom asking for me?
+
+message_7:
+      text: \n<STRANGE MAN>\Com[2]Tell her to wait!\!<br>I'm the one going out all this way to pick up this \c[4]FLOOR LAMP\c[0] that I don't even care about.
+
+message_8:
+      text: \n<STRANGE MAN>Besides...\! she's so picky!\!<br>I don't know why she doesn't just do it herself...
+
+message_9:
+      text: \n<STRANGE MAN>Grr...\! What a trashy situation...\!<br>These \c[4]FLOOR LAMPS\c[0] are \c[4]TRASH\c[0]!\! \Com[2]You're \c[4]TRASH\c[0]!
+
+message_10:
+      text: \n<STRANGE MAN>Heh...\! Yes...\! It all makes sense to me now...\!<br>This world...\! \quake[1]This world is nothing but \c[4]TRASH\c[0]!\quake[0]
+
+message_11:
+      text: \n<STRANGE MAN>Hey, you...\! If my mom wants her lamp so bad, why don't you get it for her!?
+
+message_12:
+      text: \n<STRANGE MAN>\Com[2]\{I'VE GOT BETTER THINGS TO DO!!
+
+message_30:
+      text: You got $50.00 from the STRANGE MAN.
+
+message_31:
+      text: This $50.00 is meant for a \c[4]FLOOR LAMP\c[0]...
+
+message_32:
+      text: \n<FIX-IT GUY>Hmm...\! so you want to buy a \c[4]FLOOR LAMP\c[0]?\! It's going to be $50.00.\! You still want it?
+
+message_33:
+      text: \n<FIX-IT GUY>Thanks for the business, bud.
+
+#Talk to FASHIONABLE MOM
+
+message_13:
+      text: Give FASHIONABLE MOM the \c[4]FLOOR LAMP\c[0]?
+
+message_14:
+      text: \n<FASHIONABLE MOM>Oh my, what a nice \c[4]FLOOR LAMP\c[0]!\!<br>Thank you! You have impeccable taste!
+
+message_15:
+      text: \n<FASHIONABLE MOM>Hmm...\! but where is my son BILLY?\!<br>Did he go on one of his tantrums and run off again?
+
+message_16:
+      text: \n<FASHIONABLE MOM>Sigh...\! He's so temperamental...\!<br>I wish he wouldn't make such a big deal out of everything all the time.
+
+message_17:
+      text: \n<FASHIONABLE MOM>Anyway, you're very thoughtful for getting this lamp for me.\! Please come over any time!\! I make a mean cup of \c[5]COFFEE\c[0]!
+
+message_18:
+      text: You got a \c[4]FLOOR LAMP\c[0]!
+
+message_50:
+      text: A coffee machine.

@@ -1,0 +1,103 @@
+
+# =========================================================================================
+# Sidequest: Where's the Remote?
+# =========================================================================================
+
+#Remote 1
+
+message_1:
+      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! I gotta say...\! <br>There's nothing like enjoying a long weekend with<br>my favorite couch and my favorite show on TV.
+
+message_2:
+      text: \n<ALL-AMERICAN GUY>There's only one thing that's bothering me right now on this otherwise perfect day...
+
+message_3:
+      text: \n<ALL-AMERICAN GUY>I can't find my \c[4]TV REMOTE\c[0] anywhere and I'm way too comfortable to leave this couch!
+
+message_4:
+      text: \n<ALL-AMERICAN GUY>If you see it, could you give it to me?\! Thanks, kiddos.
+
+#Examine Couch
+
+message_5:
+      text: You see a \c[4]TV REMOTE\c[0] under the couch.\! Pick it up?
+
+#Talk to Cris's Dad after getting Remote
+
+message_6:
+      text: \n<ALL-AMERICAN GUY>Hey, there's my \c[4]TV REMOTE\c[0]!
+
+message_7:
+      text: You gave the \c[4]TV REMOTE\c[0] to ALL-AMERICAN GUY.
+
+message_8:
+      text: \n<ALL-AMERICAN GUY>Thanks, kiddos!\! Here, take some \c[3]ORANGE JOE\c[0] on me!
+
+message_9:
+      text: You got \c[3]ORANGE JOE\c[0]!
+
+#Remote 2
+
+message_10:
+      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! <br>It seems that I lost my \c[4]TV REMOTE\c[0] again!
+
+message_11:
+      text: \n<ALL-AMERICAN GUY>I remember getting up to go to the bathroom, <br>but when I came back, it was gone...
+
+message_12:
+      text: \n<ALL-AMERICAN GUY>Could you look around the house for it?\! <br>It's gotta be around here somewhere!
+
+#Examine Bathroom Cabinet:
+
+message_13:
+      text: You see a \c[4]TV REMOTE\c[0] between the towels.\! Pick it up?
+
+message_14:
+      text: \n<ALL-AMERICAN GUY>Thanks again, kiddos!\! I was thinking long and hard about<br>it...\! and I think I accidentally brought it up to the bathroom<br>and forgot to bring it back.
+
+message_15:
+      text: \n<ALL-AMERICAN GUY>You've spared me from getting out of this very comfy<br>couch.\! I can't thank you enough.\! Please, take another can of \c[3]ORANGE JOE!\c[0]\! Y'all deserve it!
+
+#Remote 3
+
+message_16:
+      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! I don't know how this keeps happening, but I lost my \c[4]TV REMOTE\c[0] yet again!
+
+message_17:
+      text: \n<ALL-AMERICAN GUY>I swear...\! this time, all I did was fall asleep with it in my hand, and when I woke up, it was gone!\! We must have a ghost in this house or something...
+
+message_18:
+      text: \n<ALL-AMERICAN GUY>If you happen to find it, could you give it back here?\!<br>Thanks again, kiddos!
+
+message_19:
+      text: You see a \c[4]TV REMOTE\c[0] in the pie.\! Pick it up?
+
+message_20:
+      text: \n<ALL-AMERICAN GUY>Hey, there it is!
+
+message_21:
+      text: You gave the \c[4]TV REMOTE\c[0] to ALL-AMERICAN GUY.
+
+message_22:
+      text: \n<ALL-AMERICAN GUY>Well, you've done it again, kiddos!\! You know what that means...\! Here's another sweet can of \c[3]ORANGE JOE!\c[0]
+
+message_23:
+      text: \n<ALL-AMERICAN GUY>You've been real champs these past few days.\! I can't thank y'all enough!\! If I ever lose my \c[4]TV REMOTE\c[0] again, I'll know who to call!
+
+message_30:
+      text: You see a \c[4]TV REMOTE\c[0] under the couch.
+
+message_31:
+      text: You see a \c[4]TV REMOTE\c[0] between the towels.
+
+message_32:
+      text: You see a \c[4]TV REMOTE\c[0] in the pie.
+
+message_33:
+      text: You still have the \c[4]TV REMOTE\c[0].\!<br>You shouldn't leave this house with it.
+
+message_50:
+      text: You got a \c[4]TV REMOTE\c[0].
+
+message_51:
+      text: You got a \c[4]TV REMOTE\c[0].\! How did it even get in here?

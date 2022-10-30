@@ -1,0 +1,174 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Orange Oasis========================================
+
+                        #====NIGHT 2====
+
+#CROSSANT
+#Location: Oasis: Flip him
+#DINO 1: Dino's Dig - Excavation Mini-Game
+#DINO 2: Dino's Dig - Excavation Shop
+#DINO 3: Dino's Dig
+#DINO 4: Dino's Dig - Itch Quest
+
+#DONUT GRANDMA 1
+#GRANDMA DONUT HOUSE
+message_0:
+      text: \n<DONUT GRANDMA>My granddaughter rarely visits, but she sends me a postcard every now and then!\! She seems to be doing well!
+
+message_1:
+      text: \n<DONUT GRANDMA>I can barely see nowadays, but I can still make out some<br>shapes.\! I can tell...\! you are all some strange-looking donuts!
+
+message_2:
+      text: \n<DONUT GRANDMA>\com[2]Huh?\! What was that, sonny?\! Did you say something?
+
+#DONUT HOLE
+#GRANDMA DONUT HOUSE
+message_3:
+      text: \n<DONUT HOLE>\sinv[1]Uguuuuu!
+
+#HECTOR THE ROCK: Excavation Quest
+#HECTOR JR: Excavation site quest
+#Jelly: Dream world P&J Quest
+#After Peanut and Jelly quest: (Palmie's House)
+message_4:
+      text: \n<JELLY>Hehe...\! MISS PALMIE is going to be so surprised when I give<br>this \c[4]FOSSILIZED THANK-YOU CARD\c[0] to her!\! Right, PEANUT?
+
+message_5:
+      text: \n<PEANUT>Mhmm!
+
+#MAN ON FIRE
+#Location: Orange Oasis
+
+message_6:
+      text: \n<MAN ON FIRE>...\! You have a worried look in your eyes...\! I can tell a problem greatly ails you...
+
+message_7:
+      text: \n<MAN ON FIRE>Let me tell you something, child.\! When you know that an<br>arduous and difficult future lies ahead...\! all you need is hope!
+
+message_8:
+      text: \n<MAN ON FIRE>Be hopeful of yourself and be hopeful of the future!\!<br>Yes!\! Anything is possible if you believe!\! And...\! if all else<br>fails, know that at least I will believe in you, alright?
+
+#Yes/No
+#Yes
+message_9:
+      text: \n<MAN ON FIRE>Excellent.\! Please accept this teaching as a gift.
+
+message_12:
+      text: HERO learned \c[1]SPICY FOOD\c[0]!
+
+message_11:
+      text: \n<MAN ON FIRE>Now, if you'll excuse me, I must be off.
+#MAN ON FIRE continues running
+message_10:
+      text: \n<MAN ON FIRE>Then...\! I must repeat myself!
+
+message_13:
+      text: \n<MAN ON FIRE>Excellent.\! Now, if you'll excuse me, I must be off.
+#repeat message 7 and 8
+
+#MINA: Lcation: MINA'S CAVE: Ingredients quest
+#MINA'S KID 1: Mina's CAVE
+#MINA'S KID 2: Mina's CAVE
+#MINA'S KID 3: Mina's CAVE
+#MINA'S KID 4: Mina's CAVE
+#MINA'S KID 5: Mina's CAVE  #Mentions shadowy chasm in dreamworld blackspace references
+#MINA'S KID 6: MINA'S CAVE
+#ORANGE JOE: Orange Oasis- Long Lost Brother Quest
+#After lost brothers quest:
+message_20:
+      text: \n<ORANGE JOE and ORAGNE JOE>\sinv[1]Hope and vigor!\! Hope and vigor!
+#PALMIE
+#Location: Palmie's HOUSE
+message_21:
+      text: \n<PALMIE>Welcome to my house!\! I take care of children who don't have a family of their own.
+
+message_22:
+      text: \n<PALMIE>It's been a bit empty around here lately, so I always worry that the children who are left will start getting lonely...
+
+message_23:
+      text: \n<PALMIE>PEANUT and JELLY are always giving me the strangest gifts...\! I wonder what they have for me this time?
+
+
+                        #====NIGHT 3====
+#Other chars: Same as Night 2
+#MAN ON FIRE: N/A
+
+
+#TOFU CONCONNAADJFKALSF
+
+#intro:
+message_50:
+      text: \n<TOFU CONCONNASISSEUR>I am the TOFU CONCONNASISSEUR!\!<br>I love all kinds of \c[3]TOFU\c[0]!
+
+message_51:
+      text: \n<TOFU CONCONNASISSEUR>Each piece of \c[3]TOFU\c[0] is unique and deserves to be enjoyed individually!
+
+message_52:
+      text: \n<TOFU CONCONNASISSEUR>\c[3]TOFU\c[0] isn't for everyone, but that means more \c[3]TOFU\c[0] for me!
+
+message_53:
+      text: \n<TOFU CONCONNASISSEUR>If you trade me 10 \c[3]TOFU\c[0], I'll give you a SNACK that I have gathered from my many \c[3]TOFU\c[0]-related journeys!
+
+message_54:
+      text: \n<TOFU CONCONNASISSEUR>Would you like to trade me 10 \c[3]TOFU\c[0] for one SNACK?
+#[YES/NO]
+
+#[YES]
+message_55:
+      text: You gave 10 \c[3]TOFU\c[0] to TOFU CONCONNASISSEUR.
+
+message_56:
+      text: \n<TOFU CONCONNASISSEUR>Wonderful! Take this not-as-delicious food in exchange!
+
+message_59:
+      text: You got \c[3]\itemget\c[0]!
+
+message_58:
+      text: \n<TOFU CONCONNASISSEUR>Please enjoy it as much as I will enjoy these 10 very unique pieces of \c[3]TOFU\c[0]!
+
+#[NO] doesn't need text
+
+#default after:
+
+#message_50
+#message_53
+#message_54
+
+
+message_57:
+      text: \n<TOFU CONCONNASISSEUR>Hey! You don't have 10 \c[3]TOFU\c[0]...
+
+message_60:
+      text: \n<ACTUAL MOLE>You smell like father!\! Father is alive?\!<br>I haven't seen him since he was accidentally thrown into the summoning vault!
+
+message_61:
+      text: \n<ACTUAL MOLE>\com[2]Intruders!\! Begone, living TOAST!
+
+message_62:
+      text: \n<ACTUAL MOLE>Our masters do not sleep, so neither do we.\! Day in... day out... it's \sinv[1]fresh bread... fresh bread... fresh bread...\c[0]
+
+message_63:
+      text: \n<ACTUAL MOLE>The masters have been receiving more requests as of late.\!<br>They must be reaching their limit soon.
+
+
+#After biscuit and doughie defeated
+message_65:
+      text: \n<ACTUAL MOLE>How is father doing?\! Will he be returning soon?
+
+message_66:
+      text: \n<ACTUAL MOLE>\com[2]Visitors!\! Welcome, living TOAST!
+
+message_67:
+      text: \n<ACTUAL MOLE>Without our masters, we are free!\! We will make this place our new home!
+
+message_68:
+      text: \n<ACTUAL MOLE>The masters always treated us well...\! Sniff...\! I'm gonna miss BISCUIT's jokes...
+
+message_70:
+      text: \n<WEE CACTUS>Greetings.\! Thank you for talking to me.
+
+message_71:
+      text: You got 100 CLAMS!

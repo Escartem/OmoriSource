@@ -1,0 +1,198 @@
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_0:
+    text: "A white door casts a faint shadow.\\!<br>What would you like to do?"
+message_1:
+    text: "OPEN THE DOOR"
+message_2:
+    text: "DO NOTHING"
+message_3:
+    text: "You stared at the door."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_4:
+    text: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+
+message_404:
+    text: "\\n<MEWO>Meow?\\! (Not much to do around here, is there?)"
+
+message_405:
+    text: "\\n<MEWO>Meow?\\! (Or is there?)"
+
+message_406:
+    text: "\\n<MEWO>Meow?\\! (Are you looking for a way out?)"
+
+message_407:
+    text: "\\n<MEWO>Meow...\\! (There always is one...\\| but...)"
+
+message_408:
+    text: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+
+message_409:
+    text: "\\n<MEWO>Meow?\\! (When is Mom coming back?)"
+
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_5:
+    text: "You booted up your laptop."
+message_6:
+    text: "What would you like to do?"
+message_7:
+    text: "LOOK AT THE KEYBOARD"
+message_8:
+    text: "STARE AT THE SCREEN"
+message_40:
+    text: "OPEN YOUR JOURNAL"
+message_9:
+    text: "LOG OFF"
+message_10:
+    text: "You stared at the screen."
+message_11:
+    text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+message_12:
+    text: "You cannot use the laptop from this side."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_13:
+    text: "Your sketchbook.\\!\\lb Take a look inside?"
+message_14:
+    text: "YES"
+message_15:
+    text: "NO"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_16:
+    text: "A tissue box for wiping your sorrows away."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_17:
+    text: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+message_18:
+    text: "It's pitch black inside.\\! You can't see a thing."
+
+# -----------------------------------------------
+# - THE KNIFE
+# -----------------------------------------------
+message_19:
+    text: "Something fell nearby."
+message_20:
+    text: "You found a \\v[49].\\!\\lb <br>You can see your reflection clearly in the blade."
+
+# -----------------------------------------------
+# - LIGHTBULB BREAK
+# -----------------------------------------------
+message_30:
+    text: "It's pitch black inside.\\! You can't see a thing."
+
+# -----------------------------------------------
+# - MISCELLANOUS
+# -----------------------------------------------
+message_21:
+    text: "You can't leave without a weapon."
+
+message_31:
+    text: "You got a BLURRY PHOTO."
+
+message_32:
+    text: You got a SHINY KNIFE.
+
+# -----------------------------------------------
+#           "WHITE SPACE" (MAP 388)
+# -----------------------------------------------
+
+
+
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_100:
+    text: "A white door casts a faint shadow.\\!<br>What would you like to do?"
+message_101:
+    text: "OPEN THE DOOR"
+message_102:
+    text: "STARE AT THE DOOR"
+message_103:
+    text: "You stared at the door."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_104:
+    text: \n<CAT>Meow?
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_105:
+    text: "Just a bunch of static."
+message_106:
+    text: "What would you like to do?"
+message_107:
+    text: "LOOK AT THE KEYBOARD"
+message_108:
+    text: "STARE AT THE SCREEN"
+message_109:
+    text: "LOG OFF"
+message_110:
+    text: "You stared at the screen."
+# message_111:
+#     text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+message_112:
+    text: "You cannot use the laptop from this side."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_113:
+    text: "A sketchbook.\\!\\lb Take a look inside?"
+message_114:
+    text: "YES"
+message_115:
+    text: "NO"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_116:
+    text: "A tissue box."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_117:
+    text: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+message_118:
+    text: "It's pitch black inside.\\! You can't see a thing."
+
+# -----------------------------------------------
+# - OMORI
+# -----------------------------------------------
+message_120:
+    faceset: 01_OMORI_BATTLE
+    faceindex: 0
+    text: \n<OMORI>...
+
+message_121:
+    text: "A lightbulb hangs from the ceiling.\\!\\lb<br>Do you want to destroy it?"
+
+message_125:
+    text: You learned \c[1]RED HANDS\c[0].
+
+message_126:
+    text: You found a map.
+
+#BLACK SPACE Door
+
+message_200:
+    text: "A black door casts a heavy shadow.\\!<br>What would you like to do?"
