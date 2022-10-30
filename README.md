@@ -1,5 +1,5 @@
 # Omori Source
-Source code of the game OMORI in the form of RPG Maker project
+Source code of the game OMORI in the form of RPG Maker project.
 This is for educational purposes only
 
 ---
@@ -23,7 +23,7 @@ Some additional infos :
 
 As of OMORI v1.0.8, files are encrypted with aes-256-ctr algorithm and the key being `6bdb2e585882fbd48826ef9cffd4c511`. Files encrypted by rpg maker with .rpgmvp format have this encryption key `a7d70260aaebbce74bbbff3194f2b316`
 
-See `GTP_OmoriFixes.js` for file load and `GTP_CoreUpdates.js` for decrypt function among many other usefull stuff
+See `GTP_OmoriFixes.js` for file load and `GTP_CoreUpdates.js` for decrypt function among many other usefull stuff in them related to game functions
 
 ---
 
@@ -33,3 +33,7 @@ See `GTP_OmoriFixes.js` for file load and `GTP_CoreUpdates.js` for decrypt funct
 * Scrollbars in both directions appear in game window
 * Menu elements are a little bit offset
 * Saving and loading may not work because of the change made to decrypt function since it seems they are encrypted too
+
+---
+
+## Feel free to contribute to the project if you made changes
